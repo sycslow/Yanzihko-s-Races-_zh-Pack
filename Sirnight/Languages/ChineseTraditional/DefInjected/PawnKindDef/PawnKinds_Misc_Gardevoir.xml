@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Gardevoir space refugee -->  <GardevoirSpaceRefugee.label>沙奈朵星際難民</GardevoirSpaceRefugee.label>
+  <!-- Gardevoir space refugees -->  <GardevoirSpaceRefugee.labelPlural>沙奈朵星際難民</GardevoirSpaceRefugee.labelPlural>
+  <!-- male Gardevoir space refugee -->  <GardevoirSpaceRefugee.labelMale>男性沙奈朵星際難民</GardevoirSpaceRefugee.labelMale>
+  <!-- male Gardevoir space refugees -->  <GardevoirSpaceRefugee.labelMalePlural>男性沙奈朵星際難民</GardevoirSpaceRefugee.labelMalePlural>
+  <!-- female Gardevoir space refugee -->  <GardevoirSpaceRefugee.labelFemale>女性沙奈朵星際難民</GardevoirSpaceRefugee.labelFemale>
+  <!-- female Gardevoir space refugees -->  <GardevoirSpaceRefugee.labelFemalePlural>女性沙奈朵星際難民</GardevoirSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Gardevoir slave -->  <GardevoirSlave.label>沙奈朵奴隸</GardevoirSlave.label>
+  <!-- Gardevoir slaves -->  <GardevoirSlave.labelPlural>沙奈朵奴隸</GardevoirSlave.labelPlural>
+  <!-- male Gardevoir slave -->  <GardevoirSlave.labelMale>男性沙奈朵奴隸</GardevoirSlave.labelMale>
+  <!-- male Gardevoir slaves -->  <GardevoirSlave.labelMalePlural>男性沙奈朵奴隸</GardevoirSlave.labelMalePlural>
+  <!-- female Gardevoir slave -->  <GardevoirSlave.labelFemale>女性沙奈朵奴隸</GardevoirSlave.labelFemale>
+  <!-- female Gardevoir slaves -->  <GardevoirSlave.labelFemalePlural>女性沙奈朵奴隸</GardevoirSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Gardevoir -->  <GardevoirColonist.label>沙奈朵</GardevoirColonist.label>
+  <!-- Gardevoirs -->  <GardevoirColonist.labelPlural>沙奈朵</GardevoirColonist.labelPlural>
+  <!-- male Gardevoir -->  <GardevoirColonist.labelMale>男性沙奈朵</GardevoirColonist.labelMale>
+  <!-- male Gardevoirs -->  <GardevoirColonist.labelMalePlural>男性沙奈朵</GardevoirColonist.labelMalePlural>
+  <!-- female Gardevoir -->  <GardevoirColonist.labelFemale>女性沙奈朵</GardevoirColonist.labelFemale>
+  <!-- female Gardevoirs -->  <GardevoirColonist.labelFemalePlural>女性沙奈朵</GardevoirColonist.labelFemalePlural>
+
+  <!-- Gardevoir -->  <GardevoirTribesperson.label>沙奈朵</GardevoirTribesperson.label>
+  <!-- Gardevoirs -->  <GardevoirTribesperson.labelPlural>沙奈朵</GardevoirTribesperson.labelPlural>
+  <!-- male Gardevoir -->  <GardevoirTribesperson.labelMale>男性沙奈朵</GardevoirTribesperson.labelMale>
+  <!-- male Gardevoirs -->  <GardevoirTribesperson.labelMalePlural>男性沙奈朵</GardevoirTribesperson.labelMalePlural>
+  <!-- female Gardevoir -->  <GardevoirTribesperson.labelFemale>女性沙奈朵</GardevoirTribesperson.labelFemale>
+  <!-- female Gardevoirs -->  <GardevoirTribesperson.labelFemalePlural>女性沙奈朵</GardevoirTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Gardevoir grenadier -->  <Gardevoir_Grenadier_Destructive.label>沙奈朵擲彈兵</Gardevoir_Grenadier_Destructive.label>
+  <!-- Gardevoir grenadiers -->  <Gardevoir_Grenadier_Destructive.labelPlural>沙奈朵擲彈兵</Gardevoir_Grenadier_Destructive.labelPlural>
+  <!-- male Gardevoir grenadier -->  <Gardevoir_Grenadier_Destructive.labelMale>男性沙奈朵擲彈兵</Gardevoir_Grenadier_Destructive.labelMale>
+  <!-- male Gardevoir grenadiers -->  <Gardevoir_Grenadier_Destructive.labelMalePlural>男性沙奈朵擲彈兵</Gardevoir_Grenadier_Destructive.labelMalePlural>
+  <!-- female Gardevoir grenadier -->  <Gardevoir_Grenadier_Destructive.labelFemale>女性沙奈朵擲彈兵</Gardevoir_Grenadier_Destructive.labelFemale>
+  <!-- female Gardevoir grenadiers -->  <Gardevoir_Grenadier_Destructive.labelFemalePlural>女性沙奈朵擲彈兵</Gardevoir_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Gardevoir EMP grenadier -->  <Gardevoir_Grenadier_EMP.label>沙奈朵 EMP擲彈兵</Gardevoir_Grenadier_EMP.label>
+  <!-- Gardevoir EMP grenadiers -->  <Gardevoir_Grenadier_EMP.labelPlural>沙奈朵 EMP擲彈兵</Gardevoir_Grenadier_EMP.labelPlural>
+  <!-- male Gardevoir EMP grenadier -->  <Gardevoir_Grenadier_EMP.labelMale>男性沙奈朵 EMP擲彈兵</Gardevoir_Grenadier_EMP.labelMale>
+  <!-- male Gardevoir EMP grenadiers -->  <Gardevoir_Grenadier_EMP.labelMalePlural>男性沙奈朵 EMP擲彈兵</Gardevoir_Grenadier_EMP.labelMalePlural>
+  <!-- female Gardevoir EMP grenadier -->  <Gardevoir_Grenadier_EMP.labelFemale>女性沙奈朵 EMP擲彈兵</Gardevoir_Grenadier_EMP.labelFemale>
+  <!-- female Gardevoir EMP grenadiers -->  <Gardevoir_Grenadier_EMP.labelFemalePlural>女性沙奈朵 EMP擲彈兵</Gardevoir_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Gardevoir smoke grenadier -->  <Gardevoir_Grenadier_Smoke.label>沙奈朵煙霧彈擲彈兵</Gardevoir_Grenadier_Smoke.label>
+  <!-- Gardevoir smoke grenadiers -->  <Gardevoir_Grenadier_Smoke.labelPlural>沙奈朵煙霧彈擲彈兵</Gardevoir_Grenadier_Smoke.labelPlural>
+  <!-- male Gardevoir smoke grenadier -->  <Gardevoir_Grenadier_Smoke.labelMale>男性沙奈朵煙霧彈擲彈兵</Gardevoir_Grenadier_Smoke.labelMale>
+  <!-- male Gardevoir smoke grenadiers -->  <Gardevoir_Grenadier_Smoke.labelMalePlural>男性沙奈朵煙霧彈擲彈兵</Gardevoir_Grenadier_Smoke.labelMalePlural>
+  <!-- female Gardevoir smoke grenadier -->  <Gardevoir_Grenadier_Smoke.labelFemale>女性沙奈朵煙霧彈擲彈兵</Gardevoir_Grenadier_Smoke.labelFemale>
+  <!-- female Gardevoir smoke grenadiers -->  <Gardevoir_Grenadier_Smoke.labelFemalePlural>女性沙奈朵煙霧彈擲彈兵</Gardevoir_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Gardevoir mercenary gunner -->  <Gardevoir_Mercenary_Gunner.label>沙奈朵槍手傭兵</Gardevoir_Mercenary_Gunner.label>
+  <!-- Gardevoir mercenary gunners -->  <Gardevoir_Mercenary_Gunner.labelPlural>沙奈朵槍手傭兵</Gardevoir_Mercenary_Gunner.labelPlural>
+  <!-- male Gardevoir mercenary gunner -->  <Gardevoir_Mercenary_Gunner.labelMale>男性沙奈朵槍手傭兵</Gardevoir_Mercenary_Gunner.labelMale>
+  <!-- male Gardevoir mercenary gunners -->  <Gardevoir_Mercenary_Gunner.labelMalePlural>男性沙奈朵槍手傭兵</Gardevoir_Mercenary_Gunner.labelMalePlural>
+  <!-- female Gardevoir mercenary gunner -->  <Gardevoir_Mercenary_Gunner.labelFemale>女性沙奈朵槍手傭兵</Gardevoir_Mercenary_Gunner.labelFemale>
+  <!-- female Gardevoir mercenary gunners -->  <Gardevoir_Mercenary_Gunner.labelFemalePlural>女性沙奈朵槍手傭兵</Gardevoir_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Gardevoir mercenary sniper -->  <Gardevoir_Mercenary_Sniper.label>沙奈朵狙擊手傭兵</Gardevoir_Mercenary_Sniper.label>
+  <!-- Gardevoir mercenary snipers -->  <Gardevoir_Mercenary_Sniper.labelPlural>沙奈朵狙擊手傭兵</Gardevoir_Mercenary_Sniper.labelPlural>
+  <!-- male Gardevoir mercenary sniper -->  <Gardevoir_Mercenary_Sniper.labelMale>男性沙奈朵狙擊手傭兵</Gardevoir_Mercenary_Sniper.labelMale>
+  <!-- male Gardevoir mercenary snipers -->  <Gardevoir_Mercenary_Sniper.labelMalePlural>男性沙奈朵狙擊手傭兵</Gardevoir_Mercenary_Sniper.labelMalePlural>
+  <!-- female Gardevoir mercenary sniper -->  <Gardevoir_Mercenary_Sniper.labelFemale>女性沙奈朵狙擊手傭兵</Gardevoir_Mercenary_Sniper.labelFemale>
+  <!-- female Gardevoir mercenary snipers -->  <Gardevoir_Mercenary_Sniper.labelFemalePlural>女性沙奈朵狙擊手傭兵</Gardevoir_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Gardevoir mercenary slasher -->  <Gardevoir_Mercenary_Slasher.label>沙奈朵殺手傭兵</Gardevoir_Mercenary_Slasher.label>
+  <!-- Gardevoir mercenary slashers -->  <Gardevoir_Mercenary_Slasher.labelPlural>沙奈朵殺手傭兵</Gardevoir_Mercenary_Slasher.labelPlural>
+  <!-- male Gardevoir mercenary slasher -->  <Gardevoir_Mercenary_Slasher.labelMale>男性沙奈朵殺手傭兵</Gardevoir_Mercenary_Slasher.labelMale>
+  <!-- male Gardevoir mercenary slashers -->  <Gardevoir_Mercenary_Slasher.labelMalePlural>男性沙奈朵殺手傭兵</Gardevoir_Mercenary_Slasher.labelMalePlural>
+  <!-- female Gardevoir mercenary slasher -->  <Gardevoir_Mercenary_Slasher.labelFemale>女性沙奈朵殺手傭兵</Gardevoir_Mercenary_Slasher.labelFemale>
+  <!-- female Gardevoir mercenary slashers -->  <Gardevoir_Mercenary_Slasher.labelFemalePlural>女性沙奈朵殺手傭兵</Gardevoir_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Gardevoir heavy mercenary -->  <Gardevoir_Mercenary_Heavy.label>沙奈朵重裝傭兵</Gardevoir_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Gardevoir_Mercenary_Heavy.labelPlural>重裝傭兵</Gardevoir_Mercenary_Heavy.labelPlural>
+  <!-- male Gardevoir heavy mercenary -->  <Gardevoir_Mercenary_Heavy.labelMale>男性沙奈朵重裝傭兵</Gardevoir_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Gardevoir_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Gardevoir_Mercenary_Heavy.labelMalePlural>
+  <!-- female Gardevoir heavy mercenary -->  <Gardevoir_Mercenary_Heavy.labelFemale>女性沙奈朵重裝傭兵</Gardevoir_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Gardevoir_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Gardevoir_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Gardevoir boss -->  <Gardevoir_PirateBoss.label>沙奈朵海賊團長</Gardevoir_PirateBoss.label>
+  <!-- bosses -->  <Gardevoir_PirateBoss.labelPlural>海賊團長</Gardevoir_PirateBoss.labelPlural>
+  <!-- male Gardevoir boss -->  <Gardevoir_PirateBoss.labelMale>男性沙奈朵海賊團長</Gardevoir_PirateBoss.labelMale>
+  <!-- male bosses -->  <Gardevoir_PirateBoss.labelMalePlural>男性海賊團長</Gardevoir_PirateBoss.labelMalePlural>
+  <!-- female Gardevoir boss -->  <Gardevoir_PirateBoss.labelFemale>女性沙奈朵海賊團長</Gardevoir_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Gardevoir_PirateBoss.labelFemalePlural>女性海賊團長</Gardevoir_PirateBoss.labelFemalePlural>
+
+  <!-- Gardevoir elite mercenary -->  <Gardevoir_Mercenary_Elite.label>沙奈朵精銳傭兵</Gardevoir_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Gardevoir_Mercenary_Elite.labelPlural>精銳傭兵</Gardevoir_Mercenary_Elite.labelPlural>
+  <!-- male Gardevoir elite mercenary -->  <Gardevoir_Mercenary_Elite.labelMale>男性沙奈朵精銳傭兵</Gardevoir_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Gardevoir_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Gardevoir_Mercenary_Elite.labelMalePlural>
+  <!-- female Gardevoir elite mercenary -->  <Gardevoir_Mercenary_Elite.labelFemale>女性沙奈朵精銳傭兵</Gardevoir_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Gardevoir_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Gardevoir_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Gardevoir drifter -->  <Gardevoir_Drifter.label>沙奈朵漂泊者</Gardevoir_Drifter.label>
+  <!-- Gardevoir drifters -->  <Gardevoir_Drifter.labelPlural>沙奈朵漂泊者</Gardevoir_Drifter.labelPlural>
+  <!-- male Gardevoir drifter -->  <Gardevoir_Drifter.labelMale>男性沙奈朵漂泊者</Gardevoir_Drifter.labelMale>
+  <!-- male Gardevoir drifters -->  <Gardevoir_Drifter.labelMalePlural>男性沙奈朵漂泊者</Gardevoir_Drifter.labelMalePlural>
+  <!-- female Gardevoir drifter -->  <Gardevoir_Drifter.labelFemale>女性沙奈朵漂泊者</Gardevoir_Drifter.labelFemale>
+  <!-- female Gardevoir drifters -->  <Gardevoir_Drifter.labelFemalePlural>女性沙奈朵漂泊者</Gardevoir_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Gardevoir scavenger gunner -->  <Gardevoir_Scavenger.label>沙奈朵掠奪者槍手</Gardevoir_Scavenger.label>
+  <!-- Gardevoir scavenger gunners -->  <Gardevoir_Scavenger.labelPlural>沙奈朵掠奪者槍手</Gardevoir_Scavenger.labelPlural>
+  <!-- male Gardevoir scavenger gunner -->  <Gardevoir_Scavenger.labelMale>男性沙奈朵掠奪者槍手</Gardevoir_Scavenger.labelMale>
+  <!-- male Gardevoir scavenger gunners -->  <Gardevoir_Scavenger.labelMalePlural>男性沙奈朵掠奪者槍手</Gardevoir_Scavenger.labelMalePlural>
+  <!-- female Gardevoir scavenger gunner -->  <Gardevoir_Scavenger.labelFemale>女性沙奈朵掠奪者槍手</Gardevoir_Scavenger.labelFemale>
+  <!-- female Gardevoir scavenger gunners -->  <Gardevoir_Scavenger.labelFemalePlural>女性沙奈朵掠奪者槍手</Gardevoir_Scavenger.labelFemalePlural>
+
+  <!-- Gardevoir scavenger thrasher -->  <Gardevoir_Thrasher.label>沙奈朵掠奪者暴民</Gardevoir_Thrasher.label>
+  <!-- Gardevoir scavenger thrashers -->  <Gardevoir_Thrasher.labelPlural>沙奈朵掠奪者暴民</Gardevoir_Thrasher.labelPlural>
+  <!-- male Gardevoir scavenger thrasher -->  <Gardevoir_Thrasher.labelMale>男性沙奈朵掠奪者暴民</Gardevoir_Thrasher.labelMale>
+  <!-- male Gardevoir scavenger thrashers -->  <Gardevoir_Thrasher.labelMalePlural>男性沙奈朵掠奪者暴民</Gardevoir_Thrasher.labelMalePlural>
+  <!-- female Gardevoir scavenger thrasher -->  <Gardevoir_Thrasher.labelFemale>女性沙奈朵掠奪者暴民</Gardevoir_Thrasher.labelFemale>
+  <!-- female Gardevoir scavenger thrashers -->  <Gardevoir_Thrasher.labelFemalePlural>女性沙奈朵掠奪者暴民</Gardevoir_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Gardevoir pirate gunner -->  <Gardevoir_Pirate.label>沙奈朵海賊槍手</Gardevoir_Pirate.label>
+  <!-- Gardevoir pirate gunners -->  <Gardevoir_Pirate.labelPlural>沙奈朵海賊槍手</Gardevoir_Pirate.labelPlural>
+  <!-- male Gardevoir pirate gunner -->  <Gardevoir_Pirate.labelMale>男性沙奈朵海賊槍手</Gardevoir_Pirate.labelMale>
+  <!-- male Gardevoir pirate gunners -->  <Gardevoir_Pirate.labelMalePlural>男性沙奈朵海賊槍手</Gardevoir_Pirate.labelMalePlural>
+  <!-- female Gardevoir pirate gunner -->  <Gardevoir_Pirate.labelFemale>女性沙奈朵海賊槍手</Gardevoir_Pirate.labelFemale>
+  <!-- female Gardevoir pirate gunners -->  <Gardevoir_Pirate.labelFemalePlural>女性沙奈朵海賊槍手</Gardevoir_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Gardevoir villager -->  <Gardevoir_Villager.label>沙奈朵村民</Gardevoir_Villager.label>
+  <!-- Gardevoir villagers -->  <Gardevoir_Villager.labelPlural>沙奈朵村民</Gardevoir_Villager.labelPlural>
+  <!-- male Gardevoir villager -->  <Gardevoir_Villager.labelMale>男性沙奈朵村民</Gardevoir_Villager.labelMale>
+  <!-- male Gardevoir villagers -->  <Gardevoir_Villager.labelMalePlural>男性沙奈朵村民</Gardevoir_Villager.labelMalePlural>
+  <!-- female Gardevoir villager -->  <Gardevoir_Villager.labelFemale>女性沙奈朵村民</Gardevoir_Villager.labelFemale>
+  <!-- female Gardevoir villagers -->  <Gardevoir_Villager.labelFemalePlural>女性沙奈朵村民</Gardevoir_Villager.labelFemalePlural>
+
+  <!-- Gardevoir town guard -->  <Gardevoir_Town_Guard.label>沙奈朵城鎮衛兵</Gardevoir_Town_Guard.label>
+  <!-- Gardevoir town guards -->  <Gardevoir_Town_Guard.labelPlural>沙奈朵城鎮衛兵</Gardevoir_Town_Guard.labelPlural>
+  <!-- male Gardevoir town guard -->  <Gardevoir_Town_Guard.labelMale>男性沙奈朵城鎮衛兵</Gardevoir_Town_Guard.labelMale>
+  <!-- male Gardevoir town guards -->  <Gardevoir_Town_Guard.labelMalePlural>男性沙奈朵城鎮衛兵</Gardevoir_Town_Guard.labelMalePlural>
+  <!-- female Gardevoir town guard -->  <Gardevoir_Town_Guard.labelFemale>女性沙奈朵城鎮衛兵</Gardevoir_Town_Guard.labelFemale>
+  <!-- female Gardevoir town guards -->  <Gardevoir_Town_Guard.labelFemalePlural>女性沙奈朵城鎮衛兵</Gardevoir_Town_Guard.labelFemalePlural>
+
+  <!-- Gardevoir town trader -->  <Gardevoir_Town_Trader.label>沙奈朵城鎮商人</Gardevoir_Town_Trader.label>
+  <!-- Gardevoir town traders -->  <Gardevoir_Town_Trader.labelPlural>沙奈朵城鎮商人</Gardevoir_Town_Trader.labelPlural>
+  <!-- male Gardevoir town trader -->  <Gardevoir_Town_Trader.labelMale>男性沙奈朵城鎮商人</Gardevoir_Town_Trader.labelMale>
+  <!-- male Gardevoir town traders -->  <Gardevoir_Town_Trader.labelMalePlural>男性沙奈朵城鎮商人</Gardevoir_Town_Trader.labelMalePlural>
+  <!-- female Gardevoir town trader -->  <Gardevoir_Town_Trader.labelFemale>女性沙奈朵城鎮商人</Gardevoir_Town_Trader.labelFemale>
+  <!-- female Gardevoir town traders -->  <Gardevoir_Town_Trader.labelFemalePlural>女性沙奈朵城鎮商人</Gardevoir_Town_Trader.labelFemalePlural>
+
+  <!-- Gardevoir town councilman -->  <Gardevoir_Town_Councilman.label>沙奈朵城鎮議員</Gardevoir_Town_Councilman.label>
+  <!-- town councilmen -->  <Gardevoir_Town_Councilman.labelPlural>城鎮議員</Gardevoir_Town_Councilman.labelPlural>
+  <!-- male Gardevoir town councilman -->  <Gardevoir_Town_Councilman.labelMale>男性沙奈朵城鎮議員</Gardevoir_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Gardevoir_Town_Councilman.labelMalePlural>男性城鎮議員</Gardevoir_Town_Councilman.labelMalePlural>
+  <!-- female Gardevoir town councilman -->  <Gardevoir_Town_Councilman.labelFemale>女性沙奈朵城鎮議員</Gardevoir_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Gardevoir_Town_Councilman.labelFemalePlural>女性城鎮議員</Gardevoir_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Gardevoir penitent -->  <Gardevoir_Tribal_Penitent.label>沙奈朵海賊</Gardevoir_Tribal_Penitent.label>
+  <!-- Gardevoir penitents -->  <Gardevoir_Tribal_Penitent.labelPlural>沙奈朵海賊</Gardevoir_Tribal_Penitent.labelPlural>
+  <!-- male Gardevoir penitent -->  <Gardevoir_Tribal_Penitent.labelMale>男性沙奈朵海賊</Gardevoir_Tribal_Penitent.labelMale>
+  <!-- male Gardevoir penitents -->  <Gardevoir_Tribal_Penitent.labelMalePlural>男性沙奈朵海賊</Gardevoir_Tribal_Penitent.labelMalePlural>
+  <!-- female Gardevoir penitent -->  <Gardevoir_Tribal_Penitent.labelFemale>女性沙奈朵海賊</Gardevoir_Tribal_Penitent.labelFemale>
+  <!-- female Gardevoir penitents -->  <Gardevoir_Tribal_Penitent.labelFemalePlural>女性沙奈朵海賊</Gardevoir_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Gardevoir archer -->  <Gardevoir_Tribal_Archer.label>沙奈朵弓箭手</Gardevoir_Tribal_Archer.label>
+  <!-- Gardevoir archers -->  <Gardevoir_Tribal_Archer.labelPlural>沙奈朵弓箭手</Gardevoir_Tribal_Archer.labelPlural>
+  <!-- male Gardevoir archer -->  <Gardevoir_Tribal_Archer.labelMale>男性沙奈朵弓箭手</Gardevoir_Tribal_Archer.labelMale>
+  <!-- male Gardevoir archers -->  <Gardevoir_Tribal_Archer.labelMalePlural>男性沙奈朵弓箭手</Gardevoir_Tribal_Archer.labelMalePlural>
+  <!-- female Gardevoir archer -->  <Gardevoir_Tribal_Archer.labelFemale>女性沙奈朵弓箭手</Gardevoir_Tribal_Archer.labelFemale>
+  <!-- female Gardevoir archers -->  <Gardevoir_Tribal_Archer.labelFemalePlural>女性沙奈朵弓箭手</Gardevoir_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Gardevoir warrior -->  <Gardevoir_Tribal_Warrior.label>沙奈朵戰士</Gardevoir_Tribal_Warrior.label>
+  <!-- Gardevoir warriors -->  <Gardevoir_Tribal_Warrior.labelPlural>沙奈朵戰士</Gardevoir_Tribal_Warrior.labelPlural>
+  <!-- male Gardevoir warrior -->  <Gardevoir_Tribal_Warrior.labelMale>男性沙奈朵戰士</Gardevoir_Tribal_Warrior.labelMale>
+  <!-- male Gardevoir warriors -->  <Gardevoir_Tribal_Warrior.labelMalePlural>男性沙奈朵戰士</Gardevoir_Tribal_Warrior.labelMalePlural>
+  <!-- female Gardevoir warrior -->  <Gardevoir_Tribal_Warrior.labelFemale>女性沙奈朵戰士</Gardevoir_Tribal_Warrior.labelFemale>
+  <!-- female Gardevoir warriors -->  <Gardevoir_Tribal_Warrior.labelFemalePlural>女性沙奈朵戰士</Gardevoir_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Gardevoir hunter -->  <Gardevoir_Tribal_Hunter.label>沙奈朵獵人</Gardevoir_Tribal_Hunter.label>
+  <!-- Gardevoir hunters -->  <Gardevoir_Tribal_Hunter.labelPlural>沙奈朵獵人</Gardevoir_Tribal_Hunter.labelPlural>
+  <!-- male Gardevoir hunter -->  <Gardevoir_Tribal_Hunter.labelMale>男性沙奈朵獵人</Gardevoir_Tribal_Hunter.labelMale>
+  <!-- male Gardevoir hunters -->  <Gardevoir_Tribal_Hunter.labelMalePlural>男性沙奈朵獵人</Gardevoir_Tribal_Hunter.labelMalePlural>
+  <!-- female Gardevoir hunter -->  <Gardevoir_Tribal_Hunter.labelFemale>女性沙奈朵獵人</Gardevoir_Tribal_Hunter.labelFemale>
+  <!-- female Gardevoir hunters -->  <Gardevoir_Tribal_Hunter.labelFemalePlural>女性沙奈朵獵人</Gardevoir_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Gardevoir trader -->  <Gardevoir_Tribal_Trader.label>沙奈朵商人</Gardevoir_Tribal_Trader.label>
+  <!-- Gardevoir traders -->  <Gardevoir_Tribal_Trader.labelPlural>沙奈朵商人</Gardevoir_Tribal_Trader.labelPlural>
+  <!-- male Gardevoir trader -->  <Gardevoir_Tribal_Trader.labelMale>男性沙奈朵商人</Gardevoir_Tribal_Trader.labelMale>
+  <!-- male Gardevoir traders -->  <Gardevoir_Tribal_Trader.labelMalePlural>男性沙奈朵商人</Gardevoir_Tribal_Trader.labelMalePlural>
+  <!-- female Gardevoir trader -->  <Gardevoir_Tribal_Trader.labelFemale>女性沙奈朵商人</Gardevoir_Tribal_Trader.labelFemale>
+  <!-- female Gardevoir traders -->  <Gardevoir_Tribal_Trader.labelFemalePlural>女性沙奈朵商人</Gardevoir_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Gardevoir berserker -->  <Gardevoir_Tribal_Berserker.label>沙奈朵狂戰士</Gardevoir_Tribal_Berserker.label>
+  <!-- Gardevoir berserkers -->  <Gardevoir_Tribal_Berserker.labelPlural>沙奈朵狂戰士</Gardevoir_Tribal_Berserker.labelPlural>
+  <!-- male Gardevoir berserker -->  <Gardevoir_Tribal_Berserker.labelMale>男性沙奈朵狂戰士</Gardevoir_Tribal_Berserker.labelMale>
+  <!-- male Gardevoir berserkers -->  <Gardevoir_Tribal_Berserker.labelMalePlural>男性沙奈朵狂戰士</Gardevoir_Tribal_Berserker.labelMalePlural>
+  <!-- female Gardevoir berserker -->  <Gardevoir_Tribal_Berserker.labelFemale>女性沙奈朵狂戰士</Gardevoir_Tribal_Berserker.labelFemale>
+  <!-- female Gardevoir berserkers -->  <Gardevoir_Tribal_Berserker.labelFemalePlural>女性沙奈朵狂戰士</Gardevoir_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Gardevoir heavy archer -->  <Gardevoir_Tribal_HeavyArcher.label>沙奈朵重裝弓箭手</Gardevoir_Tribal_HeavyArcher.label>
+  <!-- Gardevoir heavy archers -->  <Gardevoir_Tribal_HeavyArcher.labelPlural>沙奈朵重裝弓箭手</Gardevoir_Tribal_HeavyArcher.labelPlural>
+  <!-- male Gardevoir heavy archer -->  <Gardevoir_Tribal_HeavyArcher.labelMale>男性沙奈朵重裝弓箭手</Gardevoir_Tribal_HeavyArcher.labelMale>
+  <!-- male Gardevoir heavy archers -->  <Gardevoir_Tribal_HeavyArcher.labelMalePlural>男性沙奈朵重裝弓箭手</Gardevoir_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Gardevoir heavy archer -->  <Gardevoir_Tribal_HeavyArcher.labelFemale>女性沙奈朵重裝弓箭手</Gardevoir_Tribal_HeavyArcher.labelFemale>
+  <!-- female Gardevoir heavy archers -->  <Gardevoir_Tribal_HeavyArcher.labelFemalePlural>女性沙奈朵重裝弓箭手</Gardevoir_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Gardevoir_Tribal_ChiefMelee -->  <!--[Duplicated] <Gardevoir_Tribal_ChiefMelee.label>沙奈朵_Tribal_ChiefMelee</Gardevoir_Tribal_ChiefMelee.label>-->
+  <!-- Gardevoir_Tribal_ChiefMelees -->  <!--[Duplicated] <Gardevoir_Tribal_ChiefMelee.labelPlural>沙奈朵_Tribal_ChiefMele</Gardevoir_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Gardevoir_Tribal_ChiefMelee -->  <!--[Duplicated] <Gardevoir_Tribal_ChiefMelee.labelMale>男性沙奈朵_Tribal_ChiefMelee</Gardevoir_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Gardevoir_Tribal_ChiefMelees -->  <!--[Duplicated] <Gardevoir_Tribal_ChiefMelee.labelMalePlural>男性沙奈朵_Tribal_ChiefMele</Gardevoir_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Gardevoir_Tribal_ChiefMelee -->  <!--[Duplicated] <Gardevoir_Tribal_ChiefMelee.labelFemale>女性沙奈朵_Tribal_ChiefMelee</Gardevoir_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Gardevoir_Tribal_ChiefMelees -->  <!--[Duplicated] <Gardevoir_Tribal_ChiefMelee.labelFemalePlural>女性沙奈朵_Tribal_ChiefMele</Gardevoir_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Gardevoir berserker chief -->  <Gardevoir_Tribal_ChiefMelee.label>沙奈朵狂戰士隊長</Gardevoir_Tribal_ChiefMelee.label>
+  <!-- Gardevoir berserker chiefs -->  <Gardevoir_Tribal_ChiefMelee.labelPlural>沙奈朵狂戰士隊長</Gardevoir_Tribal_ChiefMelee.labelPlural>
+  <!-- male Gardevoir berserker chief -->  <Gardevoir_Tribal_ChiefMelee.labelMale>男性沙奈朵狂戰士隊長</Gardevoir_Tribal_ChiefMelee.labelMale>
+  <!-- male Gardevoir berserker chiefs -->  <Gardevoir_Tribal_ChiefMelee.labelMalePlural>男性沙奈朵狂戰士隊長</Gardevoir_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Gardevoir berserker chief -->  <Gardevoir_Tribal_ChiefMelee.labelFemale>女性沙奈朵狂戰士隊長</Gardevoir_Tribal_ChiefMelee.labelFemale>
+  <!-- female Gardevoir berserker chiefs -->  <Gardevoir_Tribal_ChiefMelee.labelFemalePlural>女性沙奈朵狂戰士隊長</Gardevoir_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Gardevoir archer chief -->  <Gardevoir_Tribal_ChiefRanged.label>沙奈朵弓箭手隊長</Gardevoir_Tribal_ChiefRanged.label>
+  <!-- Gardevoir archer chiefs -->  <Gardevoir_Tribal_ChiefRanged.labelPlural>沙奈朵弓箭手隊長</Gardevoir_Tribal_ChiefRanged.labelPlural>
+  <!-- male Gardevoir archer chief -->  <Gardevoir_Tribal_ChiefRanged.labelMale>男性沙奈朵弓箭手隊長</Gardevoir_Tribal_ChiefRanged.labelMale>
+  <!-- male Gardevoir archer chiefs -->  <Gardevoir_Tribal_ChiefRanged.labelMalePlural>男性沙奈朵弓箭手隊長</Gardevoir_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Gardevoir archer chief -->  <Gardevoir_Tribal_ChiefRanged.labelFemale>女性沙奈朵弓箭手隊長</Gardevoir_Tribal_ChiefRanged.labelFemale>
+  <!-- female Gardevoir archer chiefs -->  <Gardevoir_Tribal_ChiefRanged.labelFemalePlural>女性沙奈朵弓箭手隊長</Gardevoir_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

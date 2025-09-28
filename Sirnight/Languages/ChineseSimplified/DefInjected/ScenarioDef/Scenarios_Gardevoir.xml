@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Emigrant souls -->  <GardevoirScenario1.label>移民者的流亡魂</GardevoirScenario1.label>
+  <!-- You have managed to save up enough money to buy a one way ticket from a Glitterworld you were sick from. You've always wanted something new. A true freedom without any laws or boundries. As you wake up, you're laready half way down to the ground in a drop pod together with a group of other colonists. -->  <GardevoirScenario1.description>你已经设法存了足够多的钱，并买了一张让你从这让你早已厌倦的闪耀世界里出发离开的单程票。你一直渴望着一些新的东西，那是一种真正没有受到法律约束或束缚的，真正的自由。然而当你醒来时，你和一群其他的殖民者已经在着陆中的空头舱里头了，而且离地面的距离也已经只剩下一半了。</GardevoirScenario1.description>
+  <!-- Emigrant souls -->  <GardevoirScenario1.scenario.name>移民者的灵魂</GardevoirScenario1.scenario.name>
+  <!-- Four Gardevoir colonists with very basic resources. You have zero technologies at start. Be careful with Gardevoir pawns since they're very weak and fragile. Use their movement speed as an advantage. Medium Difficulty. -->
+  <!-- 四名沙奈朵殖民者，有非常基础的资源。开场没任何科技。也要小心对待他们，因为很脆弱且容易受伤。你必须利用移动速度作为优势。此为中等难度的剧本。 -->  <GardevoirScenario1.scenario.summary>四名沙奈朵，基础资源。无科技。要小心因为很脆弱且易受伤。要靠跑速优势。此为中等难度的剧本。</GardevoirScenario1.scenario.summary>
+  <!-- You have managed to save up enough money to buy a one way ticket from a Glitterworld you were sick from. You've always wanted something new. A true freedom without any laws or boundries. As you wake up, you're laready half way down to the ground in a drop pod together with a group of other colonists. -->  <GardevoirScenario1.scenario.description>你已经设法存了足够多的钱，并买了一张让你从这让你早已厌倦的闪耀世界里出发离开的单程票。你一直渴望着一些新的东西，那是一种真正没有受到法律约束或束缚的，真正的自由。然而当你醒来时，你和一群其他的殖民者已经在着陆中的空头舱里头了，而且离地面的距离也已经只剩下一半了。\n\n四名沙奈朵殖民者，有非常基础的资源。开场没任何科技。也要小心对待他们，因为很脆弱且容易受伤。你必须利用移动速度作出优势。此为中等难度的剧本。</GardevoirScenario1.scenario.description>
+  <!-- You have managed to save up enough money to buy a one way ticket from a Glitterworld you were sick from. You've always wanted something new. A true freedom without any laws or boundries. As you wake up, you're laready half way down to the ground in a drop pod together with a group of other colonists. -->
+    <GardevoirScenario1.scenario.parts.GameStartDialog.text>已经设法存了足够多的钱，并买了一张让你从这让你早已厌倦的闪耀世界里出发离开的单程票。你一直渴望着一些新的东西，那是一种真正没有受到法律约束或束缚的，真正的自由。然而当你醒来时，你和一群其他的殖民者已经在着陆中的空头舱里头了，而且离地面的距离也已经只剩下一半了。</GardevoirScenario1.scenario.parts.GameStartDialog.text>
+	<!-- UNUSED --><!--  <GardevoirScenario1.scenario.parts.10.text>已经设法存了足够多的钱，并买了一张让你从这让你早已厌倦的闪耀世界里出发离开的单程票。你一直渴望着一些新的东西，那是一种真正没有受到法律约束或束缚的，真正的自由。然而当你醒来时，你和一群其他的殖民者已经在着陆中的空头舱里头了，而且离地面的距离也已经只剩下一半了。</GardevoirScenario1.scenario.parts.10.text>-->
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <LombaxTribalPawn.label>部落民</LombaxTribalPawn.label>
+  <!-- members -->  <LombaxTribalPawn.labelPlural>部落民</LombaxTribalPawn.labelPlural>
+  <!-- male member -->  <LombaxTribalPawn.labelMale>男性部落民</LombaxTribalPawn.labelMale>
+  <!-- male members -->  <LombaxTribalPawn.labelMalePlural>男性部落民</LombaxTribalPawn.labelMalePlural>
+  <!-- female member -->  <LombaxTribalPawn.labelFemale>女性部落民</LombaxTribalPawn.labelFemale>
+  <!-- female members -->  <LombaxTribalPawn.labelFemalePlural>女性部落民</LombaxTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <LombaxIndustrialPawn.label>殖民者</LombaxIndustrialPawn.label>
+  <!-- members -->  <LombaxIndustrialPawn.labelPlural>殖民者</LombaxIndustrialPawn.labelPlural>
+  <!-- male member -->  <LombaxIndustrialPawn.labelMale>男性殖民者</LombaxIndustrialPawn.labelMale>
+  <!-- male members -->  <LombaxIndustrialPawn.labelMalePlural>男性殖民者</LombaxIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <LombaxIndustrialPawn.labelFemale>女性殖民者</LombaxIndustrialPawn.labelFemale>
+  <!-- female members -->  <LombaxIndustrialPawn.labelFemalePlural>女性殖民者</LombaxIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Meowstic space refugee -->  <MeowsticSpaceRefugee.label>超能妙喵星際難民</MeowsticSpaceRefugee.label>
+  <!-- Meowstic space refugees -->  <MeowsticSpaceRefugee.labelPlural>超能妙喵星際難民</MeowsticSpaceRefugee.labelPlural>
+  <!-- male Meowstic space refugee -->  <MeowsticSpaceRefugee.labelMale>男性超能妙喵星際難民</MeowsticSpaceRefugee.labelMale>
+  <!-- male Meowstic space refugees -->  <MeowsticSpaceRefugee.labelMalePlural>男性超能妙喵星際難民</MeowsticSpaceRefugee.labelMalePlural>
+  <!-- female Meowstic space refugee -->  <MeowsticSpaceRefugee.labelFemale>女性超能妙喵星際難民</MeowsticSpaceRefugee.labelFemale>
+  <!-- female Meowstic space refugees -->  <MeowsticSpaceRefugee.labelFemalePlural>女性超能妙喵星際難民</MeowsticSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Meowstic slave -->  <MeowsticSlave.label>超能妙喵奴隸</MeowsticSlave.label>
+  <!-- Meowstic slaves -->  <MeowsticSlave.labelPlural>超能妙喵奴隸</MeowsticSlave.labelPlural>
+  <!-- male Meowstic slave -->  <MeowsticSlave.labelMale>男性超能妙喵奴隸</MeowsticSlave.labelMale>
+  <!-- male Meowstic slaves -->  <MeowsticSlave.labelMalePlural>男性超能妙喵奴隸</MeowsticSlave.labelMalePlural>
+  <!-- female Meowstic slave -->  <MeowsticSlave.labelFemale>女性超能妙喵奴隸</MeowsticSlave.labelFemale>
+  <!-- female Meowstic slaves -->  <MeowsticSlave.labelFemalePlural>女性超能妙喵奴隸</MeowsticSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Meowstic -->  <MeowsticColonist.label>超能妙喵</MeowsticColonist.label>
+  <!-- Meowstics -->  <MeowsticColonist.labelPlural>超能妙喵</MeowsticColonist.labelPlural>
+  <!-- male Meowstic -->  <MeowsticColonist.labelMale>男性超能妙喵</MeowsticColonist.labelMale>
+  <!-- male Meowstics -->  <MeowsticColonist.labelMalePlural>男性超能妙喵</MeowsticColonist.labelMalePlural>
+  <!-- female Meowstic -->  <MeowsticColonist.labelFemale>女性超能妙喵</MeowsticColonist.labelFemale>
+  <!-- female Meowstics -->  <MeowsticColonist.labelFemalePlural>女性超能妙喵</MeowsticColonist.labelFemalePlural>
+
+  <!-- Meowstic -->  <MeowsticTribesperson.label>超能妙喵</MeowsticTribesperson.label>
+  <!-- Meowstics -->  <MeowsticTribesperson.labelPlural>超能妙喵</MeowsticTribesperson.labelPlural>
+  <!-- male Meowstic -->  <MeowsticTribesperson.labelMale>男性超能妙喵</MeowsticTribesperson.labelMale>
+  <!-- male Meowstics -->  <MeowsticTribesperson.labelMalePlural>男性超能妙喵</MeowsticTribesperson.labelMalePlural>
+  <!-- female Meowstic -->  <MeowsticTribesperson.labelFemale>女性超能妙喵</MeowsticTribesperson.labelFemale>
+  <!-- female Meowstics -->  <MeowsticTribesperson.labelFemalePlural>女性超能妙喵</MeowsticTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Meowstic grenadier -->  <Meowstic_Grenadier_Destructive.label>超能妙喵擲彈兵</Meowstic_Grenadier_Destructive.label>
+  <!-- Meowstic grenadiers -->  <Meowstic_Grenadier_Destructive.labelPlural>超能妙喵擲彈兵</Meowstic_Grenadier_Destructive.labelPlural>
+  <!-- male Meowstic grenadier -->  <Meowstic_Grenadier_Destructive.labelMale>男性超能妙喵擲彈兵</Meowstic_Grenadier_Destructive.labelMale>
+  <!-- male Meowstic grenadiers -->  <Meowstic_Grenadier_Destructive.labelMalePlural>男性超能妙喵擲彈兵</Meowstic_Grenadier_Destructive.labelMalePlural>
+  <!-- female Meowstic grenadier -->  <Meowstic_Grenadier_Destructive.labelFemale>女性超能妙喵擲彈兵</Meowstic_Grenadier_Destructive.labelFemale>
+  <!-- female Meowstic grenadiers -->  <Meowstic_Grenadier_Destructive.labelFemalePlural>女性超能妙喵擲彈兵</Meowstic_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Meowstic EMPgrenadier -->  <Meowstic_Grenadier_EMP.label>超能妙喵 EMP擲彈兵</Meowstic_Grenadier_EMP.label>
+  <!-- Meowstic EMPgrenadiers -->  <Meowstic_Grenadier_EMP.labelPlural>超能妙喵 EMP擲彈兵</Meowstic_Grenadier_EMP.labelPlural>
+  <!-- male Meowstic EMPgrenadier -->  <Meowstic_Grenadier_EMP.labelMale>男性超能妙喵 EMP擲彈兵</Meowstic_Grenadier_EMP.labelMale>
+  <!-- male Meowstic EMPgrenadiers -->  <Meowstic_Grenadier_EMP.labelMalePlural>男性超能妙喵 EMP擲彈兵</Meowstic_Grenadier_EMP.labelMalePlural>
+  <!-- female Meowstic EMPgrenadier -->  <Meowstic_Grenadier_EMP.labelFemale>女性超能妙喵 EMP擲彈兵</Meowstic_Grenadier_EMP.labelFemale>
+  <!-- female Meowstic EMPgrenadiers -->  <Meowstic_Grenadier_EMP.labelFemalePlural>女性超能妙喵 EMP擲彈兵</Meowstic_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Meowstic smoke grenadier -->  <Meowstic_Grenadier_Smoke.label>超能妙喵煙霧彈擲彈兵</Meowstic_Grenadier_Smoke.label>
+  <!-- Meowstic smoke grenadiers -->  <Meowstic_Grenadier_Smoke.labelPlural>超能妙喵煙霧彈擲彈兵</Meowstic_Grenadier_Smoke.labelPlural>
+  <!-- male Meowstic smoke grenadier -->  <Meowstic_Grenadier_Smoke.labelMale>男性超能妙喵煙霧彈擲彈兵</Meowstic_Grenadier_Smoke.labelMale>
+  <!-- male Meowstic smoke grenadiers -->  <Meowstic_Grenadier_Smoke.labelMalePlural>男性超能妙喵煙霧彈擲彈兵</Meowstic_Grenadier_Smoke.labelMalePlural>
+  <!-- female Meowstic smoke grenadier -->  <Meowstic_Grenadier_Smoke.labelFemale>女性超能妙喵煙霧彈擲彈兵</Meowstic_Grenadier_Smoke.labelFemale>
+  <!-- female Meowstic smoke grenadiers -->  <Meowstic_Grenadier_Smoke.labelFemalePlural>女性超能妙喵煙霧彈擲彈兵</Meowstic_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Meowstic mercenary gunner -->  <Meowstic_Mercenary_Gunner.label>超能妙喵槍手傭兵</Meowstic_Mercenary_Gunner.label>
+  <!-- Meowstic mercenary gunners -->  <Meowstic_Mercenary_Gunner.labelPlural>超能妙喵槍手傭兵</Meowstic_Mercenary_Gunner.labelPlural>
+  <!-- male Meowstic mercenary gunner -->  <Meowstic_Mercenary_Gunner.labelMale>男性超能妙喵槍手傭兵</Meowstic_Mercenary_Gunner.labelMale>
+  <!-- male Meowstic mercenary gunners -->  <Meowstic_Mercenary_Gunner.labelMalePlural>男性超能妙喵槍手傭兵</Meowstic_Mercenary_Gunner.labelMalePlural>
+  <!-- female Meowstic mercenary gunner -->  <Meowstic_Mercenary_Gunner.labelFemale>女性超能妙喵槍手傭兵</Meowstic_Mercenary_Gunner.labelFemale>
+  <!-- female Meowstic mercenary gunners -->  <Meowstic_Mercenary_Gunner.labelFemalePlural>女性超能妙喵槍手傭兵</Meowstic_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Meowstic mercenary sniper -->  <Meowstic_Mercenary_Sniper.label>超能妙喵狙擊手傭兵</Meowstic_Mercenary_Sniper.label>
+  <!-- Meowstic mercenary snipers -->  <Meowstic_Mercenary_Sniper.labelPlural>超能妙喵狙擊手傭兵</Meowstic_Mercenary_Sniper.labelPlural>
+  <!-- male Meowstic mercenary sniper -->  <Meowstic_Mercenary_Sniper.labelMale>男性超能妙喵狙擊手傭兵</Meowstic_Mercenary_Sniper.labelMale>
+  <!-- male Meowstic mercenary snipers -->  <Meowstic_Mercenary_Sniper.labelMalePlural>男性超能妙喵狙擊手傭兵</Meowstic_Mercenary_Sniper.labelMalePlural>
+  <!-- female Meowstic mercenary sniper -->  <Meowstic_Mercenary_Sniper.labelFemale>女性超能妙喵狙擊手傭兵</Meowstic_Mercenary_Sniper.labelFemale>
+  <!-- female Meowstic mercenary snipers -->  <Meowstic_Mercenary_Sniper.labelFemalePlural>女性超能妙喵狙擊手傭兵</Meowstic_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Meowstic mercenary slasher -->  <Meowstic_Mercenary_Slasher.label>超能妙喵殺手傭兵</Meowstic_Mercenary_Slasher.label>
+  <!-- Meowstic mercenary slashers -->  <Meowstic_Mercenary_Slasher.labelPlural>超能妙喵殺手傭兵</Meowstic_Mercenary_Slasher.labelPlural>
+  <!-- male Meowstic mercenary slasher -->  <Meowstic_Mercenary_Slasher.labelMale>男性超能妙喵殺手傭兵</Meowstic_Mercenary_Slasher.labelMale>
+  <!-- male Meowstic mercenary slashers -->  <Meowstic_Mercenary_Slasher.labelMalePlural>男性超能妙喵殺手傭兵</Meowstic_Mercenary_Slasher.labelMalePlural>
+  <!-- female Meowstic mercenary slasher -->  <Meowstic_Mercenary_Slasher.labelFemale>女性超能妙喵殺手傭兵</Meowstic_Mercenary_Slasher.labelFemale>
+  <!-- female Meowstic mercenary slashers -->  <Meowstic_Mercenary_Slasher.labelFemalePlural>女性超能妙喵殺手傭兵</Meowstic_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Meowstic heavy mercenary -->  <Meowstic_Mercenary_Heavy.label>超能妙喵重裝傭兵</Meowstic_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Meowstic_Mercenary_Heavy.labelPlural>重裝傭兵</Meowstic_Mercenary_Heavy.labelPlural>
+  <!-- male Meowstic heavy mercenary -->  <Meowstic_Mercenary_Heavy.labelMale>男性超能妙喵重裝傭兵</Meowstic_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Meowstic_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Meowstic_Mercenary_Heavy.labelMalePlural>
+  <!-- female Meowstic heavy mercenary -->  <Meowstic_Mercenary_Heavy.labelFemale>女性超能妙喵重裝傭兵</Meowstic_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Meowstic_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Meowstic_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Meowstic boss -->  <Meowstic_PirateBoss.label>超能妙喵海賊團長</Meowstic_PirateBoss.label>
+  <!-- bosses -->  <Meowstic_PirateBoss.labelPlural>海賊團長</Meowstic_PirateBoss.labelPlural>
+  <!-- male Meowstic boss -->  <Meowstic_PirateBoss.labelMale>男性超能妙喵海賊團長</Meowstic_PirateBoss.labelMale>
+  <!-- male bosses -->  <Meowstic_PirateBoss.labelMalePlural>男性海賊團長</Meowstic_PirateBoss.labelMalePlural>
+  <!-- female Meowstic boss -->  <Meowstic_PirateBoss.labelFemale>女性超能妙喵海賊團長</Meowstic_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Meowstic_PirateBoss.labelFemalePlural>女性海賊團長</Meowstic_PirateBoss.labelFemalePlural>
+
+  <!-- Meowstic elite mercenary -->  <Meowstic_Mercenary_Elite.label>超能妙喵精銳傭兵</Meowstic_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Meowstic_Mercenary_Elite.labelPlural>精銳傭兵</Meowstic_Mercenary_Elite.labelPlural>
+  <!-- male Meowstic elite mercenary -->  <Meowstic_Mercenary_Elite.labelMale>男性超能妙喵精銳傭兵</Meowstic_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Meowstic_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Meowstic_Mercenary_Elite.labelMalePlural>
+  <!-- female Meowstic elite mercenary -->  <Meowstic_Mercenary_Elite.labelFemale>女性超能妙喵精銳傭兵</Meowstic_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Meowstic_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Meowstic_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Meowstic drifter -->  <Meowstic_Drifter.label>超能妙喵漂泊者</Meowstic_Drifter.label>
+  <!-- Meowstic drifters -->  <Meowstic_Drifter.labelPlural>超能妙喵漂泊者</Meowstic_Drifter.labelPlural>
+  <!-- male Meowstic drifter -->  <Meowstic_Drifter.labelMale>男性超能妙喵漂泊者</Meowstic_Drifter.labelMale>
+  <!-- male Meowstic drifters -->  <Meowstic_Drifter.labelMalePlural>男性超能妙喵漂泊者</Meowstic_Drifter.labelMalePlural>
+  <!-- female Meowstic drifter -->  <Meowstic_Drifter.labelFemale>女性超能妙喵漂泊者</Meowstic_Drifter.labelFemale>
+  <!-- female Meowstic drifters -->  <Meowstic_Drifter.labelFemalePlural>女性超能妙喵漂泊者</Meowstic_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Meowstic scavenger gunner -->  <Meowstic_Scavenger.label>超能妙喵掠奪者槍手</Meowstic_Scavenger.label>
+  <!-- Meowstic scavenger gunners -->  <Meowstic_Scavenger.labelPlural>超能妙喵掠奪者槍手</Meowstic_Scavenger.labelPlural>
+  <!-- male Meowstic scavenger gunner -->  <Meowstic_Scavenger.labelMale>男性超能妙喵掠奪者槍手</Meowstic_Scavenger.labelMale>
+  <!-- male Meowstic scavenger gunners -->  <Meowstic_Scavenger.labelMalePlural>男性超能妙喵掠奪者槍手</Meowstic_Scavenger.labelMalePlural>
+  <!-- female Meowstic scavenger gunner -->  <Meowstic_Scavenger.labelFemale>女性超能妙喵掠奪者槍手</Meowstic_Scavenger.labelFemale>
+  <!-- female Meowstic scavenger gunners -->  <Meowstic_Scavenger.labelFemalePlural>女性超能妙喵掠奪者槍手</Meowstic_Scavenger.labelFemalePlural>
+
+  <!-- Meowstic scavenger thrasher -->  <Meowstic_Thrasher.label>超能妙喵掠奪者暴民</Meowstic_Thrasher.label>
+  <!-- Meowstic scavenger thrashers -->  <Meowstic_Thrasher.labelPlural>超能妙喵掠奪者暴民</Meowstic_Thrasher.labelPlural>
+  <!-- male Meowstic scavenger thrasher -->  <Meowstic_Thrasher.labelMale>男性超能妙喵掠奪者暴民</Meowstic_Thrasher.labelMale>
+  <!-- male Meowstic scavenger thrashers -->  <Meowstic_Thrasher.labelMalePlural>男性超能妙喵掠奪者暴民</Meowstic_Thrasher.labelMalePlural>
+  <!-- female Meowstic scavenger thrasher -->  <Meowstic_Thrasher.labelFemale>女性超能妙喵掠奪者暴民</Meowstic_Thrasher.labelFemale>
+  <!-- female Meowstic scavenger thrashers -->  <Meowstic_Thrasher.labelFemalePlural>女性超能妙喵掠奪者暴民</Meowstic_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Meowstic pirate gunner -->  <Meowstic_Pirate.label>超能妙喵海賊槍手</Meowstic_Pirate.label>
+  <!-- Meowstic pirate gunners -->  <Meowstic_Pirate.labelPlural>超能妙喵海賊槍手</Meowstic_Pirate.labelPlural>
+  <!-- male Meowstic pirate gunner -->  <Meowstic_Pirate.labelMale>男性超能妙喵海賊槍手</Meowstic_Pirate.labelMale>
+  <!-- male Meowstic pirate gunners -->  <Meowstic_Pirate.labelMalePlural>男性超能妙喵海賊槍手</Meowstic_Pirate.labelMalePlural>
+  <!-- female Meowstic pirate gunner -->  <Meowstic_Pirate.labelFemale>女性超能妙喵海賊槍手</Meowstic_Pirate.labelFemale>
+  <!-- female Meowstic pirate gunners -->  <Meowstic_Pirate.labelFemalePlural>女性超能妙喵海賊槍手</Meowstic_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Meowstic villager -->  <Meowstic_Villager.label>超能妙喵村民</Meowstic_Villager.label>
+  <!-- Meowstic villagers -->  <Meowstic_Villager.labelPlural>超能妙喵村民</Meowstic_Villager.labelPlural>
+  <!-- male Meowstic villager -->  <Meowstic_Villager.labelMale>男性超能妙喵村民</Meowstic_Villager.labelMale>
+  <!-- male Meowstic villagers -->  <Meowstic_Villager.labelMalePlural>男性超能妙喵村民</Meowstic_Villager.labelMalePlural>
+  <!-- female Meowstic villager -->  <Meowstic_Villager.labelFemale>女性超能妙喵村民</Meowstic_Villager.labelFemale>
+  <!-- female Meowstic villagers -->  <Meowstic_Villager.labelFemalePlural>女性超能妙喵村民</Meowstic_Villager.labelFemalePlural>
+
+  <!-- Meowstic town guard -->  <Meowstic_Town_Guard.label>超能妙喵城鎮衛兵</Meowstic_Town_Guard.label>
+  <!-- Meowstic town guards -->  <Meowstic_Town_Guard.labelPlural>超能妙喵城鎮衛兵</Meowstic_Town_Guard.labelPlural>
+  <!-- male Meowstic town guard -->  <Meowstic_Town_Guard.labelMale>男性超能妙喵城鎮衛兵</Meowstic_Town_Guard.labelMale>
+  <!-- male Meowstic town guards -->  <Meowstic_Town_Guard.labelMalePlural>男性超能妙喵城鎮衛兵</Meowstic_Town_Guard.labelMalePlural>
+  <!-- female Meowstic town guard -->  <Meowstic_Town_Guard.labelFemale>女性超能妙喵城鎮衛兵</Meowstic_Town_Guard.labelFemale>
+  <!-- female Meowstic town guards -->  <Meowstic_Town_Guard.labelFemalePlural>女性超能妙喵城鎮衛兵</Meowstic_Town_Guard.labelFemalePlural>
+
+  <!-- Meowstic town trader -->  <Meowstic_Town_Trader.label>超能妙喵城鎮商人</Meowstic_Town_Trader.label>
+  <!-- Meowstic town traders -->  <Meowstic_Town_Trader.labelPlural>超能妙喵城鎮商人</Meowstic_Town_Trader.labelPlural>
+  <!-- male Meowstic town trader -->  <Meowstic_Town_Trader.labelMale>男性超能妙喵城鎮商人</Meowstic_Town_Trader.labelMale>
+  <!-- male Meowstic town traders -->  <Meowstic_Town_Trader.labelMalePlural>男性超能妙喵城鎮商人</Meowstic_Town_Trader.labelMalePlural>
+  <!-- female Meowstic town trader -->  <Meowstic_Town_Trader.labelFemale>女性超能妙喵城鎮商人</Meowstic_Town_Trader.labelFemale>
+  <!-- female Meowstic town traders -->  <Meowstic_Town_Trader.labelFemalePlural>女性超能妙喵城鎮商人</Meowstic_Town_Trader.labelFemalePlural>
+
+  <!-- Meowstic town councilman -->  <Meowstic_Town_Councilman.label>超能妙喵城鎮議員</Meowstic_Town_Councilman.label>
+  <!-- town councilmen -->  <Meowstic_Town_Councilman.labelPlural>城鎮議員</Meowstic_Town_Councilman.labelPlural>
+  <!-- male Meowstic town councilman -->  <Meowstic_Town_Councilman.labelMale>男性超能妙喵城鎮議員</Meowstic_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Meowstic_Town_Councilman.labelMalePlural>男性城鎮議員</Meowstic_Town_Councilman.labelMalePlural>
+  <!-- female Meowstic town councilman -->  <Meowstic_Town_Councilman.labelFemale>女性超能妙喵城鎮議員</Meowstic_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Meowstic_Town_Councilman.labelFemalePlural>女性城鎮議員</Meowstic_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Meowstic penitent -->  <Meowstic_Tribal_Penitent.label>超能妙喵海賊</Meowstic_Tribal_Penitent.label>
+  <!-- Meowstic penitents -->  <Meowstic_Tribal_Penitent.labelPlural>超能妙喵海賊</Meowstic_Tribal_Penitent.labelPlural>
+  <!-- male Meowstic penitent -->  <Meowstic_Tribal_Penitent.labelMale>男性超能妙喵海賊</Meowstic_Tribal_Penitent.labelMale>
+  <!-- male Meowstic penitents -->  <Meowstic_Tribal_Penitent.labelMalePlural>男性超能妙喵海賊</Meowstic_Tribal_Penitent.labelMalePlural>
+  <!-- female Meowstic penitent -->  <Meowstic_Tribal_Penitent.labelFemale>女性超能妙喵海賊</Meowstic_Tribal_Penitent.labelFemale>
+  <!-- female Meowstic penitents -->  <Meowstic_Tribal_Penitent.labelFemalePlural>女性超能妙喵海賊</Meowstic_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Meowstic archer -->  <Meowstic_Tribal_Archer.label>超能妙喵弓箭手</Meowstic_Tribal_Archer.label>
+  <!-- Meowstic archers -->  <Meowstic_Tribal_Archer.labelPlural>超能妙喵弓箭手</Meowstic_Tribal_Archer.labelPlural>
+  <!-- male Meowstic archer -->  <Meowstic_Tribal_Archer.labelMale>男性超能妙喵弓箭手</Meowstic_Tribal_Archer.labelMale>
+  <!-- male Meowstic archers -->  <Meowstic_Tribal_Archer.labelMalePlural>男性超能妙喵弓箭手</Meowstic_Tribal_Archer.labelMalePlural>
+  <!-- female Meowstic archer -->  <Meowstic_Tribal_Archer.labelFemale>女性超能妙喵弓箭手</Meowstic_Tribal_Archer.labelFemale>
+  <!-- female Meowstic archers -->  <Meowstic_Tribal_Archer.labelFemalePlural>女性超能妙喵弓箭手</Meowstic_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Meowstic warrior -->  <Meowstic_Tribal_Warrior.label>超能妙喵戰士</Meowstic_Tribal_Warrior.label>
+  <!-- Meowstic warriors -->  <Meowstic_Tribal_Warrior.labelPlural>超能妙喵戰士</Meowstic_Tribal_Warrior.labelPlural>
+  <!-- male Meowstic warrior -->  <Meowstic_Tribal_Warrior.labelMale>男性超能妙喵戰士</Meowstic_Tribal_Warrior.labelMale>
+  <!-- male Meowstic warriors -->  <Meowstic_Tribal_Warrior.labelMalePlural>男性超能妙喵戰士</Meowstic_Tribal_Warrior.labelMalePlural>
+  <!-- female Meowstic warrior -->  <Meowstic_Tribal_Warrior.labelFemale>女性超能妙喵戰士</Meowstic_Tribal_Warrior.labelFemale>
+  <!-- female Meowstic warriors -->  <Meowstic_Tribal_Warrior.labelFemalePlural>女性超能妙喵戰士</Meowstic_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Meowstic hunter -->  <Meowstic_Tribal_Hunter.label>超能妙喵獵人</Meowstic_Tribal_Hunter.label>
+  <!-- Meowstic hunters -->  <Meowstic_Tribal_Hunter.labelPlural>超能妙喵獵人</Meowstic_Tribal_Hunter.labelPlural>
+  <!-- male Meowstic hunter -->  <Meowstic_Tribal_Hunter.labelMale>男性超能妙喵獵人</Meowstic_Tribal_Hunter.labelMale>
+  <!-- male Meowstic hunters -->  <Meowstic_Tribal_Hunter.labelMalePlural>男性超能妙喵獵人</Meowstic_Tribal_Hunter.labelMalePlural>
+  <!-- female Meowstic hunter -->  <Meowstic_Tribal_Hunter.labelFemale>女性超能妙喵獵人</Meowstic_Tribal_Hunter.labelFemale>
+  <!-- female Meowstic hunters -->  <Meowstic_Tribal_Hunter.labelFemalePlural>女性超能妙喵獵人</Meowstic_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Meowstic trader -->  <Meowstic_Tribal_Trader.label>超能妙喵商人</Meowstic_Tribal_Trader.label>
+  <!-- Meowstic traders -->  <Meowstic_Tribal_Trader.labelPlural>超能妙喵商人</Meowstic_Tribal_Trader.labelPlural>
+  <!-- male Meowstic trader -->  <Meowstic_Tribal_Trader.labelMale>男性超能妙喵商人</Meowstic_Tribal_Trader.labelMale>
+  <!-- male Meowstic traders -->  <Meowstic_Tribal_Trader.labelMalePlural>男性超能妙喵商人</Meowstic_Tribal_Trader.labelMalePlural>
+  <!-- female Meowstic trader -->  <Meowstic_Tribal_Trader.labelFemale>女性超能妙喵商人</Meowstic_Tribal_Trader.labelFemale>
+  <!-- female Meowstic traders -->  <Meowstic_Tribal_Trader.labelFemalePlural>女性超能妙喵商人</Meowstic_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Meowstic berserker -->  <Meowstic_Tribal_Berserker.label>超能妙喵狂戰士</Meowstic_Tribal_Berserker.label>
+  <!-- Meowstic berserkers -->  <Meowstic_Tribal_Berserker.labelPlural>超能妙喵狂戰士</Meowstic_Tribal_Berserker.labelPlural>
+  <!-- male Meowstic berserker -->  <Meowstic_Tribal_Berserker.labelMale>男性超能妙喵狂戰士</Meowstic_Tribal_Berserker.labelMale>
+  <!-- male Meowstic berserkers -->  <Meowstic_Tribal_Berserker.labelMalePlural>男性超能妙喵狂戰士</Meowstic_Tribal_Berserker.labelMalePlural>
+  <!-- female Meowstic berserker -->  <Meowstic_Tribal_Berserker.labelFemale>女性超能妙喵狂戰士</Meowstic_Tribal_Berserker.labelFemale>
+  <!-- female Meowstic berserkers -->  <Meowstic_Tribal_Berserker.labelFemalePlural>女性超能妙喵狂戰士</Meowstic_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Meowstic heavy archer -->  <Meowstic_Tribal_HeavyArcher.label>超能妙喵重裝弓箭手</Meowstic_Tribal_HeavyArcher.label>
+  <!-- Meowstic heavy archers -->  <Meowstic_Tribal_HeavyArcher.labelPlural>超能妙喵重裝弓箭手</Meowstic_Tribal_HeavyArcher.labelPlural>
+  <!-- male Meowstic heavy archer -->  <Meowstic_Tribal_HeavyArcher.labelMale>男性超能妙喵重裝弓箭手</Meowstic_Tribal_HeavyArcher.labelMale>
+  <!-- male Meowstic heavy archers -->  <Meowstic_Tribal_HeavyArcher.labelMalePlural>男性超能妙喵重裝弓箭手</Meowstic_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Meowstic heavy archer -->  <Meowstic_Tribal_HeavyArcher.labelFemale>女性超能妙喵重裝弓箭手</Meowstic_Tribal_HeavyArcher.labelFemale>
+  <!-- female Meowstic heavy archers -->  <Meowstic_Tribal_HeavyArcher.labelFemalePlural>女性超能妙喵重裝弓箭手</Meowstic_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Meowstic_Tribal_ChiefMelee -->  <!--[Duplicated] <Meowstic_Tribal_ChiefMelee.label>超能妙喵_Tribal_ChiefMelee</Meowstic_Tribal_ChiefMelee.label>-->
+  <!-- Meowstic_Tribal_ChiefMelees -->  <!--[Duplicated] <Meowstic_Tribal_ChiefMelee.labelPlural>超能妙喵_Tribal_ChiefMele</Meowstic_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Meowstic_Tribal_ChiefMelee -->  <!--[Duplicated] <Meowstic_Tribal_ChiefMelee.labelMale>男性超能妙喵_Tribal_ChiefMelee</Meowstic_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Meowstic_Tribal_ChiefMelees -->  <!--[Duplicated] <Meowstic_Tribal_ChiefMelee.labelMalePlural>男性超能妙喵_Tribal_ChiefMele</Meowstic_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Meowstic_Tribal_ChiefMelee -->  <!--[Duplicated] <Meowstic_Tribal_ChiefMelee.labelFemale>女性超能妙喵_Tribal_ChiefMelee</Meowstic_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Meowstic_Tribal_ChiefMelees -->  <!--[Duplicated] <Meowstic_Tribal_ChiefMelee.labelFemalePlural>女性超能妙喵_Tribal_ChiefMele</Meowstic_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Meowstic berserker chief -->  <Meowstic_Tribal_ChiefMelee.label>超能妙喵狂戰士隊長</Meowstic_Tribal_ChiefMelee.label>
+  <!-- Meowstic berserker chiefs -->  <Meowstic_Tribal_ChiefMelee.labelPlural>超能妙喵狂戰士隊長</Meowstic_Tribal_ChiefMelee.labelPlural>
+  <!-- male Meowstic berserker chief -->  <Meowstic_Tribal_ChiefMelee.labelMale>男性超能妙喵狂戰士隊長</Meowstic_Tribal_ChiefMelee.labelMale>
+  <!-- male Meowstic berserker chiefs -->  <Meowstic_Tribal_ChiefMelee.labelMalePlural>男性超能妙喵狂戰士隊長</Meowstic_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Meowstic berserker chief -->  <Meowstic_Tribal_ChiefMelee.labelFemale>女性超能妙喵狂戰士隊長</Meowstic_Tribal_ChiefMelee.labelFemale>
+  <!-- female Meowstic berserker chiefs -->  <Meowstic_Tribal_ChiefMelee.labelFemalePlural>女性超能妙喵狂戰士隊長</Meowstic_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Meowstic archer chief -->  <Meowstic_Tribal_ChiefRanged.label>超能妙喵弓箭手隊長</Meowstic_Tribal_ChiefRanged.label>
+  <!-- Meowstic archer chiefs -->  <Meowstic_Tribal_ChiefRanged.labelPlural>超能妙喵弓箭手隊長</Meowstic_Tribal_ChiefRanged.labelPlural>
+  <!-- male Meowstic archer chief -->  <Meowstic_Tribal_ChiefRanged.labelMale>男性超能妙喵弓箭手隊長</Meowstic_Tribal_ChiefRanged.labelMale>
+  <!-- male Meowstic archer chiefs -->  <Meowstic_Tribal_ChiefRanged.labelMalePlural>男性超能妙喵弓箭手隊長</Meowstic_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Meowstic archer chief -->  <Meowstic_Tribal_ChiefRanged.labelFemale>女性超能妙喵弓箭手隊長</Meowstic_Tribal_ChiefRanged.labelFemale>
+  <!-- female Meowstic archer chiefs -->  <Meowstic_Tribal_ChiefRanged.labelFemalePlural>女性超能妙喵弓箭手隊長</Meowstic_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

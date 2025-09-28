@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gardevoir -->  <Yanz_Gardevoir.label>沙奈朵</Yanz_Gardevoir.label>
+  <!-- Gardevoir is originally a race of genetically-engineered companions with high psychic sensivity and developed social intellect. However, due to aggressive and unpredictive political climate on their home glitterworld, Gardevoirs to their own surprise have found themselves a citizens right before elections to boost the votes of one of the parties. Enjoying the benefits of freedom, many have decided to emmigrate at countless commercial vessels as far away as possible, reaching even the farthest rimworlds. Gardevoir is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Gardevoir.description>沙奈朵最初是一種，擁有高度心靈敏感度和高度發達的社交智力，並藉由基因工程所設計出來的伴侶種族。然而，位於其家鄉所在地的，閃耀世界中政治環境過於激烈且深不可測的關係，讓沙奈朵們驚訝地發現到，它們自己在選舉前夜被意外地賦予了公民權，而其原因是因為某個政黨想為此增加它們的選票率。而在享受到了自由的好處後，許多沙奈朵們決定搭乘無數的商業船隻遠走他鄉，甚至到達了最遙遠的邊緣世界。沙奈朵是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Yanz_Gardevoir.description>
+  <!-- teeth -->  <Yanz_Gardevoir.tools.0.label>牙齒</Yanz_Gardevoir.tools.0.label>
+  <!-- left claws -->  <Yanz_Gardevoir.tools.1.label>左爪</Yanz_Gardevoir.tools.1.label>
+  <!-- right claws -->  <Yanz_Gardevoir.tools.2.label>右爪</Yanz_Gardevoir.tools.2.label>
+  <!-- hair --><!--  <Yanz_Gardevoir.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Gardevoir.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <Yanz_Gardevoir.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Gardevoir.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

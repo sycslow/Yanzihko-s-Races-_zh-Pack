@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Meowstic -->
+  <MeowsticScenario1.label>超能妙喵</MeowsticScenario1.label>
+  <!-- EN: This is a basic scenario that can be changed at any time. -->
+  <MeowsticScenario1.description>這是一個可以隨時更改的基礎情境劇本。</MeowsticScenario1.description>
+  <!-- EN: This is a basic scenario that can be changed at any time. -->
+  <MeowsticScenario1.scenario.description>這是一個可以隨時更改的基礎情境劇本。</MeowsticScenario1.scenario.description>
+  <!-- EN: Meowstic -->
+  <MeowsticScenario1.scenario.name>超能妙喵</MeowsticScenario1.scenario.name>
+  <!-- EN: The three of you awake after an extremely rough landing however none of you remarkably bear no injuries other than waning cryptosleep sickness. -->
+  <MeowsticScenario1.scenario.parts.GameStartDialog.text>你們三人在一次極為艱難的著陸後醒來，但令人驚訝的是，除了逐漸消退的冷凍休眠艙症候群外，沒有人受傷。</MeowsticScenario1.scenario.parts.GameStartDialog.text>
+  <!-- EN: Three Meowstic colonists with very basic resources. -->
+  <MeowsticScenario1.scenario.summary>三名超能妙喵殖民者，擁有非常基礎的補給資源。</MeowsticScenario1.scenario.summary>
+    <!-- UNUSED --><!--
+  <MeowsticScenario1.scenario.parts.12.text>你們三人在一次極為艱難的著陸後醒來，但令人驚訝的是，除了逐漸消退的冷凍休眠艙症候群外，沒有人受傷。 </MeowsticScenario1.scenario.parts.12.text>-->
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <MeowsticTribalPawn.label>部落民</MeowsticTribalPawn.label>
+  <!-- members -->  <MeowsticTribalPawn.labelPlural>部落民</MeowsticTribalPawn.labelPlural>
+  <!-- male member -->  <MeowsticTribalPawn.labelMale>男性部落民</MeowsticTribalPawn.labelMale>
+  <!-- male members -->  <MeowsticTribalPawn.labelMalePlural>男性部落民</MeowsticTribalPawn.labelMalePlural>
+  <!-- female member -->  <MeowsticTribalPawn.labelFemale>女性部落民</MeowsticTribalPawn.labelFemale>
+  <!-- female members -->  <MeowsticTribalPawn.labelFemalePlural>女性部落民</MeowsticTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <MeowsticIndustrialPawn.label>殖民者</MeowsticIndustrialPawn.label>
+  <!-- members -->  <MeowsticIndustrialPawn.labelPlural>殖民者</MeowsticIndustrialPawn.labelPlural>
+  <!-- male member -->  <MeowsticIndustrialPawn.labelMale>男性殖民者</MeowsticIndustrialPawn.labelMale>
+  <!-- male members -->  <MeowsticIndustrialPawn.labelMalePlural>男性殖民者</MeowsticIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <MeowsticIndustrialPawn.labelFemale>女性殖民者</MeowsticIndustrialPawn.labelFemale>
+  <!-- female members -->  <MeowsticIndustrialPawn.labelFemalePlural>女性殖民者</MeowsticIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

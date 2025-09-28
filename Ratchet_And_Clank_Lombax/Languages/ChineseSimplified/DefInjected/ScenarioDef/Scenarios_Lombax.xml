@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Crashed Duo -->
+  <LombaxScenario1.label>坠毁的双人组</LombaxScenario1.label>
+  <!-- EN: Both of you escaped from your homeworld drowning in chaos after destruction of Fastoon at colony ship. For some reason your colony ship was critically damaged and completely empty upon your awakening. You took everything necessary for survival at this rimworld and evacuated at one of few remaining drop pods. World probably will be filled with thousands of lombaxes that escaped the ship earlier. -->
+  <LombaxScenario1.description>你们两人从混乱中的家园逃出，当时的法斯顿因混乱而陷入了毁灭，你们便搭乘殖民船逃离了家园。然而，不知为何，殖民船却遭受到了致命损伤，当你们醒来时，船上已经空无一人了。而你们便带上了将要在这个边缘世界上，一切所必要的生存物资，并撤离到仅剩的几个降落舱之一。这个边缘世界里可能到处充满了先前从船上逃离出来的隆巴克斯人。</LombaxScenario1.description>
+  <!-- EN: Both of you escaped from your homeworld drowning in chaos after destruction of Fastoon at colony ship. For some reason your colony ship was critically damaged and completely empty upon your awakening. You took everything necessary for survival at this rimworld and evacuated at one of few remaining drop pods. World probably will be filled with thousands of lombaxes that escaped the ship earlier. -->
+  <LombaxScenario1.scenario.description>你们两人从混乱中的家园逃出，当时的法斯顿因混乱而陷入了毁灭，你们便搭乘殖民船逃离了家园。然而，不知为何，殖民船却遭受到了致命损伤，当你们醒来时，船上已经空无一人了。而你们便带上了将要在这个边缘世界上，一切所必要的生存物资，并撤离到仅剩的几个降落舱之一。这个边缘世界里可能到处充满了先前从船上逃离出来的隆巴克斯人。</LombaxScenario1.scenario.description>
+  <!-- EN: Crashed Duo -->
+  <LombaxScenario1.scenario.name>坠毁的双人组</LombaxScenario1.scenario.name>
+  <!-- EN: Swarm of ship chunks is entering atmosphere at ultra-sonic speeds. Your colony ship barely visible from surface is falling apart right at your eyes. Your fate is in your own hands now.\n		   -->
+  <LombaxScenario1.scenario.parts.GameStartDialog.text>碎裂的船体正以超音速的速度冲入了大气层。从地表上来看这几乎要看不见了，而你们的殖民船就在你们眼前正逐渐一边解体一边坠落。而现在你们的命运，如今掌握在自己的手中了。</LombaxScenario1.scenario.parts.GameStartDialog.text>
+  <!-- EN: Two lombax colonists. A small amount of high-tech items. No technologies. Medium difficulty. -->
+  <LombaxScenario1.scenario.summary>两名隆巴克斯殖民者。有少量的高科技物品，但没有科技。此为中等难度的剧本</LombaxScenario1.scenario.summary>
+  
+  <!-- UNUSED --><!--
+  <LombaxScenario1.scenario.parts.10.text>碎裂的船体正以超音速的速度冲入了大气层。从地表上来看这几乎要看不见了，而你们的殖民船就在你们眼前正逐渐一边解体一边坠落。而现在你们的命运，如今掌握在自己的手中了。</LombaxScenario1.scenario.parts.10.text>-->
+  
+</LanguageData>

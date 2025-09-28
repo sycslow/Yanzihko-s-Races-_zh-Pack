@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Meowstic -->  <Yanz_Meowstic.label>超能妙喵</Yanz_Meowstic.label>
+  <!-- Meowstics are a genetically engineered type of xenohuman created by an eccentric group of Glitterworld scientists. They are specifically coded to have moderately high psychic capabilities in order to allow them to passively read the surface emotions and intentions of those around them. However this level of genetic engineering renders them less physically capable and hardy than most other xenohumans. Meowstic is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Meowstic.description>超能妙喵是一種經由基因工程設計所創造的異種人，它們由一群古怪的閃耀世界科學家所創造。而且基因編碼被特別編譯成，能擁有中等程度的心靈能力，可以被動地感知周圍人的表面情緒和意圖。然而，這種基因工程的程度使它們的身體能力和耐久性比大多數其他異種人更弱。超能妙喵是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Yanz_Meowstic.description>
+  <!-- teeth -->  <Yanz_Meowstic.tools.0.label>牙齒</Yanz_Meowstic.tools.0.label>
+  <!-- left claws -->  <Yanz_Meowstic.tools.1.label>左爪</Yanz_Meowstic.tools.1.label>
+  <!-- right claws -->  <Yanz_Meowstic.tools.2.label>右爪</Yanz_Meowstic.tools.2.label>
+  
+  <!-- hair --><!-- These are using for skin function. DO NOT translate them. --><!--  <Yanz_Meowstic.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Meowstic.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <Yanz_Meowstic.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Meowstic.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

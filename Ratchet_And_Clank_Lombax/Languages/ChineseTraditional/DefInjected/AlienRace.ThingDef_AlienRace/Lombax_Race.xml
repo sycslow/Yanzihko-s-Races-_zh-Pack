@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lombax -->  <Lombax.label>隆巴克斯</Lombax.label>
+  <!-- Lombax is a distant descendant of human race with feline features. Representatives of this species are great warriors and engineers. Despite their size, their bodies are surprisingly tough. Lombaxes are originated from Fastoon - glitterworld with dry desert climate. They prefer to live in hot enviroment. Lombax is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Lombax.description>隆巴克斯是一個擁有人類種族血統，但具有貓科動物特徵的遠親後裔。該物種的成員是優秀的戰士和工程師。儘管它們的體型不大、較小，但它們的身體卻出奇地強韌。隆巴克斯起源於一個氣候乾燥沙漠化的閃耀世界——法斯頓。他們更喜歡生活在炎熱的環境中。隆巴克斯是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Lombax.description>
+  <!-- teeth -->  <Lombax.tools.0.label>牙齒</Lombax.tools.0.label>
+  <!-- left fist -->  <Lombax.tools.1.label>左拳</Lombax.tools.1.label>
+  <!-- right fist -->  <Lombax.tools.2.label>右拳</Lombax.tools.2.label>
+  <!-- hair --><!--  <Lombax.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Lombax.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <Lombax.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Lombax.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

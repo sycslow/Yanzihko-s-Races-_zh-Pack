@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Gardevoir Tribe -->  <PlayerGardevoirTribal.label>沙奈朵部落</PlayerGardevoirTribal.label>
+  <!-- Gardevoir tribe -->  <PlayerGardevoirTribal.description>沙奈朵部落</PlayerGardevoirTribal.description>
+  <!-- Gardevoir -->  <PlayerGardevoirTribal.pawnsPlural>沙奈朵部落民</PlayerGardevoirTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Gardevoir Tribe (No tech) -->  <PlayerGardevoirTribalNoTech.label>沙奈朵部落 (无科技)</PlayerGardevoirTribalNoTech.label>
+  <!-- Gardevoir tribe -->  <PlayerGardevoirTribalNoTech.description>沙奈朵部落</PlayerGardevoirTribalNoTech.description>
+  <!-- Gardevoir -->  <PlayerGardevoirTribalNoTech.pawnsPlural>沙奈朵部落民</PlayerGardevoirTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Gardevoir Colony -->  <PlayerGardevoirIndustrial.label>沙奈朵殖民地</PlayerGardevoirIndustrial.label>
+  <!-- Gardevoir Colony -->  <PlayerGardevoirIndustrial.description>沙奈朵殖民地</PlayerGardevoirIndustrial.description>
+  <!-- Gardevoir -->  <PlayerGardevoirIndustrial.pawnsPlural>沙奈朵殖民者</PlayerGardevoirIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Gardevoir Colony (No tech) -->  <PlayerGardevoirIndustrialNoTech.label>沙奈朵殖民地 (无科技)</PlayerGardevoirIndustrialNoTech.label>
+  <!-- Gardevoir colony -->  <PlayerGardevoirIndustrialNoTech.description>沙奈朵殖民地</PlayerGardevoirIndustrialNoTech.description>
+  <!-- Gardevoir -->  <PlayerGardevoirIndustrialNoTech.pawnsPlural>沙奈朵殖民者</PlayerGardevoirIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Lombax Tribe -->  <PlayerLombaxTribal.label>隆巴克斯部落</PlayerLombaxTribal.label>
+  <!-- Lombax tribe -->  <PlayerLombaxTribal.description>隆巴克斯部落</PlayerLombaxTribal.description>
+  <!-- Lombax -->  <PlayerLombaxTribal.pawnsPlural>隆巴克斯部落民</PlayerLombaxTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Lombax Tribe (No tech) -->  <PlayerLombaxTribalNoTech.label>隆巴克斯部落 (无科技)</PlayerLombaxTribalNoTech.label>
+  <!-- Lombax tribe -->  <PlayerLombaxTribalNoTech.description>隆巴克斯部落</PlayerLombaxTribalNoTech.description>
+  <!-- Lombax -->  <PlayerLombaxTribalNoTech.pawnsPlural>隆巴克斯部落民</PlayerLombaxTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Lombax Colony -->  <PlayerLombaxIndustrial.label>隆巴克斯殖民地</PlayerLombaxIndustrial.label>
+  <!-- Lombax Colony -->  <PlayerLombaxIndustrial.description>隆巴克斯殖民地</PlayerLombaxIndustrial.description>
+  <!-- Lombax -->  <PlayerLombaxIndustrial.pawnsPlural>隆巴克斯殖民者</PlayerLombaxIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Lombax Colony (No tech) -->  <PlayerLombaxIndustrialNoTech.label>隆巴克斯殖民地 (无科技)</PlayerLombaxIndustrialNoTech.label>
+  <!-- Lombax colony -->  <PlayerLombaxIndustrialNoTech.description>隆巴克斯殖民地</PlayerLombaxIndustrialNoTech.description>
+  <!-- Lombax -->  <PlayerLombaxIndustrialNoTech.pawnsPlural>隆巴克斯殖民者</PlayerLombaxIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

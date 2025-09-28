@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <GardevoirTribalPawn.label>部落民</GardevoirTribalPawn.label>
+  <!-- members -->  <GardevoirTribalPawn.labelPlural>部落民</GardevoirTribalPawn.labelPlural>
+  <!-- male member -->  <GardevoirTribalPawn.labelMale>男性部落民</GardevoirTribalPawn.labelMale>
+  <!-- male members -->  <GardevoirTribalPawn.labelMalePlural>男性部落民</GardevoirTribalPawn.labelMalePlural>
+  <!-- female member -->  <GardevoirTribalPawn.labelFemale>女性部落民</GardevoirTribalPawn.labelFemale>
+  <!-- female members -->  <GardevoirTribalPawn.labelFemalePlural>女性部落民</GardevoirTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <GardevoirIndustrialPawn.label>殖民者</GardevoirIndustrialPawn.label>
+  <!-- members -->  <GardevoirIndustrialPawn.labelPlural>殖民者</GardevoirIndustrialPawn.labelPlural>
+  <!-- male member -->  <GardevoirIndustrialPawn.labelMale>男性殖民者</GardevoirIndustrialPawn.labelMale>
+  <!-- male members -->  <GardevoirIndustrialPawn.labelMalePlural>男性殖民者</GardevoirIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <GardevoirIndustrialPawn.labelFemale>女性殖民者</GardevoirIndustrialPawn.labelFemale>
+  <!-- female members -->  <GardevoirIndustrialPawn.labelFemalePlural>女性殖民者</GardevoirIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

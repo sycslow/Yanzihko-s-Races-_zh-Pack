@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Meowstic Tribe -->  <PlayerMeowsticTribal.label>超能妙喵部落</PlayerMeowsticTribal.label>
+  <!-- Meowstic tribe -->  <PlayerMeowsticTribal.description>超能妙喵部落</PlayerMeowsticTribal.description>
+  <!-- Meowstic -->  <PlayerMeowsticTribal.pawnsPlural>超能妙喵部落民</PlayerMeowsticTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Meowstic Tribe (No tech) -->  <PlayerMeowsticTribalNoTech.label>超能妙喵部落 (无科技)</PlayerMeowsticTribalNoTech.label>
+  <!-- Meowstic tribe -->  <PlayerMeowsticTribalNoTech.description>超能妙喵部落</PlayerMeowsticTribalNoTech.description>
+  <!-- Meowstic -->  <PlayerMeowsticTribalNoTech.pawnsPlural>超能妙喵部落民</PlayerMeowsticTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Meowstic Colony -->  <PlayerMeowsticIndustrial.label>超能妙喵殖民地</PlayerMeowsticIndustrial.label>
+  <!-- Meowstic Colony -->  <PlayerMeowsticIndustrial.description>超能妙喵殖民地</PlayerMeowsticIndustrial.description>
+  <!-- Meowstic -->  <PlayerMeowsticIndustrial.pawnsPlural>超能妙喵殖民者</PlayerMeowsticIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Meowstic Colony (No tech) -->  <PlayerMeowsticIndustrialNoTech.label>超能妙喵殖民地 (无科技)</PlayerMeowsticIndustrialNoTech.label>
+  <!-- Meowstic colony -->  <PlayerMeowsticIndustrialNoTech.description>超能妙喵殖民地</PlayerMeowsticIndustrialNoTech.description>
+  <!-- Meowstic -->  <PlayerMeowsticIndustrialNoTech.pawnsPlural>超能妙喵殖民者</PlayerMeowsticIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>
