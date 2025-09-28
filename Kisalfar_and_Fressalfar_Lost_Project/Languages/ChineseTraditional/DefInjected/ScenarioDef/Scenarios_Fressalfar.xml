@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crashlanded Fressálfar -->  <FressalfarScenario1.label>墜落的弗雷薩純靈貓</FressalfarScenario1.label>
+  <!-- Two Fressálfar sent from their dying home planet by their creator in hopes that they would survive. Created in a lab and artificially aged to adulthood; they have undergone artificial training in cryosleep to learn to survive and thrive on an unknown rimworld. Now, it's time for the real thing. -->  <FressalfarScenario1.description>兩名弗雷薩純靈貓被他們的創造者從瀕臨垂死的母星送出，並希望他們能存活下來。他們在實驗室中被創造出來，並被人工加速成長至成年；在冷凍睡眠期間，他們也經過了模擬訓練，以便學習如何在未知的邊緣世界中生存和繁衍發展。而現在，是真正考驗的時刻了。</FressalfarScenario1.description>
+  <!-- Crashlanded Fressálfar -->  <FressalfarScenario1.scenario.name>墜落的弗雷薩純靈貓</FressalfarScenario1.scenario.name>
+  <!-- Two Fressálfar sent from their dying home planet by their creator in hopes that they would survive. Created in a lab and artificially aged to adulthood; they have undergone artificial training in cryosleep to learn to survive and thrive on an unknown rimworld. Now, it's time for the real thing. -->  <FressalfarScenario1.scenario.summary>兩名弗雷薩純靈貓被他們的創造者從瀕臨垂死的母星送出，並希望他們能存活下來。他們在實驗室中被創造出來，並被人工加速成長至成年；在冷凍睡眠期間，他們也經過了模擬訓練，以便學習如何在未知的邊緣世界中生存和繁衍發展。而現在，是真正考驗的時刻了。</FressalfarScenario1.scenario.summary>
+  <!-- Two Fressálfar sent from their dying home planet by their creator in hopes that they would survive. Created in a lab and artificially aged to adulthood; they have undergone artificial training in cryosleep to learn to survive and thrive on an unknown rimworld. Now, it's time for the real thing. -->  <FressalfarScenario1.scenario.description>兩名弗雷薩純靈貓被他們的創造者從瀕臨垂死的母星送出，並希望他們能存活下來。他們在實驗室中被創造出來，並被人工加速成長至成年；在冷凍睡眠期間，他們也經過了模擬訓練，以便學習如何在未知的邊緣世界中生存和繁衍發展。而現在，是真正考驗的時刻了。</FressalfarScenario1.scenario.description>
+  <!-- The two of you awake from cryosleep ready to explore this unknown world. You've gone over your assigned simulations a million times in cryosleep and you've never felt more ready.But wait, something's wrong. Where are the others? Did they survive? Will YOU survive? There was never supposed to be only two... -->
+    <FressalfarScenario1.scenario.parts.GameStartDialog.text>你們兩人從冷凍睡眠中醒來，並準備探索這個未知的世界。在冷凍睡眠期間，你們已經無數次地進行了指定的模擬訓練，你們從未感到如此準備充分。但等等，情況有些不太對勁。其他同伴在哪裡？他們倖存下來了嗎？你們能倖存下來嗎？照理說原本不應該只有你們兩個的……</FressalfarScenario1.scenario.parts.GameStartDialog.text><!--  <FressalfarScenario1.scenario.parts.16.text>你們兩人從冷凍睡眠中醒來，並準備探索這個未知的世界。在冷凍睡眠期間，你們已經無數次地進行了指定的模擬訓練，你們從未感到如此準備充分。但等等，情況有些不太對勁。其他同伴在哪裡？他們倖存下來了嗎？你們能倖存下來嗎？照理說原本不應該只有你們兩個的……</FressalfarScenario1.scenario.parts.16.text>-->
+
+
+</LanguageData>

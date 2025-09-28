@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Kisalfar space refugee -->  <KisalfarSpaceRefugee.label>基萨然灵猫星际难民</KisalfarSpaceRefugee.label>
+  <!-- Kisalfar space refugees -->  <KisalfarSpaceRefugee.labelPlural>基萨然灵猫星际难民</KisalfarSpaceRefugee.labelPlural>
+  <!-- male Kisalfar space refugee -->  <KisalfarSpaceRefugee.labelMale>男性基萨然灵猫星际难民</KisalfarSpaceRefugee.labelMale>
+  <!-- male Kisalfar space refugees -->  <KisalfarSpaceRefugee.labelMalePlural>男性基萨然灵猫星际难民</KisalfarSpaceRefugee.labelMalePlural>
+  <!-- female Kisalfar space refugee -->  <KisalfarSpaceRefugee.labelFemale>女性基萨然灵猫星际难民</KisalfarSpaceRefugee.labelFemale>
+  <!-- female Kisalfar space refugees -->  <KisalfarSpaceRefugee.labelFemalePlural>女性基萨然灵猫星际难民</KisalfarSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Kisalfar slave -->  <KisalfarSlave.label>基萨然灵猫奴隶</KisalfarSlave.label>
+  <!-- Kisalfar slaves -->  <KisalfarSlave.labelPlural>基萨然灵猫奴隶</KisalfarSlave.labelPlural>
+  <!-- male Kisalfar slave -->  <KisalfarSlave.labelMale>男性基萨然灵猫奴隶</KisalfarSlave.labelMale>
+  <!-- male Kisalfar slaves -->  <KisalfarSlave.labelMalePlural>男性基萨然灵猫奴隶</KisalfarSlave.labelMalePlural>
+  <!-- female Kisalfar slave -->  <KisalfarSlave.labelFemale>女性基萨然灵猫奴隶</KisalfarSlave.labelFemale>
+  <!-- female Kisalfar slaves -->  <KisalfarSlave.labelFemalePlural>女性基萨然灵猫奴隶</KisalfarSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Kisalfar -->  <KisalfarColonist.label>基萨然灵猫</KisalfarColonist.label>
+  <!-- Kisalfars -->  <KisalfarColonist.labelPlural>基萨然灵猫</KisalfarColonist.labelPlural>
+  <!-- male Kisalfar -->  <KisalfarColonist.labelMale>男性基萨然灵猫</KisalfarColonist.labelMale>
+  <!-- male Kisalfars -->  <KisalfarColonist.labelMalePlural>男性基萨然灵猫</KisalfarColonist.labelMalePlural>
+  <!-- female Kisalfar -->  <KisalfarColonist.labelFemale>女性基萨然灵猫</KisalfarColonist.labelFemale>
+  <!-- female Kisalfars -->  <KisalfarColonist.labelFemalePlural>女性基萨然灵猫</KisalfarColonist.labelFemalePlural>
+
+  <!-- Kisalfar -->  <KisalfarTribesperson.label>基萨然灵猫</KisalfarTribesperson.label>
+  <!-- Kisalfars -->  <KisalfarTribesperson.labelPlural>基萨然灵猫</KisalfarTribesperson.labelPlural>
+  <!-- male Kisalfar -->  <KisalfarTribesperson.labelMale>男性基萨然灵猫</KisalfarTribesperson.labelMale>
+  <!-- male Kisalfars -->  <KisalfarTribesperson.labelMalePlural>男性基萨然灵猫</KisalfarTribesperson.labelMalePlural>
+  <!-- female Kisalfar -->  <KisalfarTribesperson.labelFemale>女性基萨然灵猫</KisalfarTribesperson.labelFemale>
+  <!-- female Kisalfars -->  <KisalfarTribesperson.labelFemalePlural>女性基萨然灵猫</KisalfarTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Kisalfar grenadier -->  <Kisalfar_Grenadier_Destructive.label>基萨然灵猫掷弹兵</Kisalfar_Grenadier_Destructive.label>
+  <!-- Kisalfar grenadiers -->  <Kisalfar_Grenadier_Destructive.labelPlural>基萨然灵猫掷弹兵</Kisalfar_Grenadier_Destructive.labelPlural>
+  <!-- male Kisalfar grenadier -->  <Kisalfar_Grenadier_Destructive.labelMale>男性基萨然灵猫掷弹兵</Kisalfar_Grenadier_Destructive.labelMale>
+  <!-- male Kisalfar grenadiers -->  <Kisalfar_Grenadier_Destructive.labelMalePlural>男性基萨然灵猫掷弹兵</Kisalfar_Grenadier_Destructive.labelMalePlural>
+  <!-- female Kisalfar grenadier -->  <Kisalfar_Grenadier_Destructive.labelFemale>女性基萨然灵猫掷弹兵</Kisalfar_Grenadier_Destructive.labelFemale>
+  <!-- female Kisalfar grenadiers -->  <Kisalfar_Grenadier_Destructive.labelFemalePlural>女性基萨然灵猫掷弹兵</Kisalfar_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Kisalfar EMPgrenadier -->  <Kisalfar_Grenadier_EMP.label>基萨然灵猫EMP掷弹兵</Kisalfar_Grenadier_EMP.label>
+  <!-- Kisalfar EMPgrenadiers -->  <Kisalfar_Grenadier_EMP.labelPlural>基萨然灵猫EMP掷弹兵</Kisalfar_Grenadier_EMP.labelPlural>
+  <!-- male Kisalfar EMPgrenadier -->  <Kisalfar_Grenadier_EMP.labelMale>男性基萨然灵猫EMP掷弹兵</Kisalfar_Grenadier_EMP.labelMale>
+  <!-- male Kisalfar EMPgrenadiers -->  <Kisalfar_Grenadier_EMP.labelMalePlural>男性基萨然灵猫EMP掷弹兵</Kisalfar_Grenadier_EMP.labelMalePlural>
+  <!-- female Kisalfar EMPgrenadier -->  <Kisalfar_Grenadier_EMP.labelFemale>女性基萨然灵猫EMP掷弹兵</Kisalfar_Grenadier_EMP.labelFemale>
+  <!-- female Kisalfar EMPgrenadiers -->  <Kisalfar_Grenadier_EMP.labelFemalePlural>女性基萨然灵猫EMP掷弹兵</Kisalfar_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Kisalfar smoke grenadier -->  <Kisalfar_Grenadier_Smoke.label>基萨然灵猫烟雾弹掷弹兵</Kisalfar_Grenadier_Smoke.label>
+  <!-- Kisalfar smoke grenadiers -->  <Kisalfar_Grenadier_Smoke.labelPlural>基萨然灵猫烟雾弹掷弹兵</Kisalfar_Grenadier_Smoke.labelPlural>
+  <!-- male Kisalfar smoke grenadier -->  <Kisalfar_Grenadier_Smoke.labelMale>男性基萨然灵猫烟雾弹掷弹兵</Kisalfar_Grenadier_Smoke.labelMale>
+  <!-- male Kisalfar smoke grenadiers -->  <Kisalfar_Grenadier_Smoke.labelMalePlural>男性基萨然灵猫烟雾弹掷弹兵</Kisalfar_Grenadier_Smoke.labelMalePlural>
+  <!-- female Kisalfar smoke grenadier -->  <Kisalfar_Grenadier_Smoke.labelFemale>女性基萨然灵猫烟雾弹掷弹兵</Kisalfar_Grenadier_Smoke.labelFemale>
+  <!-- female Kisalfar smoke grenadiers -->  <Kisalfar_Grenadier_Smoke.labelFemalePlural>女性基萨然灵猫烟雾弹掷弹兵</Kisalfar_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Kisalfar mercenary gunner -->  <Kisalfar_Mercenary_Gunner.label>基萨然灵猫枪手佣兵</Kisalfar_Mercenary_Gunner.label>
+  <!-- Kisalfar mercenary gunners -->  <Kisalfar_Mercenary_Gunner.labelPlural>基萨然灵猫枪手佣兵</Kisalfar_Mercenary_Gunner.labelPlural>
+  <!-- male Kisalfar mercenary gunner -->  <Kisalfar_Mercenary_Gunner.labelMale>男性基萨然灵猫枪手佣兵</Kisalfar_Mercenary_Gunner.labelMale>
+  <!-- male Kisalfar mercenary gunners -->  <Kisalfar_Mercenary_Gunner.labelMalePlural>男性基萨然灵猫枪手佣兵</Kisalfar_Mercenary_Gunner.labelMalePlural>
+  <!-- female Kisalfar mercenary gunner -->  <Kisalfar_Mercenary_Gunner.labelFemale>女性基萨然灵猫枪手佣兵</Kisalfar_Mercenary_Gunner.labelFemale>
+  <!-- female Kisalfar mercenary gunners -->  <Kisalfar_Mercenary_Gunner.labelFemalePlural>女性基萨然灵猫枪手佣兵</Kisalfar_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Kisalfar mercenary sniper -->  <Kisalfar_Mercenary_Sniper.label>基萨然灵猫狙击手佣兵</Kisalfar_Mercenary_Sniper.label>
+  <!-- Kisalfar mercenary snipers -->  <Kisalfar_Mercenary_Sniper.labelPlural>基萨然灵猫狙击手佣兵</Kisalfar_Mercenary_Sniper.labelPlural>
+  <!-- male Kisalfar mercenary sniper -->  <Kisalfar_Mercenary_Sniper.labelMale>男性基萨然灵猫狙击手佣兵</Kisalfar_Mercenary_Sniper.labelMale>
+  <!-- male Kisalfar mercenary snipers -->  <Kisalfar_Mercenary_Sniper.labelMalePlural>男性基萨然灵猫狙击手佣兵</Kisalfar_Mercenary_Sniper.labelMalePlural>
+  <!-- female Kisalfar mercenary sniper -->  <Kisalfar_Mercenary_Sniper.labelFemale>女性基萨然灵猫狙击手佣兵</Kisalfar_Mercenary_Sniper.labelFemale>
+  <!-- female Kisalfar mercenary snipers -->  <Kisalfar_Mercenary_Sniper.labelFemalePlural>女性基萨然灵猫狙击手佣兵</Kisalfar_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Kisalfar mercenary slasher -->  <Kisalfar_Mercenary_Slasher.label>基萨然灵猫杀手佣兵</Kisalfar_Mercenary_Slasher.label>
+  <!-- Kisalfar mercenary slashers -->  <Kisalfar_Mercenary_Slasher.labelPlural>基萨然灵猫杀手佣兵</Kisalfar_Mercenary_Slasher.labelPlural>
+  <!-- male Kisalfar mercenary slasher -->  <Kisalfar_Mercenary_Slasher.labelMale>男性基萨然灵猫杀手佣兵</Kisalfar_Mercenary_Slasher.labelMale>
+  <!-- male Kisalfar mercenary slashers -->  <Kisalfar_Mercenary_Slasher.labelMalePlural>男性基萨然灵猫杀手佣兵</Kisalfar_Mercenary_Slasher.labelMalePlural>
+  <!-- female Kisalfar mercenary slasher -->  <Kisalfar_Mercenary_Slasher.labelFemale>女性基萨然灵猫杀手佣兵</Kisalfar_Mercenary_Slasher.labelFemale>
+  <!-- female Kisalfar mercenary slashers -->  <Kisalfar_Mercenary_Slasher.labelFemalePlural>女性基萨然灵猫杀手佣兵</Kisalfar_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Kisalfar heavy mercenary -->  <Kisalfar_Mercenary_Heavy.label>基萨然灵猫重装佣兵</Kisalfar_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Kisalfar_Mercenary_Heavy.labelPlural>重装佣兵</Kisalfar_Mercenary_Heavy.labelPlural>
+  <!-- male Kisalfar heavy mercenary -->  <Kisalfar_Mercenary_Heavy.labelMale>男性基萨然灵猫重装佣兵</Kisalfar_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Kisalfar_Mercenary_Heavy.labelMalePlural>男性重装佣兵</Kisalfar_Mercenary_Heavy.labelMalePlural>
+  <!-- female Kisalfar heavy mercenary -->  <Kisalfar_Mercenary_Heavy.labelFemale>女性基萨然灵猫重装佣兵</Kisalfar_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Kisalfar_Mercenary_Heavy.labelFemalePlural>女性重装佣兵</Kisalfar_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Kisalfar boss -->  <Kisalfar_PirateBoss.label>基萨然灵猫海贼团长</Kisalfar_PirateBoss.label>
+  <!-- bosses -->  <Kisalfar_PirateBoss.labelPlural>海贼团长</Kisalfar_PirateBoss.labelPlural>
+  <!-- male Kisalfar boss -->  <Kisalfar_PirateBoss.labelMale>男性基萨然灵猫海贼团长</Kisalfar_PirateBoss.labelMale>
+  <!-- male bosses -->  <Kisalfar_PirateBoss.labelMalePlural>男性海贼团长</Kisalfar_PirateBoss.labelMalePlural>
+  <!-- female Kisalfar boss -->  <Kisalfar_PirateBoss.labelFemale>女性基萨然灵猫海贼团长</Kisalfar_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Kisalfar_PirateBoss.labelFemalePlural>女性海贼团长</Kisalfar_PirateBoss.labelFemalePlural>
+
+  <!-- Kisalfar elite mercenary -->  <Kisalfar_Mercenary_Elite.label>基萨然灵猫精锐佣兵</Kisalfar_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Kisalfar_Mercenary_Elite.labelPlural>精锐佣兵</Kisalfar_Mercenary_Elite.labelPlural>
+  <!-- male Kisalfar elite mercenary -->  <Kisalfar_Mercenary_Elite.labelMale>男性基萨然灵猫精锐佣兵</Kisalfar_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Kisalfar_Mercenary_Elite.labelMalePlural>男性精锐佣兵</Kisalfar_Mercenary_Elite.labelMalePlural>
+  <!-- female Kisalfar elite mercenary -->  <Kisalfar_Mercenary_Elite.labelFemale>女性基萨然灵猫精锐佣兵</Kisalfar_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Kisalfar_Mercenary_Elite.labelFemalePlural>女性精锐佣兵</Kisalfar_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Kisalfar drifter -->  <Kisalfar_Drifter.label>基萨然灵猫漂泊者</Kisalfar_Drifter.label>
+  <!-- Kisalfar drifters -->  <Kisalfar_Drifter.labelPlural>基萨然灵猫漂泊者</Kisalfar_Drifter.labelPlural>
+  <!-- male Kisalfar drifter -->  <Kisalfar_Drifter.labelMale>男性基萨然灵猫漂泊者</Kisalfar_Drifter.labelMale>
+  <!-- male Kisalfar drifters -->  <Kisalfar_Drifter.labelMalePlural>男性基萨然灵猫漂泊者</Kisalfar_Drifter.labelMalePlural>
+  <!-- female Kisalfar drifter -->  <Kisalfar_Drifter.labelFemale>女性基萨然灵猫漂泊者</Kisalfar_Drifter.labelFemale>
+  <!-- female Kisalfar drifters -->  <Kisalfar_Drifter.labelFemalePlural>女性基萨然灵猫漂泊者</Kisalfar_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Kisalfar scavenger gunner -->  <Kisalfar_Scavenger.label>基萨然灵猫掠夺者枪手</Kisalfar_Scavenger.label>
+  <!-- Kisalfar scavenger gunners -->  <Kisalfar_Scavenger.labelPlural>基萨然灵猫掠夺者枪手</Kisalfar_Scavenger.labelPlural>
+  <!-- male Kisalfar scavenger gunner -->  <Kisalfar_Scavenger.labelMale>男性基萨然灵猫掠夺者枪手</Kisalfar_Scavenger.labelMale>
+  <!-- male Kisalfar scavenger gunners -->  <Kisalfar_Scavenger.labelMalePlural>男性基萨然灵猫掠夺者枪手</Kisalfar_Scavenger.labelMalePlural>
+  <!-- female Kisalfar scavenger gunner -->  <Kisalfar_Scavenger.labelFemale>女性基萨然灵猫掠夺者枪手</Kisalfar_Scavenger.labelFemale>
+  <!-- female Kisalfar scavenger gunners -->  <Kisalfar_Scavenger.labelFemalePlural>女性基萨然灵猫掠夺者枪手</Kisalfar_Scavenger.labelFemalePlural>
+
+  <!-- Kisalfar scavenger thrasher -->  <Kisalfar_Thrasher.label>基萨然灵猫掠夺者暴民</Kisalfar_Thrasher.label>
+  <!-- Kisalfar scavenger thrashers -->  <Kisalfar_Thrasher.labelPlural>基萨然灵猫掠夺者暴民</Kisalfar_Thrasher.labelPlural>
+  <!-- male Kisalfar scavenger thrasher -->  <Kisalfar_Thrasher.labelMale>男性基萨然灵猫掠夺者暴民</Kisalfar_Thrasher.labelMale>
+  <!-- male Kisalfar scavenger thrashers -->  <Kisalfar_Thrasher.labelMalePlural>男性基萨然灵猫掠夺者暴民</Kisalfar_Thrasher.labelMalePlural>
+  <!-- female Kisalfar scavenger thrasher -->  <Kisalfar_Thrasher.labelFemale>女性基萨然灵猫掠夺者暴民</Kisalfar_Thrasher.labelFemale>
+  <!-- female Kisalfar scavenger thrashers -->  <Kisalfar_Thrasher.labelFemalePlural>女性基萨然灵猫掠夺者暴民</Kisalfar_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Kisalfar pirate gunner -->  <Kisalfar_Pirate.label>基萨然灵猫海贼枪手</Kisalfar_Pirate.label>
+  <!-- Kisalfar pirate gunners -->  <Kisalfar_Pirate.labelPlural>基萨然灵猫海贼枪手</Kisalfar_Pirate.labelPlural>
+  <!-- male Kisalfar pirate gunner -->  <Kisalfar_Pirate.labelMale>男性基萨然灵猫海贼枪手</Kisalfar_Pirate.labelMale>
+  <!-- male Kisalfar pirate gunners -->  <Kisalfar_Pirate.labelMalePlural>男性基萨然灵猫海贼枪手</Kisalfar_Pirate.labelMalePlural>
+  <!-- female Kisalfar pirate gunner -->  <Kisalfar_Pirate.labelFemale>女性基萨然灵猫海贼枪手</Kisalfar_Pirate.labelFemale>
+  <!-- female Kisalfar pirate gunners -->  <Kisalfar_Pirate.labelFemalePlural>女性基萨然灵猫海贼枪手</Kisalfar_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Kisalfar villager -->  <Kisalfar_Villager.label>基萨然灵猫村民</Kisalfar_Villager.label>
+  <!-- Kisalfar villagers -->  <Kisalfar_Villager.labelPlural>基萨然灵猫村民</Kisalfar_Villager.labelPlural>
+  <!-- male Kisalfar villager -->  <Kisalfar_Villager.labelMale>男性基萨然灵猫村民</Kisalfar_Villager.labelMale>
+  <!-- male Kisalfar villagers -->  <Kisalfar_Villager.labelMalePlural>男性基萨然灵猫村民</Kisalfar_Villager.labelMalePlural>
+  <!-- female Kisalfar villager -->  <Kisalfar_Villager.labelFemale>女性基萨然灵猫村民</Kisalfar_Villager.labelFemale>
+  <!-- female Kisalfar villagers -->  <Kisalfar_Villager.labelFemalePlural>女性基萨然灵猫村民</Kisalfar_Villager.labelFemalePlural>
+
+  <!-- Kisalfar town guard -->  <Kisalfar_Town_Guard.label>基萨然灵猫城镇卫兵</Kisalfar_Town_Guard.label>
+  <!-- Kisalfar town guards -->  <Kisalfar_Town_Guard.labelPlural>基萨然灵猫城镇卫兵</Kisalfar_Town_Guard.labelPlural>
+  <!-- male Kisalfar town guard -->  <Kisalfar_Town_Guard.labelMale>男性基萨然灵猫城镇卫兵</Kisalfar_Town_Guard.labelMale>
+  <!-- male Kisalfar town guards -->  <Kisalfar_Town_Guard.labelMalePlural>男性基萨然灵猫城镇卫兵</Kisalfar_Town_Guard.labelMalePlural>
+  <!-- female Kisalfar town guard -->  <Kisalfar_Town_Guard.labelFemale>女性基萨然灵猫城镇卫兵</Kisalfar_Town_Guard.labelFemale>
+  <!-- female Kisalfar town guards -->  <Kisalfar_Town_Guard.labelFemalePlural>女性基萨然灵猫城镇卫兵</Kisalfar_Town_Guard.labelFemalePlural>
+
+  <!-- Kisalfar town trader -->  <Kisalfar_Town_Trader.label>基萨然灵猫城镇商人</Kisalfar_Town_Trader.label>
+  <!-- Kisalfar town traders -->  <Kisalfar_Town_Trader.labelPlural>基萨然灵猫城镇商人</Kisalfar_Town_Trader.labelPlural>
+  <!-- male Kisalfar town trader -->  <Kisalfar_Town_Trader.labelMale>男性基萨然灵猫城镇商人</Kisalfar_Town_Trader.labelMale>
+  <!-- male Kisalfar town traders -->  <Kisalfar_Town_Trader.labelMalePlural>男性基萨然灵猫城镇商人</Kisalfar_Town_Trader.labelMalePlural>
+  <!-- female Kisalfar town trader -->  <Kisalfar_Town_Trader.labelFemale>女性基萨然灵猫城镇商人</Kisalfar_Town_Trader.labelFemale>
+  <!-- female Kisalfar town traders -->  <Kisalfar_Town_Trader.labelFemalePlural>女性基萨然灵猫城镇商人</Kisalfar_Town_Trader.labelFemalePlural>
+
+  <!-- Kisalfar town councilman -->  <Kisalfar_Town_Councilman.label>基萨然灵猫城镇议员</Kisalfar_Town_Councilman.label>
+  <!-- town councilmen -->  <Kisalfar_Town_Councilman.labelPlural>城镇议员</Kisalfar_Town_Councilman.labelPlural>
+  <!-- male Kisalfar town councilman -->  <Kisalfar_Town_Councilman.labelMale>男性基萨然灵猫城镇议员</Kisalfar_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Kisalfar_Town_Councilman.labelMalePlural>男性城镇议员</Kisalfar_Town_Councilman.labelMalePlural>
+  <!-- female Kisalfar town councilman -->  <Kisalfar_Town_Councilman.labelFemale>女性基萨然灵猫城镇议员</Kisalfar_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Kisalfar_Town_Councilman.labelFemalePlural>女性城镇议员</Kisalfar_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Kisalfar penitent -->  <Kisalfar_Tribal_Penitent.label>基萨然灵猫海贼</Kisalfar_Tribal_Penitent.label>
+  <!-- Kisalfar penitents -->  <Kisalfar_Tribal_Penitent.labelPlural>基萨然灵猫海贼</Kisalfar_Tribal_Penitent.labelPlural>
+  <!-- male Kisalfar penitent -->  <Kisalfar_Tribal_Penitent.labelMale>男性基萨然灵猫海贼</Kisalfar_Tribal_Penitent.labelMale>
+  <!-- male Kisalfar penitents -->  <Kisalfar_Tribal_Penitent.labelMalePlural>男性基萨然灵猫海贼</Kisalfar_Tribal_Penitent.labelMalePlural>
+  <!-- female Kisalfar penitent -->  <Kisalfar_Tribal_Penitent.labelFemale>女性基萨然灵猫海贼</Kisalfar_Tribal_Penitent.labelFemale>
+  <!-- female Kisalfar penitents -->  <Kisalfar_Tribal_Penitent.labelFemalePlural>女性基萨然灵猫海贼</Kisalfar_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Kisalfar archer -->  <Kisalfar_Tribal_Archer.label>基萨然灵猫弓箭手</Kisalfar_Tribal_Archer.label>
+  <!-- Kisalfar archers -->  <Kisalfar_Tribal_Archer.labelPlural>基萨然灵猫弓箭手</Kisalfar_Tribal_Archer.labelPlural>
+  <!-- male Kisalfar archer -->  <Kisalfar_Tribal_Archer.labelMale>男性基萨然灵猫弓箭手</Kisalfar_Tribal_Archer.labelMale>
+  <!-- male Kisalfar archers -->  <Kisalfar_Tribal_Archer.labelMalePlural>男性基萨然灵猫弓箭手</Kisalfar_Tribal_Archer.labelMalePlural>
+  <!-- female Kisalfar archer -->  <Kisalfar_Tribal_Archer.labelFemale>女性基萨然灵猫弓箭手</Kisalfar_Tribal_Archer.labelFemale>
+  <!-- female Kisalfar archers -->  <Kisalfar_Tribal_Archer.labelFemalePlural>女性基萨然灵猫弓箭手</Kisalfar_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Kisalfar warrior -->  <Kisalfar_Tribal_Warrior.label>基萨然灵猫战士</Kisalfar_Tribal_Warrior.label>
+  <!-- Kisalfar warriors -->  <Kisalfar_Tribal_Warrior.labelPlural>基萨然灵猫战士</Kisalfar_Tribal_Warrior.labelPlural>
+  <!-- male Kisalfar warrior -->  <Kisalfar_Tribal_Warrior.labelMale>男性基萨然灵猫战士</Kisalfar_Tribal_Warrior.labelMale>
+  <!-- male Kisalfar warriors -->  <Kisalfar_Tribal_Warrior.labelMalePlural>男性基萨然灵猫战士</Kisalfar_Tribal_Warrior.labelMalePlural>
+  <!-- female Kisalfar warrior -->  <Kisalfar_Tribal_Warrior.labelFemale>女性基萨然灵猫战士</Kisalfar_Tribal_Warrior.labelFemale>
+  <!-- female Kisalfar warriors -->  <Kisalfar_Tribal_Warrior.labelFemalePlural>女性基萨然灵猫战士</Kisalfar_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Kisalfar hunter -->  <Kisalfar_Tribal_Hunter.label>基萨然灵猫猎人</Kisalfar_Tribal_Hunter.label>
+  <!-- Kisalfar hunters -->  <Kisalfar_Tribal_Hunter.labelPlural>基萨然灵猫猎人</Kisalfar_Tribal_Hunter.labelPlural>
+  <!-- male Kisalfar hunter -->  <Kisalfar_Tribal_Hunter.labelMale>男性基萨然灵猫猎人</Kisalfar_Tribal_Hunter.labelMale>
+  <!-- male Kisalfar hunters -->  <Kisalfar_Tribal_Hunter.labelMalePlural>男性基萨然灵猫猎人</Kisalfar_Tribal_Hunter.labelMalePlural>
+  <!-- female Kisalfar hunter -->  <Kisalfar_Tribal_Hunter.labelFemale>女性基萨然灵猫猎人</Kisalfar_Tribal_Hunter.labelFemale>
+  <!-- female Kisalfar hunters -->  <Kisalfar_Tribal_Hunter.labelFemalePlural>女性基萨然灵猫猎人</Kisalfar_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Kisalfar trader -->  <Kisalfar_Tribal_Trader.label>基萨然灵猫商人</Kisalfar_Tribal_Trader.label>
+  <!-- Kisalfar traders -->  <Kisalfar_Tribal_Trader.labelPlural>基萨然灵猫商人</Kisalfar_Tribal_Trader.labelPlural>
+  <!-- male Kisalfar trader -->  <Kisalfar_Tribal_Trader.labelMale>男性基萨然灵猫商人</Kisalfar_Tribal_Trader.labelMale>
+  <!-- male Kisalfar traders -->  <Kisalfar_Tribal_Trader.labelMalePlural>男性基萨然灵猫商人</Kisalfar_Tribal_Trader.labelMalePlural>
+  <!-- female Kisalfar trader -->  <Kisalfar_Tribal_Trader.labelFemale>女性基萨然灵猫商人</Kisalfar_Tribal_Trader.labelFemale>
+  <!-- female Kisalfar traders -->  <Kisalfar_Tribal_Trader.labelFemalePlural>女性基萨然灵猫商人</Kisalfar_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Kisalfar berserker -->  <Kisalfar_Tribal_Berserker.label>基萨然灵猫狂战士</Kisalfar_Tribal_Berserker.label>
+  <!-- Kisalfar berserkers -->  <Kisalfar_Tribal_Berserker.labelPlural>基萨然灵猫狂战士</Kisalfar_Tribal_Berserker.labelPlural>
+  <!-- male Kisalfar berserker -->  <Kisalfar_Tribal_Berserker.labelMale>男性基萨然灵猫狂战士</Kisalfar_Tribal_Berserker.labelMale>
+  <!-- male Kisalfar berserkers -->  <Kisalfar_Tribal_Berserker.labelMalePlural>男性基萨然灵猫狂战士</Kisalfar_Tribal_Berserker.labelMalePlural>
+  <!-- female Kisalfar berserker -->  <Kisalfar_Tribal_Berserker.labelFemale>女性基萨然灵猫狂战士</Kisalfar_Tribal_Berserker.labelFemale>
+  <!-- female Kisalfar berserkers -->  <Kisalfar_Tribal_Berserker.labelFemalePlural>女性基萨然灵猫狂战士</Kisalfar_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Kisalfar heavy archer -->  <Kisalfar_Tribal_HeavyArcher.label>基萨然灵猫重装弓箭手</Kisalfar_Tribal_HeavyArcher.label>
+  <!-- Kisalfar heavy archers -->  <Kisalfar_Tribal_HeavyArcher.labelPlural>基萨然灵猫重装弓箭手</Kisalfar_Tribal_HeavyArcher.labelPlural>
+  <!-- male Kisalfar heavy archer -->  <Kisalfar_Tribal_HeavyArcher.labelMale>男性基萨然灵猫重装弓箭手</Kisalfar_Tribal_HeavyArcher.labelMale>
+  <!-- male Kisalfar heavy archers -->  <Kisalfar_Tribal_HeavyArcher.labelMalePlural>男性基萨然灵猫重装弓箭手</Kisalfar_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Kisalfar heavy archer -->  <Kisalfar_Tribal_HeavyArcher.labelFemale>女性基萨然灵猫重装弓箭手</Kisalfar_Tribal_HeavyArcher.labelFemale>
+  <!-- female Kisalfar heavy archers -->  <Kisalfar_Tribal_HeavyArcher.labelFemalePlural>女性基萨然灵猫重装弓箭手</Kisalfar_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Kisalfar_Tribal_ChiefMelee -->  <!--[Duplicated] <Kisalfar_Tribal_ChiefMelee.label>Kisalfar_Tribal_ChiefMelee</Kisalfar_Tribal_ChiefMelee.label>-->
+  <!-- Kisalfar_Tribal_ChiefMelees -->  <!--[Duplicated] <Kisalfar_Tribal_ChiefMelee.labelPlural>Kisalfar_Tribal_ChiefMelees</Kisalfar_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Kisalfar_Tribal_ChiefMelee -->  <!--[Duplicated] <Kisalfar_Tribal_ChiefMelee.labelMale>男性Kisalfar_Tribal_ChiefMelee</Kisalfar_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Kisalfar_Tribal_ChiefMelees -->  <!--[Duplicated] <Kisalfar_Tribal_ChiefMelee.labelMalePlural>男性Kisalfar_Tribal_ChiefMelees</Kisalfar_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Kisalfar_Tribal_ChiefMelee -->  <!--[Duplicated] <Kisalfar_Tribal_ChiefMelee.labelFemale>女性Kisalfar_Tribal_ChiefMelee</Kisalfar_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Kisalfar_Tribal_ChiefMelees -->  <!--[Duplicated] <Kisalfar_Tribal_ChiefMelee.labelFemalePlural>女性Kisalfar_Tribal_ChiefMelees</Kisalfar_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Kisalfar berserker chief -->  <Kisalfar_Tribal_ChiefMelee.label>基萨然灵猫狂战士队长</Kisalfar_Tribal_ChiefMelee.label>
+  <!-- Kisalfar berserker chiefs -->  <Kisalfar_Tribal_ChiefMelee.labelPlural>基萨然灵猫狂战士队长</Kisalfar_Tribal_ChiefMelee.labelPlural>
+  <!-- male Kisalfar berserker chief -->  <Kisalfar_Tribal_ChiefMelee.labelMale>男性基萨然灵猫狂战士队长</Kisalfar_Tribal_ChiefMelee.labelMale>
+  <!-- male Kisalfar berserker chiefs -->  <Kisalfar_Tribal_ChiefMelee.labelMalePlural>男性基萨然灵猫狂战士队长</Kisalfar_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Kisalfar berserker chief -->  <Kisalfar_Tribal_ChiefMelee.labelFemale>女性基萨然灵猫狂战士队长</Kisalfar_Tribal_ChiefMelee.labelFemale>
+  <!-- female Kisalfar berserker chiefs -->  <Kisalfar_Tribal_ChiefMelee.labelFemalePlural>女性基萨然灵猫狂战士队长</Kisalfar_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Kisalfar archer chief -->  <Kisalfar_Tribal_ChiefRanged.label>基萨然灵猫弓箭手队长</Kisalfar_Tribal_ChiefRanged.label>
+  <!-- Kisalfar archer chiefs -->  <Kisalfar_Tribal_ChiefRanged.labelPlural>基萨然灵猫弓箭手队长</Kisalfar_Tribal_ChiefRanged.labelPlural>
+  <!-- male Kisalfar archer chief -->  <Kisalfar_Tribal_ChiefRanged.labelMale>男性基萨然灵猫弓箭手队长</Kisalfar_Tribal_ChiefRanged.labelMale>
+  <!-- male Kisalfar archer chiefs -->  <Kisalfar_Tribal_ChiefRanged.labelMalePlural>男性基萨然灵猫弓箭手队长</Kisalfar_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Kisalfar archer chief -->  <Kisalfar_Tribal_ChiefRanged.labelFemale>女性基萨然灵猫弓箭手队长</Kisalfar_Tribal_ChiefRanged.labelFemale>
+  <!-- female Kisalfar archer chiefs -->  <Kisalfar_Tribal_ChiefRanged.labelFemalePlural>女性基萨然灵猫弓箭手队长</Kisalfar_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

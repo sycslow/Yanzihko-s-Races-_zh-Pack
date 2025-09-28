@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <KisalfarTribalPawn.label>部落民</KisalfarTribalPawn.label>
+  <!-- members -->  <KisalfarTribalPawn.labelPlural>部落民</KisalfarTribalPawn.labelPlural>
+  <!-- male member -->  <KisalfarTribalPawn.labelMale>男性部落民</KisalfarTribalPawn.labelMale>
+  <!-- male members -->  <KisalfarTribalPawn.labelMalePlural>男性部落民</KisalfarTribalPawn.labelMalePlural>
+  <!-- female member -->  <KisalfarTribalPawn.labelFemale>女性部落民</KisalfarTribalPawn.labelFemale>
+  <!-- female members -->  <KisalfarTribalPawn.labelFemalePlural>女性部落民</KisalfarTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <KisalfarIndustrialPawn.label>殖民者</KisalfarIndustrialPawn.label>
+  <!-- members -->  <KisalfarIndustrialPawn.labelPlural>殖民者</KisalfarIndustrialPawn.labelPlural>
+  <!-- male member -->  <KisalfarIndustrialPawn.labelMale>男性殖民者</KisalfarIndustrialPawn.labelMale>
+  <!-- male members -->  <KisalfarIndustrialPawn.labelMalePlural>男性殖民者</KisalfarIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <KisalfarIndustrialPawn.labelFemale>女性殖民者</KisalfarIndustrialPawn.labelFemale>
+  <!-- female members -->  <KisalfarIndustrialPawn.labelFemalePlural>女性殖民者</KisalfarIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

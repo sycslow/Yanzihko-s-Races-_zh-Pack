@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Kisalfar -->  <Kisalfar.label>基薩然靈貓</Kisalfar.label>
+  <!-- Genetic descendants of the Fressalfar. The Kisalfar are slightly inferior the Fressalfar due to the highly unstable genome not replicating perfectly outside of lab conditions. Physically this led to the lost of their highly coveted horns and some would say they could never live up to the original race. However, the combination of high intelligence and growing up in a natural environment means the  Kisalfar are much more attuned with the ways of their home world and those around them. What they lost in speed and beauty they make up for in natural charm and instinct and they have proven an ability to get along with humans in a way the Fressalfar never could. Kisalfar is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Kisalfar.description>基薩然靈貓是由弗雷薩純靈貓所產生的基因遺傳後代。由於其極度不穩定的基因組在實驗室條件之外的環境中無法完美的複製，導致了基薩然靈貓略遜於弗雷薩純靈貓。而從外表上來看，這也導致他們失去了令人垂涎且珍視的角，有些人會說：他們永遠無法媲美原始種族的水平。然而，在藉由高度的智慧並結合在自然環境中成長的經歷，這使他們對自己所在的家鄉世界能夠有更佳的適應力以外，也對其週遭環境能夠擁有更深刻的感知。雖然他們失去了速度和美貌上的優勢特性，但卻也以自然的魅力和本能的直覺來彌補其缺失的部分，與弗雷薩純靈貓難以融入人類社會的特質相比，基薩然靈貓更能表現出與人類和睦相處的卓越能力，成為一個更易於共存的族群。基薩然靈貓是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Kisalfar.description>
+  <!-- teeth -->  <Kisalfar.tools.0.label>牙齒</Kisalfar.tools.0.label>
+  <!-- left claws -->  <Kisalfar.tools.1.label>左爪</Kisalfar.tools.1.label>
+  <!-- right claws -->  <Kisalfar.tools.2.label>右爪</Kisalfar.tools.2.label>
+  <!-- 這兩個別動 -->
+  <!-- hair --><!--  <Kisalfar.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Kisalfar.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <Kisalfar.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Kisalfar.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

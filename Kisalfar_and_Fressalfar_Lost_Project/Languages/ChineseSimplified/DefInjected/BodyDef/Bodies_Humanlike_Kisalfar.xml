@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Kisalfar -->  <Kisalfar.label>基萨然灵猫</Kisalfar.label>
+  <!-- left lung -->  <Kisalfar.corePart.parts.7.customLabel>左肺</Kisalfar.corePart.parts.7.customLabel>
+  <!-- right lung -->  <Kisalfar.corePart.parts.8.customLabel>右肺</Kisalfar.corePart.parts.8.customLabel>
+  <!-- left kidney -->  <Kisalfar.corePart.parts.9.customLabel>左肾</Kisalfar.corePart.parts.9.customLabel>
+  <!-- right kidney -->  <Kisalfar.corePart.parts.10.customLabel>右肾</Kisalfar.corePart.parts.10.customLabel>
+  <!-- left eye -->  <Kisalfar.corePart.parts.12.parts.0.parts.1.customLabel>左眼</Kisalfar.corePart.parts.12.parts.0.parts.1.customLabel>
+  <!-- right eye -->  <Kisalfar.corePart.parts.12.parts.0.parts.2.customLabel>右眼</Kisalfar.corePart.parts.12.parts.0.parts.2.customLabel>
+  <!-- left ear -->  <Kisalfar.corePart.parts.12.parts.0.parts.3.customLabel>左耳</Kisalfar.corePart.parts.12.parts.0.parts.3.customLabel>
+  <!-- right ear -->  <Kisalfar.corePart.parts.12.parts.0.parts.4.customLabel>右耳</Kisalfar.corePart.parts.12.parts.0.parts.4.customLabel>
+  <!-- left shoulder -->  <Kisalfar.corePart.parts.13.customLabel>左肩</Kisalfar.corePart.parts.13.customLabel>
+  <!-- left clavicle -->  <Kisalfar.corePart.parts.13.parts.0.customLabel>左锁骨</Kisalfar.corePart.parts.13.parts.0.customLabel>
+  <!-- left arm -->  <Kisalfar.corePart.parts.13.parts.1.customLabel>左臂</Kisalfar.corePart.parts.13.parts.1.customLabel>
+  <!-- left humerus -->  <Kisalfar.corePart.parts.13.parts.1.parts.0.customLabel>左肱骨</Kisalfar.corePart.parts.13.parts.1.parts.0.customLabel>
+  <!-- left radius -->  <Kisalfar.corePart.parts.13.parts.1.parts.1.customLabel>左桡骨</Kisalfar.corePart.parts.13.parts.1.parts.1.customLabel>
+  <!-- left hand -->  <Kisalfar.corePart.parts.13.parts.1.parts.2.customLabel>左手</Kisalfar.corePart.parts.13.parts.1.parts.2.customLabel>
+  <!-- left pinky -->  <Kisalfar.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>左小指</Kisalfar.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <!-- left ring finger -->  <Kisalfar.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>左无名指</Kisalfar.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <!-- left middle finger -->  <Kisalfar.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>左中指</Kisalfar.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <!-- left index finger -->  <Kisalfar.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>左食指</Kisalfar.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <!-- left thumb -->  <Kisalfar.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>左拇指</Kisalfar.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <!-- right shoulder -->  <Kisalfar.corePart.parts.14.customLabel>右肩</Kisalfar.corePart.parts.14.customLabel>
+  <!-- right clavicle -->  <Kisalfar.corePart.parts.14.parts.0.customLabel>右锁骨</Kisalfar.corePart.parts.14.parts.0.customLabel>
+  <!-- right arm -->  <Kisalfar.corePart.parts.14.parts.1.customLabel>右臂</Kisalfar.corePart.parts.14.parts.1.customLabel>
+  <!-- right humerus -->  <Kisalfar.corePart.parts.14.parts.1.parts.0.customLabel>右肱骨</Kisalfar.corePart.parts.14.parts.1.parts.0.customLabel>
+  <!-- right radius -->  <Kisalfar.corePart.parts.14.parts.1.parts.1.customLabel>右桡骨</Kisalfar.corePart.parts.14.parts.1.parts.1.customLabel>
+  <!-- right hand -->  <Kisalfar.corePart.parts.14.parts.1.parts.2.customLabel>右手</Kisalfar.corePart.parts.14.parts.1.parts.2.customLabel>
+  <!-- right pinky -->  <Kisalfar.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>右小指</Kisalfar.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <!-- right ring finger -->  <Kisalfar.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>右无名指</Kisalfar.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <!-- right middle finger -->  <Kisalfar.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>右中指</Kisalfar.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <!-- right index finger -->  <Kisalfar.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>右食指</Kisalfar.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <!-- right thumb -->  <Kisalfar.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>右拇指</Kisalfar.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <!-- left leg -->  <Kisalfar.corePart.parts.16.customLabel>左腿</Kisalfar.corePart.parts.16.customLabel>
+  <!-- left femur -->  <Kisalfar.corePart.parts.16.parts.0.customLabel>左股骨</Kisalfar.corePart.parts.16.parts.0.customLabel>
+  <!-- left tibia -->  <Kisalfar.corePart.parts.16.parts.1.customLabel>左胫骨</Kisalfar.corePart.parts.16.parts.1.customLabel>
+  <!-- left foot -->  <Kisalfar.corePart.parts.16.parts.2.customLabel>左脚</Kisalfar.corePart.parts.16.parts.2.customLabel>
+  <!-- left little toe -->  <Kisalfar.corePart.parts.16.parts.2.parts.0.customLabel>左小趾</Kisalfar.corePart.parts.16.parts.2.parts.0.customLabel>
+  <!-- left fourth toe -->  <Kisalfar.corePart.parts.16.parts.2.parts.1.customLabel>左四趾</Kisalfar.corePart.parts.16.parts.2.parts.1.customLabel>
+  <!-- left middle toe -->  <Kisalfar.corePart.parts.16.parts.2.parts.2.customLabel>左中趾</Kisalfar.corePart.parts.16.parts.2.parts.2.customLabel>
+  <!-- left second toe -->  <Kisalfar.corePart.parts.16.parts.2.parts.3.customLabel>左二趾</Kisalfar.corePart.parts.16.parts.2.parts.3.customLabel>
+  <!-- left big toe -->  <Kisalfar.corePart.parts.16.parts.2.parts.4.customLabel>左拇趾</Kisalfar.corePart.parts.16.parts.2.parts.4.customLabel>
+  <!-- right leg -->  <Kisalfar.corePart.parts.17.customLabel>右腿</Kisalfar.corePart.parts.17.customLabel>
+  <!-- right femur -->  <Kisalfar.corePart.parts.17.parts.0.customLabel>右股骨</Kisalfar.corePart.parts.17.parts.0.customLabel>
+  <!-- right tibia -->  <Kisalfar.corePart.parts.17.parts.1.customLabel>右胫骨</Kisalfar.corePart.parts.17.parts.1.customLabel>
+  <!-- right foot -->  <Kisalfar.corePart.parts.17.parts.2.customLabel>右脚</Kisalfar.corePart.parts.17.parts.2.customLabel>
+  <!-- right little toe -->  <Kisalfar.corePart.parts.17.parts.2.parts.0.customLabel>右小趾</Kisalfar.corePart.parts.17.parts.2.parts.0.customLabel>
+  <!-- right fourth toe -->  <Kisalfar.corePart.parts.17.parts.2.parts.1.customLabel>右四趾</Kisalfar.corePart.parts.17.parts.2.parts.1.customLabel>
+  <!-- right middle toe -->  <Kisalfar.corePart.parts.17.parts.2.parts.2.customLabel>右中趾</Kisalfar.corePart.parts.17.parts.2.parts.2.customLabel>
+  <!-- right second toe -->  <Kisalfar.corePart.parts.17.parts.2.parts.3.customLabel>右二趾</Kisalfar.corePart.parts.17.parts.2.parts.3.customLabel>
+  <!-- right big toe -->  <Kisalfar.corePart.parts.17.parts.2.parts.4.customLabel>右拇趾</Kisalfar.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

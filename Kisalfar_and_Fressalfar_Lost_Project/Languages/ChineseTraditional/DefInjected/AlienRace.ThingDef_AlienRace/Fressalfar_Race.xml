@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fressalfar -->  <Fressalfar.label>弗雷薩純靈貓</Fressalfar.label>
+  <!-- A marvel of genetic engineering created on a far off glitterworld on the verge of transcendence. The Fressalfar were the result of a lone scientists quest to engineer the perfect being that did not rely on the taint of mechanite technology. Pods of them were sent off to rimworlds all across the universe in an effort to save his creation before the AI scourge devoured their homeworld. Believed to be the genetic combination of hyper-intelligent felines, thrumbos, and human DNA; the Fressalfar are fast, highly intelligent, and incredibly beautiful. Fressalfar is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->
+  <!--thrumbo 獨角獸 敲擊獸-->  <Fressalfar.description>弗雷薩純靈貓是誕生於一個即將瀕臨昇華之際，且遙遠的閃耀世界基因工程奇蹟。這種族是由一名孤獨的科學家，為了創造出不依賴於機械體科技所污染的完美存在，所進行的實驗結果。在被人工智慧的災厄吞噬掉他們的家鄉世界之前，他將載有弗雷薩純靈貓種群的貨艙飛船發送到了宇宙各處的邊緣世界各地，以為了拯救他的創造物。據說，弗雷薩純靈貓是被認為是由超高智慧的貓科生物、獨角獸和人類的DNA所結合而成的基因物種。他們速度極快、智力超群，且美麗非凡，堪稱造物的巔峰之作。弗雷薩純靈貓是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Fressalfar.description>
+  <!-- teeth -->  <Fressalfar.tools.0.label>牙齒</Fressalfar.tools.0.label>
+  <!-- left claws -->  <Fressalfar.tools.1.label>左爪</Fressalfar.tools.1.label>
+  <!-- right claws -->  <Fressalfar.tools.2.label>右爪</Fressalfar.tools.2.label>
+  <!-- 這兩個別動 -->
+  <!-- hair --><!--  <Fressalfar.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Fressalfar.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <Fressalfar.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Fressalfar.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

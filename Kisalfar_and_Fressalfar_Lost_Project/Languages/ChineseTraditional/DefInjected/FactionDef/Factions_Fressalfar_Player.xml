@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Fressalfar Tribe -->  <PlayerFressalfarTribal.label>弗雷薩純靈貓部落</PlayerFressalfarTribal.label>
+  <!-- Fressalfar tribe -->  <PlayerFressalfarTribal.description>弗雷薩純靈貓部落</PlayerFressalfarTribal.description>
+  <!-- Fressalfar -->  <PlayerFressalfarTribal.pawnsPlural>弗雷薩純靈貓部落民</PlayerFressalfarTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Fressalfar Tribe (No tech) -->  <PlayerFressalfarTribalNoTech.label>弗雷薩純靈貓部落 (無科技)</PlayerFressalfarTribalNoTech.label>
+  <!-- Fressalfar tribe -->  <PlayerFressalfarTribalNoTech.description>弗雷薩純靈貓部落</PlayerFressalfarTribalNoTech.description>
+  <!-- Fressalfar -->  <PlayerFressalfarTribalNoTech.pawnsPlural>弗雷薩純靈貓部落民</PlayerFressalfarTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Fressalfar Colony -->  <PlayerFressalfarIndustrial.label>弗雷薩純靈貓殖民地</PlayerFressalfarIndustrial.label>
+  <!-- Fressalfar Colony -->  <PlayerFressalfarIndustrial.description>弗雷薩純靈貓殖民地</PlayerFressalfarIndustrial.description>
+  <!-- Fressalfar -->  <PlayerFressalfarIndustrial.pawnsPlural>弗雷薩純靈貓殖民者</PlayerFressalfarIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Fressalfar Colony (No tech) -->  <PlayerFressalfarIndustrialNoTech.label>弗雷薩純靈貓殖民地 (無科技)</PlayerFressalfarIndustrialNoTech.label>
+  <!-- Fressalfar colony -->  <PlayerFressalfarIndustrialNoTech.description>弗雷薩純靈貓殖民地</PlayerFressalfarIndustrialNoTech.description>
+  <!-- Fressalfar -->  <PlayerFressalfarIndustrialNoTech.pawnsPlural>弗雷薩純靈貓殖民者</PlayerFressalfarIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

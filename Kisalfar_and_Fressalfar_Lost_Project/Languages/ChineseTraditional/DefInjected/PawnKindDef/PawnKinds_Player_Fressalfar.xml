@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <FressalfarTribalPawn.label>部落民</FressalfarTribalPawn.label>
+  <!-- members -->  <FressalfarTribalPawn.labelPlural>部落民</FressalfarTribalPawn.labelPlural>
+  <!-- male member -->  <FressalfarTribalPawn.labelMale>男性部落民</FressalfarTribalPawn.labelMale>
+  <!-- male members -->  <FressalfarTribalPawn.labelMalePlural>男性部落民</FressalfarTribalPawn.labelMalePlural>
+  <!-- female member -->  <FressalfarTribalPawn.labelFemale>女性部落民</FressalfarTribalPawn.labelFemale>
+  <!-- female members -->  <FressalfarTribalPawn.labelFemalePlural>女性部落民</FressalfarTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <FressalfarIndustrialPawn.label>殖民者</FressalfarIndustrialPawn.label>
+  <!-- members -->  <FressalfarIndustrialPawn.labelPlural>殖民者</FressalfarIndustrialPawn.labelPlural>
+  <!-- male member -->  <FressalfarIndustrialPawn.labelMale>男性殖民者</FressalfarIndustrialPawn.labelMale>
+  <!-- male members -->  <FressalfarIndustrialPawn.labelMalePlural>男性殖民者</FressalfarIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <FressalfarIndustrialPawn.labelFemale>女性殖民者</FressalfarIndustrialPawn.labelFemale>
+  <!-- female members -->  <FressalfarIndustrialPawn.labelFemalePlural>女性殖民者</FressalfarIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

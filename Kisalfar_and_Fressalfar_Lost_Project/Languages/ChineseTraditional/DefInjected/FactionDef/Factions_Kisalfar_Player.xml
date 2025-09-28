@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Kisalfar Tribe -->  <PlayerKisalfarTribal.label>基薩然靈貓部落</PlayerKisalfarTribal.label>
+  <!-- Kisalfar tribe -->  <PlayerKisalfarTribal.description>基薩然靈貓部落</PlayerKisalfarTribal.description>
+  <!-- Kisalfar -->  <PlayerKisalfarTribal.pawnsPlural>基薩然靈貓部落民</PlayerKisalfarTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Kisalfar Tribe (No tech) -->  <PlayerKisalfarTribalNoTech.label>基薩然靈貓部落 (無科技)</PlayerKisalfarTribalNoTech.label>
+  <!-- Kisalfar tribe -->  <PlayerKisalfarTribalNoTech.description>基薩然靈貓部落</PlayerKisalfarTribalNoTech.description>
+  <!-- Kisalfar -->  <PlayerKisalfarTribalNoTech.pawnsPlural>基薩然靈貓部落民</PlayerKisalfarTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Kisalfar Colony -->  <PlayerKisalfarIndustrial.label>基薩然靈貓殖民地</PlayerKisalfarIndustrial.label>
+  <!-- Kisalfar Colony -->  <PlayerKisalfarIndustrial.description>基薩然靈貓殖民地</PlayerKisalfarIndustrial.description>
+  <!-- Kisalfar -->  <PlayerKisalfarIndustrial.pawnsPlural>基薩然靈貓殖民者</PlayerKisalfarIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Kisalfar Colony (No tech) -->  <PlayerKisalfarIndustrialNoTech.label>基薩然靈貓殖民地 (無科技)</PlayerKisalfarIndustrialNoTech.label>
+  <!-- Kisalfar colony -->  <PlayerKisalfarIndustrialNoTech.description>基薩然靈貓殖民地</PlayerKisalfarIndustrialNoTech.description>
+  <!-- Kisalfar -->  <PlayerKisalfarIndustrialNoTech.pawnsPlural>基薩然靈貓殖民者</PlayerKisalfarIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

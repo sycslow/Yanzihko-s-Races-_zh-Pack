@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fressalfar -->  <Fressalfar.label>弗雷薩純靈貓</Fressalfar.label>
+  <!-- left lung -->  <Fressalfar.corePart.parts.7.customLabel>左肺</Fressalfar.corePart.parts.7.customLabel>
+  <!-- right lung -->  <Fressalfar.corePart.parts.8.customLabel>右肺</Fressalfar.corePart.parts.8.customLabel>
+  <!-- left kidney -->  <Fressalfar.corePart.parts.9.customLabel>左腎</Fressalfar.corePart.parts.9.customLabel>
+  <!-- right kidney -->  <Fressalfar.corePart.parts.10.customLabel>右腎</Fressalfar.corePart.parts.10.customLabel>
+  <!-- left eye -->  <Fressalfar.corePart.parts.12.parts.0.parts.1.customLabel>左眼</Fressalfar.corePart.parts.12.parts.0.parts.1.customLabel>
+  <!-- right eye -->  <Fressalfar.corePart.parts.12.parts.0.parts.2.customLabel>右眼</Fressalfar.corePart.parts.12.parts.0.parts.2.customLabel>
+  <!-- left ear -->  <Fressalfar.corePart.parts.12.parts.0.parts.3.customLabel>左耳</Fressalfar.corePart.parts.12.parts.0.parts.3.customLabel>
+  <!-- right ear -->  <Fressalfar.corePart.parts.12.parts.0.parts.4.customLabel>右耳</Fressalfar.corePart.parts.12.parts.0.parts.4.customLabel>
+  <!-- left shoulder -->  <Fressalfar.corePart.parts.13.customLabel>左肩</Fressalfar.corePart.parts.13.customLabel>
+  <!-- left clavicle -->  <Fressalfar.corePart.parts.13.parts.0.customLabel>左鎖骨</Fressalfar.corePart.parts.13.parts.0.customLabel>
+  <!-- left arm -->  <Fressalfar.corePart.parts.13.parts.1.customLabel>左臂</Fressalfar.corePart.parts.13.parts.1.customLabel>
+  <!-- left humerus -->  <Fressalfar.corePart.parts.13.parts.1.parts.0.customLabel>左肱骨</Fressalfar.corePart.parts.13.parts.1.parts.0.customLabel>
+  <!-- left radius -->  <Fressalfar.corePart.parts.13.parts.1.parts.1.customLabel>左橈骨</Fressalfar.corePart.parts.13.parts.1.parts.1.customLabel>
+  <!-- left hand -->  <Fressalfar.corePart.parts.13.parts.1.parts.2.customLabel>左手</Fressalfar.corePart.parts.13.parts.1.parts.2.customLabel>
+  <!-- left pinky -->  <Fressalfar.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>左小指</Fressalfar.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <!-- left ring finger -->  <Fressalfar.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>左無名指</Fressalfar.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <!-- left middle finger -->  <Fressalfar.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>左中指</Fressalfar.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <!-- left index finger -->  <Fressalfar.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>左食指</Fressalfar.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <!-- left thumb -->  <Fressalfar.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>左拇指</Fressalfar.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <!-- right shoulder -->  <Fressalfar.corePart.parts.14.customLabel>右肩</Fressalfar.corePart.parts.14.customLabel>
+  <!-- right clavicle -->  <Fressalfar.corePart.parts.14.parts.0.customLabel>右鎖骨</Fressalfar.corePart.parts.14.parts.0.customLabel>
+  <!-- right arm -->  <Fressalfar.corePart.parts.14.parts.1.customLabel>右臂</Fressalfar.corePart.parts.14.parts.1.customLabel>
+  <!-- right humerus -->  <Fressalfar.corePart.parts.14.parts.1.parts.0.customLabel>右肱骨</Fressalfar.corePart.parts.14.parts.1.parts.0.customLabel>
+  <!-- right radius -->  <Fressalfar.corePart.parts.14.parts.1.parts.1.customLabel>右橈骨</Fressalfar.corePart.parts.14.parts.1.parts.1.customLabel>
+  <!-- right hand -->  <Fressalfar.corePart.parts.14.parts.1.parts.2.customLabel>右手</Fressalfar.corePart.parts.14.parts.1.parts.2.customLabel>
+  <!-- right pinky -->  <Fressalfar.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>右小指</Fressalfar.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <!-- right ring finger -->  <Fressalfar.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>右無名指</Fressalfar.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <!-- right middle finger -->  <Fressalfar.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>右中指</Fressalfar.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <!-- right index finger -->  <Fressalfar.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>右食指</Fressalfar.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <!-- right thumb -->  <Fressalfar.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>右拇指</Fressalfar.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <!-- left leg -->  <Fressalfar.corePart.parts.16.customLabel>左腿</Fressalfar.corePart.parts.16.customLabel>
+  <!-- left femur -->  <Fressalfar.corePart.parts.16.parts.0.customLabel>左股骨</Fressalfar.corePart.parts.16.parts.0.customLabel>
+  <!-- left tibia -->  <Fressalfar.corePart.parts.16.parts.1.customLabel>左脛骨</Fressalfar.corePart.parts.16.parts.1.customLabel>
+  <!-- left foot -->  <Fressalfar.corePart.parts.16.parts.2.customLabel>左腳</Fressalfar.corePart.parts.16.parts.2.customLabel>
+  <!-- left little toe -->  <Fressalfar.corePart.parts.16.parts.2.parts.0.customLabel>左小趾</Fressalfar.corePart.parts.16.parts.2.parts.0.customLabel>
+  <!-- left fourth toe -->  <Fressalfar.corePart.parts.16.parts.2.parts.1.customLabel>左四趾</Fressalfar.corePart.parts.16.parts.2.parts.1.customLabel>
+  <!-- left middle toe -->  <Fressalfar.corePart.parts.16.parts.2.parts.2.customLabel>左中趾</Fressalfar.corePart.parts.16.parts.2.parts.2.customLabel>
+  <!-- left second toe -->  <Fressalfar.corePart.parts.16.parts.2.parts.3.customLabel>左二趾</Fressalfar.corePart.parts.16.parts.2.parts.3.customLabel>
+  <!-- left big toe -->  <Fressalfar.corePart.parts.16.parts.2.parts.4.customLabel>左拇趾</Fressalfar.corePart.parts.16.parts.2.parts.4.customLabel>
+  <!-- right leg -->  <Fressalfar.corePart.parts.17.customLabel>右腿</Fressalfar.corePart.parts.17.customLabel>
+  <!-- right femur -->  <Fressalfar.corePart.parts.17.parts.0.customLabel>右股骨</Fressalfar.corePart.parts.17.parts.0.customLabel>
+  <!-- right tibia -->  <Fressalfar.corePart.parts.17.parts.1.customLabel>右脛骨</Fressalfar.corePart.parts.17.parts.1.customLabel>
+  <!-- right foot -->  <Fressalfar.corePart.parts.17.parts.2.customLabel>右腳</Fressalfar.corePart.parts.17.parts.2.customLabel>
+  <!-- right little toe -->  <Fressalfar.corePart.parts.17.parts.2.parts.0.customLabel>右小趾</Fressalfar.corePart.parts.17.parts.2.parts.0.customLabel>
+  <!-- right fourth toe -->  <Fressalfar.corePart.parts.17.parts.2.parts.1.customLabel>右四趾</Fressalfar.corePart.parts.17.parts.2.parts.1.customLabel>
+  <!-- right middle toe -->  <Fressalfar.corePart.parts.17.parts.2.parts.2.customLabel>右中趾</Fressalfar.corePart.parts.17.parts.2.parts.2.customLabel>
+  <!-- right second toe -->  <Fressalfar.corePart.parts.17.parts.2.parts.3.customLabel>右二趾</Fressalfar.corePart.parts.17.parts.2.parts.3.customLabel>
+  <!-- right big toe -->  <Fressalfar.corePart.parts.17.parts.2.parts.4.customLabel>右拇趾</Fressalfar.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>
