@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Cheetah -->
+  <FFR_Cheetah.degreeDatas.0.label>猎豹种</FFR_Cheetah.degreeDatas.0.label>
+  <!-- {PAWN_nameDef} is a Cheetah. {PAWN_nameDef} is a great runner with a sharp sight. However, just like most Feline species, {PAWN_pronoun} is not a very Social being. -->
+  <FFR_Cheetah.degreeDatas.0.description>{PAWN_nameDef}是个猎豹种。{PAWN_nameDef}也是个出色的奔驰者，并拥有敏锐的视力。然而，就如同大多数的菲利斯猫科一样，{PAWN_pronoun}同样也不是一个很喜欢社交的物种。</FFR_Cheetah.degreeDatas.0.description>
+
+<!-- Leo -->
+  <FFR_Leo.degreeDatas.0.label>狮子种</FFR_Leo.degreeDatas.0.label>
+  <!-- {PAWN_nameDef} is a Leo. {PAWN_nameDef} is a great natural predator with sharp sight and is rather Social, compared to other Feline species. -->
+  <FFR_Leo.degreeDatas.0.description>{PAWN_nameDef}是个狮子种。{PAWN_nameDef}也是个天生且出色的掠食者，并拥有敏锐的视力。不过相较于其他菲利斯猫科来说，{PAWN_pronoun}却更加擅长社交。</FFR_Leo.degreeDatas.0.description>
+
+<!-- Jaguar -->
+  <FFR_Jaguar.degreeDatas.0.label>美洲豹种</FFR_Jaguar.degreeDatas.0.label>
+  <!-- {PAWN_nameDef} is a Jaguar. {PAWN_nameDef} is a great natural predator with sharp sight. However, just like most Feline species, {PAWN_pronoun} is not a very Social being. -->
+  <FFR_Jaguar.degreeDatas.0.description>{PAWN_nameDef}是个美洲豹种。{PAWN_nameDef}也是个天生且出色的掠食者，并拥有敏锐的视力。然而，就如同大多数的菲利斯猫科一样，{PAWN_pronoun}同样也不是一个很喜欢社交的物种。</FFR_Jaguar.degreeDatas.0.description>
+
+<!-- Panther -->
+  <FFR_Panther.degreeDatas.0.label>黑豹种</FFR_Panther.degreeDatas.0.label>
+  <!-- {PAWN_nameDef} is a Panther. {PAWN_nameDef} is a great natural predator with sharp sight. However, just like most Feline species, {PAWN_pronoun} is not a very Social being. -->
+  <FFR_Panther.degreeDatas.0.description>{PAWN_nameDef}是个黑豹种。{PAWN_nameDef}也是个天生且出色的掠食者，并拥有敏锐的视力。然而，就如同大多数的菲利斯猫科一样，{PAWN_pronoun}同样也不是一个很喜欢社交的物种。</FFR_Panther.degreeDatas.0.description>
+
+<!-- Tigris -->
+  <FFR_Tigris.degreeDatas.0.label>老虎种</FFR_Tigris.degreeDatas.0.label>
+  <!-- {PAWN_nameDef} is a Tigris. {PAWN_nameDef} is a great natural predator with sharp sight. However, just like most Feline species, {PAWN_pronoun} is not a very Social being. -->
+  <FFR_Tigris.degreeDatas.0.description>{PAWN_nameDef}是个老虎种。{PAWN_nameDef}也是个天生且出色的掠食者，并拥有敏锐的视力。然而，就如同大多数的菲利斯猫科一样，{PAWN_pronoun}同样也不是一个很喜欢社交的物种。</FFR_Tigris.degreeDatas.0.description>
+
+
+</LanguageData>

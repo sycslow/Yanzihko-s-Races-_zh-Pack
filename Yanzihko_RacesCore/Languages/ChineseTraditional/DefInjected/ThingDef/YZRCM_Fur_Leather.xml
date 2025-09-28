@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alien Silk Fur -->
+  <YZRCM_basefur.label>異種絲絨毛</YZRCM_basefur.label>
+  <!-- EN: Extremely delicate and gentle silk fur stripped from some advanced xenotype. Breakdown of organic pigments turns fur white. Everything about this fur screams that it was precisely gene-engineered on a glitterworld. Extremely beautiful. But offers barely any protection. Traders usually don't ask what kind of an adorable creaure was butchered to get it. -->
+  <YZRCM_basefur.description>從某種高階異種生物身上所剝下來，具有極其細膩、又柔軟的絲絨毛皮。隨著有機色素的分解，其毛皮會逐漸轉變為純白色。這一切的細節特徵，彷彿都在訴說它是來自於閃耀世界上，經過精密基因工程所設計出的產物。極其美麗，但幾乎沒有任何保護性。而商人們通常也不會過問，這些究竟從什麼樣的可愛生物上屠宰下來的。</YZRCM_basefur.description>
+  
+  <!-- EN: Alien Silk Leather -->
+  <YZRCM_baseleather.label>異種絲綢皮</YZRCM_baseleather.label>
+  <!-- EN: Extremely delicate and gentle silk leather stripped from some advanced xenotype. Breakdown of organic pigments turns leather white. Everything about this leather screams that it was precisely gene-engineered on a glitterworld. Extremely beautiful. But offers barely any protection. Traders usually don't ask what kind of an adorable creaure was butchered to get it. -->
+  <YZRCM_baseleather.description>從某種高階異種生物身上所剝下來，具有極其細膩、又柔軟的絲絨皮革。隨著有機色素的分解，其皮革會逐漸轉變為純白色。這一切的細節特徵彷彿都在訴說，它是來自於閃耀世界上，經過精密基因工程所設計出的產物。極其美麗，但幾乎沒有任何保護性。而商人們通常也不會過問，這些究竟從什麼樣的可愛生物上屠宰下來的。</YZRCM_baseleather.description>
+  
+</LanguageData>

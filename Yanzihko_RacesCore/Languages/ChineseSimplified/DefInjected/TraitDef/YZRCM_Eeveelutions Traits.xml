@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Eevee -->
+  <EEM_Eevee.degreeDatas.Eevee.label>伊布</EEM_Eevee.degreeDatas.Eevee.label>
+  <!-- EN: {PAWN_nameDef} is an Eevee! -->
+  <!-- 虽然{PAWN_nameDef}跟其他伊布家族的进化形态相比并没有任何特殊之处，但是尽管{PAWN_possessive}体型较小，{PAWN_pronoun}却愿意承担最艰钜的任务。 -->
+  <EEM_Eevee.degreeDatas.Eevee.description>{PAWN_nameDef}是个伊布!</EEM_Eevee.degreeDatas.Eevee.description>
+  
+  <!-- EN: Espeon -->
+  <EEM_Espeon.degreeDatas.Espeon.label>太阳伊布</EEM_Espeon.degreeDatas.Espeon.label>
+  <!-- EN: {PAWN_nameDef} is an Espeon! -->
+  <EEM_Espeon.degreeDatas.Espeon.description>{PAWN_nameDef}是个太阳伊布!</EEM_Espeon.degreeDatas.Espeon.description>
+  
+  <!-- EN: Flareon -->
+  <EEM_Flareon.degreeDatas.Flareon.label>火伊布</EEM_Flareon.degreeDatas.Flareon.label>
+  <!-- EN: {PAWN_nameDef} is a Flareon! -->
+  <!-- 像大多数火伊布一样，{PAWN_pronoun}具有极强的耐热性和一些天生的战斗能力。 -->
+  <EEM_Flareon.degreeDatas.Flareon.description>{PAWN_nameDef}是个火伊布!</EEM_Flareon.degreeDatas.Flareon.description>
+  
+  <!-- EN: Glaceon -->
+  <EEM_Glaceon.degreeDatas.Glaceon.label>冰伊布</EEM_Glaceon.degreeDatas.Glaceon.label>
+  <!-- EN: {PAWN_nameDef} is an Glaceon! -->
+  <!-- {PAWN_nameDef}是个一只冰伊布。虽然{PAWN_nameDef}跟其他冰伊布家族的进化形态相比并没有任何特殊之处，但尽管{PAWN_possessive}体型较小， {PAWN_pronoun}却愿意承担最艰钜的任务。 -->
+  <EEM_Glaceon.degreeDatas.Glaceon.description>{PAWN_nameDef}是个冰伊布!</EEM_Glaceon.degreeDatas.Glaceon.description>
+  
+  <!-- EN: Jolteon -->
+  <EEM_Jolteon.degreeDatas.Jolteon.label>雷伊布</EEM_Jolteon.degreeDatas.Jolteon.label>
+  <!-- EN: {PAWN_nameDef} is an Jolteon! -->
+  <!-- 虽然{PAWN_nameDef}跟其他雷伊布家族的进化形态相比并没有任何特殊之处，但尽管{PAWN_possessive}体型较小，{PAWN_pronoun}却愿意承担最艰钜的任务。 -->
+  <EEM_Jolteon.degreeDatas.Jolteon.description>{PAWN_nameDef}是个雷伊布! </EEM_Jolteon.degreeDatas.Jolteon.description>
+  
+  <!-- EN: Leafeon -->
+  <EEM_Leafeon.degreeDatas.Leafeon.label>叶伊布</EEM_Leafeon.degreeDatas.Leafeon.label>
+  <!-- EN: {PAWN_nameDef} is a Leafeon! -->
+  <!-- 由于能进行光合作用的能力，{PAWN_possessive}身体几乎不需要摄取营养，但如果任何叶子受损或被破坏，那将会直接影响到{PAWN_pronoun}所有的生命系统。就象大多数的叶伊布一样，{PAWN_nameDef}非常擅长与植物打交道，甚至可以与植物进行某种沟通。 -->
+  <EEM_Leafeon.degreeDatas.Leafeon.description>{PAWN_nameDef}是个叶伊布!</EEM_Leafeon.degreeDatas.Leafeon.description>
+  
+  <!-- EN: Umbreon -->
+  <EEM_Umbreon.degreeDatas.Umbreon.label>月亮伊布</EEM_Umbreon.degreeDatas.Umbreon.label>
+  <!-- EN: {PAWN_nameDef} is an Umbreon! -->
+  <!-- {PAWN_nameDef}与所有的月亮伊布一样都是天生的战士，并且已经拥有了战斗本能和基本战斗知识，而这些基因都嵌入在{PAWN_possessive}DNA中。 -->
+  <EEM_Umbreon.degreeDatas.Umbreon.description>{PAWN_nameDef}是个月亮伊布!</EEM_Umbreon.degreeDatas.Umbreon.description>
+  
+  <!-- EN: Sylveon -->
+  <SFP_Sylveon.degreeDatas.Sylveon.label>仙子伊布</SFP_Sylveon.degreeDatas.Sylveon.label>
+  <!-- EN: {PAWN_nameDef} is a Sylveon! -->
+  <!-- ，作为基因工程仆役所期望的那样，{PAWN_pronoun}绝对可爱。仙子伊布被基因工程设计为生产线上的高效工人，并且基本的工艺制作原理已经嵌入了牠们的DNA中。 -->
+  <SFP_Sylveon.degreeDatas.Sylveon.description>{PAWN_nameDef}是个仙子伊布!</SFP_Sylveon.degreeDatas.Sylveon.description>
+  
+  <!-- EN: Vaporeon -->
+  <VWP_Vaporeon.degreeDatas.Vaporeon.label>水伊布</VWP_Vaporeon.degreeDatas.Vaporeon.label>
+  <!-- EN: {PAWN_nameDef} is a Vaporeon! -->
+  <!-- ，尽管外貌异常，但{PAWN_pronoun}绝对可爱。水伊布由于其天生的水生习性和天生的苦行者特性，往往能与大自然相调和，使牠们成为出色的农夫。 -->
+  <VWP_Vaporeon.degreeDatas.Vaporeon.description>{PAWN_nameDef}是个水伊布!</VWP_Vaporeon.degreeDatas.Vaporeon.description>
+  
+</LanguageData>

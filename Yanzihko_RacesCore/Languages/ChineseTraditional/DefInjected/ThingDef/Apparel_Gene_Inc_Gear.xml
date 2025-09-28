@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gen.IND. Universal Helmet -->  <YZRCM_Genhelm.label>Gen.IND.通用型頭盔</YZRCM_Genhelm.label>
+  <!-- Special helmet developed by "Genetical Industries" for a myriad of their xenotypes. Its original purpose is to protect user from dangers of space and environmental hazards at relatively cheap costs. Extremely adjustable to fit variety of head shapes and sizes. Not intended for use in combat. Can be worn only by Yanzihko's races. -->  <YZRCM_Genhelm.description>由「基因工業」開發製造，專門為其多種異種族群所設計出的特殊頭盔。其最初的用途目的是以相對低廉的成本，保護使用者避免遭受到來自外太空與危險環境的危害。具有極高的可調整性，能夠適配於各種頭型與尺寸。不適用於戰鬥用途。此裝備僅限由「Yanzihko」所屬的種族系列才能穿戴。</YZRCM_Genhelm.description>
+
+  <!-- Gen.IND. Universal Armor -->  <YZRCM_Genarmor.label>Gen.IND.通用型裝甲</YZRCM_Genarmor.label>
+  <!-- Special armor developed by "Genetical Industries" for a myriad of their xenotypes. Its original purpose is to protect user from dangers of space and environmental hazards at relatively cheap costs. Extremely adjustable to fit variety of body shapes and sizes. Not intended for use in combat. Comes with a portable shield. Can be worn only by Yanzihko's races. -->  <YZRCM_Genarmor.description>由「基因工業」開發製造，專門為其多種異種族群所設計出的特殊裝甲。其最初的用途目的是以相對低廉的成本，保護使用者避免遭受到來自外太空與危險環境的危害。具有極高的可調整性，能夠適配於各種身形與尺寸。不適用於戰鬥用途。此外裝甲還附帶一個可攜式的護盾。此裝備僅限由「Yanzihko」所屬的種族系列才能穿戴。</YZRCM_Genarmor.description>
+
+
+</LanguageData>

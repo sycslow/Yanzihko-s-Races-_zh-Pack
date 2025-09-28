@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Growing up on a Glitterworld, {PAWN_nameDef} enjoyed unparalleled comfort and technology, which gave {PAWN_objective} a well-rounded education in basic skills. -->
+  <YZRCM_000_Childbackstory.description>TODO</YZRCM_000_Childbackstory.description>
+  <!-- EN: Glitterworld Childhood -->
+  <YZRCM_000_Childbackstory.title>闪耀世界儿童</YZRCM_000_Childbackstory.title>
+  <!-- EN: Glitterworld Citizen -->
+  <YZRCM_000_Childbackstory.titleShort>闪耀世界公民</YZRCM_000_Childbackstory.titleShort>
+  
+  <!-- EN: Born aboard a cramped orbital habitat, {PAWN_nameDef} learned zero-G maintenance and hydroponics before arithmetic. -->
+  <YZRCM_001_Childbackstory.description>TODO</YZRCM_001_Childbackstory.description>
+  <!-- EN: Spaceborn Childhood -->
+  <YZRCM_001_Childbackstory.title>太空出生的儿童</YZRCM_001_Childbackstory.title>
+  <!-- EN: Spaceborn -->
+  <YZRCM_001_Childbackstory.titleShort>太空出生者</YZRCM_001_Childbackstory.titleShort>
+  
+  <!-- EN: During orbital habitat kindergarten, {PAWN_nameDef} became mesmerized by real-time holograms of nebulas. {PAWN_pronoun} spent recess tracing star formations with {PAWN_possessive} fingers while classmates played gravity-tag. -->
+  <YZRCM_002_Childbackstory.description>TODO</YZRCM_002_Childbackstory.description>
+  <!-- EN: Stellar Cartography -->
+  <YZRCM_002_Childbackstory.title>TODO</YZRCM_002_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_002_Childbackstory.titleShort>TODO</YZRCM_002_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} found discarded data-slugs containing pre-glitterworld archives when playing at an abandoned junkyard in underground levels. The struggle to restore orginal hardware and to decrypt primitive file formats became {PAWN_possessive} secret obsession; {PAWN_pronoun} cherished these 'broken' stories more than perfect holographic histories. -->
+  <YZRCM_003_Childbackstory.description>TODO</YZRCM_003_Childbackstory.description>
+  <!-- EN: Lost History Puzzles -->
+  <YZRCM_003_Childbackstory.title>TODO</YZRCM_003_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_003_Childbackstory.titleShort>TODO</YZRCM_003_Childbackstory.titleShort>
+  
+  <!-- EN: Tending a classroom aquaponic garden, {PAWN_nameDef} learned to negotiate between quarrelful species—the voracious moon-carps and shy glow-snails. {PAWN_possessive} patience for biological compromise surprised even the tutor AI. -->
+  <YZRCM_004_Childbackstory.description>TODO</YZRCM_004_Childbackstory.description>
+  <!-- EN: Ecosystem Balancing -->
+  <YZRCM_004_Childbackstory.title>TODO</YZRCM_004_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_004_Childbackstory.titleShort>TODO</YZRCM_004_Childbackstory.titleShort>
+  
+  <!-- EN: In anti-grav gym class, {PAWN_nameDef}’s unusual dexterity allowed impossible aerial spins. While others struggled with basic levitation, {PAWN_pronoun} pioneered zero-G dance moves that looked like liquid starlight. -->
+  <YZRCM_005_Childbackstory.description>TODO</YZRCM_005_Childbackstory.description>
+  <!-- EN: Gravity-Defying Dance -->
+  <YZRCM_005_Childbackstory.title>TODO</YZRCM_005_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_005_Childbackstory.titleShort>TODO</YZRCM_005_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} have turned {PAWN_possessive} fur into a solar energy capacitor, using a special mix of glittertech chemicals {PAWN_pronoun} stole from {PAWN_possessive} parents. Unfortunately, {PAWN_possessive} invention have proved to catch fur on fire under direct sunglight, giving {PAWN_possessive} poor parents an unique opportunity to practice using a fire extinguisher... -->
+  <YZRCM_006_Childbackstory.description>TODO</YZRCM_006_Childbackstory.description>
+  <!-- EN: Photon Harvesting -->
+  <YZRCM_006_Childbackstory.title>TODO</YZRCM_006_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_006_Childbackstory.titleShort>TODO</YZRCM_006_Childbackstory.titleShort>
+  
+  <!-- EN: During city tours, {PAWN_nameDef} sensed how buildings 'felt' —glass spires radiating calm, alloy plazas humming with ambition. {PAWN_pronoun} began sketching structures that changed texture with occupants' moods, baffling pragmatic tutors. -->
+  <YZRCM_007_Childbackstory.description>TODO</YZRCM_007_Childbackstory.description>
+  <!-- EN: Emotional Architecture -->
+  <YZRCM_007_Childbackstory.title>TODO</YZRCM_007_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_007_Childbackstory.titleShort>TODO</YZRCM_007_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}’s unnatural color intuition made {PAWN_objective} spent hours blending impossible hues in holographic looms, creating palettes that made ordinary glittergold seem dull. -->
+  <YZRCM_008_Childbackstory.description>TODO</YZRCM_008_Childbackstory.description>
+  <!-- EN: Precision Color-Weaving -->
+  <YZRCM_008_Childbackstory.title>TODO</YZRCM_008_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_008_Childbackstory.titleShort>TODO</YZRCM_008_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} became obsessed with thermodynamics and entropy studies after {PAWN_possessive} parents gifted {PAWN_objective} a pair of thermoentropic googles. Soon {PAWN_pronoun} was 'reading' stories in residual thermal signatures—where a robot sat, how long a friend lingered at a window and so on... -->
+  <YZRCM_009_Childbackstory.description>TODO</YZRCM_009_Childbackstory.description>
+  <!-- EN: Thermal Story Mapping -->
+  <YZRCM_009_Childbackstory.title>TODO</YZRCM_009_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_009_Childbackstory.titleShort>TODO</YZRCM_009_Childbackstory.titleShort>
+  
+  <!-- EN: While classmates manipulated complex force fields, {PAWN_nameDef} became fascinated by soap bubbles in a retro-playzone. {PAWN_pronoun} documented their fragile quantum-interference patterns, proving simple things could still hold mysteries. -->
+  <YZRCM_010_Childbackstory.description>TODO</YZRCM_010_Childbackstory.description>
+  <!-- EN: Bubble Physics -->
+  <YZRCM_010_Childbackstory.title>TODO</YZRCM_010_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_010_Childbackstory.titleShort>TODO</YZRCM_010_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} cultivated organic data-storing crystals that grew when 'fed' meaningful experiences. {PAWN_possessive} happiest memories made them glow amber; {PAWN_possessive} sadness grew delicate frost-patterns—a private emotional diary. -->
+  <YZRCM_011_Childbackstory.description>TODO</YZRCM_011_Childbackstory.description>
+  <!-- EN: Memory Crystal Gardening -->
+  <YZRCM_011_Childbackstory.title>TODO</YZRCM_011_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_011_Childbackstory.titleShort>TODO</YZRCM_011_Childbackstory.titleShort>
+  
+  <!-- EN: With {PAWN_possessive} keen nose, {PAWN_nameDef} could navigate the arcology blindfolded by tracing air-scents: ozone near robotics labs, vanilla near creches. {PAWN_pronoun} made local scent-maps that delighted sensory artists. One of artists was a sommelier, who even offered {PAWN_nameDef} a job at his reustarant. -->
+  <YZRCM_012_Childbackstory.description>TODO</YZRCM_012_Childbackstory.description>
+  <!-- EN: Scent-Based Navigation -->
+  <YZRCM_012_Childbackstory.title>TODO</YZRCM_012_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_012_Childbackstory.titleShort>TODO</YZRCM_012_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} found resonance in 'outdated' pursuits. {PAWN_pronoun} taught {PAWN_possessive} cleaner drone Morse code, then co-opted delivery bots to send tap-messages across the city—a hidden language in plain sight. -->
+  <YZRCM_013_Childbackstory.description>TODO</YZRCM_013_Childbackstory.description>
+  <!-- EN: Ancient Communication -->
+  <YZRCM_013_Childbackstory.title>TODO</YZRCM_013_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_013_Childbackstory.titleShort>TODO</YZRCM_013_Childbackstory.titleShort>
+  
+  <!-- EN: Using discarded atmospheric regulators, {PAWN_nameDef} built miniature weather domes in {PAWN_possessive} closet. Peers marveled at tiny snowstorms over model cities or fog-forests where bonsai trees dripped with engineered dew. -->
+  <YZRCM_014_Childbackstory.description>TODO</YZRCM_014_Childbackstory.description>
+  <!-- EN: Microclimate Creation -->
+  <YZRCM_014_Childbackstory.title>TODO</YZRCM_014_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_014_Childbackstory.titleShort>TODO</YZRCM_014_Childbackstory.titleShort>
+  
+  <!-- EN: In a world of holograms, {PAWN_nameDef} cherished physical puzzles-self-rearranging GLEGO alloy cubes or crystal labyrinths. The tactile 'click' of solutions satisfying {PAWN_objective} more than any virtual achievement. -->
+  <YZRCM_015_Childbackstory.description>TODO</YZRCM_015_Childbackstory.description>
+  <!-- EN: Analog Puzzlecraft -->
+  <YZRCM_015_Childbackstory.title>TODO</YZRCM_015_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_015_Childbackstory.titleShort>TODO</YZRCM_015_Childbackstory.titleShort>
+  
+  <!-- EN: When maintenance drones synchronized cleaning patterns in {PAWN_nameDef}'s arcology spire, {PAWN_pronoun} started directing them with improvised light-signals. Soon 47 drones were performing shimmering ballets in the atrium - much to the city AI's exasperated admiration. -->
+  <YZRCM_016_Childbackstory.description>TODO</YZRCM_016_Childbackstory.description>
+  <!-- EN: Drone Symphony Conductor -->
+  <YZRCM_016_Childbackstory.title>TODO</YZRCM_016_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_016_Childbackstory.titleShort>TODO</YZRCM_016_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} discovered {PAWN_possessive} emotion-altered pheromones for some reason could subtly shift local climate controls systems. Sadness summoned gentle rains over {PAWN_possessive} school garden; joy triggered miniature rainbows. Tutors called this little harmless mutation a disaster for self-adjusting Glitterworld systems dependent on biometric data... Classmates called it magic. -->
+  <YZRCM_017_Childbackstory.description>TODO</YZRCM_017_Childbackstory.description>
+  <!-- EN: Neural Weather Painter -->
+  <YZRCM_017_Childbackstory.title>TODO</YZRCM_017_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_017_Childbackstory.titleShort>TODO</YZRCM_017_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} never knew {PAWN_possessive} biological parents - {PAWN_pronoun} was decanted among 137 gene-siblings in a population-crèche. Their pod-group shared educational dreams via neural-links, forging bonds deeper than blood while mastering communal hydroponic duties. -->
+  <YZRCM_018_Childbackstory.description>TODO</YZRCM_018_Childbackstory.description>
+  <!-- EN: Crèche-Grown Gene-Line -->
+  <YZRCM_018_Childbackstory.title>TODO</YZRCM_018_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_018_Childbackstory.titleShort>TODO</YZRCM_018_Childbackstory.titleShort>
+  
+  <!-- EN: Amidst self-repairing tech, {PAWN_nameDef} obsessed over 'broken' 21st-century gadgets in the museum's discard pile. {PAWN_pronoun} spent months reassembling a primitive combustion engine, marveling at its chaotic noise and leaking oils - glorious imperfections forbidden in {PAWN_possessive} polished world. -->
+  <YZRCM_019_Childbackstory.description>TODO</YZRCM_019_Childbackstory.description>
+  <!-- EN: Retro Mechanics -->
+  <YZRCM_019_Childbackstory.title>TODO</YZRCM_019_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_019_Childbackstory.titleShort>TODO</YZRCM_019_Childbackstory.titleShort>
+  
+  <!-- EN: Raised by a rotating roster of caregiver-specialists, {PAWN_nameDef} absorbed fractions of 12 professions before age 10. The nano-architect taught {PAWN_objective} crystal-growth; the dreamweaver guided {PAWN_objective} meditation. Yet no one stayed long enough to teach {PAWN_objective} what 'family' meant beyond efficiency. -->
+  <YZRCM_020_Childbackstory.description>TODO</YZRCM_020_Childbackstory.description>
+  <!-- EN: Mentorship Network Child -->
+  <YZRCM_020_Childbackstory.title>TODO</YZRCM_020_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_020_Childbackstory.titleShort>TODO</YZRCM_020_Childbackstory.titleShort>
+  
+  <!-- EN: While peers flew in anti-grav gyms, {PAWN_nameDef} mapped friction. {PAWN_pronoun} cataloged every textured tile in the arcology - where polished marble made {PAWN_possessive} paws slide, or gridded alloy offered perfect traction. {PAWN_possessive} tactile atlas won {PAWN_objective} an award at glitterschool science fair. -->
+  <YZRCM_021_Childbackstory.description>TODO</YZRCM_021_Childbackstory.description>
+  <!-- EN: Gravity-Floor Cartographer -->
+  <YZRCM_021_Childbackstory.title>TODO</YZRCM_021_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_021_Childbackstory.titleShort>TODO</YZRCM_021_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} genetically modified glow-moss to pulse in narrative rhythms. Fairy tales unfolded across {PAWN_possessive} bedroom walls each night: villainous voids of darkness battling heroic constellations. Sleep-cycle monitors constantly scolded {PAWN_objective} for 'overstimulation. -->
+  <YZRCM_022_Childbackstory.description>TODO</YZRCM_022_Childbackstory.description>
+  <!-- EN: Bio-Luminescent Storyteller -->
+  <YZRCM_022_Childbackstory.title>TODO</YZRCM_022_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_022_Childbackstory.titleShort>TODO</YZRCM_022_Childbackstory.titleShort>
+  
+  <!-- EN: Decanted into a shared nutrient vat with 23 cohort-siblings, {PAWN_nameDef} understood scarcity young. Their crèche competed for educational stim-patches and affection-algorithms. {PAWN_pronoun} learned early to calculate emotional investments like resource allocations. -->
+  <YZRCM_023_Childbackstory.description>TODO</YZRCM_023_Childbackstory.description>
+  <!-- EN: Communal Nutrient Vat Child -->
+  <YZRCM_023_Childbackstory.title>TODO</YZRCM_023_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_023_Childbackstory.titleShort>TODO</YZRCM_023_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} scavenged forgotten sonic-frequencies - the hum of obsolete reactors or chir of vintage comm-gear. {PAWN_pronoun} composed symphonies from these 'lost sounds,' annoying acoustics engineers but delighting historians who'd never heard analog static as music. -->
+  <YZRCM_024_Childbackstory.description>TODO</YZRCM_024_Childbackstory.description>
+  <!-- EN: Sonic Archaeologist -->
+  <YZRCM_024_Childbackstory.title>TODO</YZRCM_024_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_024_Childbackstory.titleShort>TODO</YZRCM_024_Childbackstory.titleShort>
+  
+  <!-- EN: When {PAWN_nameDef}'s mood-reactive fur pigments emerged after a cosmetic procedure, {PAWN_pronoun} learned to 'paint' by controlling emotions. Calm blues swept across {PAWN_possessive} shoulders; excited ripples of gold danced down {PAWN_possessive} spine. Bio-aesthetics tutors begged {PAWN_objective} to stop 'wasting talent on ephemeral canvases.' -->
+  <YZRCM_025_Childbackstory.description>TODO</YZRCM_025_Childbackstory.description>
+  <!-- EN: Prismatic Fur Artist -->
+  <YZRCM_025_Childbackstory.title>TODO</YZRCM_025_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_025_Childbackstory.titleShort>TODO</YZRCM_025_Childbackstory.titleShort>
+  
+  <!-- EN: As Birth Cohort Gamma-7, {PAWN_nameDef} was engineered for adaptability. Raised in a sterile crèche with calculated affection-drip feeds, {PAWN_pronoun} bonded most with the sanitation drone that polished {PAWN_possessive} sleeping pod - the only consistent presence in {PAWN_possessive} optimized upbringing. -->
+  <YZRCM_026_Childbackstory.description>TODO</YZRCM_026_Childbackstory.description>
+  <!-- EN: Optimized Uplift Pupil -->
+  <YZRCM_026_Childbackstory.title>TODO</YZRCM_026_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_026_Childbackstory.titleShort>TODO</YZRCM_026_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} noticed how light-gaps between structures created phantom buildings at sunset. {PAWN_pronoun} hijacked local AI of {PAWN_possessive} village to preserve these 'shadow-towers' by adjusting a small climate control system a few kilometers above. The refusal fueled {PAWN_possessive} obsession with temporary beauty. -->
+  <YZRCM_027_Childbackstory.description>TODO</YZRCM_027_Childbackstory.description>
+  <!-- EN: Shadow Architecture -->
+  <YZRCM_027_Childbackstory.title>TODO</YZRCM_027_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_027_Childbackstory.titleShort>TODO</YZRCM_027_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}'s gene-tailored larynx could mimic companion-bioids' chirps and trills. While others commanded pets with implants, {PAWN_pronoun} conversed for hours with fox-like constructs about nonsense and dreams - developing a private language logistics AIs couldn't parse. -->
+  <YZRCM_028_Childbackstory.description>TODO</YZRCM_028_Childbackstory.description>
+  <!-- EN: Symbiotic Pet Communicator -->
+  <YZRCM_028_Childbackstory.title>TODO</YZRCM_028_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_028_Childbackstory.titleShort>TODO</YZRCM_028_Childbackstory.titleShort>
+  
+  <!-- EN: As a deliberately parentless 'Lineage Ambassador,' {PAWN_nameDef} represented {PAWN_possessive} gene-template in cultural exchanges. {PAWN_pronoun} learned diplomacy through holographic avatars while real playdates were replaced by cross-template compatibility assessments. -->
+  <YZRCM_029_Childbackstory.description>TODO</YZRCM_029_Childbackstory.description>
+  <!-- EN: Gene-Lineage Ambassador -->
+  <YZRCM_029_Childbackstory.title>TODO</YZRCM_029_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_029_Childbackstory.titleShort>TODO</YZRCM_029_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} observed cleaner-microbes like civilizations. {PAWN_pronoun} charted their 'wars' over dust-canyons and 'treaties' near nutrient spills. Tutors dismissed it as imagination until {PAWN_pronoun} accurately predicted cleaning-bot failures via microbe migration patterns. -->
+  <YZRCM_030_Childbackstory.description>TODO</YZRCM_030_Childbackstory.description>
+  <!-- EN: Micro-Fauna Sociologist -->
+  <YZRCM_030_Childbackstory.title>TODO</YZRCM_030_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_030_Childbackstory.titleShort>TODO</YZRCM_030_Childbackstory.titleShort>
+  
+  <!-- EN: During free-fall gymnastics, {PAWN_nameDef} composed haiku about weightlessness. Each verse matched the duration of null-G intervals - 17 syllables precisely filling 9.3 seconds of float-time. Classmates floated in silence to hear {PAWN_possessive} ephemeral performances. -->
+  <YZRCM_031_Childbackstory.description>TODO</YZRCM_031_Childbackstory.description>
+  <!-- EN: Gravitational Poet -->
+  <YZRCM_031_Childbackstory.title>TODO</YZRCM_031_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_031_Childbackstory.titleShort>TODO</YZRCM_031_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} licked condensation from arcology windows, discerning seasonal shifts in artificial rains. {PAWN_pronoun} later recreated 'spring-mist flavor' using nutrient synthesizers, baffling culinary AIs with {PAWN_possessive} meteorological palate. -->
+  <YZRCM_032_Childbackstory.description>TODO</YZRCM_032_Childbackstory.description>
+  <!-- EN: Atmospheric Taste Chef -->
+  <YZRCM_032_Childbackstory.title>TODO</YZRCM_032_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_032_Childbackstory.titleShort>TODO</YZRCM_032_Childbackstory.titleShort>
+  
+  <!-- EN: When neural entertainment implants leaked corporate jingles into {PAWN_nameDef}'s dreams, {PAWN_pronoun} organized a crèche-wide 'dream-strike.' Children collectively imagined shield-dragons to block advertisements - accidentally creating a persistent mythic creature in local dream-lore. -->
+  <YZRCM_033_Childbackstory.description>TODO</YZRCM_033_Childbackstory.description>
+  <!-- EN: Dream Pollution Activist -->
+  <YZRCM_033_Childbackstory.title>TODO</YZRCM_033_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_033_Childbackstory.titleShort>TODO</YZRCM_033_Childbackstory.titleShort>
+  
+</LanguageData>

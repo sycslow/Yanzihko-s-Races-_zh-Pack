@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ BASIC TAIL USED BY MOST RACES ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- install synthread tail -->
+  <InstallSynthTail.label>安裝合成纖維尾巴</InstallSynthTail.label>
+  <!-- Install synthread tail. -->
+  <InstallSynthTail.description>安裝合成纖維尾巴。</InstallSynthTail.description>
+  <!-- Installing synthread tail. -->
+  <InstallSynthTail.jobString>安裝合成纖維尾巴。</InstallSynthTail.jobString>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ Leaftail ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- install synthread Leaftail -->
+  <InstallSynthLeaftail.label>安裝合成纖維葉片尾巴</InstallSynthLeaftail.label>
+  <!-- Install synthread Leaftail. -->
+  <InstallSynthLeaftail.description>安裝合成纖維葉片尾巴。</InstallSynthLeaftail.description>
+  <!-- Installing synthread Leaftail. -->
+  <InstallSynthLeaftail.jobString>安裝合成纖維葉片尾巴。</InstallSynthLeaftail.jobString>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ Leafeon Leaves ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- install synthread Leafeon leaves -->
+  <InstallSynthLeafeonleaves.label>安裝合成纖維葉伊布葉片</InstallSynthLeafeonleaves.label>
+  <!-- Install synthread Leafeon leaves. -->
+  <InstallSynthLeafeonleaves.description>安裝合成纖維葉伊布葉片。</InstallSynthLeafeonleaves.description>
+  <!-- Installing synthread Leafeon leaves. -->
+  <InstallSynthLeafeonleaves.jobString>安裝合成纖維葉伊布葉片。</InstallSynthLeafeonleaves.jobString>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ SYLVEON BOWS ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- install bionic bow -->
+  <InstallBionicSylveonBow.label>安裝仿生蝴蝶結</InstallBionicSylveonBow.label>
+  <!-- Install bionic bow. -->
+  <InstallBionicSylveonBow.description>安裝仿生蝴蝶結。</InstallBionicSylveonBow.description>
+  <!-- Installing bionic bow. -->
+  <InstallBionicSylveonBow.jobString>安裝仿生蝴蝶結。</InstallBionicSylveonBow.jobString>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■  VAPOREON TAIL ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- install cybernetic vaporeon tail -->
+  <InstallCyberVapTail.label>安裝機械水伊布尾巴</InstallCyberVapTail.label>
+  <!-- Install cybernetic vaporeon tail. -->
+  <InstallCyberVapTail.description>安裝機械水伊布尾巴。</InstallCyberVapTail.description>
+  <!-- Installing cybernetic vaporeon tail tail. -->
+  <InstallCyberVapTail.jobString>安裝機械水伊布尾巴。</InstallCyberVapTail.jobString>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ VAPOREON FIN ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- install bionic fin -->
+  <InstallBionicVaporeonFin.label>安裝仿生鰭</InstallBionicVaporeonFin.label>
+  <!-- Install bionic fin. -->
+  <InstallBionicVaporeonFin.description>安裝仿生鰭。</InstallBionicVaporeonFin.description>
+  <!-- Installing bionic fin. -->
+  <InstallBionicVaporeonFin.jobString>安裝仿生鰭。</InstallBionicVaporeonFin.jobString>
+
+
+</LanguageData>

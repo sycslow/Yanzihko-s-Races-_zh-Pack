@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Braixen -->
+  <BDFP_Braixen.degreeDatas.Braixen.label>长尾火狐</BDFP_Braixen.degreeDatas.Braixen.label>
+  <!-- EN: {PAWN_nameDef} is a Braixen! --><!-- {PAWN_nameDef}在超能力和生命精华操控方面有着惊人的天赋。{PAWN_pronoun}可以轻易读懂人类、动物甚至植物的情感。 -->
+  <BDFP_Braixen.degreeDatas.Braixen.description>{PAWN_nameDef}是个长尾火狐!</BDFP_Braixen.degreeDatas.Braixen.description>
+  
+  <!-- EN: Delphox -->
+  <BDFP_Delphox.degreeDatas.Delphox.label>妖火红狐</BDFP_Delphox.degreeDatas.Delphox.label>
+  <!-- EN: {PAWN_nameDef} is a Delphox! -->
+  <!-- {PAWN_nameDef}是一个强大的灵能者，倾向于操控生命精华。{PAWN_pronoun}可以轻易读懂人类、动物甚至植物的情感。 -->
+  <BDFP_Delphox.degreeDatas.Delphox.description>{PAWN_nameDef}是个妖火红狐!</BDFP_Delphox.degreeDatas.Delphox.description>
+  
+  <!-- EN: Gardevoir -->
+  <GFP_Gardevoir.degreeDatas.Gardevoir.label>沙奈朵</GFP_Gardevoir.degreeDatas.Gardevoir.label>
+  <!-- EN: {PAWN_nameDef} is a Gardevoir! -->
+  <!-- ，而{PAWN_pronoun}十分可爱得令人难以置信，这正是基因工程仆役所预期应有的表现。沙奈朵以其高伶敏的心伶敏感度和发达的社交智能而闻名。 -->
+  <GFP_Gardevoir.degreeDatas.Gardevoir.description>{PAWN_nameDef}是个沙奈朵!</GFP_Gardevoir.degreeDatas.Gardevoir.description>
+  
+  <!-- EN: Fressalfar --><!--thrumbo 独角兽 敲击兽-->
+  <KFLS_Fressalfar.degreeDatas.Fressalfar.label>弗雷萨纯灵猫</KFLS_Fressalfar.degreeDatas.Fressalfar.label>
+  <!-- EN: {PAWN_nameDef} is a Fressalfar. {PAWN_nameDef} is just like a Thrumbo that is hidden in {PAWN_possessive} DNA - Highly Intelligent and not really Social. It is very hard to approach {PAWN_objective} and start a conversation. -->
+  <!--  -->
+  <KFLS_Fressalfar.degreeDatas.Fressalfar.description>{PAWN_nameDef}是个弗雷萨纯灵猫。{PAWN_nameDef}就象{PAWN_possessive}体内里头中的独角兽基因一样，极具智能、但也因此变得不善于社交。这也导致了如果想尝试跟{PAWN_objective}展开社交对话是件很困难的事情。</KFLS_Fressalfar.degreeDatas.Fressalfar.description>
+  
+  <!-- EN: Kisalfar -->
+  <KFLS_Kisalfar.degreeDatas.Kisalfar.label>基萨然灵猫</KFLS_Kisalfar.degreeDatas.Kisalfar.label>
+  <!-- EN: {PAWN_nameDef} is a Kisalfar. While Kisalfar are "inferior" compared to Fressalfar in terms of intelligence, they're incredibly good in "social" things and negotiations. -->
+  <!--  -->
+  <KFLS_Kisalfar.degreeDatas.Kisalfar.description>{PAWN_nameDef}是个基萨然灵猫。虽然基萨然灵猫在智能能力方面“不如”弗雷萨纯灵猫那样的优秀，但相反的，他们在社交与谈判方面的能力却极其的出色。</KFLS_Kisalfar.degreeDatas.Kisalfar.description>
+  
+  <!-- EN: Lombax -->
+  <LDW_Lombax.degreeDatas.Lombax.label>隆巴克斯</LDW_Lombax.degreeDatas.Lombax.label>
+  <!-- EN: {PAWN_nameDef} is a lombax! The natural dexterity in combat and desire to creat new things is embedded into {PAWN_nameDef}'s DNA. -->
+  <!-- OLD: {PAWN_nameDef} is a lombax. {PAWN_pronoun} has an incredible natural inclination towards crafting, engineering and combat just like other representatives of {PAWN_possessive} species. -->
+  <!-- {PAWN_pronoun}就象其他隆巴克斯族代表的一样，{PAWN_pronoun}在工艺、工程和战斗方面有着相当惊人的天赋。 -->
+  <LDW_Lombax.degreeDatas.Lombax.description>{PAWN_nameDef}是个隆巴克斯!{PAWN_pronoun}天生就对制作、工程学以及战斗有着非凡的天赋，就象{PAWN_possessive}其他同族一样。</LDW_Lombax.degreeDatas.Lombax.description>
+  
+  <!-- EN: Meowstic -->
+  <MMP_Meowstic.degreeDatas.Meowstic.label>超能妙喵</MMP_Meowstic.degreeDatas.Meowstic.label>
+  <!-- EN: {PAWN_nameDef} is a Meowstic! -->
+  <!-- ，而{PAWN_pronoun}十分可爱得令人难以置信，这正是基因工程仆役所预期应有的表现。超能妙喵是具有智能能力的生物，并且他们往往拥有高度发展的社交能力和解决问题的能力。 -->
+  <MMP_Meowstic.degreeDatas.Meowstic.description>{PAWN_nameDef}是个超能妙喵! </MMP_Meowstic.degreeDatas.Meowstic.description>
+  
+  <!-- EN: Vulpoid -->
+  <VAF_Vulpoid.degreeDatas.Vulpoid.label>狐形种</VAF_Vulpoid.degreeDatas.Vulpoid.label>
+  <!-- EN: {PAWN_nameDef} is a Vulpoid! Vulpoids are one of the fisrt and are most adorable creatures ever made by Genetical Industries. Their overhelming cuteness almost compensates for violation of ethical and human laws that the scientists broke! -->
+  <!-- OLD: {PAWN_nameDef} is a Vulpian, and {PAWN_pronoun} is absolutely adorable, as expected from gene-engineered servitor. Even animals are attracted by {PAWN_possessive} adorable appearence. Even plants start to bloom around {PAWN_nameDef}! -->
+  <!-- {PAWN_nameDef}是一只萌狐狸，而{PAWN_pronoun}十分可爱得令人难以置信，这正是基因工程仆役所预期应有的表现。其魅力连动物们都会被{PAWN_possessive}可爱外表深深的吸引着迷，甚至连{PAWN_nameDef}身边周围的植物都会为此百花绽放！ -->
+  <VAF_Vulpoid.degreeDatas.Vulpoid.description>{PAWN_nameDef}是个狐形种!狐型人最初是由“基因工业”最早制造出来、同时也是最可爱的造物之一。牠们压倒性的萌度几乎足以弥补科学家们在违反伦理与人类法律时犯下的罪孽！</VAF_Vulpoid.degreeDatas.Vulpoid.description>
+  
+  <!-- EN: Zoroark -->
+  <ZIP_Zoroark.degreeDatas.Zoroark.label>索罗亚克</ZIP_Zoroark.degreeDatas.Zoroark.label>
+  <!-- EN: {PAWN_nameDef} is a Zoroark! -->
+  <!-- ，而{PAWN_pronoun}十分可爱得令人难以置信，这正是基因工程仆役所预期应有的表现。索罗亚克是具有智能能力的生物，并且他们往往拥有高度发展的社交能力和解决问题的能力。 -->
+  <ZIP_Zoroark.degreeDatas.Zoroark.description>{PAWN_nameDef}是个索罗亚克!</ZIP_Zoroark.degreeDatas.Zoroark.description>
+  
+</LanguageData>

@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Coming from a Glitterworld, {PAWN_nameDef} lived surrounded by effortless automation and abundant resources. While no specialist, {PAWN_pronoun} absorbed broad, practical competence simply by existing in such an environment—where even menial tasks demanded interaction with advanced systems. -->
+  <YZRCM_000_Adultbackstory.description>來自閃耀世界的{PAWN_nameDef}，生活在輕鬆的自動化和豐富資源的環境中。雖然{PAWN_pronoun}不是專家，但因為身處在那樣這樣的環境，自然就吸收了廣泛而實用的能力——即使是日常的瑣事，也需要與先進的系統互動。</YZRCM_000_Adultbackstory.description>
+  <!-- EN: Glitterworld Adulthood -->
+  <YZRCM_000_Adultbackstory.title>閃耀世界成年者</YZRCM_000_Adultbackstory.title>
+  <!-- EN: Glitterworld Citizen -->
+  <YZRCM_000_Adultbackstory.titleShort>閃耀世界公民</YZRCM_000_Adultbackstory.titleShort>
+  
+  <!-- EN: Life in sterile corridors in space demanded versatility: {PAWN_nameDef} has broad but shallow skillset to cover any possible task there is. Jack of all trades, master of none as they say. -->
+  <YZRCM_001_Adultbackstory.description>在太空無菌的走廊中生存需要多才多藝的技能：{PAWN_nameDef}擁有廣泛但淺薄的技能知識，以應付各種可能出現的任務。但也正如俗諺所言的「樣樣通，樣樣鬆」。</YZRCM_001_Adultbackstory.description>
+  <!-- EN: Spaceborn Adulthood -->
+  <YZRCM_001_Adultbackstory.title>太空出生的成年者</YZRCM_001_Adultbackstory.title>
+  <!-- EN: Glitterworld Spaceborn -->
+  <YZRCM_001_Adultbackstory.titleShort>閃耀世界的太空出生者</YZRCM_001_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} designed vertical aeroponics systems that fed entire city-spires. {PAWN_possessive} genetically optimized crops grew under precisely tuned spectra, yielding harvests twenty times per cycle. Though surrounded by abundance, {PAWN_pronoun} always preferred getting {PAWN_possessive} paws dirty in the nutrient mist. -->
+  <YZRCM_002_Adultbackstory.description>{PAWN_nameDef}設計了一套，供應整座城市尖塔所使用的垂直氣霧栽培系統。{PAWN_possessive}基因改良作物會在精準調整的光譜下生長，使得每個收穫周期的產量可高達二十倍。儘管周圍環繞著豐富的資源，{PAWN_pronoun}卻總是喜歡讓{PAWN_possessive}爪子沾滿營養霧。</YZRCM_002_Adultbackstory.description>
+  <!-- EN: Hydroponics Architect -->
+  <YZRCM_002_Adultbackstory.title>水耕建造師</YZRCM_002_Adultbackstory.title>
+  <!-- EN: Hydroponist -->
+  <YZRCM_002_Adultbackstory.titleShort>水耕專家</YZRCM_002_Adultbackstory.titleShort>
+  
+  <!-- EN: In crystalline forges where matter recombinators hummed, {PAWN_nameDef} crafted self-repairing smart-materials for architectural skins. {PAWN_pronoun} spent decades mastering phase-shifting alloys that could turn transparent or absorb impacts on command. The work demanded perfectionism - a single molecular misalignment could ruin hectares of smart-glass. -->
+  <YZRCM_003_Adultbackstory.description>在一座物質重組機嗡嗡作響的晶體熔爐中，{PAWN_nameDef}製造了可用於建築外層的自我修復智慧材料。{PAWN_pronoun}花費了數十年時間鑽研了能夠按指令變透明或吸收衝擊的相位轉換合金。這項工作必須要求極致完美——因為只要有分子層級的一點錯位，就有可能毀掉數公頃的智慧玻璃。</YZRCM_003_Adultbackstory.description>
+  <!-- EN: Nano-Fabrication Master -->
+  <YZRCM_003_Adultbackstory.title>奈米製造大師</YZRCM_003_Adultbackstory.title>
+  <!-- EN: Fabricator -->
+  <YZRCM_003_Adultbackstory.titleShort>製造專家</YZRCM_003_Adultbackstory.titleShort>
+  
+  <!-- EN: "{PAWN_nameDef} curated sensory experiences for elite clients, blending harmonic frequencies with neural-tuned pheromones. {PAWN_possessive} installations could induce tranquility or euphoria through precisely calibrated stimuli. Many sought {PAWN_objective} to escape the crushing predictability of utopian existence, if only for an afternoon." -->
+  <YZRCM_004_Adultbackstory.description>"{PAWN_nameDef}為精英客戶精心策劃感官體驗，將和諧頻率與神經調控的費洛蒙融合。{PAWN_possessive}的裝置能通過精密校準的刺激來引導寧靜或欣快感。許多人尋求{PAWN_objective}的幫助，只為能從烏托邦式生活中的壓倒性裡尋求可預測性中的解放，哪怕僅僅只是一個下午。" </YZRCM_004_Adultbackstory.description>
+  <!-- EN: Neuro-Aesthetics Consultant -->
+  <YZRCM_004_Adultbackstory.title>神經美學顧問</YZRCM_004_Adultbackstory.title>
+  <!-- EN: Neurologist -->
+  <YZRCM_004_Adultbackstory.titleShort>神經學家</YZRCM_004_Adultbackstory.titleShort>
+  
+  <!-- EN: "Floating through orbital nurseries, {PAWN_nameDef} helped children adapt to low-gravity development. {PAWN_pronoun} used tactile holograms and bio-feedback games to strengthen vestibular systems. The work left {PAWN_objective} with extraordinary patience and an intuitive grasp of spatial relationships." -->
+  <YZRCM_005_Adultbackstory.description>"漂浮於軌道的育嬰室中，{PAWN_nameDef}幫助孩童們能夠適應在低重力環境下的發育。{PAWN_pronoun}使用觸覺全息圖和生物回饋遊戲來強化前庭系統。這份工作讓{PAWN_objective}獲得了非凡的耐心與直覺性的空間感知能力。"</YZRCM_005_Adultbackstory.description>
+  <!-- EN: Zero-G Pediatric Therapist -->
+  <YZRCM_005_Adultbackstory.title>零重力兒科治療師</YZRCM_005_Adultbackstory.title>
+  <!-- EN: Pediatrist -->
+  <YZRCM_005_Adultbackstory.titleShort>兒科醫生</YZRCM_005_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} guided visitors through holographic chronicles of the past. {PAWN_pronoun} could recite Terran history from First appearence of Homo Sapiens in Africa to the First Glittertech invention with perfect recall. Yet {PAWN_possessive} favorite exhibits were always the 'imperfect' eras - wars and famines that seemed incomprehensible in {PAWN_possessive} perfected world. One could say {PAWN_pronoun} was obsessed with violent side of human history. -->
+  <YZRCM_006_Adultbackstory.description>{PAWN_nameDef}帶領遊客穿梭瀏覽過去的全息編年史。{PAWN_pronoun}能完美背誦從最早出現於非洲的人類到首個閃耀科技被發明出來的地球歷史。然而，{PAWN_pronoun}最愛的展區總是那些「不完美」時代——戰爭與饑荒，那些在{PAWN_possessive}完美世界中難以理解的時代。可以說{PAWN_pronoun}對人類史的暴力面相當著迷。</YZRCM_006_Adultbackstory.description>
+  <!-- EN: Memory Archive Docent -->
+  <YZRCM_006_Adultbackstory.title>記憶檔案館導覽員</YZRCM_006_Adultbackstory.title>
+  <!-- EN: Archivist -->
+  <YZRCM_006_Adultbackstory.titleShort>檔案管理員</YZRCM_006_Adultbackstory.titleShort>
+  
+  <!-- EN: Tending glowing gardens in perpetual twilight zones, {PAWN_nameDef} engineered flora that pulsed with soft radiance. {PAWN_pronoun} developed hybrids responding to touch with chromatic ripples, turning parks into interactive light-symphonies. The work required equal parts botany expertise and artistic sensitivity. -->
+  <YZRCM_007_Adultbackstory.description>在永夜黃昏地帶的花園裡照料植物，{PAWN_nameDef}精心培育出會柔和脈動光芒的植物。{PAWN_pronoun}培育出能對觸碰有反應並產生色彩波動回應的混種植物，這使公園變成能夠互動的光之交響樂。這項工作需要植物學知識與藝術敏感度的結合。</YZRCM_007_Adultbackstory.description>
+  <!-- EN: Bio-Luminescent Gardener -->
+  <YZRCM_007_Adultbackstory.title>發光生物園藝師</YZRCM_007_Adultbackstory.title>
+  <!-- EN: Bioartist -->
+  <YZRCM_007_Adultbackstory.titleShort>生物藝術家</YZRCM_007_Adultbackstory.titleShort>
+  
+  <!-- EN: At molecular gastronomy institutes, {PAWN_nameDef} deconstructed flavors into elemental spectra. {PAWN_pronoun} reconstructed them into zero-gravity delicacies that exploded with taste in vacuum. Celebrity chefs sought {PAWN_possessive} creations for orbital galas where even eating became performance art. -->
+  <YZRCM_008_Adultbackstory.description>在美食分子研究所，{PAWN_nameDef}會將風味分解為元素光譜。{PAWN_pronoun}將它們重組為在真空環境中也能爆發味道出美味的零重力美食。名廚們爭相在軌道盛宴上尋求{PAWN_possessive}創作，在那裡，連用餐都成為表演藝術了。</YZRCM_008_Adultbackstory.description>
+  <!-- EN: Luxury Gastronomy Chemist -->
+  <YZRCM_008_Adultbackstory.title>奢華美食化學家</YZRCM_008_Adultbackstory.title>
+  <!-- EN: Gastronom -->
+  <YZRCM_008_Adultbackstory.titleShort>美食家</YZRCM_008_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} designed therapeutic dream sequences for neural implants. {PAWN_possessive} virtual landscapes healed trauma through symbolic journeys - climbing crystal mountains to overcome fears or diving phosphorescent seas to process grief. Each bespoke dreamscape took months to calibrate for neural safety. -->
+  <YZRCM_009_Adultbackstory.description>{PAWN_nameDef}為神經植入物設計了治療性夢境序列。{PAWN_possessive}虛擬景觀通過象徵性旅程來治癒創傷——攀爬水晶山以克服恐懼，或潛入磷光海洋以處理悲傷。每個客製化的夢境都需要數月時間來校準以確保神經安全。</YZRCM_009_Adultbackstory.description>
+  <!-- EN: Dreamscape Architect -->
+  <YZRCM_009_Adultbackstory.title>夢境設計師</YZRCM_009_Adultbackstory.title>
+  <!-- EN: Dream Neurologist -->
+  <YZRCM_009_Adultbackstory.titleShort>夢境神經學家</YZRCM_009_Adultbackstory.titleShort>
+  
+  <!-- EN: Controlling weather within climate domes, {PAWN_nameDef} composed rain patterns and cloud formations for emotional effect. {PAWN_pronoun} scheduled violet-hued drizzles during melancholy concerts and engineered double rainbows for festivals. The work blended meteorology with poetry, turning skies into canvases. -->
+  <YZRCM_010_Adultbackstory.description>{PAWN_nameDef}在氣候穹頂內控制天氣，編排雨水模式和雲層形成以達到情感效果。{PAWN_pronoun}在憂鬱音樂會期間安排紫色調的細雨，並為節日設計出雙重彩虹。這項工作將氣象學與詩歌融合，將天空變成畫布。</YZRCM_010_Adultbackstory.description>
+  <!-- EN: Atmospheric Choreographer -->
+  <YZRCM_010_Adultbackstory.title>大氣編舞師</YZRCM_010_Adultbackstory.title>
+  <!-- EN: Meteorologist -->
+  <YZRCM_010_Adultbackstory.titleShort>氣象學家</YZRCM_010_Adultbackstory.titleShort>
+  
+  <!-- EN: When objects were atomically synthesized using highly sophisticated, AI-powered replimat technology, {PAWN_nameDef} ensured they didn't violate aesthetic and safety protocols. {PAWN_pronoun} prevented furniture from 'evolving' uncomfortable forms and kept food synthesizers from creating morally ambiguous meat-analogs. It was a constant battle against creative machines overstepping their programming. -->
+  <YZRCM_011_Adultbackstory.description>當物體使用高度精密、由人工智慧驅動的複製機技術進行原子合成時，{PAWN_nameDef}得確保它們不會違反美學和安全協議。{PAWN_pronoun}得防止家具「進化」令人不適的形態，並阻止食物合成器創造道德上模糊的肉類替代品。這是一場不斷與創造性機器對峙、維護規範的持久戰。</YZRCM_011_Adultbackstory.description>
+  <!-- EN: Ethical Replication Specialist -->
+  <YZRCM_011_Adultbackstory.title>倫理複製專家</YZRCM_011_Adultbackstory.title>
+  <!-- EN: Replingineer -->
+  <YZRCM_011_Adultbackstory.titleShort>複製工程師</YZRCM_011_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} tailored bio-engineered pets for emotional support. {PAWN_possessive} creations included dog-like creatures with empathy-amplifying pheromones and avian companions that sang anxiety-reducing frequencies. The most requested feature? Fur that changed color with owner's moods. -->
+  <YZRCM_012_Adultbackstory.description>{PAWN_nameDef}為情緒支援所量身打造的生物工程寵物。{PAWN_possessive}成果包括釋放具有增強同理心費洛蒙的犬類生物、和唱出能舒緩焦慮頻率的鳥類伴侶。最受歡迎的功能？毛髮能隨主人情緒而變化的皮毛。</YZRCM_012_Adultbackstory.description>
+  <!-- EN: Companion-Beast Geneticist -->
+  <YZRCM_012_Adultbackstory.title>伴侶動物遺傳學家</YZRCM_012_Adultbackstory.title>
+  <!-- EN: Geneticist -->
+  <YZRCM_012_Adultbackstory.titleShort>基因遺傳學家</YZRCM_012_Adultbackstory.titleShort>
+  
+  <!-- EN: Recreating lost cultures in immersive displays, {PAWN_nameDef} programmed sentient historical figures who debated visitors. {PAWN_pronoun} specialized in pre-glitter civilizations where scarcity bred ingenuity. {PAWN_possessive} simulations were praised for their 'beautifully flawed' authenticity. -->
+  <YZRCM_013_Adultbackstory.description>{PAWN_nameDef}由透過沉浸式的全息投影來展示與重現那些失落的文化，並編寫有著意識感知能力的歷史人物來跟遊客辯論的程式。{PAWN_pronoun}專精於那些資源匱乏、孕育創意的閃耀科技時代前的文明。{PAWN_possessive}模擬作品因其「美麗的瑕疵」真實性而受到讚譽。</YZRCM_013_Adultbackstory.description>
+  <!-- EN: Holographic Historian -->
+  <YZRCM_013_Adultbackstory.title>全息歷史學家</YZRCM_013_Adultbackstory.title>
+  <!-- EN: Historian -->
+  <YZRCM_013_Adultbackstory.titleShort>歷史學家</YZRCM_013_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} maintained public mood-stabilization fields that prevented negative emotions. {PAWN_pronoun} calibrated emitters emitting serotonin-boosting waves across plazas and transit hubs. The job required constant vigilance - an overpowered field could induce dangerous euphoria, while underpowered ones allowed rare melancholy to seep through. -->
+  <YZRCM_014_Adultbackstory.description>TODO</YZRCM_014_Adultbackstory.description>
+  <!-- EN: Neural Equilibrium Technician -->
+  <YZRCM_014_Adultbackstory.title>TODO</YZRCM_014_Adultbackstory.title>
+  <!-- EN: Emotionolist -->
+  <YZRCM_014_Adultbackstory.titleShort>TODO</YZRCM_014_Adultbackstory.titleShort>
+  
+  <!-- EN: Preserving ephemeral art forms, {PAWN_nameDef} restored decaying photonic sculptures from early glitter-era masters. {PAWN_pronoun} mastered light-bending techniques to repair fractured holograms, some of which were thousands of years old. The work felt like archaeology made from photons and nostalgia. -->
+  <YZRCM_015_Adultbackstory.description>TODO</YZRCM_015_Adultbackstory.description>
+  <!-- EN: Light-Sculpture Conservator -->
+  <YZRCM_015_Adultbackstory.title>TODO</YZRCM_015_Adultbackstory.title>
+  <!-- EN: Sculptor -->
+  <YZRCM_015_Adultbackstory.titleShort>TODO</YZRCM_015_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} directed ultrasonic cleaner swarms that dissolved waste at molecular levels. {PAWN_possessive} harmonic resonance arrays could target specific pollutants while leaving architectural surfaces untouched. In a spotless world, {PAWN_pronoun} fought invisible battles against entropy itself. -->
+  <YZRCM_016_Adultbackstory.description>TODO</YZRCM_016_Adultbackstory.description>
+  <!-- EN: Sonic Sanitation Engineer -->
+  <YZRCM_016_Adultbackstory.title>TODO</YZRCM_016_Adultbackstory.title>
+  <!-- EN: Engineer -->
+  <YZRCM_016_Adultbackstory.titleShort>TODO</YZRCM_016_Adultbackstory.titleShort>
+  
+  <!-- EN: Designing anti-gravity sports, {PAWN_nameDef} choreographed aerial ballets in null-G chambers. {PAWN_pronoun} developed games where players used inertia ribbons to create kinetic art. Participants often said {PAWN_possessive} creations felt like 'dancing with physics'. -->
+  <YZRCM_017_Adultbackstory.description>TODO</YZRCM_017_Adultbackstory.description>
+  <!-- EN: Gravitational Recreation Guide -->
+  <YZRCM_017_Adultbackstory.title>TODO</YZRCM_017_Adultbackstory.title>
+  <!-- EN: Choreographer -->
+  <YZRCM_017_Adultbackstory.titleShort>TODO</YZRCM_017_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} composed scent-scapes for memory palaces, blending thousands of aromachemicals. {PAWN_possessive} signature creation: a 'nostalgia' series mimicking lost planetary atmospheres. The rarest scents required molecular reconstruction from ancient botanical databases. -->
+  <YZRCM_018_Adultbackstory.description>TODO</YZRCM_018_Adultbackstory.description>
+  <!-- EN: Perfumed Experience Curator -->
+  <YZRCM_018_Adultbackstory.title>TODO</YZRCM_018_Adultbackstory.title>
+  <!-- EN: Perfumer -->
+  <YZRCM_018_Adultbackstory.titleShort>TODO</YZRCM_018_Adultbackstory.titleShort>
+  
+  <!-- EN: Teaching sensory appreciation, {PAWN_nameDef} helped clients rediscover touch in a hands-off world. Through textured meditation mats and temperature-varying sculptures, {PAWN_pronoun} reconnected jaded elites with physicality. {PAWN_possessive} studio was an oasis of deliberate imperfection. -->
+  <YZRCM_019_Adultbackstory.description>TODO</YZRCM_019_Adultbackstory.description>
+  <!-- EN: Tactile Virtuosity Trainer -->
+  <YZRCM_019_Adultbackstory.title>TODO</YZRCM_019_Adultbackstory.title>
+  <!-- EN: Trainer -->
+  <YZRCM_019_Adultbackstory.titleShort>TODO</YZRCM_019_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} engineered fabrics shifting colors with emotions for celebrity clients. {PAWN_possessive} bio-reactive silks revealed hidden patterns during diplomatic events, unintentionally broadcasting wearers' true feelings. The unintended transparency made {PAWN_objective} popular among spies and therapists alike. -->
+  <YZRCM_020_Adultbackstory.description>TODO</YZRCM_020_Adultbackstory.description>
+  <!-- EN: Prismatic Fashion Forger -->
+  <YZRCM_020_Adultbackstory.title>TODO</YZRCM_020_Adultbackstory.title>
+  <!-- EN: Forger -->
+  <YZRCM_020_Adultbackstory.titleShort>TODO</YZRCM_020_Adultbackstory.titleShort>
+  
+  <!-- EN: In a society that partially replaced sleep with neural refreshers, {PAWN_nameDef} taught the art of natural slumber. {PAWN_pronoun} ran a series of clinics with pre-glitter era beds and white-noise generators. Clients sought {PAWN_objective} for the novelty of dreaming - inefficient, but just as nature intended. -->
+  <YZRCM_021_Adultbackstory.description>TODO</YZRCM_021_Adultbackstory.description>
+  <!-- EN: Sleep Consultant -->
+  <YZRCM_021_Adultbackstory.title>TODO</YZRCM_021_Adultbackstory.title>
+  <!-- EN: Sleepologist -->
+  <YZRCM_021_Adultbackstory.titleShort>TODO</YZRCM_021_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} engineered symbiotic micro-biomes for luxury habitats, balancing gene-tweaked flora and fauna. {PAWN_possessive} self-regulating ecosystems required minimal intervention, evolving scents and colors to match owners' moods. The work felt like co-creating life with an artificial hand of evolution... -->
+  <YZRCM_022_Adultbackstory.description>TODO</YZRCM_022_Adultbackstory.description>
+  <!-- EN: Adaptive Ecosystem Designer -->
+  <YZRCM_022_Adultbackstory.title>TODO</YZRCM_022_Adultbackstory.title>
+  <!-- EN: Eco-engineer -->
+  <YZRCM_022_Adultbackstory.titleShort>TODO</YZRCM_022_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} designed ambient neuro-symphonies that synchronized brainwaves in communal spaces. {PAWN_pronoun} blended bio-acoustic frequencies with genetically-tailored pheromone releases, inducing states of collective calm. Some critics claimed {PAWN_possessive} work erased individuality, but arcologies paid premium credits for the peace. -->
+  <YZRCM_023_Adultbackstory.description>TODO</YZRCM_023_Adultbackstory.description>
+  <!-- EN: Neural Harmony Composer -->
+  <YZRCM_023_Adultbackstory.title>TODO</YZRCM_023_Adultbackstory.title>
+  <!-- EN: Neurologist -->
+  <YZRCM_023_Adultbackstory.titleShort>TODO</YZRCM_023_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} crafted meals that temporarily activated dormant genes in consumers. {PAWN_possessive} nutrient-dense creations could enhance night vision for opera attendees or boost stress resilience before exams. The cuisine required such precise genetic alignment that {PAWN_pronoun} often tailored dishes to bloodlines rather than tastes. -->
+  <YZRCM_024_Adultbackstory.description>TODO</YZRCM_024_Adultbackstory.description>
+  <!-- EN: Epigenetic Culinary Artist -->
+  <YZRCM_024_Adultbackstory.title>TODO</YZRCM_024_Adultbackstory.title>
+  <!-- EN: Glitterchef -->
+  <YZRCM_024_Adultbackstory.titleShort>TODO</YZRCM_024_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} grew organic buildings from modified bone cells that self-repaired. {PAWN_possessive} living structures breathed and adapted to weather, their ivory-like frameworks embedded with photosensitive neural networks. Developers prized how {PAWN_possessive} designs blushed at sunset. -->
+  <YZRCM_025_Adultbackstory.description>TODO</YZRCM_025_Adultbackstory.description>
+  <!-- EN: Osteo-Architectural Specialist -->
+  <YZRCM_025_Adultbackstory.title>TODO</YZRCM_025_Adultbackstory.title>
+  <!-- EN: Architect -->
+  <YZRCM_025_Adultbackstory.titleShort>TODO</YZRCM_025_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} inked living microorganisms that glowed under emotional stimuli. {PAWN_possessive} symbiotic ink patterns shimmered blue during serenity or pulsed crimson during passion. Each design required weeks of gene-calibration to harmonize with the host's biochemistry without rejection. -->
+  <YZRCM_026_Adultbackstory.description>TODO</YZRCM_026_Adultbackstory.description>
+  <!-- EN: Bio-Luminescent Tattooist -->
+  <YZRCM_026_Adultbackstory.title>TODO</YZRCM_026_Adultbackstory.title>
+  <!-- EN: Tattoist -->
+  <YZRCM_026_Adultbackstory.titleShort>TODO</YZRCM_026_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} adjusted clients' hormonal rhythms using personalized pheromone regimens. {PAWN_pronoun} prescribed bio-engineered scent-cocktails that could induce focus or tranquility through epidermal absorption. The treatments were so popular that {PAWN_possessive} clinic maintained a six-month waiting list. -->
+  <YZRCM_027_Adultbackstory.description>TODO</YZRCM_027_Adultbackstory.description>
+  <!-- EN: Endocrine Balance Therapist -->
+  <YZRCM_027_Adultbackstory.title>TODO</YZRCM_027_Adultbackstory.title>
+  <!-- EN: Therapist -->
+  <YZRCM_027_Adultbackstory.titleShort>TODO</YZRCM_027_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} operated nano-looms spinning custom proteins into smart-textiles. {PAWN_possessive} fabrics remembered wearers' body shapes, repelled stains through enzymatic action, and changed insulation based on temperature. The silk-moths producing threads were {PAWN_possessive} own gene-edited creations. -->
+  <YZRCM_028_Adultbackstory.description>TODO</YZRCM_028_Adultbackstory.description>
+  <!-- EN: Gene-Loom Weaver -->
+  <YZRCM_028_Adultbackstory.title>TODO</YZRCM_028_Adultbackstory.title>
+  <!-- EN: Weaver -->
+  <YZRCM_028_Adultbackstory.titleShort>TODO</YZRCM_028_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} engineered sleep-enhancing microorganisms inhaled before bed. The tailored bacteria gently influenced neurotransmitters, creating curated dream-states from nostalgic memories to creative problem-solving visions. Clients jokingly called {PAWN_objective} 'the night gardener of the mind'. -->
+  <YZRCM_029_Adultbackstory.description>TODO</YZRCM_029_Adultbackstory.description>
+  <!-- EN: Somno-Dream Geneticist -->
+  <YZRCM_029_Adultbackstory.title>TODO</YZRCM_029_Adultbackstory.title>
+  <!-- EN: Genetecist -->
+  <YZRCM_029_Adultbackstory.titleShort>TODO</YZRCM_029_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} optimized clients' circadian rhythms through mitochondrial gene-therapy. {PAWN_pronoun} designed regimens where cells produced energy-cofactors timed to planetary rotation cycles. Elite athletes and politicians sought {PAWN_possessive} services to eliminate jet lag permanently. -->
+  <YZRCM_030_Adultbackstory.description>TODO</YZRCM_030_Adultbackstory.description>
+  <!-- EN: Chrono-Biological Consultant -->
+  <YZRCM_030_Adultbackstory.title>TODO</YZRCM_030_Adultbackstory.title>
+  <!-- EN: Consultant -->
+  <YZRCM_030_Adultbackstory.titleShort>TODO</YZRCM_030_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} worked on development of miniature mechanite ecosystems for new generation of cryosleep pods. {PAWN_possessive} balanced colonies of mechanites maintained structural integrity of the pods, conducted minor repairs, and most importantly - preserved the precious human within. The self-sustaining colonies were {PAWN_possessive} proudest creations - each a marble-sized piece of art. -->
+  <YZRCM_031_Adultbackstory.description>TODO</YZRCM_031_Adultbackstory.description>
+  <!-- EN: Hibernation Pod Mechanist -->
+  <YZRCM_031_Adultbackstory.title>TODO</YZRCM_031_Adultbackstory.title>
+  <!-- EN: Mechanist -->
+  <YZRCM_031_Adultbackstory.titleShort>TODO</YZRCM_031_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} developed plants emitting neurochemical aerosols that reduced anxiety. {PAWN_possessive} most popular creation: a fern whose spores contained oxytocin analogs. Urban planners planted {PAWN_possessive} calming groves near high-stress transit hubs, where commuters would unconsciously linger. -->
+  <YZRCM_032_Adultbackstory.description>TODO</YZRCM_032_Adultbackstory.description>
+  <!-- EN: Emotional Support Flora Breeder -->
+  <YZRCM_032_Adultbackstory.title>TODO</YZRCM_032_Adultbackstory.title>
+  <!-- EN: Gene-Engineer -->
+  <YZRCM_032_Adultbackstory.titleShort>TODO</YZRCM_032_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} hand-stitched biocompatible neural interfaces onto silk scaffolds. {PAWN_possessive} lacework allowed seamless brain-device integration without surgery. The delicate craft required gene-modified spider-silk and absolute stillness - {PAWN_pronoun} worked in gravity-dampened chambers to prevent tremors. -->
+  <YZRCM_033_Adultbackstory.description>TODO</YZRCM_033_Adultbackstory.description>
+  <!-- EN: Neural Lace Embroiderer -->
+  <YZRCM_033_Adultbackstory.title>TODO</YZRCM_033_Adultbackstory.title>
+  <!-- EN: Genetecist -->
+  <YZRCM_033_Adultbackstory.titleShort>TODO</YZRCM_033_Adultbackstory.titleShort>
+  
+  <!-- EN: "{PAWN_nameDef} pioneered skin-rejuvenation using symbiotic organisms. {PAWN_possessive} tailored micro-fauna lived in epidermis layers, repairing sun damage while releasing custom pheromones. The living treatments made traditional cosmetics seem barbarically primitive to {PAWN_objective}. -->
+  <YZRCM_034_Adultbackstory.description>TODO</YZRCM_034_Adultbackstory.description>
+  <!-- EN: Regenerative Cosmetologist -->
+  <YZRCM_034_Adultbackstory.title>TODO</YZRCM_034_Adultbackstory.title>
+  <!-- EN: Cosmetologist -->
+  <YZRCM_034_Adultbackstory.titleShort>TODO</YZRCM_034_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} designed meals triggering cross-sensory experiences through genetic activation. {PAWN_possessive} signature dish made patrons 'hear' vanilla as violin concertos while 'seeing' saffron as golden light. Each multi-course journey required months of client DNA analysis. -->
+  <YZRCM_035_Adultbackstory.description>TODO</YZRCM_035_Adultbackstory.description>
+  <!-- EN: Taste Synesthesia Chef -->
+  <YZRCM_035_Adultbackstory.title>TODO</YZRCM_035_Adultbackstory.title>
+  <!-- EN: Chef -->
+  <YZRCM_035_Adultbackstory.titleShort>TODO</YZRCM_035_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} encoded data into custom microorganisms for unhackable storage. {PAWN_possessive} bacterial colonies carried information in DNA sequences, only decipherable with specific chemical keys. Wealthy clients stored fortunes in vials of {PAWN_possessive} engineered bacteria, calling them 'living vaults' -->
+  <YZRCM_036_Adultbackstory.description>TODO</YZRCM_036_Adultbackstory.description>
+  <!-- EN: Bio-Security Cryptographer -->
+  <YZRCM_036_Adultbackstory.title>TODO</YZRCM_036_Adultbackstory.title>
+  <!-- EN: Programmer -->
+  <YZRCM_036_Adultbackstory.titleShort>TODO</YZRCM_036_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} designed gene-therapies helping bodies thrive in variable gravity. {PAWN_possessive} treatments strengthened bone density for heavy worlds or enhanced fluid balance for orbital stations. Test subjects reported feeling 'planetary versatility' after {PAWN_possessive} regimens. -->
+  <YZRCM_037_Adultbackstory.description>TODO</YZRCM_037_Adultbackstory.description>
+  <!-- EN: Gravity-Adapted Physiologist -->
+  <YZRCM_037_Adultbackstory.title>TODO</YZRCM_037_Adultbackstory.title>
+  <!-- EN: Physiologist -->
+  <YZRCM_037_Adultbackstory.titleShort>TODO</YZRCM_037_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} preserved historical eras through accurate odor-recreations. Using extinct flower DNA and atmospheric data, {PAWN_pronoun} recreated scents of ancient battles or forgotten festivals. Scholars claimed that inhaling {PAWN_possessive} work, sometimes taught more than textbooks ever could. -->
+  <YZRCM_038_Adultbackstory.description>TODO</YZRCM_038_Adultbackstory.description>
+  <!-- EN: Scent-Based Archivist -->
+  <YZRCM_038_Adultbackstory.title>TODO</YZRCM_038_Adultbackstory.title>
+  <!-- EN: Archivist -->
+  <YZRCM_038_Adultbackstory.titleShort>TODO</YZRCM_038_Adultbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} cultivated trees with mechanites storing family histories in their fruit. When consumed, the bio-engineered fruit released ancestral memories through a mix of rich flavour and targeted neural pathway activation by mechanites hidden within. Clients would taste great-grandmother's courage or long-dead uncle's wanderlust during ceremonial harvests. -->
+  <YZRCM_039_Adultbackstory.description>TODO</YZRCM_039_Adultbackstory.description>
+  <!-- EN: Genealogy Memory Gardener -->
+  <YZRCM_039_Adultbackstory.title>TODO</YZRCM_039_Adultbackstory.title>
+  <!-- EN: Gardener -->
+  <YZRCM_039_Adultbackstory.titleShort>TODO</YZRCM_039_Adultbackstory.titleShort>
+  
+</LanguageData>

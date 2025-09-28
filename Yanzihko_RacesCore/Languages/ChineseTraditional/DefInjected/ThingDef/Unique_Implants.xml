@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ BASIC TAIL USED BY MOST RACES ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- synthread tail -->
+  <SynthTail.label>合成纖維尾巴</SynthTail.label>
+  <!-- Artificial tail made from high quality bioplasteel components and synthread. Indistinguishable from a real tail. -->
+  <SynthTail.description>由高品質的生物塑鋼零件和合成纖維所製成的人造尾巴。與真實的尾巴相比無法區分差別。</SynthTail.description>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ Leaftail ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- synthread leaftail -->
+  <SynthLeaftail.label>合成纖維葉片尾巴</SynthLeaftail.label>
+  <!-- Artificial Leaftail that replicates photosynthesis properties of the original. Very expensive in terms of materials. Indistinguishable from a real Leaftail. -->
+  <SynthLeaftail.description>人造的葉片尾巴能仿照原本葉尾所能進行的光合作用特性， 材料的成本極高。與真實的葉片尾巴相比無法區分差別。</SynthLeaftail.description>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ Leafeon Leaves ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- synthread leafeon leaves -->
+  <SynthLeafeonleaves.label>合成纖維葉伊布葉片</SynthLeafeonleaves.label>
+  <!-- Artificial Leafeon leaves that replicate photosynthesis properties of the original. Very expensive in terms of materials. Indistinguishable from real Leafeon leaves. -->
+  <SynthLeafeonleaves.description>人造的葉伊布葉片能複製原本葉片所能進行的光合作用特性，材料的成本極高。與真實的葉伊布葉片相比無法區分差別。</SynthLeafeonleaves.description>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ SYLVEON BOWS ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- bionic bow -->
+  <BionicSylveonBow.label>仿生蝴蝶結</BionicSylveonBow.label>
+  <!-- Bionic Sylveon bow that is more effective and flexible than original organic part. -->
+  <BionicSylveonBow.description>仿生仙子伊布的蝴蝶結，比原來的有機成分更有效且更靈活。</BionicSylveonBow.description>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■  VAPOREON TAIL ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- cybernetic vaporeon tail -->
+  <CyberVapTail.label>機械水伊布尾巴</CyberVapTail.label>
+  <!-- Artificial cybernetic tail with bioplasteel frame, advanced motors and shiny surface from synthetic materials. Handy in all kinds of tasks that require physical strength and is proved to deal devastating blunt damage with enough momentum. -->
+  <CyberVapTail.description>人造的機械化尾巴，採用了生物塑鋼框架、先進馬達、以及由合成纖維等材料所做出的光滑閃亮外表，並一起製作而成的。非常適用於各種需要體力活的任務，而且經過證實，要是在有足夠動能的狀態下，還能夠對目標造成毀滅性的鈍擊傷害。</CyberVapTail.description>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ VAPOREON FIN ■■■■■■■■■■■■■■■■■■■■ -->
+<!-- bionic fin -->
+  <BionicVaporeonFin.label>仿生鰭</BionicVaporeonFin.label>
+  <!-- Bionic Vaporeon fin completely identical to original organic part. -->
+  <BionicVaporeonFin.description>仿生水伊布鰭，與原來有機部分完全相同。</BionicVaporeonFin.description>
+
+
+</LanguageData>

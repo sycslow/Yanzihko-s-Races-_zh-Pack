@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Eevee -->
+  <YZRCM_EeveeXenotype.label>伊布</YZRCM_EeveeXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。伊布拥有特殊的细胞和腺体，可以根据需要释放各种化学溶液到空气中。伊布以其魅力和能够几乎抚慰每个人的能力而闻名。 -->
+  <YZRCM_EeveeXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_EeveeXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_EeveeXenotype.descriptionShort>描述</YZRCM_EeveeXenotype.descriptionShort>
+  
+  <!-- EN: Espeon -->
+  <YZRCM_EspeonXenotype.label>太阳伊布</YZRCM_EspeonXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。太阳伊布能够高精确地操控局部熵。太阳伊布的生物过程能实现这些能力的机制尚未完全了解。当前尚不清楚基因工业究竟是做了什麽才能实现这一成果。无数的竞争者们在几个世纪以来一直都试图想尝试“破解代码”，但都失败了。尽管太阳伊布能以非常独特和暴力的方式使用它们的能力，但它们的身体极其脆弱，每次使用能力後都会让它们经历“细胞衰竭”。 -->
+  <YZRCM_EspeonXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_EspeonXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_EspeonXenotype.descriptionShort>描述</YZRCM_EspeonXenotype.descriptionShort>
+  
+  <!-- EN: Flareon -->
+  <YZRCM_FlareonXenotype.label>火伊布</YZRCM_FlareonXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。火伊布能够根据需要，将多余的脂肪和细胞化学转化为热能。 -->
+  <YZRCM_FlareonXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_FlareonXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_FlareonXenotype.descriptionShort>描述</YZRCM_FlareonXenotype.descriptionShort>
+  
+  <!-- EN: Glaceon -->
+  <YZRCM_GlaceonXenotype.label>冰伊布</YZRCM_GlaceonXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。冰伊布的生物过程机制，能够降低局部熵并似乎将其排放到未知之处，而这个生物过程的机制也尚未完全理解，仿佛看起来就象是种彻头彻尾的魔法一样。当前尚不清楚基因工业究竟做了什麽才能实现这一成果。无数的竞争者们在几个世纪以来一直都试图想尝试“破解代码”，但都失败了。冰伊布本身似乎拥有比周围环境更低的熵。而作为这附带出来的副作用，它们对寒冷和炎热的环境都极其耐受。 -->
+  <YZRCM_GlaceonXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_GlaceonXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_GlaceonXenotype.descriptionShort>描述</YZRCM_GlaceonXenotype.descriptionShort>
+  
+  <!-- EN: Jolteon -->
+  <YZRCM_JolteonXenotype.label>雷伊布</YZRCM_JolteonXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。雷伊布拥有特殊的细胞，能够保存电能，并在需要时能猛烈释放电。 -->
+  <YZRCM_JolteonXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_JolteonXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_JolteonXenotype.descriptionShort>描述</YZRCM_JolteonXenotype.descriptionShort>
+  
+  <!-- EN: Leafeon -->
+  <YZRCM_LeafeonXenotype.label>叶伊布</YZRCM_LeafeonXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. Half animal, half plant. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。半动物、半植物。叶伊布是其创造者疯狂的代表典范。这两种类型的细胞几乎能完美地协同运作。叶伊布拥有卓越的再生能力，甚至可以通过牺牲自身的一部分生物材料来帮助其他生物自我愈合。叶伊布所需要的“食物”非常少，这当中营养须求的一半是由精细调节的光合作用和从大多数可利用物质（无论是泥土还是石头）中吸收矿物质来满足。 -->
+  <YZRCM_LeafeonXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_LeafeonXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_LeafeonXenotype.descriptionShort>描述</YZRCM_LeafeonXenotype.descriptionShort>
+  
+  <!-- EN: Sylveon -->
+  <YZRCM_SylveonXenotype.label>仙子伊布</YZRCM_SylveonXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。极具魅力、绝对迷人、且活泼愉快的仙子伊布。仙子伊布能以极高的精度操控微观尺度的熵。遍布在整个神经系统和大脑内的特殊细胞能以特定频率振动，从而操控其他生物的脑波并影响它们的心理状态。 -->
+  <YZRCM_SylveonXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_SylveonXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_SylveonXenotype.descriptionShort>描述</YZRCM_SylveonXenotype.descriptionShort>
+  
+  <!-- EN: Umbeon -->
+  <YZRCM_UmbreonXenotype.label>月亮伊布</YZRCM_UmbreonXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。月亮伊布的大脑中拥有更大、且更密集的杏仁核，这使它们能成为优秀的自然捕食者。月亮伊布还具有一些生物特征，使它们其能非常隐秘地行动。 -->
+  <YZRCM_UmbreonXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_UmbreonXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_UmbreonXenotype.descriptionShort>描述</YZRCM_UmbreonXenotype.descriptionShort>
+  
+  <!-- EN: Vaporeon -->
+  <YZRCM_VaporeonXenotype.label>水伊布</YZRCM_VaporeonXenotype.label>
+  <!-- EN: Arrange of precisely tuned genes, making this advanced xenotype what it is. -->
+  <!-- 大部分都被加密了，但还是有少量空间可以进行修改。一种基于地球海洋生物DNA设计的原型异种族。水伊布能操控体内水分的熵，使其得以以独特方式使用。然而，即便水伊布的独特生物能力处于休眠状态，它们本身也是相当强大的生物，因此应谨慎接近它们。 -->
+  <YZRCM_VaporeonXenotype.description>精密调整过的基因排列，使这种先进的异种族成为它现在的样子。</YZRCM_VaporeonXenotype.description>
+  <!-- EN: Description -->
+  <YZRCM_VaporeonXenotype.descriptionShort>描述</YZRCM_VaporeonXenotype.descriptionShort>
+  
+</LanguageData>

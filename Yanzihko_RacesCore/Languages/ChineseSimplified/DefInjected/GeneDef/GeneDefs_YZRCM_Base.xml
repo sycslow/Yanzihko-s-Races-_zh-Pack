@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Genetical_Industries_BasicGene.label>G.I.-X0001™</Genetical_Industries_BasicGene.label>
+  <!--Core genetical template that can be found in a variety of Advanced Xenotypes. It is essentially a framework used by gene-engineering specialists that's been polished to perfection. Its not a single gene, but a highly modified part of Human DNA that is encrypted with special locker chains that are ignored by the cellural processes. They make analysis and editing of this template impossible outside of advanced Glitterworld facilities. Significantly increases efficiency of metabolic processes. "-Developed and Patented by Genetical Industries™ 2184" -->
+  <Genetical_Industries_BasicGene.description>这是在多种高级异种族的基因中，所发现到的基因核心遗传范本。在本质上，它基本上是一种由基因工程专家所打磨至完美的框架。而这并不是一个单一的基因，而是经由高度改造的人类DNA中的一部分，并使用特殊的基因锁链进行加密，这些基因锁链在细胞运作的进程过程中会被忽略掉。而这使得除了在先进的闪耀世界设施里以外，无法对此范本进行任何的分析和编辑。此基因会大幅显着的提高代谢过程中的效率能力。‘－由基因工业™　公司 於2184年开发并取得专利’</Genetical_Industries_BasicGene.description>
+
+
+</LanguageData>

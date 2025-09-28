@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Glitterlink -->
+  <Yanz_Glitterlink.label>闪耀链接设备</Yanz_Glitterlink.label>
+  <!-- EN: A glittertech neural interface implanted at the base of the skull at birth and activated during elementary school. An extremely common device across Glitterworld citizens. Almost as common as smartphones. Its vast processing power is crippled without a Glitternet connection, but it remains a superior tool for notes, short-range comms, and data storage. Colonists often use its idle cycles to run complex cognitive simulations during sleep or skip some time on pre-loaded puzzle games. --><!-- 机活 -->
+  <Yanz_Glitterlink.description>这是一款在出生时，就会被安装进头颅骨底部里的闪耀科技神经介面植入物，并在进入小学阶段时就会自己启动。这对于闪耀世界的公民来说，是极为普遍的设备，其普及程度几乎和智能型手机一模一样。只不过若没有跟闪耀网络连接的话，它那强大的运算处理能力便会被局限于此，但它仍然是做笔记、短程通信和保存数据的卓越工具。殖民者会经常利用其闲置周期，在睡眠期间运行复杂的认知仿真，或是在预先下载好的益智游戏上打发时间。</Yanz_Glitterlink.description>
+  <!-- EN: a Glitterlink -->
+  <Yanz_Glitterlink.labelNoun>闪耀链接设备</Yanz_Glitterlink.labelNoun>
+  
+</LanguageData>

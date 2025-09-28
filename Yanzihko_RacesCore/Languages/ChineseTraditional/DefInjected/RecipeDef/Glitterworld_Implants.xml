@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install Yanz_Glitterlink -->
+  <InstallYanz_Glitterlink.label>安裝閃耀連結</InstallYanz_Glitterlink.label>
+  <!-- EN: Install a Yanz_Glitterlink. -->
+  <InstallYanz_Glitterlink.description>安裝閃耀連結。</InstallYanz_Glitterlink.description>
+  <!-- EN: Installing Yanz_Glitterlink. -->
+  <InstallYanz_Glitterlink.jobString>安裝閃耀連結。</InstallYanz_Glitterlink.jobString>
+  
+  <!-- EN: remove Yanz_Glitterlink -->
+  <RemoveYanz_Glitterlink.label>移除閃耀連結</RemoveYanz_Glitterlink.label>
+  <!-- EN: Remove Yanz_Glitterlink. -->
+  <RemoveYanz_Glitterlink.description>移除閃耀連結。</RemoveYanz_Glitterlink.description>
+  <!-- EN: Removing Yanz_Glitterlink. -->
+  <RemoveYanz_Glitterlink.jobString>移除閃耀連結。</RemoveYanz_Glitterlink.jobString>
+  
+</LanguageData>

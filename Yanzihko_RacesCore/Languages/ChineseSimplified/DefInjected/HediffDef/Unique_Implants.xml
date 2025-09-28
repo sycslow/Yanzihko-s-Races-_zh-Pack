@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ BASIC TAIL USED BY MOST RACES ■■■■■■■■■■■■■■■■■■■■ -->
+  <!-- synthread tail -->  <SynthTail.label>合成纤维尾巴</SynthTail.label>
+  <!-- An installed synthread tail. Identical to the original in terms of looks. -->  <SynthTail.description>已安装的合成纤维尾巴。外观上与原本的尾巴完全相同。</SynthTail.description>
+  <!-- a synthread tail -->  <SynthTail.labelNoun>合成纤维尾巴</SynthTail.labelNoun>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ Leaftail ■■■■■■■■■■■■■■■■■■■■ -->
+  <!-- synthread leaftail -->  <SynthLeaftail.label>合成纤维叶片尾巴</SynthLeaftail.label>
+  <!-- An installed synthread Leaftail. Very beautiful. -->  <SynthLeaftail.description>已安装的合成纤维叶片尾巴。非常美丽。</SynthLeaftail.description>
+  <!-- a synthread Leaftail -->  <SynthLeaftail.labelNoun>合成纤维叶片尾巴</SynthLeaftail.labelNoun>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ Leafeon Leaves ■■■■■■■■■■■■■■■■■■■■ -->
+  <!-- synthread leafeon leaves -->  <SynthLeafeonleaves.label>合成纤维叶伊布叶片</SynthLeafeonleaves.label>
+  <!-- Installed synthread Leafeon leaves. They do look beautiful. -->  <SynthLeafeonleaves.description>已安装的合成纤维叶伊布叶片。它们看起来确实很漂亮。</SynthLeafeonleaves.description>
+  <!-- a synthread Leafeonleaves -->  <SynthLeafeonleaves.labelNoun>合成纤维叶伊布叶片</SynthLeafeonleaves.labelNoun>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ SYLVEON BOWS ■■■■■■■■■■■■■■■■■■■■ -->
+  <!-- bionic bow -->  <BionicSylveonBow.label>仿生蝴蝶结</BionicSylveonBow.label>
+  <!-- An installed bionic bow. Slightly more effective and flexible than original organic part. -->  <BionicSylveonBow.description>已安装的仿生蝴蝶结。比原本有机部分稍微更有效且更灵活。</BionicSylveonBow.description>
+  <!-- a bionic bow -->  <BionicSylveonBow.labelNoun>仿生蝴蝶结</BionicSylveonBow.labelNoun>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■  VAPOREON TAIL ■■■■■■■■■■■■■■■■■■■■ -->
+  <!-- cybernetic vaporeon tail -->  <CyberVapTail.label>机械水伊布尾巴</CyberVapTail.label>
+  <!-- An installed cybernetic tail. Extremely efficient. -->  <CyberVapTail.description>已安装的机械化尾巴。极其高效。</CyberVapTail.description>
+  <!-- tail -->  <CyberVapTail.comps.0.tools.0.label>尾巴</CyberVapTail.comps.0.tools.0.label>
+  <!-- a cybernetic vaporeon tail -->  <CyberVapTail.labelNoun>机械水伊布尾巴</CyberVapTail.labelNoun>
+
+
+  <!-- ■■■■■■■■■■■■■■■■■■■■ VAPOREON FIN ■■■■■■■■■■■■■■■■■■■■ -->
+  <!-- bionic fin -->  <BionicVaporeonFin.label>仿生鳍</BionicVaporeonFin.label>
+  <!-- An installed bionic fin. Completely identical to original organic part. -->  <BionicVaporeonFin.description>已安装的仿生鳍。与原本的有机部分完全相同。</BionicVaporeonFin.description>
+  <!-- a bionic fin -->  <BionicVaporeonFin.labelNoun>仿生鳍</BionicVaporeonFin.labelNoun>
+
+
+</LanguageData>

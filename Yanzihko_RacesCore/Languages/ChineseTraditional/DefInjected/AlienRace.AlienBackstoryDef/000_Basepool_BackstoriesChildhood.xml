@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Growing up on a Glitterworld, {PAWN_nameDef} enjoyed unparalleled comfort and technology, which gave {PAWN_objective} a well-rounded education in basic skills. -->
+  <YZRCM_000_Childbackstory.description>{PAWN_nameDef}在閃耀世界長大，享受著無與倫比的舒適與科技，這賦予了{PAWN_objective}在基礎的技能方面獲得了全面教育。</YZRCM_000_Childbackstory.description>
+  <!-- EN: Glitterworld Childhood -->
+  <YZRCM_000_Childbackstory.title>閃耀世界兒童</YZRCM_000_Childbackstory.title>
+  <!-- EN: Glitterworld Citizen -->
+  <YZRCM_000_Childbackstory.titleShort>閃耀世界公民</YZRCM_000_Childbackstory.titleShort>
+  
+  <!-- EN: Born aboard a cramped orbital habitat, {PAWN_nameDef} learned zero-G maintenance and hydroponics before arithmetic. -->
+  <YZRCM_001_Childbackstory.description>{PAWN_nameDef}出生於擁擠的軌道棲居地，{PAWN_objective}在學會算術之前，就先學會了零重力維護與水耕法。</YZRCM_001_Childbackstory.description>
+  <!-- EN: Spaceborn Childhood -->
+  <YZRCM_001_Childbackstory.title>太空出生的兒童</YZRCM_001_Childbackstory.title>
+  <!-- EN: Spaceborn -->
+  <YZRCM_001_Childbackstory.titleShort>太空出生者</YZRCM_001_Childbackstory.titleShort>
+  
+  <!-- EN: During orbital habitat kindergarten, {PAWN_nameDef} became mesmerized by real-time holograms of nebulas. {PAWN_pronoun} spent recess tracing star formations with {PAWN_possessive} fingers while classmates played gravity-tag. -->
+  <YZRCM_002_Childbackstory.description>{PAWN_nameDef}在位於軌道棲息地的幼兒園期間，{PAWN_pronoun}被星雲的即時全息影像給深深底著迷了。當同學們在下課時間玩著重力鬼抓人時，{PAWN_pronoun}總在用休息時間用小手指描繪著星辰輪廓的形狀。</YZRCM_002_Childbackstory.description>
+  <!-- EN: Stellar Cartography -->
+  <YZRCM_002_Childbackstory.title>星辰製圖學家</YZRCM_002_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_002_Childbackstory.titleShort>閃耀兒童</YZRCM_002_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} found discarded data-slugs containing pre-glitterworld archives when playing at an abandoned junkyard in underground levels. The struggle to restore orginal hardware and to decrypt primitive file formats became {PAWN_possessive} secret obsession; {PAWN_pronoun} cherished these 'broken' stories more than perfect holographic histories. -->
+  <YZRCM_003_Childbackstory.description>{PAWN_nameDef}在地下層的一處荒廢的廢墟間玩耍時，{PAWN_pronoun}偶然發現了一些被廢棄的資料匣，裡面還殘存著過去前閃耀世界時代的檔案資料。在努力嘗試修復著古老的硬體設備、和解密古老檔案格式的那些艱難過程，也逐漸成為{PAWN_possessive}秘密癖好；相比於那些完美無瑕的全息歷史，{PAWN_pronoun}更珍愛這些「支離破碎」的故事。</YZRCM_003_Childbackstory.description>
+  <!-- EN: Lost History Puzzles -->
+  <YZRCM_003_Childbackstory.title>失落歷史拼圖解題家</YZRCM_003_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_003_Childbackstory.titleShort>閃耀兒童</YZRCM_003_Childbackstory.titleShort>
+  
+  <!-- EN: Tending a classroom aquaponic garden, {PAWN_nameDef} learned to negotiate between quarrelful species—the voracious moon-carps and shy glow-snails. {PAWN_possessive} patience for biological compromise surprised even the tutor AI. -->
+  <YZRCM_004_Childbackstory.description>{PAWN_nameDef}在照料教室的水耕養殖花園時，{PAWN_pronoun}學會了在貪婪的月亮鯉和羞怯的螢光蝸牛，兩個相互爭鬥的物種之間進行協調。{PAWN_pronoun}在生物調解方面的耐心甚至讓指導{PAWN_pronoun}的人工智慧導師都感到驚訝。</YZRCM_004_Childbackstory.description>
+  <!-- EN: Ecosystem Balancing -->
+  <YZRCM_004_Childbackstory.title>生態系平衡學家</YZRCM_004_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_004_Childbackstory.titleShort>閃耀兒童</YZRCM_004_Childbackstory.titleShort>
+  
+  <!-- EN: In anti-grav gym class, {PAWN_nameDef}’s unusual dexterity allowed impossible aerial spins. While others struggled with basic levitation, {PAWN_pronoun} pioneered zero-G dance moves that looked like liquid starlight. -->
+  <YZRCM_005_Childbackstory.description>
+{PAWN_nameDef}在反重力的體操課上，{PAWN_pronoun}憑藉著異常靈敏的身手讓{PAWN_objective}完成了那不可思議的空中翻轉。當其他人還在掙扎於最基本的漂浮時，{PAWN_pronoun}已率先跳出了凌駕於重力的舞步，閃耀如同流動的星光。</YZRCM_005_Childbackstory.description>
+  <!-- EN: Gravity-Defying Dance -->
+  <YZRCM_005_Childbackstory.title>反重力舞者</YZRCM_005_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_005_Childbackstory.titleShort>閃耀兒童</YZRCM_005_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} have turned {PAWN_possessive} fur into a solar energy capacitor, using a special mix of glittertech chemicals {PAWN_pronoun} stole from {PAWN_possessive} parents. Unfortunately, {PAWN_possessive} invention have proved to catch fur on fire under direct sunglight, giving {PAWN_possessive} poor parents an unique opportunity to practice using a fire extinguisher... -->
+  <YZRCM_006_Childbackstory.description>{PAWN_nameDef}曾將{PAWN_possessive}毛皮改造成太陽能電容器，{PAWN_pronoun}使用了一種從{PAWN_pronoun}父母那裡偷來的，一種特殊性質的閃耀科技化學混合物。然而不幸的是，這項發明在太陽光的直射下會讓{PAWN_possessive}毛皮起火燃燒，而這也給了{PAWN_pronoun}那可憐的父母獲得了練習使用滅火器的獨特機會……</YZRCM_006_Childbackstory.description>
+  <!-- EN: Photon Harvesting -->
+  <YZRCM_006_Childbackstory.title>光子採集者</YZRCM_006_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_006_Childbackstory.titleShort>閃耀兒童</YZRCM_006_Childbackstory.titleShort>
+  
+  <!-- EN: During city tours, {PAWN_nameDef} sensed how buildings 'felt' —glass spires radiating calm, alloy plazas humming with ambition. {PAWN_pronoun} began sketching structures that changed texture with occupants' moods, baffling pragmatic tutors. -->
+  <YZRCM_007_Childbackstory.description>{PAWN_nameDef}在導覽城市期間，{PAWN_pronoun}能感受到建築的「氛圍」——從玻璃尖塔散發出的平靜、跟合金廣場上那嗡嗡作響著的雄心壯志。{PAWN_pronoun}開始繪製了會隨居住者心情改變紋理的結構草圖，這令務實的導師們感到困惑不已。</YZRCM_007_Childbackstory.description>
+  <!-- EN: Emotional Architecture -->
+  <YZRCM_007_Childbackstory.title>情感建築師</YZRCM_007_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_007_Childbackstory.titleShort>閃耀兒童</YZRCM_007_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}’s unnatural color intuition made {PAWN_objective} spent hours blending impossible hues in holographic looms, creating palettes that made ordinary glittergold seem dull. -->
+  <YZRCM_008_Childbackstory.description>{PAWN_nameDef}那不尋常的色彩直覺讓{PAWN_objective}花費了數小時在全息編織器中混合出了不可能的色調，{PAWN_pronoun}創造出了令普通的閃耀黃金色都會顯得暗淡無光的調色盤。</YZRCM_008_Childbackstory.description>
+  <!-- EN: Precision Color-Weaving -->
+  <YZRCM_008_Childbackstory.title>精密色彩編織者</YZRCM_008_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_008_Childbackstory.titleShort>閃耀兒童</YZRCM_008_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} became obsessed with thermodynamics and entropy studies after {PAWN_possessive} parents gifted {PAWN_objective} a pair of thermoentropic googles. Soon {PAWN_pronoun} was 'reading' stories in residual thermal signatures—where a robot sat, how long a friend lingered at a window and so on... -->
+  <YZRCM_009_Childbackstory.description>{PAWN_nameDef}在{PAWN_possessive}父母送給{PAWN_objective}一副智慧型熱熵成像眼鏡後，{PAWN_nameDef}開始便痴迷於熱力學和熵的研究。很快的，{PAWN_pronoun}便開始在殘留的熱成像訊號中「閱讀」故事——不論是機器人坐過的地方，還是朋友在窗邊逗留了多久等等…</YZRCM_009_Childbackstory.description>
+  <!-- EN: Thermal Story Mapping -->
+  <YZRCM_009_Childbackstory.title>熱能故事測繪者</YZRCM_009_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_009_Childbackstory.titleShort>閃耀兒童</YZRCM_009_Childbackstory.titleShort>
+  
+  <!-- EN: While classmates manipulated complex force fields, {PAWN_nameDef} became fascinated by soap bubbles in a retro-playzone. {PAWN_pronoun} documented their fragile quantum-interference patterns, proving simple things could still hold mysteries. -->
+  <YZRCM_010_Childbackstory.description>在復古遊樂區裡，當同學們還操縱複雜的力場時，{PAWN_nameDef}卻對遊樂區裡的肥皂泡泡著迷。{PAWN_pronoun}記錄了它們脆弱的量子干涉圖案，證明簡單的事物也仍然可以蘊含著奧秘。</YZRCM_010_Childbackstory.description>
+  <!-- EN: Bubble Physics -->
+  <YZRCM_010_Childbackstory.title>泡泡物理學家</YZRCM_010_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_010_Childbackstory.titleShort>閃耀兒童</YZRCM_010_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} cultivated organic data-storing crystals that grew when 'fed' meaningful experiences. {PAWN_possessive} happiest memories made them glow amber; {PAWN_possessive} sadness grew delicate frost-patterns—a private emotional diary. -->
+  <YZRCM_011_Childbackstory.description>{PAWN_nameDef}培育了能在「餵食」有意義的人生經驗時，會儲存資料並會以此生長的有機晶體。{PAWN_possessive}最快樂的回憶會讓它們發出琥珀色的光芒；而{PAWN_possessive}悲傷記憶則會長出精緻的霜花紋路——這成了一份私人的情感日記。</YZRCM_011_Childbackstory.description>
+  <!-- EN: Memory Crystal Gardening -->
+  <YZRCM_011_Childbackstory.title>記憶水晶園藝園丁</YZRCM_011_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_011_Childbackstory.titleShort>閃耀兒童</YZRCM_011_Childbackstory.titleShort>
+  
+  <!-- EN: With {PAWN_possessive} keen nose, {PAWN_nameDef} could navigate the arcology blindfolded by tracing air-scents: ozone near robotics labs, vanilla near creches. {PAWN_pronoun} made local scent-maps that delighted sensory artists. One of artists was a sommelier, who even offered {PAWN_nameDef} a job at his reustarant. -->
+  <YZRCM_012_Childbackstory.description>憑藉敏銳的嗅覺，{PAWN_nameDef}能蒙眼通過追蹤空氣中的氣味，在拱形生態城中導航：像是機器人實驗室附近飄散的臭氧氣味，還是育嬰室附近芬芳的香草氣味。{PAWN_pronoun}也還繪製了當地的氣味地圖，而這令感官藝術家們也感到欣喜若狂。其中一位藝術家還是一位品酒師，他甚至還邀請了{PAWN_nameDef}到他的餐廳裡工作。</YZRCM_012_Childbackstory.description>
+  <!-- EN: Scent-Based Navigation -->
+  <YZRCM_012_Childbackstory.title>氣味領航員</YZRCM_012_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_012_Childbackstory.titleShort>閃耀兒童</YZRCM_012_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} found resonance in 'outdated' pursuits. {PAWN_pronoun} taught {PAWN_possessive} cleaner drone Morse code, then co-opted delivery bots to send tap-messages across the city—a hidden language in plain sight. -->
+  <YZRCM_013_Childbackstory.description>{PAWN_nameDef}對「過時」的技藝產生共鳴。{PAWN_pronoun}教會了{PAWN_possessive}清潔無人機使用摩斯密碼，並用送貨無人機向全城發送節點訊號——這是一種在眾目之下所使用的隱藏語言。</YZRCM_013_Childbackstory.description>
+  <!-- EN: Ancient Communication -->
+  <YZRCM_013_Childbackstory.title>遠古通訊員</YZRCM_013_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_013_Childbackstory.titleShort>閃耀兒童</YZRCM_013_Childbackstory.titleShort>
+  
+  <!-- EN: Using discarded atmospheric regulators, {PAWN_nameDef} built miniature weather domes in {PAWN_possessive} closet. Peers marveled at tiny snowstorms over model cities or fog-forests where bonsai trees dripped with engineered dew. -->
+  <YZRCM_014_Childbackstory.description>{PAWN_nameDef}利用廢棄的大氣調節器，在{PAWN_possessive}衣櫃裡打造了一座微型天氣穹頂。同伴們對模型城市上空的迷你風雪或盆景樹滴著人工露珠的霧林感到驚嘆。</YZRCM_014_Childbackstory.description>
+  <!-- EN: Microclimate Creation -->
+  <YZRCM_014_Childbackstory.title>微型氣候打造者</YZRCM_014_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_014_Childbackstory.titleShort>閃耀兒童</YZRCM_014_Childbackstory.titleShort>
+  
+  <!-- EN: In a world of holograms, {PAWN_nameDef} cherished physical puzzles-self-rearranging GLEGO alloy cubes or crystal labyrinths. The tactile 'click' of solutions satisfying {PAWN_objective} more than any virtual achievement. -->
+  <YZRCM_015_Childbackstory.description>在一個充滿全息投影圖的世界裡，珍愛實體拼圖——能自我重新重組排列的GLEGO合金立方體或水晶迷宮。那種成功解開的觸覺「咔嗒聲」比任何虛擬成就更令{PAWN_objective}帶來滿足。
+</YZRCM_015_Childbackstory.description>
+  <!-- EN: Analog Puzzlecraft -->
+  <YZRCM_015_Childbackstory.title>模擬拼圖工藝愛好者</YZRCM_015_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_015_Childbackstory.titleShort>閃耀兒童</YZRCM_015_Childbackstory.titleShort>
+  
+  <!-- EN: When maintenance drones synchronized cleaning patterns in {PAWN_nameDef}'s arcology spire, {PAWN_pronoun} started directing them with improvised light-signals. Soon 47 drones were performing shimmering ballets in the atrium - much to the city AI's exasperated admiration. -->
+  <YZRCM_016_Childbackstory.description>當{PAWN_nameDef}的生態城尖塔裡的維護無人機在同步清掃時，{PAWN_pronoun}會開始用臨時的光信號指揮它們。很快的，47架無人機會在大廳裡表演著閃爍的芭蕾舞——這讓管理城市的人工智慧感到又愛又頭痛。</YZRCM_016_Childbackstory.description>
+  <!-- EN: Drone Symphony Conductor -->
+  <YZRCM_016_Childbackstory.title>無人機交響樂指揮家</YZRCM_016_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_016_Childbackstory.titleShort>閃耀兒童</YZRCM_016_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} discovered {PAWN_possessive} emotion-altered pheromones for some reason could subtly shift local climate controls systems. Sadness summoned gentle rains over {PAWN_possessive} school garden; joy triggered miniature rainbows. Tutors called this little harmless mutation a disaster for self-adjusting Glitterworld systems dependent on biometric data... Classmates called it magic. -->
+  <YZRCM_017_Childbackstory.description>由於某種原因，{PAWN_nameDef}發現到自己的情緒會改變自己的費洛蒙，而且還能微妙地影響當地的氣候控制系統。悲傷會讓{PAWN_possessive}學校花園下起溫柔的細雨；喜悅則會觸發微型彩虹。導師們稱這種無害的小突變，是對依賴於生物辨識資料，所進行自適應氣候調節的閃耀世界系統來說，是一場災難……而同學們則將其稱之為魔法。</YZRCM_017_Childbackstory.description>
+  <!-- EN: Neural Weather Painter -->
+  <YZRCM_017_Childbackstory.title>神經的天氣畫家</YZRCM_017_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_017_Childbackstory.titleShort>閃耀兒童</YZRCM_017_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} never knew {PAWN_possessive} biological parents - {PAWN_pronoun} was decanted among 137 gene-siblings in a population-crèche. Their pod-group shared educational dreams via neural-links, forging bonds deeper than blood while mastering communal hydroponic duties. -->
+  <YZRCM_018_Childbackstory.description>{PAWN_nameDef}從未見過{PAWN_possessive}親生父母——{PAWN_pronoun}在一個收養了137名基因同胞的生育托育中心中被培養出來。他們的團體通過神經連結共享教育夢境，在掌握共用水耕職責的同時，也建立了比血緣更深的羈絆。</YZRCM_018_Childbackstory.description>
+  <!-- EN: Crèche-Grown Gene-Line -->
+  <YZRCM_018_Childbackstory.title>托育中心培育的基因系譜</YZRCM_018_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_018_Childbackstory.titleShort>閃耀兒童</YZRCM_018_Childbackstory.titleShort>
+  
+  <!-- EN: Amidst self-repairing tech, {PAWN_nameDef} obsessed over 'broken' 21st-century gadgets in the museum's discard pile. {PAWN_pronoun} spent months reassembling a primitive combustion engine, marveling at its chaotic noise and leaking oils - glorious imperfections forbidden in {PAWN_possessive} polished world. -->
+  <YZRCM_019_Childbackstory.description>在自我修復技術盛行的世界裡，{PAWN_nameDef}對博物館當中的廢棄堆裡那些「殘破」的21世紀古董著迷，也在棄置堆當中找到一台原始的內燃機。{PAWN_pronoun}花了數個月時間重新組裝它，並讚嘆它那混亂的噪音聲響與機油滲漏的狀態——這在{PAWN_possessive}那個完美拋光的世界裡，將這些被禁止的不完美品視為光榮的東西。</YZRCM_019_Childbackstory.description>
+  <!-- EN: Retro Mechanics -->
+  <YZRCM_019_Childbackstory.title>復古機械師</YZRCM_019_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_019_Childbackstory.titleShort>閃耀兒童</YZRCM_019_Childbackstory.titleShort>
+  
+  <!-- EN: Raised by a rotating roster of caregiver-specialists, {PAWN_nameDef} absorbed fractions of 12 professions before age 10. The nano-architect taught {PAWN_objective} crystal-growth; the dreamweaver guided {PAWN_objective} meditation. Yet no one stayed long enough to teach {PAWN_objective} what 'family' meant beyond efficiency. -->
+  <YZRCM_020_Childbackstory.description>{PAWN_nameDef}被一群專家們輪換照護撫養，在十歲前吸收了十二種職業的部分知識。奈米建築師教會{PAWN_objective}晶體生長；夢境編織者引導{PAWN_objective}冥想。然而沒有人長久停留在{PAWN_pronoun}身邊，也沒有人教會{PAWN_objective}「家庭」的意義，除了效率以外的其他意義。</YZRCM_020_Childbackstory.description>
+  <!-- EN: Mentorship Network Child -->
+  <YZRCM_020_Childbackstory.title>導師網絡體系下成長的兒童</YZRCM_020_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_020_Childbackstory.titleShort>閃耀兒童</YZRCM_020_Childbackstory.titleShort>
+  
+  <!-- EN: While peers flew in anti-grav gyms, {PAWN_nameDef} mapped friction. {PAWN_pronoun} cataloged every textured tile in the arcology - where polished marble made {PAWN_possessive} paws slide, or gridded alloy offered perfect traction. {PAWN_possessive} tactile atlas won {PAWN_objective} an award at glitterschool science fair. -->
+  <YZRCM_021_Childbackstory.description>當同伴們在反重力體育館裡飛翔時，{PAWN_nameDef}則在繪製摩擦力地圖。{PAWN_pronoun}記錄了生態城裡的每一塊紋理瓷磚——拋光大理石讓{PAWN_possessive}腳滑動，而網格合金則提供了完美的牽引力。{PAWN_possessive}觸感地圖在閃耀學校的科學展覽上，還為{PAWN_objective}贏得了獎項。</YZRCM_021_Childbackstory.description>
+  <!-- EN: Gravity-Floor Cartographer -->
+  <YZRCM_021_Childbackstory.title>重力地板製圖師</YZRCM_021_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_021_Childbackstory.titleShort>閃耀兒童</YZRCM_021_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} genetically modified glow-moss to pulse in narrative rhythms. Fairy tales unfolded across {PAWN_possessive} bedroom walls each night: villainous voids of darkness battling heroic constellations. Sleep-cycle monitors constantly scolded {PAWN_objective} for 'overstimulation. -->
+  <YZRCM_022_Childbackstory.description>{PAWN_nameDef}基因改造出了，會隨著敘事節奏而耀動的發光苔蘚。每晚，童話故事便在{PAWN_possessive}臥室牆面上展開：邪惡的黑暗虛空與英勇星座的戰鬥。睡眠週期監視器總是不斷斥責{PAWN_objective}的「過度刺激」。</YZRCM_022_Childbackstory.description>
+  <!-- EN: Bio-Luminescent Storyteller -->
+  <YZRCM_022_Childbackstory.title>發光生物敘事者</YZRCM_022_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_022_Childbackstory.titleShort>閃耀兒童</YZRCM_022_Childbackstory.titleShort>
+  
+  <!-- EN: Decanted into a shared nutrient vat with 23 cohort-siblings, {PAWN_nameDef} understood scarcity young. Their crèche competed for educational stim-patches and affection-algorithms. {PAWN_pronoun} learned early to calculate emotional investments like resource allocations. -->
+  <YZRCM_023_Childbackstory.description>{PAWN_nameDef}自出生起便與23名同胞一同被傾注於共用的營養槽中培育而成，{PAWN_pronoun}從小就便體會了資源匱乏的滋味。他們的育兒中心需為了爭奪教育刺激貼片與情感演算法而彼此競爭。{PAWN_pronoun}也因此在年幼時就學會，必須將情感投資像資源分配般精密計算。 </YZRCM_023_Childbackstory.description>
+  <!-- EN: Communal Nutrient Vat Child -->
+  <YZRCM_023_Childbackstory.title>共用營養槽的兒童</YZRCM_023_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_023_Childbackstory.titleShort>閃耀兒童</YZRCM_023_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} scavenged forgotten sonic-frequencies - the hum of obsolete reactors or chir of vintage comm-gear. {PAWN_pronoun} composed symphonies from these 'lost sounds,' annoying acoustics engineers but delighting historians who'd never heard analog static as music. -->
+  <YZRCM_024_Childbackstory.description>{PAWN_nameDef}搜尋那些被遺忘的聲波頻率──廢棄反應爐的低鳴聲、老式通訊器材的嘰喳聲。{PAWN_pronoun}將這些「失落之聲」拼貼起來作成交響樂，這讓聲學工程師感到惱火，但卻讓歷史學家們感到欣喜若狂，因為他們從未聽過把類比雜訊與靜電聲做成可以聽的音樂。</YZRCM_024_Childbackstory.description>
+  <!-- EN: Sonic Archaeologist -->
+  <YZRCM_024_Childbackstory.title>聲波考古學家</YZRCM_024_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_024_Childbackstory.titleShort>閃耀兒童</YZRCM_024_Childbackstory.titleShort>
+  
+  <!-- EN: When {PAWN_nameDef}'s mood-reactive fur pigments emerged after a cosmetic procedure, {PAWN_pronoun} learned to 'paint' by controlling emotions. Calm blues swept across {PAWN_possessive} shoulders; excited ripples of gold danced down {PAWN_possessive} spine. Bio-aesthetics tutors begged {PAWN_objective} to stop 'wasting talent on ephemeral canvases.' -->
+  <YZRCM_025_Childbackstory.description>在一次整形後，{PAWN_nameDef}的皮毛出現了情緒反應色素，{PAWN_pronoun}因而學會透過控制情緒來「作畫」。平靜時藍色流過{PAWN_possessive}肩頭；興奮時金色波紋沿著{PAWN_possessive}脊背舞動。生物美學導師們苦求{PAWN_objective}別再把「天賦浪費在短暫的畫布上」了。</YZRCM_025_Childbackstory.description>
+  <!-- EN: Prismatic Fur Artist -->
+  <YZRCM_025_Childbackstory.title>彩光毛皮藝術家</YZRCM_025_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_025_Childbackstory.titleShort>閃耀兒童</YZRCM_025_Childbackstory.titleShort>
+  
+  <!-- EN: As Birth Cohort Gamma-7, {PAWN_nameDef} was engineered for adaptability. Raised in a sterile crèche with calculated affection-drip feeds, {PAWN_pronoun} bonded most with the sanitation drone that polished {PAWN_possessive} sleeping pod - the only consistent presence in {PAWN_possessive} optimized upbringing. -->
+  <YZRCM_026_Childbackstory.description>作為出生群組伽瑪-7，{PAWN_nameDef} 被設計成高度適應極強的個體。{PAWN_pronoun}在托育中心成長，接受經過計算的情感滴注；在這種被最佳化的養育過程中，{PAWN_pronoun}與定時清潔{PAWN_possessive}休眠艙的清潔機器人建立了最深的情感連結——那是唯一始終如一的存在。 </YZRCM_026_Childbackstory.description>
+  <!-- EN: Optimized Uplift Pupil -->
+  <YZRCM_026_Childbackstory.title>最佳化培育學童</YZRCM_026_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_026_Childbackstory.titleShort>閃耀兒童</YZRCM_026_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} noticed how light-gaps between structures created phantom buildings at sunset. {PAWN_pronoun} hijacked local AI of {PAWN_possessive} village to preserve these 'shadow-towers' by adjusting a small climate control system a few kilometers above. The refusal fueled {PAWN_possessive} obsession with temporary beauty. -->
+  <YZRCM_027_Childbackstory.description>{PAWN_nameDef}注意到建築間的光影縫細在日落時會投射出幻影般的建物輪廓。{PAWN_pronoun}駭入當地村落的AI，操控數公里外上方一台小型氣候控制系統來保留這些「影子塔」。當{PAWN_pronoun}被官方拒絕後，反而加深了{PAWN_pronoun}對這些短暫之美的執念。</YZRCM_027_Childbackstory.description>
+  <!-- EN: Shadow Architecture -->
+  <YZRCM_027_Childbackstory.title>影子建築師</YZRCM_027_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_027_Childbackstory.titleShort>閃耀兒童</YZRCM_027_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}'s gene-tailored larynx could mimic companion-bioids' chirps and trills. While others commanded pets with implants, {PAWN_pronoun} conversed for hours with fox-like constructs about nonsense and dreams - developing a private language logistics AIs couldn't parse. -->
+  <YZRCM_028_Childbackstory.description>TODO</YZRCM_028_Childbackstory.description>
+  <!-- EN: Symbiotic Pet Communicator -->
+  <YZRCM_028_Childbackstory.title>TODO</YZRCM_028_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_028_Childbackstory.titleShort>閃耀兒童</YZRCM_028_Childbackstory.titleShort>
+  
+  <!-- EN: As a deliberately parentless 'Lineage Ambassador,' {PAWN_nameDef} represented {PAWN_possessive} gene-template in cultural exchanges. {PAWN_pronoun} learned diplomacy through holographic avatars while real playdates were replaced by cross-template compatibility assessments. -->
+  <YZRCM_029_Childbackstory.description>TODO</YZRCM_029_Childbackstory.description>
+  <!-- EN: Gene-Lineage Ambassador -->
+  <YZRCM_029_Childbackstory.title>TODO</YZRCM_029_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_029_Childbackstory.titleShort>閃耀兒童</YZRCM_029_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} observed cleaner-microbes like civilizations. {PAWN_pronoun} charted their 'wars' over dust-canyons and 'treaties' near nutrient spills. Tutors dismissed it as imagination until {PAWN_pronoun} accurately predicted cleaning-bot failures via microbe migration patterns. -->
+  <YZRCM_030_Childbackstory.description>TODO</YZRCM_030_Childbackstory.description>
+  <!-- EN: Micro-Fauna Sociologist -->
+  <YZRCM_030_Childbackstory.title>TODO</YZRCM_030_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_030_Childbackstory.titleShort>閃耀兒童</YZRCM_030_Childbackstory.titleShort>
+  
+  <!-- EN: During free-fall gymnastics, {PAWN_nameDef} composed haiku about weightlessness. Each verse matched the duration of null-G intervals - 17 syllables precisely filling 9.3 seconds of float-time. Classmates floated in silence to hear {PAWN_possessive} ephemeral performances. -->
+  <YZRCM_031_Childbackstory.description>TODO</YZRCM_031_Childbackstory.description>
+  <!-- EN: Gravitational Poet -->
+  <YZRCM_031_Childbackstory.title>TODO</YZRCM_031_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_031_Childbackstory.titleShort>閃耀兒童</YZRCM_031_Childbackstory.titleShort>
+  
+  <!-- EN: {PAWN_nameDef} licked condensation from arcology windows, discerning seasonal shifts in artificial rains. {PAWN_pronoun} later recreated 'spring-mist flavor' using nutrient synthesizers, baffling culinary AIs with {PAWN_possessive} meteorological palate. -->
+  <YZRCM_032_Childbackstory.description>TODO</YZRCM_032_Childbackstory.description>
+  <!-- EN: Atmospheric Taste Chef -->
+  <YZRCM_032_Childbackstory.title>TODO</YZRCM_032_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_032_Childbackstory.titleShort>閃耀兒童</YZRCM_032_Childbackstory.titleShort>
+  
+  <!-- EN: When neural entertainment implants leaked corporate jingles into {PAWN_nameDef}'s dreams, {PAWN_pronoun} organized a crèche-wide 'dream-strike.' Children collectively imagined shield-dragons to block advertisements - accidentally creating a persistent mythic creature in local dream-lore. -->
+  <YZRCM_033_Childbackstory.description>TODO</YZRCM_033_Childbackstory.description>
+  <!-- EN: Dream Pollution Activist -->
+  <YZRCM_033_Childbackstory.title>TODO</YZRCM_033_Childbackstory.title>
+  <!-- EN: Glitterchild -->
+  <YZRCM_033_Childbackstory.titleShort>閃耀兒童</YZRCM_033_Childbackstory.titleShort>
+  
+</LanguageData>
