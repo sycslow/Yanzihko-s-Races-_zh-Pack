@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Lucky Quartet -->
+  <VulpoidScenario1.label>幸运的四只狐形种</VulpoidScenario1.label>
+  <!-- EN: You managed to escape from slave trader ship during pirate attack. Being in panic you took some food, resources and 4 pistols with you. You spent your whole life serving humans. You were threaten like toys, like soulless servitors. But now you got an opportunity to start a new life at this distant rimworld where no one will command and touch you. Or?... -->
+  <VulpoidScenario1.description>你们在一次海盗袭击期间，设法成功逃离了奴隶贩子的飞船。在惊慌混乱之中，你们带上了一些食物、资源，还有四把手枪。
+你们的一生都在为人类服务，被当作玩物般的对待，也象对待没有灵魂的仆从那般的威胁着你们。然而现在，你们终于有机会，能够在这颗遥远的边缘世界星球上展开一场全新的生活——在那里，再也没有任何人能够支配着你们、命令着你们、和再也没有任何人能随意的骚扰触摸你们，又或者……？</VulpoidScenario1.description>
+  <!-- EN: You managed to escape from slave trader ship during pirate attack. Being in panic you took some food, resources and 4 pistols with you. You spent your whole life serving humans. You were threaten like toys, like soulless servitors. But now you got an opportunity to start a new life at this distant rimworld where no one will command and touch you. Or?... -->
+  <VulpoidScenario1.scenario.description>你们在一次海盗袭击期间，设法成功逃离了奴隶贩子的飞船。在惊慌混乱之中，你们带上了一些食物、资源，还有四把手枪。
+你们的一生都在为人类服务，被当作玩物般的对待，也象对待没有灵魂的仆从那般的威胁着你们。然而现在，你们终于有机会，能够在这颗遥远的边缘世界星球上展开一场全新的生活——在那里，再也没有任何人能够支配着你们、命令着你们、和再也没有任何人能随意的骚扰触摸你们，又或者……？</VulpoidScenario1.scenario.description>
+  <!-- EN: Lucky Quartet -->
+  <VulpoidScenario1.scenario.name>幸运的四只狐形种</VulpoidScenario1.scenario.name>
+  <!-- EN: Pirate attack, unbeliavable escape and wonderous distant world where you can start your new life. It's sounds like a plot of a movie that you watched with your owner back in childhood... You see a rain of burning slave ship chunks entering atmosphere at ultra-sonic speed. You feel sudden relief in your chest. You are free now... -->
+  <VulpoidScenario1.scenario.parts.GameStartDialog.text>遭遇了海盗袭击、令人难以置信的惊险逃亡、和这个可以让你们展开新生活的遥远未知的世界——这一切听起来就象是一部你们从童年时期与主人一起看过的电影情节一样…… 你们望向天空，看到那艘燃烧的奴隶飞船残骸正在以超音速般的速度坠入了大气层，并拖出一道道的火焰踪迹。你们感受到了胸口涌起一股前所未有的轻松又终于解脱的感觉。你们现在终于自由了...</VulpoidScenario1.scenario.parts.GameStartDialog.text>
+  <!-- EN: Four Vulpian colonists with very basic resources. You have zero technologies at start. Be careful with Vulpian pawns since they're very weak and fragile. Use their movement speed as an advantage. Medium Difficulty. -->
+  <VulpoidScenario1.scenario.summary>4位狐形种殖民者，拥有基本资源。开场无科技，但狐形种个体脆弱，必须善用速度优势。此为中等难度的剧本。</VulpoidScenario1.scenario.summary>
+  
+</LanguageData>

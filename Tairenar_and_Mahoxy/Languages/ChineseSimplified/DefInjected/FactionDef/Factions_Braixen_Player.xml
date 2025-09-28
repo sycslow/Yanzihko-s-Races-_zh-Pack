@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Braixen Tribe -->  <PlayerBraixenTribal.label>长尾火狐部落</PlayerBraixenTribal.label>
+  <!-- Braixen tribe -->  <PlayerBraixenTribal.description>长尾火狐部落</PlayerBraixenTribal.description>
+  <!-- Braixen -->  <PlayerBraixenTribal.pawnsPlural>长尾火狐民</PlayerBraixenTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Braixen Tribe (No tech) -->  <PlayerBraixenTribalNoTech.label>长尾火狐部落 (无科技)</PlayerBraixenTribalNoTech.label>
+  <!-- Braixen tribe -->  <PlayerBraixenTribalNoTech.description>长尾火狐部落</PlayerBraixenTribalNoTech.description>
+  <!-- Braixen -->  <PlayerBraixenTribalNoTech.pawnsPlural>长尾火狐部落民</PlayerBraixenTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Braixen Colony -->  <PlayerBraixenIndustrial.label>长尾火狐殖民地</PlayerBraixenIndustrial.label>
+  <!-- Braixen Colony -->  <PlayerBraixenIndustrial.description>长尾火狐殖民地</PlayerBraixenIndustrial.description>
+  <!-- Braixen -->  <PlayerBraixenIndustrial.pawnsPlural>长尾火狐殖民者</PlayerBraixenIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Braixen Colony (No tech) -->  <PlayerBraixenIndustrialNoTech.label>长尾火狐殖民地 (无科技)</PlayerBraixenIndustrialNoTech.label>
+  <!-- Braixen colony -->  <PlayerBraixenIndustrialNoTech.description>长尾火狐殖民地</PlayerBraixenIndustrialNoTech.description>
+  <!-- Braixen -->  <PlayerBraixenIndustrialNoTech.pawnsPlural>长尾火狐殖民者</PlayerBraixenIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

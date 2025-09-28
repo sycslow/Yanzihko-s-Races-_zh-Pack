@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Icephox Tribe -->  <PlayerIcephoxTribal.label>妖冰藍狐部落</PlayerIcephoxTribal.label>
+  <!-- Icephox tribe -->  <PlayerIcephoxTribal.description>妖冰藍狐部落</PlayerIcephoxTribal.description>
+  <!-- Icephox -->  <PlayerIcephoxTribal.pawnsPlural>妖冰藍狐部落民</PlayerIcephoxTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Icephox Tribe (No tech) -->  <PlayerIcephoxTribalNoTech.label>妖冰藍狐部落 (無科技)</PlayerIcephoxTribalNoTech.label>
+  <!-- Icephox tribe -->  <PlayerIcephoxTribalNoTech.description>妖冰藍狐部落</PlayerIcephoxTribalNoTech.description>
+  <!-- Icephox -->  <PlayerIcephoxTribalNoTech.pawnsPlural>妖冰藍狐部落民</PlayerIcephoxTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Icephox Colony -->  <PlayerIcephoxIndustrial.label>妖冰藍狐殖民地</PlayerIcephoxIndustrial.label>
+  <!-- Icephox Colony -->  <PlayerIcephoxIndustrial.description>妖冰藍狐殖民地</PlayerIcephoxIndustrial.description>
+  <!-- Icephox -->  <PlayerIcephoxIndustrial.pawnsPlural>妖冰藍狐殖民者</PlayerIcephoxIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Icephox Colony (No tech) -->  <PlayerIcephoxIndustrialNoTech.label>妖冰藍狐殖民地 (無科技)</PlayerIcephoxIndustrialNoTech.label>
+  <!-- Icephox colony -->  <PlayerIcephoxIndustrialNoTech.description>妖冰藍狐殖民地</PlayerIcephoxIndustrialNoTech.description>
+  <!-- Icephox -->  <PlayerIcephoxIndustrialNoTech.pawnsPlural>妖冰藍狐殖民者</PlayerIcephoxIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

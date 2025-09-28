@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <BraixenTribalPawn.label>部落民</BraixenTribalPawn.label>
+  <!-- members -->  <BraixenTribalPawn.labelPlural>部落民</BraixenTribalPawn.labelPlural>
+  <!-- male member -->  <BraixenTribalPawn.labelMale>男性部落民</BraixenTribalPawn.labelMale>
+  <!-- male members -->  <BraixenTribalPawn.labelMalePlural>男性部落民</BraixenTribalPawn.labelMalePlural>
+  <!-- female member -->  <BraixenTribalPawn.labelFemale>女性部落民</BraixenTribalPawn.labelFemale>
+  <!-- female members -->  <BraixenTribalPawn.labelFemalePlural>女性部落民殖民者</BraixenTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <BraixenIndustrialPawn.label>殖民者</BraixenIndustrialPawn.label>
+  <!-- members -->  <BraixenIndustrialPawn.labelPlural>殖民者</BraixenIndustrialPawn.labelPlural>
+  <!-- male member -->  <BraixenIndustrialPawn.labelMale>男性殖民者</BraixenIndustrialPawn.labelMale>
+  <!-- male members -->  <BraixenIndustrialPawn.labelMalePlural>男性殖民者</BraixenIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <BraixenIndustrialPawn.labelFemale>女性殖民者</BraixenIndustrialPawn.labelFemale>
+  <!-- female members -->  <BraixenIndustrialPawn.labelFemalePlural>女性殖民者</BraixenIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

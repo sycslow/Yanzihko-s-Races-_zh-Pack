@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Braixen -->  <Braixen.label>长尾火狐</Braixen.label>
+  <!-- A small, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around. Braixen is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Braixen.description>一种小型、双足行走、类似于狐狸般的类人形生物，具有天生自然对火焰的亲和力和心灵能力。当前并不清楚最初原本生产它们的闪耀世界，不知究竟到底是怎麽样的使用了，那仿佛如魔法般的基因工程技术，但它们的身体几乎对火焰和高温完全免疫。而且这些生物能够有意识地调节自身体温。在其原本的恒星系崩溃之前，这个物种主要是被用作家庭仆人、娱乐者，或者是美丽而善良的朋友。长尾火狐是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</Braixen.description>
+
+  <!-- teeth -->  <Braixen.tools.0.label>牙齿</Braixen.tools.0.label>
+  <!-- left claws -->  <Braixen.tools.1.label>左爪</Braixen.tools.1.label>
+  <!-- right claws -->  <Braixen.tools.2.label>右爪</Braixen.tools.2.label>
+  <!-- hair --><!--  <Braixen.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Braixen.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <Braixen.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Braixen.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

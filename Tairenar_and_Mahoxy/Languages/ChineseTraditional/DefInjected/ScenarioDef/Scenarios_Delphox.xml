@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Intercepted Space Cruiser -->  <DelphoxScenario1.label>遭遇攔截的太空巡洋艦</DelphoxScenario1.label>
+  <!-- Your first heading aboard a military space fleet ended with disaster. Your ship was flanked by a few smaller enemy vessels and managed to deal heavy damage and great disabling shots off. Well, not great for you.A menagerie of surviving civilians and soldiers, friends or otherwise, managed to get to a column of escape pods. You, performing your duties near one, or being close to one by sheer luck, had the chance to get in one alongside three other personnel. Amongst your group are two Delphoxes.The only “safe” place appearing on screen of your pod is a close by Rimworld a few days out… -->  <DelphoxScenario1.description>你首次參與加入的太空軍事艦隊的首次航行任務，以災難性的任務失敗為告終。你的船艦遭到幾艘較小的敵方船艦側翼伏擊，導致整艘船艦被打到落花流水而遭受重創並陷入癱瘓。這對你來說，這可不是什麼幸運的好消息。一群倖存的平民與士兵，無論是否相識，都一一設法桃到了一排逃生艙。你因職責或純粹運氣，正好也在逃生艙附近執行任務，並且也剛好趕上了其中一艘逃生艙，並與另外三名人員一同撤離。而你負責協助的小組當中則有兩名妖火紅狐也一起進入了這當中的逃生艙。逃生艙內的顯示器螢幕上，所指向唯一的「安全」地點是，距離最近僅需要幾天路程的一顆星球，邊緣世界……</DelphoxScenario1.description>
+  <!-- Intercepted Space Cruiser -->  <DelphoxScenario1.scenario.name>遭遇攔截的太空巡洋艦</DelphoxScenario1.scenario.name>
+  <!-- Two colonists with moderate amount of resources and enough food. Easy start. -->  <DelphoxScenario1.scenario.summary>兩名殖民者，擁有適量的資源和足夠的食物。此為簡單開局的劇本。</DelphoxScenario1.scenario.summary>
+  <!-- Your first heading aboard a military space fleet ended with disaster. Your ship was flanked by a few smaller enemy vessels and managed to deal heavy damage and great disabling shots off. Well, not great for you.A menagerie of surviving civilians and soldiers, friends or otherwise, managed to get to a column of escape pods. You, performing your duties near one, or being close to one by sheer luck, had the chance to get in one alongside three other personnel. Amongst your group are two Delphoxes.The only “safe” place appearing on screen of your pod is a close by Rimworld a few days out… -->  <DelphoxScenario1.scenario.description>你首次參與加入的太空軍事艦隊的首次航行任務，以災難性的任務失敗為告終。你的船艦遭到幾艘較小的敵方船艦側翼伏擊，導致整艘船艦被打到落花流水而遭受重創並陷入癱瘓。這對你來說，這可不是什麼幸運的好消息。一群倖存的平民與士兵，無論是否相識，都一一設法桃到了一排逃生艙。你因職責或純粹運氣，正好也在逃生艙附近執行任務，並且也剛好趕上了其中一艘逃生艙，並與另外三名人員一同撤離。而你負責協助的小組當中則有兩名妖火紅狐也一起進入了這當中的逃生艙。逃生艙內的顯示器螢幕上，所指向唯一的「安全」地點是，距離最近僅需要幾天路程的一顆星球，邊緣世界……</DelphoxScenario1.scenario.description>
+  <!-- The crash land was bumpy, and some of the cruisers up there are still going at it. It’s best to build up a camp, ready ourselves, and decide what to do next. -->
+  <DelphoxScenario1.scenario.parts.GameStartDialog.text>降落著陸的過程十分顛簸不堪，天空上方扔然還有巡洋艦依然在上面激烈交戰。最好先建立一個營地，並隨時做好準備，然後接下來再看看該怎麼決定下一步的行動。</DelphoxScenario1.scenario.parts.GameStartDialog.text>
+  <!-- UNUSED --><!--  <DelphoxScenario1.scenario.parts.20.text>降落著陸的過程十分顛簸不堪，天空上方扔然還有巡洋艦依然在上面激烈交戰。最好先建立一個營地，並隨時做好準備，然後接下來再看看該怎麼決定下一步的行動。</DelphoxScenario1.scenario.parts.20.text>-->
+
+
+</LanguageData>

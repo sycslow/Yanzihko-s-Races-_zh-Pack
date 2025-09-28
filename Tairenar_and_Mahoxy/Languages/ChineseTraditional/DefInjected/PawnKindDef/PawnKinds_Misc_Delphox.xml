@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Delphox space refugee -->  <DelphoxSpaceRefugee.label>妖火紅狐星際難民</DelphoxSpaceRefugee.label>
+  <!-- Delphox space refugees -->  <DelphoxSpaceRefugee.labelPlural>妖火紅狐星際難民</DelphoxSpaceRefugee.labelPlural>
+  <!-- male Delphox space refugee -->  <DelphoxSpaceRefugee.labelMale>男性妖火紅狐星際難民</DelphoxSpaceRefugee.labelMale>
+  <!-- male Delphox space refugees -->  <DelphoxSpaceRefugee.labelMalePlural>男性妖火紅狐星際難民</DelphoxSpaceRefugee.labelMalePlural>
+  <!-- female Delphox space refugee -->  <DelphoxSpaceRefugee.labelFemale>女性妖火紅狐星際難民</DelphoxSpaceRefugee.labelFemale>
+  <!-- female Delphox space refugees -->  <DelphoxSpaceRefugee.labelFemalePlural>女性妖火紅狐星際難民</DelphoxSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Delphox slave -->  <DelphoxSlave.label>妖火紅狐奴隸</DelphoxSlave.label>
+  <!-- Delphox slaves -->  <DelphoxSlave.labelPlural>妖火紅狐奴隸</DelphoxSlave.labelPlural>
+  <!-- male Delphox slave -->  <DelphoxSlave.labelMale>男性妖火紅狐奴隸</DelphoxSlave.labelMale>
+  <!-- male Delphox slaves -->  <DelphoxSlave.labelMalePlural>男性妖火紅狐奴隸</DelphoxSlave.labelMalePlural>
+  <!-- female Delphox slave -->  <DelphoxSlave.labelFemale>女性妖火紅狐奴隸</DelphoxSlave.labelFemale>
+  <!-- female Delphox slaves -->  <DelphoxSlave.labelFemalePlural>女性妖火紅狐奴隸</DelphoxSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Delphox -->  <DelphoxColonist.label>妖火紅狐</DelphoxColonist.label>
+  <!-- Delphoxs -->  <DelphoxColonist.labelPlural>妖火紅狐</DelphoxColonist.labelPlural>
+  <!-- male Delphox -->  <DelphoxColonist.labelMale>男性妖火紅狐</DelphoxColonist.labelMale>
+  <!-- male Delphoxs -->  <DelphoxColonist.labelMalePlural>男性妖火紅狐</DelphoxColonist.labelMalePlural>
+  <!-- female Delphox -->  <DelphoxColonist.labelFemale>女性妖火紅狐</DelphoxColonist.labelFemale>
+  <!-- female Delphoxs -->  <DelphoxColonist.labelFemalePlural>女性妖火紅狐</DelphoxColonist.labelFemalePlural>
+
+  <!-- Delphox -->  <DelphoxTribesperson.label>妖火紅狐</DelphoxTribesperson.label>
+  <!-- Delphoxs -->  <DelphoxTribesperson.labelPlural>妖火紅狐</DelphoxTribesperson.labelPlural>
+  <!-- male Delphox -->  <DelphoxTribesperson.labelMale>男性妖火紅狐</DelphoxTribesperson.labelMale>
+  <!-- male Delphoxs -->  <DelphoxTribesperson.labelMalePlural>男性妖火紅狐</DelphoxTribesperson.labelMalePlural>
+  <!-- female Delphox -->  <DelphoxTribesperson.labelFemale>女性妖火紅狐</DelphoxTribesperson.labelFemale>
+  <!-- female Delphoxs -->  <DelphoxTribesperson.labelFemalePlural>女性妖火紅狐</DelphoxTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Delphox grenadier -->  <Delphox_Grenadier_Destructive.label>妖火紅狐擲彈兵</Delphox_Grenadier_Destructive.label>
+  <!-- Delphox grenadiers -->  <Delphox_Grenadier_Destructive.labelPlural>妖火紅狐擲彈兵</Delphox_Grenadier_Destructive.labelPlural>
+  <!-- male Delphox grenadier -->  <Delphox_Grenadier_Destructive.labelMale>男性妖火紅狐擲彈兵</Delphox_Grenadier_Destructive.labelMale>
+  <!-- male Delphox grenadiers -->  <Delphox_Grenadier_Destructive.labelMalePlural>男性妖火紅狐擲彈兵</Delphox_Grenadier_Destructive.labelMalePlural>
+  <!-- female Delphox grenadier -->  <Delphox_Grenadier_Destructive.labelFemale>女性妖火紅狐擲彈兵</Delphox_Grenadier_Destructive.labelFemale>
+  <!-- female Delphox grenadiers -->  <Delphox_Grenadier_Destructive.labelFemalePlural>女性妖火紅狐擲彈兵</Delphox_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Delphox EMP grenadier -->  <Delphox_Grenadier_EMP.label>妖火紅狐 EMP擲彈兵</Delphox_Grenadier_EMP.label>
+  <!-- Delphox EMP grenadiers -->  <Delphox_Grenadier_EMP.labelPlural>妖火紅狐 EMP擲彈兵</Delphox_Grenadier_EMP.labelPlural>
+  <!-- male Delphox EMP grenadier -->  <Delphox_Grenadier_EMP.labelMale>男性妖火紅狐 EMP擲彈兵</Delphox_Grenadier_EMP.labelMale>
+  <!-- male Delphox EMP grenadiers -->  <Delphox_Grenadier_EMP.labelMalePlural>男性妖火紅狐 EMP擲彈兵</Delphox_Grenadier_EMP.labelMalePlural>
+  <!-- female Delphox EMP grenadier -->  <Delphox_Grenadier_EMP.labelFemale>女性妖火紅狐 EMP擲彈兵</Delphox_Grenadier_EMP.labelFemale>
+  <!-- female Delphox EMP grenadiers -->  <Delphox_Grenadier_EMP.labelFemalePlural>女性妖火紅狐 EMP擲彈兵</Delphox_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Delphox smoke grenadier -->  <Delphox_Grenadier_Smoke.label>妖火紅狐煙霧彈擲彈兵</Delphox_Grenadier_Smoke.label>
+  <!-- Delphox smoke grenadiers -->  <Delphox_Grenadier_Smoke.labelPlural>妖火紅狐煙霧彈擲彈兵</Delphox_Grenadier_Smoke.labelPlural>
+  <!-- male Delphox smoke grenadier -->  <Delphox_Grenadier_Smoke.labelMale>男性妖火紅狐煙霧彈擲彈兵</Delphox_Grenadier_Smoke.labelMale>
+  <!-- male Delphox smoke grenadiers -->  <Delphox_Grenadier_Smoke.labelMalePlural>男性妖火紅狐煙霧彈擲彈兵</Delphox_Grenadier_Smoke.labelMalePlural>
+  <!-- female Delphox smoke grenadier -->  <Delphox_Grenadier_Smoke.labelFemale>女性妖火紅狐煙霧彈擲彈兵</Delphox_Grenadier_Smoke.labelFemale>
+  <!-- female Delphox smoke grenadiers -->  <Delphox_Grenadier_Smoke.labelFemalePlural>女性妖火紅狐煙霧彈擲彈兵</Delphox_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Delphox mercenary gunner -->  <Delphox_Mercenary_Gunner.label>妖火紅狐槍手傭兵</Delphox_Mercenary_Gunner.label>
+  <!-- Delphox mercenary gunners -->  <Delphox_Mercenary_Gunner.labelPlural>妖火紅狐槍手傭兵</Delphox_Mercenary_Gunner.labelPlural>
+  <!-- male Delphox mercenary gunner -->  <Delphox_Mercenary_Gunner.labelMale>男性妖火紅狐槍手傭兵</Delphox_Mercenary_Gunner.labelMale>
+  <!-- male Delphox mercenary gunners -->  <Delphox_Mercenary_Gunner.labelMalePlural>男性妖火紅狐槍手傭兵</Delphox_Mercenary_Gunner.labelMalePlural>
+  <!-- female Delphox mercenary gunner -->  <Delphox_Mercenary_Gunner.labelFemale>女性妖火紅狐槍手傭兵</Delphox_Mercenary_Gunner.labelFemale>
+  <!-- female Delphox mercenary gunners -->  <Delphox_Mercenary_Gunner.labelFemalePlural>女性妖火紅狐槍手傭兵</Delphox_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Delphox mercenary sniper -->  <Delphox_Mercenary_Sniper.label>妖火紅狐狙擊手傭兵</Delphox_Mercenary_Sniper.label>
+  <!-- Delphox mercenary snipers -->  <Delphox_Mercenary_Sniper.labelPlural>妖火紅狐狙擊手傭兵</Delphox_Mercenary_Sniper.labelPlural>
+  <!-- male Delphox mercenary sniper -->  <Delphox_Mercenary_Sniper.labelMale>男性妖火紅狐狙擊手傭兵</Delphox_Mercenary_Sniper.labelMale>
+  <!-- male Delphox mercenary snipers -->  <Delphox_Mercenary_Sniper.labelMalePlural>男性妖火紅狐狙擊手傭兵</Delphox_Mercenary_Sniper.labelMalePlural>
+  <!-- female Delphox mercenary sniper -->  <Delphox_Mercenary_Sniper.labelFemale>女性妖火紅狐狙擊手傭兵</Delphox_Mercenary_Sniper.labelFemale>
+  <!-- female Delphox mercenary snipers -->  <Delphox_Mercenary_Sniper.labelFemalePlural>女性妖火紅狐狙擊手傭兵</Delphox_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Delphox mercenary slasher -->  <Delphox_Mercenary_Slasher.label>妖火紅狐殺手傭兵</Delphox_Mercenary_Slasher.label>
+  <!-- Delphox mercenary slashers -->  <Delphox_Mercenary_Slasher.labelPlural>妖火紅狐殺手傭兵</Delphox_Mercenary_Slasher.labelPlural>
+  <!-- male Delphox mercenary slasher -->  <Delphox_Mercenary_Slasher.labelMale>男性妖火紅狐殺手傭兵</Delphox_Mercenary_Slasher.labelMale>
+  <!-- male Delphox mercenary slashers -->  <Delphox_Mercenary_Slasher.labelMalePlural>男性妖火紅狐殺手傭兵</Delphox_Mercenary_Slasher.labelMalePlural>
+  <!-- female Delphox mercenary slasher -->  <Delphox_Mercenary_Slasher.labelFemale>女性妖火紅狐殺手傭兵</Delphox_Mercenary_Slasher.labelFemale>
+  <!-- female Delphox mercenary slashers -->  <Delphox_Mercenary_Slasher.labelFemalePlural>女性妖火紅狐殺手傭兵</Delphox_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Delphox heavy mercenary -->  <Delphox_Mercenary_Heavy.label>妖火紅狐重裝傭兵</Delphox_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Delphox_Mercenary_Heavy.labelPlural>重裝傭兵</Delphox_Mercenary_Heavy.labelPlural>
+  <!-- male Delphox heavy mercenary -->  <Delphox_Mercenary_Heavy.labelMale>男性妖火紅狐重裝傭兵</Delphox_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Delphox_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Delphox_Mercenary_Heavy.labelMalePlural>
+  <!-- female Delphox heavy mercenary -->  <Delphox_Mercenary_Heavy.labelFemale>女性妖火紅狐重裝傭兵</Delphox_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Delphox_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Delphox_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Delphox boss -->  <Delphox_PirateBoss.label>妖火紅狐海賊團長</Delphox_PirateBoss.label>
+  <!-- bosses -->  <Delphox_PirateBoss.labelPlural>海賊團長</Delphox_PirateBoss.labelPlural>
+  <!-- male Delphox boss -->  <Delphox_PirateBoss.labelMale>男性妖火紅狐海賊團長</Delphox_PirateBoss.labelMale>
+  <!-- male bosses -->  <Delphox_PirateBoss.labelMalePlural>男性海賊團長</Delphox_PirateBoss.labelMalePlural>
+  <!-- female Delphox boss -->  <Delphox_PirateBoss.labelFemale>女性妖火紅狐海賊團長</Delphox_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Delphox_PirateBoss.labelFemalePlural>女性海賊團長</Delphox_PirateBoss.labelFemalePlural>
+
+  <!-- Delphox elite mercenary -->  <Delphox_Mercenary_Elite.label>妖火紅狐精銳傭兵</Delphox_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Delphox_Mercenary_Elite.labelPlural>精銳傭兵</Delphox_Mercenary_Elite.labelPlural>
+  <!-- male Delphox elite mercenary -->  <Delphox_Mercenary_Elite.labelMale>男性妖火紅狐精銳傭兵</Delphox_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Delphox_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Delphox_Mercenary_Elite.labelMalePlural>
+  <!-- female Delphox elite mercenary -->  <Delphox_Mercenary_Elite.labelFemale>女性妖火紅狐精銳傭兵</Delphox_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Delphox_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Delphox_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Delphox drifter -->  <Delphox_Drifter.label>妖火紅狐漂泊者</Delphox_Drifter.label>
+  <!-- Delphox drifters -->  <Delphox_Drifter.labelPlural>妖火紅狐漂泊者</Delphox_Drifter.labelPlural>
+  <!-- male Delphox drifter -->  <Delphox_Drifter.labelMale>男性妖火紅狐漂泊者</Delphox_Drifter.labelMale>
+  <!-- male Delphox drifters -->  <Delphox_Drifter.labelMalePlural>男性妖火紅狐漂泊者</Delphox_Drifter.labelMalePlural>
+  <!-- female Delphox drifter -->  <Delphox_Drifter.labelFemale>女性妖火紅狐漂泊者</Delphox_Drifter.labelFemale>
+  <!-- female Delphox drifters -->  <Delphox_Drifter.labelFemalePlural>女性妖火紅狐漂泊者</Delphox_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Delphox scavenger gunner -->  <Delphox_Scavenger.label>妖火紅狐掠奪者槍手</Delphox_Scavenger.label>
+  <!-- Delphox scavenger gunners -->  <Delphox_Scavenger.labelPlural>妖火紅狐掠奪者槍手</Delphox_Scavenger.labelPlural>
+  <!-- male Delphox scavenger gunner -->  <Delphox_Scavenger.labelMale>男性妖火紅狐掠奪者槍手</Delphox_Scavenger.labelMale>
+  <!-- male Delphox scavenger gunners -->  <Delphox_Scavenger.labelMalePlural>男性妖火紅狐掠奪者槍手</Delphox_Scavenger.labelMalePlural>
+  <!-- female Delphox scavenger gunner -->  <Delphox_Scavenger.labelFemale>女性妖火紅狐掠奪者槍手</Delphox_Scavenger.labelFemale>
+  <!-- female Delphox scavenger gunners -->  <Delphox_Scavenger.labelFemalePlural>女性妖火紅狐掠奪者槍手</Delphox_Scavenger.labelFemalePlural>
+
+  <!-- Delphox scavenger thrasher -->  <Delphox_Thrasher.label>妖火紅狐掠奪者暴民</Delphox_Thrasher.label>
+  <!-- Delphox scavenger thrashers -->  <Delphox_Thrasher.labelPlural>妖火紅狐掠奪者暴民</Delphox_Thrasher.labelPlural>
+  <!-- male Delphox scavenger thrasher -->  <Delphox_Thrasher.labelMale>男性妖火紅狐掠奪者暴民</Delphox_Thrasher.labelMale>
+  <!-- male Delphox scavenger thrashers -->  <Delphox_Thrasher.labelMalePlural>男性妖火紅狐掠奪者暴民</Delphox_Thrasher.labelMalePlural>
+  <!-- female Delphox scavenger thrasher -->  <Delphox_Thrasher.labelFemale>女性妖火紅狐掠奪者暴民</Delphox_Thrasher.labelFemale>
+  <!-- female Delphox scavenger thrashers -->  <Delphox_Thrasher.labelFemalePlural>女性妖火紅狐掠奪者暴民</Delphox_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Delphox pirate gunner -->  <Delphox_Pirate.label>妖火紅狐海賊槍手</Delphox_Pirate.label>
+  <!-- Delphox pirate gunners -->  <Delphox_Pirate.labelPlural>妖火紅狐海賊槍手</Delphox_Pirate.labelPlural>
+  <!-- male Delphox pirate gunner -->  <Delphox_Pirate.labelMale>男性妖火紅狐海賊槍手</Delphox_Pirate.labelMale>
+  <!-- male Delphox pirate gunners -->  <Delphox_Pirate.labelMalePlural>男性妖火紅狐海賊槍手</Delphox_Pirate.labelMalePlural>
+  <!-- female Delphox pirate gunner -->  <Delphox_Pirate.labelFemale>女性妖火紅狐海賊槍手</Delphox_Pirate.labelFemale>
+  <!-- female Delphox pirate gunners -->  <Delphox_Pirate.labelFemalePlural>女性妖火紅狐海賊槍手</Delphox_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Delphox villager -->  <Delphox_Villager.label>妖火紅狐村民</Delphox_Villager.label>
+  <!-- Delphox villagers -->  <Delphox_Villager.labelPlural>妖火紅狐村民</Delphox_Villager.labelPlural>
+  <!-- male Delphox villager -->  <Delphox_Villager.labelMale>男性妖火紅狐村民</Delphox_Villager.labelMale>
+  <!-- male Delphox villagers -->  <Delphox_Villager.labelMalePlural>男性妖火紅狐村民</Delphox_Villager.labelMalePlural>
+  <!-- female Delphox villager -->  <Delphox_Villager.labelFemale>女性妖火紅狐村民</Delphox_Villager.labelFemale>
+  <!-- female Delphox villagers -->  <Delphox_Villager.labelFemalePlural>女性妖火紅狐村民</Delphox_Villager.labelFemalePlural>
+
+  <!-- Delphox town guard -->  <Delphox_Town_Guard.label>妖火紅狐城鎮衛兵</Delphox_Town_Guard.label>
+  <!-- Delphox town guards -->  <Delphox_Town_Guard.labelPlural>妖火紅狐城鎮衛兵</Delphox_Town_Guard.labelPlural>
+  <!-- male Delphox town guard -->  <Delphox_Town_Guard.labelMale>男性妖火紅狐城鎮衛兵</Delphox_Town_Guard.labelMale>
+  <!-- male Delphox town guards -->  <Delphox_Town_Guard.labelMalePlural>男性妖火紅狐城鎮衛兵</Delphox_Town_Guard.labelMalePlural>
+  <!-- female Delphox town guard -->  <Delphox_Town_Guard.labelFemale>女性妖火紅狐城鎮衛兵</Delphox_Town_Guard.labelFemale>
+  <!-- female Delphox town guards -->  <Delphox_Town_Guard.labelFemalePlural>女性妖火紅狐城鎮衛兵</Delphox_Town_Guard.labelFemalePlural>
+
+  <!-- Delphox town trader -->  <Delphox_Town_Trader.label>妖火紅狐城鎮商人</Delphox_Town_Trader.label>
+  <!-- Delphox town traders -->  <Delphox_Town_Trader.labelPlural>妖火紅狐城鎮商人</Delphox_Town_Trader.labelPlural>
+  <!-- male Delphox town trader -->  <Delphox_Town_Trader.labelMale>男性妖火紅狐城鎮商人</Delphox_Town_Trader.labelMale>
+  <!-- male Delphox town traders -->  <Delphox_Town_Trader.labelMalePlural>男性妖火紅狐城鎮商人</Delphox_Town_Trader.labelMalePlural>
+  <!-- female Delphox town trader -->  <Delphox_Town_Trader.labelFemale>女性妖火紅狐城鎮商人</Delphox_Town_Trader.labelFemale>
+  <!-- female Delphox town traders -->  <Delphox_Town_Trader.labelFemalePlural>女性妖火紅狐城鎮商人</Delphox_Town_Trader.labelFemalePlural>
+
+  <!-- Delphox town councilman -->  <Delphox_Town_Councilman.label>妖火紅狐城鎮議員</Delphox_Town_Councilman.label>
+  <!-- town councilmen -->  <Delphox_Town_Councilman.labelPlural>城鎮議員</Delphox_Town_Councilman.labelPlural>
+  <!-- male Delphox town councilman -->  <Delphox_Town_Councilman.labelMale>男性妖火紅狐城鎮議員</Delphox_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Delphox_Town_Councilman.labelMalePlural>男性城鎮議員</Delphox_Town_Councilman.labelMalePlural>
+  <!-- female Delphox town councilman -->  <Delphox_Town_Councilman.labelFemale>女性妖火紅狐城鎮議員</Delphox_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Delphox_Town_Councilman.labelFemalePlural>女性城鎮議員</Delphox_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Delphox penitent -->  <Delphox_Tribal_Penitent.label>妖火紅狐海賊</Delphox_Tribal_Penitent.label>
+  <!-- Delphox penitents -->  <Delphox_Tribal_Penitent.labelPlural>妖火紅狐海賊</Delphox_Tribal_Penitent.labelPlural>
+  <!-- male Delphox penitent -->  <Delphox_Tribal_Penitent.labelMale>男性妖火紅狐海賊</Delphox_Tribal_Penitent.labelMale>
+  <!-- male Delphox penitents -->  <Delphox_Tribal_Penitent.labelMalePlural>男性妖火紅狐海賊</Delphox_Tribal_Penitent.labelMalePlural>
+  <!-- female Delphox penitent -->  <Delphox_Tribal_Penitent.labelFemale>女性妖火紅狐海賊</Delphox_Tribal_Penitent.labelFemale>
+  <!-- female Delphox penitents -->  <Delphox_Tribal_Penitent.labelFemalePlural>女性妖火紅狐海賊</Delphox_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Delphox archer -->  <Delphox_Tribal_Archer.label>妖火紅狐弓箭手</Delphox_Tribal_Archer.label>
+  <!-- Delphox archers -->  <Delphox_Tribal_Archer.labelPlural>妖火紅狐弓箭手</Delphox_Tribal_Archer.labelPlural>
+  <!-- male Delphox archer -->  <Delphox_Tribal_Archer.labelMale>男性妖火紅狐弓箭手</Delphox_Tribal_Archer.labelMale>
+  <!-- male Delphox archers -->  <Delphox_Tribal_Archer.labelMalePlural>男性妖火紅狐弓箭手</Delphox_Tribal_Archer.labelMalePlural>
+  <!-- female Delphox archer -->  <Delphox_Tribal_Archer.labelFemale>女性妖火紅狐弓箭手</Delphox_Tribal_Archer.labelFemale>
+  <!-- female Delphox archers -->  <Delphox_Tribal_Archer.labelFemalePlural>女性妖火紅狐弓箭手</Delphox_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Delphox warrior -->  <Delphox_Tribal_Warrior.label>妖火紅狐戰士</Delphox_Tribal_Warrior.label>
+  <!-- Delphox warriors -->  <Delphox_Tribal_Warrior.labelPlural>妖火紅狐戰士</Delphox_Tribal_Warrior.labelPlural>
+  <!-- male Delphox warrior -->  <Delphox_Tribal_Warrior.labelMale>男性妖火紅狐戰士</Delphox_Tribal_Warrior.labelMale>
+  <!-- male Delphox warriors -->  <Delphox_Tribal_Warrior.labelMalePlural>男性妖火紅狐戰士</Delphox_Tribal_Warrior.labelMalePlural>
+  <!-- female Delphox warrior -->  <Delphox_Tribal_Warrior.labelFemale>女性妖火紅狐戰士</Delphox_Tribal_Warrior.labelFemale>
+  <!-- female Delphox warriors -->  <Delphox_Tribal_Warrior.labelFemalePlural>女性妖火紅狐戰士</Delphox_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Delphox hunter -->  <Delphox_Tribal_Hunter.label>妖火紅狐獵人</Delphox_Tribal_Hunter.label>
+  <!-- Delphox hunters -->  <Delphox_Tribal_Hunter.labelPlural>妖火紅狐獵人</Delphox_Tribal_Hunter.labelPlural>
+  <!-- male Delphox hunter -->  <Delphox_Tribal_Hunter.labelMale>男性妖火紅狐獵人</Delphox_Tribal_Hunter.labelMale>
+  <!-- male Delphox hunters -->  <Delphox_Tribal_Hunter.labelMalePlural>男性妖火紅狐獵人</Delphox_Tribal_Hunter.labelMalePlural>
+  <!-- female Delphox hunter -->  <Delphox_Tribal_Hunter.labelFemale>女性妖火紅狐獵人</Delphox_Tribal_Hunter.labelFemale>
+  <!-- female Delphox hunters -->  <Delphox_Tribal_Hunter.labelFemalePlural>女性妖火紅狐獵人</Delphox_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Delphox trader -->  <Delphox_Tribal_Trader.label>妖火紅狐商人</Delphox_Tribal_Trader.label>
+  <!-- Delphox traders -->  <Delphox_Tribal_Trader.labelPlural>妖火紅狐商人</Delphox_Tribal_Trader.labelPlural>
+  <!-- male Delphox trader -->  <Delphox_Tribal_Trader.labelMale>男性妖火紅狐商人</Delphox_Tribal_Trader.labelMale>
+  <!-- male Delphox traders -->  <Delphox_Tribal_Trader.labelMalePlural>男性妖火紅狐商人</Delphox_Tribal_Trader.labelMalePlural>
+  <!-- female Delphox trader -->  <Delphox_Tribal_Trader.labelFemale>女性妖火紅狐商人</Delphox_Tribal_Trader.labelFemale>
+  <!-- female Delphox traders -->  <Delphox_Tribal_Trader.labelFemalePlural>女性妖火紅狐商人</Delphox_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Delphox berserker -->  <Delphox_Tribal_Berserker.label>妖火紅狐狂戰士</Delphox_Tribal_Berserker.label>
+  <!-- Delphox berserkers -->  <Delphox_Tribal_Berserker.labelPlural>妖火紅狐狂戰士</Delphox_Tribal_Berserker.labelPlural>
+  <!-- male Delphox berserker -->  <Delphox_Tribal_Berserker.labelMale>男性妖火紅狐狂戰士</Delphox_Tribal_Berserker.labelMale>
+  <!-- male Delphox berserkers -->  <Delphox_Tribal_Berserker.labelMalePlural>男性妖火紅狐狂戰士</Delphox_Tribal_Berserker.labelMalePlural>
+  <!-- female Delphox berserker -->  <Delphox_Tribal_Berserker.labelFemale>女性妖火紅狐狂戰士</Delphox_Tribal_Berserker.labelFemale>
+  <!-- female Delphox berserkers -->  <Delphox_Tribal_Berserker.labelFemalePlural>女性妖火紅狐狂戰士</Delphox_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Delphox heavy archer -->  <Delphox_Tribal_HeavyArcher.label>妖火紅狐重裝弓箭手</Delphox_Tribal_HeavyArcher.label>
+  <!-- Delphox heavy archers -->  <Delphox_Tribal_HeavyArcher.labelPlural>妖火紅狐重裝弓箭手</Delphox_Tribal_HeavyArcher.labelPlural>
+  <!-- male Delphox heavy archer -->  <Delphox_Tribal_HeavyArcher.labelMale>男性妖火紅狐重裝弓箭手</Delphox_Tribal_HeavyArcher.labelMale>
+  <!-- male Delphox heavy archers -->  <Delphox_Tribal_HeavyArcher.labelMalePlural>男性妖火紅狐重裝弓箭手</Delphox_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Delphox heavy archer -->  <Delphox_Tribal_HeavyArcher.labelFemale>女性妖火紅狐重裝弓箭手</Delphox_Tribal_HeavyArcher.labelFemale>
+  <!-- female Delphox heavy archers -->  <Delphox_Tribal_HeavyArcher.labelFemalePlural>女性妖火紅狐重裝弓箭手</Delphox_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Delphox_Tribal_ChiefMelee -->  <!--[Duplicated] <Delphox_Tribal_ChiefMelee.label>妖火紅狐_Tribal_ChiefMelee</Delphox_Tribal_ChiefMelee.label>-->
+  <!-- Delphox_Tribal_ChiefMelees -->  <!--[Duplicated] <Delphox_Tribal_ChiefMelee.labelPlural>妖火紅狐_Tribal_ChiefMele</Delphox_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Delphox_Tribal_ChiefMelee -->  <!--[Duplicated] <Delphox_Tribal_ChiefMelee.labelMale>男性妖火紅狐_Tribal_ChiefMelee</Delphox_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Delphox_Tribal_ChiefMelees -->  <!--[Duplicated] <Delphox_Tribal_ChiefMelee.labelMalePlural>男性妖火紅狐_Tribal_ChiefMele</Delphox_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Delphox_Tribal_ChiefMelee -->  <!--[Duplicated] <Delphox_Tribal_ChiefMelee.labelFemale>女性妖火紅狐_Tribal_ChiefMelee</Delphox_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Delphox_Tribal_ChiefMelees -->  <!--[Duplicated] <Delphox_Tribal_ChiefMelee.labelFemalePlural>女性妖火紅狐_Tribal_ChiefMele</Delphox_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Delphox berserker chief -->  <Delphox_Tribal_ChiefMelee.label>妖火紅狐狂戰士隊長</Delphox_Tribal_ChiefMelee.label>
+  <!-- Delphox berserker chiefs -->  <Delphox_Tribal_ChiefMelee.labelPlural>妖火紅狐狂戰士隊長</Delphox_Tribal_ChiefMelee.labelPlural>
+  <!-- male Delphox berserker chief -->  <Delphox_Tribal_ChiefMelee.labelMale>男性妖火紅狐狂戰士隊長</Delphox_Tribal_ChiefMelee.labelMale>
+  <!-- male Delphox berserker chiefs -->  <Delphox_Tribal_ChiefMelee.labelMalePlural>男性妖火紅狐狂戰士隊長</Delphox_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Delphox berserker chief -->  <Delphox_Tribal_ChiefMelee.labelFemale>女性妖火紅狐狂戰士隊長</Delphox_Tribal_ChiefMelee.labelFemale>
+  <!-- female Delphox berserker chiefs -->  <Delphox_Tribal_ChiefMelee.labelFemalePlural>女性妖火紅狐狂戰士隊長</Delphox_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Delphox archer chief -->  <Delphox_Tribal_ChiefRanged.label>妖火紅狐弓箭手隊長</Delphox_Tribal_ChiefRanged.label>
+  <!-- Delphox archer chiefs -->  <Delphox_Tribal_ChiefRanged.labelPlural>妖火紅狐弓箭手隊長</Delphox_Tribal_ChiefRanged.labelPlural>
+  <!-- male Delphox archer chief -->  <Delphox_Tribal_ChiefRanged.labelMale>男性妖火紅狐弓箭手隊長</Delphox_Tribal_ChiefRanged.labelMale>
+  <!-- male Delphox archer chiefs -->  <Delphox_Tribal_ChiefRanged.labelMalePlural>男性妖火紅狐弓箭手隊長</Delphox_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Delphox archer chief -->  <Delphox_Tribal_ChiefRanged.labelFemale>女性妖火紅狐弓箭手隊長</Delphox_Tribal_ChiefRanged.labelFemale>
+  <!-- female Delphox archer chiefs -->  <Delphox_Tribal_ChiefRanged.labelFemalePlural>女性妖火紅狐弓箭手隊長</Delphox_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

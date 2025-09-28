@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <IcephoxTribalPawn.label>部落民</IcephoxTribalPawn.label>
+  <!-- members -->  <IcephoxTribalPawn.labelPlural>部落民</IcephoxTribalPawn.labelPlural>
+  <!-- male member -->  <IcephoxTribalPawn.labelMale>男性部落民</IcephoxTribalPawn.labelMale>
+  <!-- male members -->  <IcephoxTribalPawn.labelMalePlural>男性部落民</IcephoxTribalPawn.labelMalePlural>
+  <!-- female member -->  <IcephoxTribalPawn.labelFemale>女性部落民</IcephoxTribalPawn.labelFemale>
+  <!-- female members -->  <IcephoxTribalPawn.labelFemalePlural>女性部落民</IcephoxTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <IcephoxIndustrialPawn.label>殖民者</IcephoxIndustrialPawn.label>
+  <!-- members -->  <IcephoxIndustrialPawn.labelPlural>殖民者</IcephoxIndustrialPawn.labelPlural>
+  <!-- male member -->  <IcephoxIndustrialPawn.labelMale>男性殖民者</IcephoxIndustrialPawn.labelMale>
+  <!-- male members -->  <IcephoxIndustrialPawn.labelMalePlural>男性殖民者</IcephoxIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <IcephoxIndustrialPawn.labelFemale>女性殖民者</IcephoxIndustrialPawn.labelFemale>
+  <!-- female members -->  <IcephoxIndustrialPawn.labelFemalePlural>女性殖民者</IcephoxIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Delphox -->  <Delphox.label>妖火红狐</Delphox.label>
+  <!-- A medium-sized, bipedal, Fox-like humanoid that has a natural affinity to fire and psychic capabilities. Related to Braixen and can be considered as a more "mature" version of it from standpoint of whoever originally designed them. It's unknown what kind of gene-engineering magic the Glitterworld that originally produced them used, but their bodies have almost a complete resistance to fire and high temperatures. These creatures are able to consciously regulate temperature of their bodies. Before collapse of it's original solar system, this species was mainly used as domestic servants, entertainers, or just a beauteful and kind friend to have around. Delphox is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Delphox.description>一种中型、双足行走、类似于狐狸般的类人形生物，具有天生自然对火焰的亲和力和心灵能力。与长尾火狐有关，并被认为是原始设计者眼中更加“成熟”的版本。当前并不清楚最初原本生产它们的闪耀世界，不知究竟到底是怎麽样的使用了，那仿佛如魔法般的基因工程技术，但它们的身体几乎对火焰和高温完全免疫。而且这些生物能够有意识地调节自身体温。在其原本的恒星系崩溃之前，这个物种主要是被用作家庭仆人、娱乐者，或者是美丽而善良的朋友。妖火红狐是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</Delphox.description>
+  <!-- teeth -->  <Delphox.tools.0.label>牙齿</Delphox.tools.0.label>
+  <!-- left claws -->  <Delphox.tools.1.label>左爪</Delphox.tools.1.label>
+  <!-- right claws -->  <Delphox.tools.2.label>右爪</Delphox.tools.2.label>
+  <!-- hair --><!--  <Delphox.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Delphox.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <Delphox.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Delphox.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

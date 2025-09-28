@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <DelphoxTribalPawn.label>部落民</DelphoxTribalPawn.label>
+  <!-- members -->  <DelphoxTribalPawn.labelPlural>部落民</DelphoxTribalPawn.labelPlural>
+  <!-- male member -->  <DelphoxTribalPawn.labelMale>男性部落民</DelphoxTribalPawn.labelMale>
+  <!-- male members -->  <DelphoxTribalPawn.labelMalePlural>男性部落民</DelphoxTribalPawn.labelMalePlural>
+  <!-- female member -->  <DelphoxTribalPawn.labelFemale>女性部落民</DelphoxTribalPawn.labelFemale>
+  <!-- female members -->  <DelphoxTribalPawn.labelFemalePlural>女性部落民</DelphoxTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <DelphoxIndustrialPawn.label>殖民者</DelphoxIndustrialPawn.label>
+  <!-- members -->  <DelphoxIndustrialPawn.labelPlural>殖民者</DelphoxIndustrialPawn.labelPlural>
+  <!-- male member -->  <DelphoxIndustrialPawn.labelMale>男性殖民者</DelphoxIndustrialPawn.labelMale>
+  <!-- male members -->  <DelphoxIndustrialPawn.labelMalePlural>男性殖民者</DelphoxIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <DelphoxIndustrialPawn.labelFemale>女性殖民者</DelphoxIndustrialPawn.labelFemale>
+  <!-- female members -->  <DelphoxIndustrialPawn.labelFemalePlural>女性殖民者</DelphoxIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

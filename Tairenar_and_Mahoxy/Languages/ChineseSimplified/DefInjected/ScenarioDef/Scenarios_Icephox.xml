@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- In Search of Ancestors -->  <IcephoxScenario1.label>寻找祖先的旅程</IcephoxScenario1.label>
+  <!-- A small group of talented Icephox that managed to obtain their freedom and were searching for other members of their species. You've stumbled upon this rimworld, with malfunctioning Johnson-Tanaka drive that is impossible to repair with your resources. You've took everything valuable from your ship, and even partly dissasembled some of its systems. Scanners show that there's enough resources below to build the new ship to continue your search... -->  <IcephoxScenario1.description>一小群才华横溢的妖冰蓝狐想尽办法获得了自由，并开始了寻找其他同族同胞们的行动。你们的飞船因强森-田中驱动器发生了故障，而坠落在这颗边缘世界里，然而你们现有的可用资源根本无法修复这个设备。你们只能从飞船上取走了所有有价值的物资，甚至拆解了部分的船体系统。扫描仪显示，地表下有足够资源能够建造一艘新船，以继续你们的探索……</IcephoxScenario1.description>
+  <!-- In Search of Ancestors -->  <IcephoxScenario1.scenario.name>寻找祖先的旅程</IcephoxScenario1.scenario.name>
+  <!-- Three colonists with valuable high-tech resources, but with barely any food and raw resources. Medium start. -->  <IcephoxScenario1.scenario.summary>三名殖民者，拥有贵重的高科技资源，但几乎没有食物和原材料。此为中等难度的剧本。</IcephoxScenario1.scenario.summary>
+  <!-- A small group of talented Icephox that managed to obtain their freedom and were searching for other members of their species. You've stumbled upon this rimworld, with malfunctioning Johnson-Tanaka drive that is impossible to repair with your resources. You've took everything valuable from your ship, and even partly dissasembled some of its systems. Scanners show that there's enough resources below to build the new ship to continue your search... -->  <IcephoxScenario1.scenario.description>一小群才华横溢的妖冰蓝狐想尽办法获得了自由，并开始了寻找其他同族同胞们的行动。你们的飞船因强森-田中驱动器发生了故障，而坠落在这颗边缘世界里，然而你们现有的可用资源根本无法修复这个设备。你们只能从飞船上取走了所有有价值的物资，甚至拆解了部分的船体系统。扫描仪显示，地表下有足够资源能够建造一艘新船，以继续你们的探索……</IcephoxScenario1.scenario.description>
+  <!-- The crash land was bumpy, and some of the cruisers up there are still going at it. It’s best to build up a camp, ready ourselves, and decide what to do next. -->
+    <IcephoxScenario1.scenario.parts.GameStartDialog.text>降落着陆的过程十分颠簸不堪，天空上方扔然还有巡洋舰依然还在激烈交战。最好先创建一个营地，并随时做好准备，然后接下来再看看该怎麽决定下一步的行动。</IcephoxScenario1.scenario.parts.GameStartDialog.text>
+	<!--  <IcephoxScenario1.scenario.parts.19.text>降落着陆的过程十分颠簸不堪，天空上方扔然还有巡洋舰依然在上面激烈交战。最好先创建一个营地，并随时做好准备，然后接下来再看看该怎麽决定下一步的行动。</IcephoxScenario1.scenario.parts.19.text>-->
+
+
+</LanguageData>

@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Icephox space refugee -->  <IcephoxSpaceRefugee.label>妖冰藍狐星際難民</IcephoxSpaceRefugee.label>
+  <!-- Icephox space refugees -->  <IcephoxSpaceRefugee.labelPlural>妖冰藍狐星際難民</IcephoxSpaceRefugee.labelPlural>
+  <!-- male Icephox space refugee -->  <IcephoxSpaceRefugee.labelMale>男性妖冰藍狐星際難民</IcephoxSpaceRefugee.labelMale>
+  <!-- male Icephox space refugees -->  <IcephoxSpaceRefugee.labelMalePlural>男性妖冰藍狐星際難民</IcephoxSpaceRefugee.labelMalePlural>
+  <!-- female Icephox space refugee -->  <IcephoxSpaceRefugee.labelFemale>女性妖冰藍狐星際難民</IcephoxSpaceRefugee.labelFemale>
+  <!-- female Icephox space refugees -->  <IcephoxSpaceRefugee.labelFemalePlural>女性妖冰藍狐星際難民</IcephoxSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Icephox slave -->  <IcephoxSlave.label>妖冰藍狐奴隸</IcephoxSlave.label>
+  <!-- Icephox slaves -->  <IcephoxSlave.labelPlural>妖冰藍狐奴隸</IcephoxSlave.labelPlural>
+  <!-- male Icephox slave -->  <IcephoxSlave.labelMale>男性妖冰藍狐奴隸</IcephoxSlave.labelMale>
+  <!-- male Icephox slaves -->  <IcephoxSlave.labelMalePlural>男性妖冰藍狐奴隸</IcephoxSlave.labelMalePlural>
+  <!-- female Icephox slave -->  <IcephoxSlave.labelFemale>女性妖冰藍狐奴隸</IcephoxSlave.labelFemale>
+  <!-- female Icephox slaves -->  <IcephoxSlave.labelFemalePlural>女性妖冰藍狐奴隸</IcephoxSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Icephox -->  <IcephoxColonist.label>妖冰藍狐</IcephoxColonist.label>
+  <!-- Icephoxs -->  <IcephoxColonist.labelPlural>妖冰藍狐</IcephoxColonist.labelPlural>
+  <!-- male Icephox -->  <IcephoxColonist.labelMale>男性妖冰藍狐</IcephoxColonist.labelMale>
+  <!-- male Icephoxs -->  <IcephoxColonist.labelMalePlural>男性妖冰藍狐</IcephoxColonist.labelMalePlural>
+  <!-- female Icephox -->  <IcephoxColonist.labelFemale>女性妖冰藍狐</IcephoxColonist.labelFemale>
+  <!-- female Icephoxs -->  <IcephoxColonist.labelFemalePlural>女性妖冰藍狐</IcephoxColonist.labelFemalePlural>
+
+  <!-- Icephox -->  <IcephoxTribesperson.label>妖冰藍狐</IcephoxTribesperson.label>
+  <!-- Icephoxs -->  <IcephoxTribesperson.labelPlural>妖冰藍狐</IcephoxTribesperson.labelPlural>
+  <!-- male Icephox -->  <IcephoxTribesperson.labelMale>男性妖冰藍狐</IcephoxTribesperson.labelMale>
+  <!-- male Icephoxs -->  <IcephoxTribesperson.labelMalePlural>男性妖冰藍狐</IcephoxTribesperson.labelMalePlural>
+  <!-- female Icephox -->  <IcephoxTribesperson.labelFemale>女性妖冰藍狐</IcephoxTribesperson.labelFemale>
+  <!-- female Icephoxs -->  <IcephoxTribesperson.labelFemalePlural>女性妖冰藍狐</IcephoxTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Icephox grenadier -->  <Icephox_Grenadier_Destructive.label>妖冰藍狐擲彈兵</Icephox_Grenadier_Destructive.label>
+  <!-- Icephox grenadiers -->  <Icephox_Grenadier_Destructive.labelPlural>妖冰藍狐擲彈兵</Icephox_Grenadier_Destructive.labelPlural>
+  <!-- male Icephox grenadier -->  <Icephox_Grenadier_Destructive.labelMale>男性妖冰藍狐擲彈兵</Icephox_Grenadier_Destructive.labelMale>
+  <!-- male Icephox grenadiers -->  <Icephox_Grenadier_Destructive.labelMalePlural>男性妖冰藍狐擲彈兵</Icephox_Grenadier_Destructive.labelMalePlural>
+  <!-- female Icephox grenadier -->  <Icephox_Grenadier_Destructive.labelFemale>女性妖冰藍狐擲彈兵</Icephox_Grenadier_Destructive.labelFemale>
+  <!-- female Icephox grenadiers -->  <Icephox_Grenadier_Destructive.labelFemalePlural>女性妖冰藍狐擲彈兵</Icephox_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Icephox EMP grenadier -->  <Icephox_Grenadier_EMP.label>妖冰藍狐 EMP擲彈兵</Icephox_Grenadier_EMP.label>
+  <!-- Icephox EMP grenadiers -->  <Icephox_Grenadier_EMP.labelPlural>妖冰藍狐 EMP擲彈兵</Icephox_Grenadier_EMP.labelPlural>
+  <!-- male Icephox EMP grenadier -->  <Icephox_Grenadier_EMP.labelMale>男性妖冰藍狐 EMP擲彈兵</Icephox_Grenadier_EMP.labelMale>
+  <!-- male Icephox EMP grenadiers -->  <Icephox_Grenadier_EMP.labelMalePlural>男性妖冰藍狐 EMP擲彈兵</Icephox_Grenadier_EMP.labelMalePlural>
+  <!-- female Icephox EMP grenadier -->  <Icephox_Grenadier_EMP.labelFemale>女性妖冰藍狐 EMP擲彈兵</Icephox_Grenadier_EMP.labelFemale>
+  <!-- female Icephox EMP grenadiers -->  <Icephox_Grenadier_EMP.labelFemalePlural>女性妖冰藍狐 EMP擲彈兵</Icephox_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Icephox smoke grenadier -->  <Icephox_Grenadier_Smoke.label>妖冰藍狐煙霧彈擲彈兵</Icephox_Grenadier_Smoke.label>
+  <!-- Icephox smoke grenadiers -->  <Icephox_Grenadier_Smoke.labelPlural>妖冰藍狐煙霧彈擲彈兵</Icephox_Grenadier_Smoke.labelPlural>
+  <!-- male Icephox smoke grenadier -->  <Icephox_Grenadier_Smoke.labelMale>男性妖冰藍狐煙霧彈擲彈兵</Icephox_Grenadier_Smoke.labelMale>
+  <!-- male Icephox smoke grenadiers -->  <Icephox_Grenadier_Smoke.labelMalePlural>男性妖冰藍狐煙霧彈擲彈兵</Icephox_Grenadier_Smoke.labelMalePlural>
+  <!-- female Icephox smoke grenadier -->  <Icephox_Grenadier_Smoke.labelFemale>女性妖冰藍狐煙霧彈擲彈兵</Icephox_Grenadier_Smoke.labelFemale>
+  <!-- female Icephox smoke grenadiers -->  <Icephox_Grenadier_Smoke.labelFemalePlural>女性妖冰藍狐煙霧彈擲彈兵</Icephox_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Icephox mercenary gunner -->  <Icephox_Mercenary_Gunner.label>妖冰藍狐槍手傭兵</Icephox_Mercenary_Gunner.label>
+  <!-- Icephox mercenary gunners -->  <Icephox_Mercenary_Gunner.labelPlural>妖冰藍狐槍手傭兵</Icephox_Mercenary_Gunner.labelPlural>
+  <!-- male Icephox mercenary gunner -->  <Icephox_Mercenary_Gunner.labelMale>男性妖冰藍狐槍手傭兵</Icephox_Mercenary_Gunner.labelMale>
+  <!-- male Icephox mercenary gunners -->  <Icephox_Mercenary_Gunner.labelMalePlural>男性妖冰藍狐槍手傭兵</Icephox_Mercenary_Gunner.labelMalePlural>
+  <!-- female Icephox mercenary gunner -->  <Icephox_Mercenary_Gunner.labelFemale>女性妖冰藍狐槍手傭兵</Icephox_Mercenary_Gunner.labelFemale>
+  <!-- female Icephox mercenary gunners -->  <Icephox_Mercenary_Gunner.labelFemalePlural>女性妖冰藍狐槍手傭兵</Icephox_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Icephox mercenary sniper -->  <Icephox_Mercenary_Sniper.label>妖冰藍狐狙擊手傭兵</Icephox_Mercenary_Sniper.label>
+  <!-- Icephox mercenary snipers -->  <Icephox_Mercenary_Sniper.labelPlural>妖冰藍狐狙擊手傭兵</Icephox_Mercenary_Sniper.labelPlural>
+  <!-- male Icephox mercenary sniper -->  <Icephox_Mercenary_Sniper.labelMale>男性妖冰藍狐狙擊手傭兵</Icephox_Mercenary_Sniper.labelMale>
+  <!-- male Icephox mercenary snipers -->  <Icephox_Mercenary_Sniper.labelMalePlural>男性妖冰藍狐狙擊手傭兵</Icephox_Mercenary_Sniper.labelMalePlural>
+  <!-- female Icephox mercenary sniper -->  <Icephox_Mercenary_Sniper.labelFemale>女性妖冰藍狐狙擊手傭兵</Icephox_Mercenary_Sniper.labelFemale>
+  <!-- female Icephox mercenary snipers -->  <Icephox_Mercenary_Sniper.labelFemalePlural>女性妖冰藍狐狙擊手傭兵</Icephox_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Icephox mercenary slasher -->  <Icephox_Mercenary_Slasher.label>妖冰藍狐殺手傭兵</Icephox_Mercenary_Slasher.label>
+  <!-- Icephox mercenary slashers -->  <Icephox_Mercenary_Slasher.labelPlural>妖冰藍狐殺手傭兵</Icephox_Mercenary_Slasher.labelPlural>
+  <!-- male Icephox mercenary slasher -->  <Icephox_Mercenary_Slasher.labelMale>男性妖冰藍狐殺手傭兵</Icephox_Mercenary_Slasher.labelMale>
+  <!-- male Icephox mercenary slashers -->  <Icephox_Mercenary_Slasher.labelMalePlural>男性妖冰藍狐殺手傭兵</Icephox_Mercenary_Slasher.labelMalePlural>
+  <!-- female Icephox mercenary slasher -->  <Icephox_Mercenary_Slasher.labelFemale>女性妖冰藍狐殺手傭兵</Icephox_Mercenary_Slasher.labelFemale>
+  <!-- female Icephox mercenary slashers -->  <Icephox_Mercenary_Slasher.labelFemalePlural>女性妖冰藍狐殺手傭兵</Icephox_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Icephox heavy mercenary -->  <Icephox_Mercenary_Heavy.label>妖冰藍狐重裝傭兵</Icephox_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Icephox_Mercenary_Heavy.labelPlural>重裝傭兵</Icephox_Mercenary_Heavy.labelPlural>
+  <!-- male Icephox heavy mercenary -->  <Icephox_Mercenary_Heavy.labelMale>男性妖冰藍狐重裝傭兵</Icephox_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Icephox_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Icephox_Mercenary_Heavy.labelMalePlural>
+  <!-- female Icephox heavy mercenary -->  <Icephox_Mercenary_Heavy.labelFemale>女性妖冰藍狐重裝傭兵</Icephox_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Icephox_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Icephox_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Icephox boss -->  <Icephox_PirateBoss.label>妖冰藍狐海賊團長</Icephox_PirateBoss.label>
+  <!-- bosses -->  <Icephox_PirateBoss.labelPlural>海賊團長</Icephox_PirateBoss.labelPlural>
+  <!-- male Icephox boss -->  <Icephox_PirateBoss.labelMale>男性妖冰藍狐海賊團長</Icephox_PirateBoss.labelMale>
+  <!-- male bosses -->  <Icephox_PirateBoss.labelMalePlural>男性海賊團長</Icephox_PirateBoss.labelMalePlural>
+  <!-- female Icephox boss -->  <Icephox_PirateBoss.labelFemale>女性妖冰藍狐海賊團長</Icephox_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Icephox_PirateBoss.labelFemalePlural>女性海賊團長</Icephox_PirateBoss.labelFemalePlural>
+
+  <!-- Icephox elite mercenary -->  <Icephox_Mercenary_Elite.label>妖冰藍狐精銳傭兵</Icephox_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Icephox_Mercenary_Elite.labelPlural>精銳傭兵</Icephox_Mercenary_Elite.labelPlural>
+  <!-- male Icephox elite mercenary -->  <Icephox_Mercenary_Elite.labelMale>男性妖冰藍狐精銳傭兵</Icephox_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Icephox_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Icephox_Mercenary_Elite.labelMalePlural>
+  <!-- female Icephox elite mercenary -->  <Icephox_Mercenary_Elite.labelFemale>女性妖冰藍狐精銳傭兵</Icephox_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Icephox_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Icephox_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Icephox drifter -->  <Icephox_Drifter.label>妖冰藍狐漂泊者</Icephox_Drifter.label>
+  <!-- Icephox drifters -->  <Icephox_Drifter.labelPlural>妖冰藍狐漂泊者</Icephox_Drifter.labelPlural>
+  <!-- male Icephox drifter -->  <Icephox_Drifter.labelMale>男性妖冰藍狐漂泊者</Icephox_Drifter.labelMale>
+  <!-- male Icephox drifters -->  <Icephox_Drifter.labelMalePlural>男性妖冰藍狐漂泊者</Icephox_Drifter.labelMalePlural>
+  <!-- female Icephox drifter -->  <Icephox_Drifter.labelFemale>女性妖冰藍狐漂泊者</Icephox_Drifter.labelFemale>
+  <!-- female Icephox drifters -->  <Icephox_Drifter.labelFemalePlural>女性妖冰藍狐漂泊者</Icephox_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Icephox scavenger gunner -->  <Icephox_Scavenger.label>妖冰藍狐掠奪者槍手</Icephox_Scavenger.label>
+  <!-- Icephox scavenger gunners -->  <Icephox_Scavenger.labelPlural>妖冰藍狐掠奪者槍手</Icephox_Scavenger.labelPlural>
+  <!-- male Icephox scavenger gunner -->  <Icephox_Scavenger.labelMale>男性妖冰藍狐掠奪者槍手</Icephox_Scavenger.labelMale>
+  <!-- male Icephox scavenger gunners -->  <Icephox_Scavenger.labelMalePlural>男性妖冰藍狐掠奪者槍手</Icephox_Scavenger.labelMalePlural>
+  <!-- female Icephox scavenger gunner -->  <Icephox_Scavenger.labelFemale>女性妖冰藍狐掠奪者槍手</Icephox_Scavenger.labelFemale>
+  <!-- female Icephox scavenger gunners -->  <Icephox_Scavenger.labelFemalePlural>女性妖冰藍狐掠奪者槍手</Icephox_Scavenger.labelFemalePlural>
+
+  <!-- Icephox scavenger thrasher -->  <Icephox_Thrasher.label>妖冰藍狐掠奪者暴民</Icephox_Thrasher.label>
+  <!-- Icephox scavenger thrashers -->  <Icephox_Thrasher.labelPlural>妖冰藍狐掠奪者暴民</Icephox_Thrasher.labelPlural>
+  <!-- male Icephox scavenger thrasher -->  <Icephox_Thrasher.labelMale>男性妖冰藍狐掠奪者暴民</Icephox_Thrasher.labelMale>
+  <!-- male Icephox scavenger thrashers -->  <Icephox_Thrasher.labelMalePlural>男性妖冰藍狐掠奪者暴民</Icephox_Thrasher.labelMalePlural>
+  <!-- female Icephox scavenger thrasher -->  <Icephox_Thrasher.labelFemale>女性妖冰藍狐掠奪者暴民</Icephox_Thrasher.labelFemale>
+  <!-- female Icephox scavenger thrashers -->  <Icephox_Thrasher.labelFemalePlural>女性妖冰藍狐掠奪者暴民</Icephox_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Icephox pirate gunner -->  <Icephox_Pirate.label>妖冰藍狐海賊槍手</Icephox_Pirate.label>
+  <!-- Icephox pirate gunners -->  <Icephox_Pirate.labelPlural>妖冰藍狐海賊槍手</Icephox_Pirate.labelPlural>
+  <!-- male Icephox pirate gunner -->  <Icephox_Pirate.labelMale>男性妖冰藍狐海賊槍手</Icephox_Pirate.labelMale>
+  <!-- male Icephox pirate gunners -->  <Icephox_Pirate.labelMalePlural>男性妖冰藍狐海賊槍手</Icephox_Pirate.labelMalePlural>
+  <!-- female Icephox pirate gunner -->  <Icephox_Pirate.labelFemale>女性妖冰藍狐海賊槍手</Icephox_Pirate.labelFemale>
+  <!-- female Icephox pirate gunners -->  <Icephox_Pirate.labelFemalePlural>女性妖冰藍狐海賊槍手</Icephox_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Icephox villager -->  <Icephox_Villager.label>妖冰藍狐村民</Icephox_Villager.label>
+  <!-- Icephox villagers -->  <Icephox_Villager.labelPlural>妖冰藍狐村民</Icephox_Villager.labelPlural>
+  <!-- male Icephox villager -->  <Icephox_Villager.labelMale>男性妖冰藍狐村民</Icephox_Villager.labelMale>
+  <!-- male Icephox villagers -->  <Icephox_Villager.labelMalePlural>男性妖冰藍狐村民</Icephox_Villager.labelMalePlural>
+  <!-- female Icephox villager -->  <Icephox_Villager.labelFemale>女性妖冰藍狐村民</Icephox_Villager.labelFemale>
+  <!-- female Icephox villagers -->  <Icephox_Villager.labelFemalePlural>女性妖冰藍狐村民</Icephox_Villager.labelFemalePlural>
+
+  <!-- Icephox town guard -->  <Icephox_Town_Guard.label>妖冰藍狐城鎮衛兵</Icephox_Town_Guard.label>
+  <!-- Icephox town guards -->  <Icephox_Town_Guard.labelPlural>妖冰藍狐城鎮衛兵</Icephox_Town_Guard.labelPlural>
+  <!-- male Icephox town guard -->  <Icephox_Town_Guard.labelMale>男性妖冰藍狐城鎮衛兵</Icephox_Town_Guard.labelMale>
+  <!-- male Icephox town guards -->  <Icephox_Town_Guard.labelMalePlural>男性妖冰藍狐城鎮衛兵</Icephox_Town_Guard.labelMalePlural>
+  <!-- female Icephox town guard -->  <Icephox_Town_Guard.labelFemale>女性妖冰藍狐城鎮衛兵</Icephox_Town_Guard.labelFemale>
+  <!-- female Icephox town guards -->  <Icephox_Town_Guard.labelFemalePlural>女性妖冰藍狐城鎮衛兵</Icephox_Town_Guard.labelFemalePlural>
+
+  <!-- Icephox town trader -->  <Icephox_Town_Trader.label>妖冰藍狐城鎮商人</Icephox_Town_Trader.label>
+  <!-- Icephox town traders -->  <Icephox_Town_Trader.labelPlural>妖冰藍狐城鎮商人</Icephox_Town_Trader.labelPlural>
+  <!-- male Icephox town trader -->  <Icephox_Town_Trader.labelMale>男性妖冰藍狐城鎮商人</Icephox_Town_Trader.labelMale>
+  <!-- male Icephox town traders -->  <Icephox_Town_Trader.labelMalePlural>男性妖冰藍狐城鎮商人</Icephox_Town_Trader.labelMalePlural>
+  <!-- female Icephox town trader -->  <Icephox_Town_Trader.labelFemale>女性妖冰藍狐城鎮商人</Icephox_Town_Trader.labelFemale>
+  <!-- female Icephox town traders -->  <Icephox_Town_Trader.labelFemalePlural>女性妖冰藍狐城鎮商人</Icephox_Town_Trader.labelFemalePlural>
+
+  <!-- Icephox town councilman -->  <Icephox_Town_Councilman.label>妖冰藍狐城鎮議員</Icephox_Town_Councilman.label>
+  <!-- town councilmen -->  <Icephox_Town_Councilman.labelPlural>城鎮議員</Icephox_Town_Councilman.labelPlural>
+  <!-- male Icephox town councilman -->  <Icephox_Town_Councilman.labelMale>男性妖冰藍狐城鎮議員</Icephox_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Icephox_Town_Councilman.labelMalePlural>男性城鎮議員</Icephox_Town_Councilman.labelMalePlural>
+  <!-- female Icephox town councilman -->  <Icephox_Town_Councilman.labelFemale>女性妖冰藍狐城鎮議員</Icephox_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Icephox_Town_Councilman.labelFemalePlural>女性城鎮議員</Icephox_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Icephox penitent -->  <Icephox_Tribal_Penitent.label>妖冰藍狐海賊</Icephox_Tribal_Penitent.label>
+  <!-- Icephox penitents -->  <Icephox_Tribal_Penitent.labelPlural>妖冰藍狐海賊</Icephox_Tribal_Penitent.labelPlural>
+  <!-- male Icephox penitent -->  <Icephox_Tribal_Penitent.labelMale>男性妖冰藍狐海賊</Icephox_Tribal_Penitent.labelMale>
+  <!-- male Icephox penitents -->  <Icephox_Tribal_Penitent.labelMalePlural>男性妖冰藍狐海賊</Icephox_Tribal_Penitent.labelMalePlural>
+  <!-- female Icephox penitent -->  <Icephox_Tribal_Penitent.labelFemale>女性妖冰藍狐海賊</Icephox_Tribal_Penitent.labelFemale>
+  <!-- female Icephox penitents -->  <Icephox_Tribal_Penitent.labelFemalePlural>女性妖冰藍狐海賊</Icephox_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Icephox archer -->  <Icephox_Tribal_Archer.label>妖冰藍狐弓箭手</Icephox_Tribal_Archer.label>
+  <!-- Icephox archers -->  <Icephox_Tribal_Archer.labelPlural>妖冰藍狐弓箭手</Icephox_Tribal_Archer.labelPlural>
+  <!-- male Icephox archer -->  <Icephox_Tribal_Archer.labelMale>男性妖冰藍狐弓箭手</Icephox_Tribal_Archer.labelMale>
+  <!-- male Icephox archers -->  <Icephox_Tribal_Archer.labelMalePlural>男性妖冰藍狐弓箭手</Icephox_Tribal_Archer.labelMalePlural>
+  <!-- female Icephox archer -->  <Icephox_Tribal_Archer.labelFemale>女性妖冰藍狐弓箭手</Icephox_Tribal_Archer.labelFemale>
+  <!-- female Icephox archers -->  <Icephox_Tribal_Archer.labelFemalePlural>女性妖冰藍狐弓箭手</Icephox_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Icephox warrior -->  <Icephox_Tribal_Warrior.label>妖冰藍狐戰士</Icephox_Tribal_Warrior.label>
+  <!-- Icephox warriors -->  <Icephox_Tribal_Warrior.labelPlural>妖冰藍狐戰士</Icephox_Tribal_Warrior.labelPlural>
+  <!-- male Icephox warrior -->  <Icephox_Tribal_Warrior.labelMale>男性妖冰藍狐戰士</Icephox_Tribal_Warrior.labelMale>
+  <!-- male Icephox warriors -->  <Icephox_Tribal_Warrior.labelMalePlural>男性妖冰藍狐戰士</Icephox_Tribal_Warrior.labelMalePlural>
+  <!-- female Icephox warrior -->  <Icephox_Tribal_Warrior.labelFemale>女性妖冰藍狐戰士</Icephox_Tribal_Warrior.labelFemale>
+  <!-- female Icephox warriors -->  <Icephox_Tribal_Warrior.labelFemalePlural>女性妖冰藍狐戰士</Icephox_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Icephox hunter -->  <Icephox_Tribal_Hunter.label>妖冰藍狐獵人</Icephox_Tribal_Hunter.label>
+  <!-- Icephox hunters -->  <Icephox_Tribal_Hunter.labelPlural>妖冰藍狐獵人</Icephox_Tribal_Hunter.labelPlural>
+  <!-- male Icephox hunter -->  <Icephox_Tribal_Hunter.labelMale>男性妖冰藍狐獵人</Icephox_Tribal_Hunter.labelMale>
+  <!-- male Icephox hunters -->  <Icephox_Tribal_Hunter.labelMalePlural>男性妖冰藍狐獵人</Icephox_Tribal_Hunter.labelMalePlural>
+  <!-- female Icephox hunter -->  <Icephox_Tribal_Hunter.labelFemale>女性妖冰藍狐獵人</Icephox_Tribal_Hunter.labelFemale>
+  <!-- female Icephox hunters -->  <Icephox_Tribal_Hunter.labelFemalePlural>女性妖冰藍狐獵人</Icephox_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Icephox trader -->  <Icephox_Tribal_Trader.label>妖冰藍狐商人</Icephox_Tribal_Trader.label>
+  <!-- Icephox traders -->  <Icephox_Tribal_Trader.labelPlural>妖冰藍狐商人</Icephox_Tribal_Trader.labelPlural>
+  <!-- male Icephox trader -->  <Icephox_Tribal_Trader.labelMale>男性妖冰藍狐商人</Icephox_Tribal_Trader.labelMale>
+  <!-- male Icephox traders -->  <Icephox_Tribal_Trader.labelMalePlural>男性妖冰藍狐商人</Icephox_Tribal_Trader.labelMalePlural>
+  <!-- female Icephox trader -->  <Icephox_Tribal_Trader.labelFemale>女性妖冰藍狐商人</Icephox_Tribal_Trader.labelFemale>
+  <!-- female Icephox traders -->  <Icephox_Tribal_Trader.labelFemalePlural>女性妖冰藍狐商人</Icephox_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Icephox berserker -->  <Icephox_Tribal_Berserker.label>妖冰藍狐狂戰士</Icephox_Tribal_Berserker.label>
+  <!-- Icephox berserkers -->  <Icephox_Tribal_Berserker.labelPlural>妖冰藍狐狂戰士</Icephox_Tribal_Berserker.labelPlural>
+  <!-- male Icephox berserker -->  <Icephox_Tribal_Berserker.labelMale>男性妖冰藍狐狂戰士</Icephox_Tribal_Berserker.labelMale>
+  <!-- male Icephox berserkers -->  <Icephox_Tribal_Berserker.labelMalePlural>男性妖冰藍狐狂戰士</Icephox_Tribal_Berserker.labelMalePlural>
+  <!-- female Icephox berserker -->  <Icephox_Tribal_Berserker.labelFemale>女性妖冰藍狐狂戰士</Icephox_Tribal_Berserker.labelFemale>
+  <!-- female Icephox berserkers -->  <Icephox_Tribal_Berserker.labelFemalePlural>女性妖冰藍狐狂戰士</Icephox_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Icephox heavy archer -->  <Icephox_Tribal_HeavyArcher.label>妖冰藍狐重裝弓箭手</Icephox_Tribal_HeavyArcher.label>
+  <!-- Icephox heavy archers -->  <Icephox_Tribal_HeavyArcher.labelPlural>妖冰藍狐重裝弓箭手</Icephox_Tribal_HeavyArcher.labelPlural>
+  <!-- male Icephox heavy archer -->  <Icephox_Tribal_HeavyArcher.labelMale>男性妖冰藍狐重裝弓箭手</Icephox_Tribal_HeavyArcher.labelMale>
+  <!-- male Icephox heavy archers -->  <Icephox_Tribal_HeavyArcher.labelMalePlural>男性妖冰藍狐重裝弓箭手</Icephox_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Icephox heavy archer -->  <Icephox_Tribal_HeavyArcher.labelFemale>女性妖冰藍狐重裝弓箭手</Icephox_Tribal_HeavyArcher.labelFemale>
+  <!-- female Icephox heavy archers -->  <Icephox_Tribal_HeavyArcher.labelFemalePlural>女性妖冰藍狐重裝弓箭手</Icephox_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Icephox_Tribal_ChiefMelee -->  <!--[Duplicated] <Icephox_Tribal_ChiefMelee.label>妖冰藍狐_Tribal_ChiefMelee</Icephox_Tribal_ChiefMelee.label>-->
+  <!-- Icephox_Tribal_ChiefMelees -->  <!--[Duplicated] <Icephox_Tribal_ChiefMelee.labelPlural>妖冰藍狐_Tribal_ChiefMele</Icephox_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Icephox_Tribal_ChiefMelee -->  <!--[Duplicated] <Icephox_Tribal_ChiefMelee.labelMale>男性妖冰藍狐_Tribal_ChiefMelee</Icephox_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Icephox_Tribal_ChiefMelees -->  <!--[Duplicated] <Icephox_Tribal_ChiefMelee.labelMalePlural>男性妖冰藍狐_Tribal_ChiefMele</Icephox_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Icephox_Tribal_ChiefMelee -->  <!--[Duplicated] <Icephox_Tribal_ChiefMelee.labelFemale>女性妖冰藍狐_Tribal_ChiefMelee</Icephox_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Icephox_Tribal_ChiefMelees -->  <!--[Duplicated] <Icephox_Tribal_ChiefMelee.labelFemalePlural>女性妖冰藍狐_Tribal_ChiefMele</Icephox_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Icephox berserker chief -->  <Icephox_Tribal_ChiefMelee.label>妖冰藍狐狂戰士隊長</Icephox_Tribal_ChiefMelee.label>
+  <!-- Icephox berserker chiefs -->  <Icephox_Tribal_ChiefMelee.labelPlural>妖冰藍狐狂戰士隊長</Icephox_Tribal_ChiefMelee.labelPlural>
+  <!-- male Icephox berserker chief -->  <Icephox_Tribal_ChiefMelee.labelMale>男性妖冰藍狐狂戰士隊長</Icephox_Tribal_ChiefMelee.labelMale>
+  <!-- male Icephox berserker chiefs -->  <Icephox_Tribal_ChiefMelee.labelMalePlural>男性妖冰藍狐狂戰士隊長</Icephox_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Icephox berserker chief -->  <Icephox_Tribal_ChiefMelee.labelFemale>女性妖冰藍狐狂戰士隊長</Icephox_Tribal_ChiefMelee.labelFemale>
+  <!-- female Icephox berserker chiefs -->  <Icephox_Tribal_ChiefMelee.labelFemalePlural>女性妖冰藍狐狂戰士隊長</Icephox_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Icephox archer chief -->  <Icephox_Tribal_ChiefRanged.label>妖冰藍狐弓箭手隊長</Icephox_Tribal_ChiefRanged.label>
+  <!-- Icephox archer chiefs -->  <Icephox_Tribal_ChiefRanged.labelPlural>妖冰藍狐弓箭手隊長</Icephox_Tribal_ChiefRanged.labelPlural>
+  <!-- male Icephox archer chief -->  <Icephox_Tribal_ChiefRanged.labelMale>男性妖冰藍狐弓箭手隊長</Icephox_Tribal_ChiefRanged.labelMale>
+  <!-- male Icephox archer chiefs -->  <Icephox_Tribal_ChiefRanged.labelMalePlural>男性妖冰藍狐弓箭手隊長</Icephox_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Icephox archer chief -->  <Icephox_Tribal_ChiefRanged.labelFemale>女性妖冰藍狐弓箭手隊長</Icephox_Tribal_ChiefRanged.labelFemale>
+  <!-- female Icephox archer chiefs -->  <Icephox_Tribal_ChiefRanged.labelFemalePlural>女性妖冰藍狐弓箭手隊長</Icephox_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

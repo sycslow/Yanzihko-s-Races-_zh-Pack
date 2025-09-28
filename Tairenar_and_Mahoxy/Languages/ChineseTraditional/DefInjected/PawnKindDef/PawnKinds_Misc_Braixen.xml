@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Braixen space refugee -->  <BraixenSpaceRefugee.label>長尾火狐星際難民</BraixenSpaceRefugee.label>
+  <!-- Braixen space refugees -->  <BraixenSpaceRefugee.labelPlural>長尾火狐星際難民</BraixenSpaceRefugee.labelPlural>
+  <!-- male Braixen space refugee -->  <BraixenSpaceRefugee.labelMale>男性長尾火狐星際難民</BraixenSpaceRefugee.labelMale>
+  <!-- male Braixen space refugees -->  <BraixenSpaceRefugee.labelMalePlural>男性長尾火狐星際難民</BraixenSpaceRefugee.labelMalePlural>
+  <!-- female Braixen space refugee -->  <BraixenSpaceRefugee.labelFemale>女性長尾火狐星際難民</BraixenSpaceRefugee.labelFemale>
+  <!-- female Braixen space refugees -->  <BraixenSpaceRefugee.labelFemalePlural>女性長尾火狐星際難民</BraixenSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Braixen slave -->  <BraixenSlave.label>長尾火狐奴隸</BraixenSlave.label>
+  <!-- Braixen slaves -->  <BraixenSlave.labelPlural>長尾火狐奴隸</BraixenSlave.labelPlural>
+  <!-- male Braixen slave -->  <BraixenSlave.labelMale>男性長尾火狐奴隸</BraixenSlave.labelMale>
+  <!-- male Braixen slaves -->  <BraixenSlave.labelMalePlural>男性長尾火狐奴隸</BraixenSlave.labelMalePlural>
+  <!-- female Braixen slave -->  <BraixenSlave.labelFemale>女性長尾火狐奴隸</BraixenSlave.labelFemale>
+  <!-- female Braixen slaves -->  <BraixenSlave.labelFemalePlural>女性長尾火狐奴隸</BraixenSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Braixen -->  <BraixenColonist.label>長尾火狐</BraixenColonist.label>
+  <!-- Braixens -->  <BraixenColonist.labelPlural>長尾火狐</BraixenColonist.labelPlural>
+  <!-- male Braixen -->  <BraixenColonist.labelMale>男性長尾火狐</BraixenColonist.labelMale>
+  <!-- male Braixens -->  <BraixenColonist.labelMalePlural>男性長尾火狐</BraixenColonist.labelMalePlural>
+  <!-- female Braixen -->  <BraixenColonist.labelFemale>女性長尾火狐</BraixenColonist.labelFemale>
+  <!-- female Braixens -->  <BraixenColonist.labelFemalePlural>女性長尾火狐</BraixenColonist.labelFemalePlural>
+
+  <!-- Braixen -->  <BraixenTribesperson.label>長尾火狐</BraixenTribesperson.label>
+  <!-- Braixens -->  <BraixenTribesperson.labelPlural>長尾火狐</BraixenTribesperson.labelPlural>
+  <!-- male Braixen -->  <BraixenTribesperson.labelMale>男性長尾火狐</BraixenTribesperson.labelMale>
+  <!-- male Braixens -->  <BraixenTribesperson.labelMalePlural>男性長尾火狐</BraixenTribesperson.labelMalePlural>
+  <!-- female Braixen -->  <BraixenTribesperson.labelFemale>女性長尾火狐</BraixenTribesperson.labelFemale>
+  <!-- female Braixens -->  <BraixenTribesperson.labelFemalePlural>女性長尾火狐</BraixenTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Braixen grenadier -->  <Braixen_Grenadier_Destructive.label>長尾火狐擲彈兵</Braixen_Grenadier_Destructive.label>
+  <!-- Braixen grenadiers -->  <Braixen_Grenadier_Destructive.labelPlural>長尾火狐擲彈兵</Braixen_Grenadier_Destructive.labelPlural>
+  <!-- male Braixen grenadier -->  <Braixen_Grenadier_Destructive.labelMale>男性長尾火狐擲彈兵</Braixen_Grenadier_Destructive.labelMale>
+  <!-- male Braixen grenadiers -->  <Braixen_Grenadier_Destructive.labelMalePlural>男性長尾火狐擲彈兵</Braixen_Grenadier_Destructive.labelMalePlural>
+  <!-- female Braixen grenadier -->  <Braixen_Grenadier_Destructive.labelFemale>女性長尾火狐擲彈兵</Braixen_Grenadier_Destructive.labelFemale>
+  <!-- female Braixen grenadiers -->  <Braixen_Grenadier_Destructive.labelFemalePlural>女性長尾火狐擲彈兵</Braixen_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Braixen EMPgrenadier -->  <Braixen_Grenadier_EMP.label>長尾火狐 EMP擲彈兵</Braixen_Grenadier_EMP.label>
+  <!-- Braixen EMPgrenadiers -->  <Braixen_Grenadier_EMP.labelPlural>長尾火狐 EMP擲彈兵</Braixen_Grenadier_EMP.labelPlural>
+  <!-- male Braixen EMPgrenadier -->  <Braixen_Grenadier_EMP.labelMale>男性長尾火狐 EMP擲彈兵</Braixen_Grenadier_EMP.labelMale>
+  <!-- male Braixen EMPgrenadiers -->  <Braixen_Grenadier_EMP.labelMalePlural>男性長尾火狐 EMP擲彈兵</Braixen_Grenadier_EMP.labelMalePlural>
+  <!-- female Braixen EMPgrenadier -->  <Braixen_Grenadier_EMP.labelFemale>女性長尾火狐 EMP擲彈兵</Braixen_Grenadier_EMP.labelFemale>
+  <!-- female Braixen EMPgrenadiers -->  <Braixen_Grenadier_EMP.labelFemalePlural>女性長尾火狐 EMP擲彈兵</Braixen_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Braixen smoke grenadier -->  <Braixen_Grenadier_Smoke.label>長尾火狐煙霧彈擲彈兵</Braixen_Grenadier_Smoke.label>
+  <!-- Braixen smoke grenadiers -->  <Braixen_Grenadier_Smoke.labelPlural>長尾火狐煙霧彈擲彈兵</Braixen_Grenadier_Smoke.labelPlural>
+  <!-- male Braixen smoke grenadier -->  <Braixen_Grenadier_Smoke.labelMale>男性長尾火狐煙霧彈擲彈兵</Braixen_Grenadier_Smoke.labelMale>
+  <!-- male Braixen smoke grenadiers -->  <Braixen_Grenadier_Smoke.labelMalePlural>男性長尾火狐煙霧彈擲彈兵</Braixen_Grenadier_Smoke.labelMalePlural>
+  <!-- female Braixen smoke grenadier -->  <Braixen_Grenadier_Smoke.labelFemale>女性長尾火狐煙霧彈擲彈兵</Braixen_Grenadier_Smoke.labelFemale>
+  <!-- female Braixen smoke grenadiers -->  <Braixen_Grenadier_Smoke.labelFemalePlural>女性長尾火狐煙霧彈擲彈兵</Braixen_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Braixen mercenary gunner -->  <Braixen_Mercenary_Gunner.label>長尾火狐槍手傭兵</Braixen_Mercenary_Gunner.label>
+  <!-- Braixen mercenary gunners -->  <Braixen_Mercenary_Gunner.labelPlural>長尾火狐槍手傭兵</Braixen_Mercenary_Gunner.labelPlural>
+  <!-- male Braixen mercenary gunner -->  <Braixen_Mercenary_Gunner.labelMale>男性長尾火狐槍手傭兵</Braixen_Mercenary_Gunner.labelMale>
+  <!-- male Braixen mercenary gunners -->  <Braixen_Mercenary_Gunner.labelMalePlural>男性長尾火狐槍手傭兵</Braixen_Mercenary_Gunner.labelMalePlural>
+  <!-- female Braixen mercenary gunner -->  <Braixen_Mercenary_Gunner.labelFemale>女性長尾火狐槍手傭兵</Braixen_Mercenary_Gunner.labelFemale>
+  <!-- female Braixen mercenary gunners -->  <Braixen_Mercenary_Gunner.labelFemalePlural>女性長尾火狐槍手傭兵</Braixen_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Braixen mercenary sniper -->  <Braixen_Mercenary_Sniper.label>長尾火狐狙擊手傭兵</Braixen_Mercenary_Sniper.label>
+  <!-- Braixen mercenary snipers -->  <Braixen_Mercenary_Sniper.labelPlural>長尾火狐狙擊手傭兵</Braixen_Mercenary_Sniper.labelPlural>
+  <!-- male Braixen mercenary sniper -->  <Braixen_Mercenary_Sniper.labelMale>男性長尾火狐狙擊手傭兵</Braixen_Mercenary_Sniper.labelMale>
+  <!-- male Braixen mercenary snipers -->  <Braixen_Mercenary_Sniper.labelMalePlural>男性長尾火狐狙擊手傭兵</Braixen_Mercenary_Sniper.labelMalePlural>
+  <!-- female Braixen mercenary sniper -->  <Braixen_Mercenary_Sniper.labelFemale>女性長尾火狐狙擊手傭兵</Braixen_Mercenary_Sniper.labelFemale>
+  <!-- female Braixen mercenary snipers -->  <Braixen_Mercenary_Sniper.labelFemalePlural>女性長尾火狐狙擊手傭兵</Braixen_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Braixen mercenary slasher -->  <Braixen_Mercenary_Slasher.label>長尾火狐殺手傭兵</Braixen_Mercenary_Slasher.label>
+  <!-- Braixen mercenary slashers -->  <Braixen_Mercenary_Slasher.labelPlural>長尾火狐殺手傭兵</Braixen_Mercenary_Slasher.labelPlural>
+  <!-- male Braixen mercenary slasher -->  <Braixen_Mercenary_Slasher.labelMale>男性長尾火狐殺手傭兵</Braixen_Mercenary_Slasher.labelMale>
+  <!-- male Braixen mercenary slashers -->  <Braixen_Mercenary_Slasher.labelMalePlural>男性長尾火狐殺手傭兵</Braixen_Mercenary_Slasher.labelMalePlural>
+  <!-- female Braixen mercenary slasher -->  <Braixen_Mercenary_Slasher.labelFemale>女性長尾火狐殺手傭兵</Braixen_Mercenary_Slasher.labelFemale>
+  <!-- female Braixen mercenary slashers -->  <Braixen_Mercenary_Slasher.labelFemalePlural>女性長尾火狐殺手傭兵</Braixen_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Braixen heavy mercenary -->  <Braixen_Mercenary_Heavy.label>長尾火狐重裝傭兵</Braixen_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Braixen_Mercenary_Heavy.labelPlural>重裝傭兵</Braixen_Mercenary_Heavy.labelPlural>
+  <!-- male Braixen heavy mercenary -->  <Braixen_Mercenary_Heavy.labelMale>男性長尾火狐重裝傭兵</Braixen_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Braixen_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Braixen_Mercenary_Heavy.labelMalePlural>
+  <!-- female Braixen heavy mercenary -->  <Braixen_Mercenary_Heavy.labelFemale>女性長尾火狐重裝傭兵</Braixen_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Braixen_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Braixen_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Braixen boss -->  <Braixen_PirateBoss.label>長尾火狐海賊團長</Braixen_PirateBoss.label>
+  <!-- bosses -->  <Braixen_PirateBoss.labelPlural>海賊團長</Braixen_PirateBoss.labelPlural>
+  <!-- male Braixen boss -->  <Braixen_PirateBoss.labelMale>男性長尾火狐海賊團長</Braixen_PirateBoss.labelMale>
+  <!-- male bosses -->  <Braixen_PirateBoss.labelMalePlural>男性海賊團長</Braixen_PirateBoss.labelMalePlural>
+  <!-- female Braixen boss -->  <Braixen_PirateBoss.labelFemale>女性長尾火狐海賊團長</Braixen_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Braixen_PirateBoss.labelFemalePlural>女性海賊團長</Braixen_PirateBoss.labelFemalePlural>
+
+  <!-- Braixen elite mercenary -->  <Braixen_Mercenary_Elite.label>長尾火狐精銳傭兵</Braixen_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Braixen_Mercenary_Elite.labelPlural>精銳傭兵</Braixen_Mercenary_Elite.labelPlural>
+  <!-- male Braixen elite mercenary -->  <Braixen_Mercenary_Elite.labelMale>男性長尾火狐精銳傭兵</Braixen_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Braixen_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Braixen_Mercenary_Elite.labelMalePlural>
+  <!-- female Braixen elite mercenary -->  <Braixen_Mercenary_Elite.labelFemale>女性長尾火狐精銳傭兵</Braixen_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Braixen_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Braixen_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Braixen drifter -->  <Braixen_Drifter.label>長尾火狐漂泊者</Braixen_Drifter.label>
+  <!-- Braixen drifters -->  <Braixen_Drifter.labelPlural>長尾火狐漂泊者</Braixen_Drifter.labelPlural>
+  <!-- male Braixen drifter -->  <Braixen_Drifter.labelMale>男性長尾火狐漂泊者</Braixen_Drifter.labelMale>
+  <!-- male Braixen drifters -->  <Braixen_Drifter.labelMalePlural>男性長尾火狐漂泊者</Braixen_Drifter.labelMalePlural>
+  <!-- female Braixen drifter -->  <Braixen_Drifter.labelFemale>女性長尾火狐漂泊者</Braixen_Drifter.labelFemale>
+  <!-- female Braixen drifters -->  <Braixen_Drifter.labelFemalePlural>女性長尾火狐漂泊者</Braixen_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Braixen scavenger gunner -->  <Braixen_Scavenger.label>長尾火狐掠奪者槍手</Braixen_Scavenger.label>
+  <!-- Braixen scavenger gunners -->  <Braixen_Scavenger.labelPlural>長尾火狐掠奪者槍手</Braixen_Scavenger.labelPlural>
+  <!-- male Braixen scavenger gunner -->  <Braixen_Scavenger.labelMale>男性長尾火狐掠奪者槍手</Braixen_Scavenger.labelMale>
+  <!-- male Braixen scavenger gunners -->  <Braixen_Scavenger.labelMalePlural>男性長尾火狐掠奪者槍手</Braixen_Scavenger.labelMalePlural>
+  <!-- female Braixen scavenger gunner -->  <Braixen_Scavenger.labelFemale>女性長尾火狐掠奪者槍手</Braixen_Scavenger.labelFemale>
+  <!-- female Braixen scavenger gunners -->  <Braixen_Scavenger.labelFemalePlural>女性長尾火狐掠奪者槍手</Braixen_Scavenger.labelFemalePlural>
+
+  <!-- Braixen scavenger thrasher -->  <Braixen_Thrasher.label>長尾火狐掠奪者暴民</Braixen_Thrasher.label>
+  <!-- Braixen scavenger thrashers -->  <Braixen_Thrasher.labelPlural>長尾火狐掠奪者暴民</Braixen_Thrasher.labelPlural>
+  <!-- male Braixen scavenger thrasher -->  <Braixen_Thrasher.labelMale>男性長尾火狐掠奪者暴民</Braixen_Thrasher.labelMale>
+  <!-- male Braixen scavenger thrashers -->  <Braixen_Thrasher.labelMalePlural>男性長尾火狐掠奪者暴民</Braixen_Thrasher.labelMalePlural>
+  <!-- female Braixen scavenger thrasher -->  <Braixen_Thrasher.labelFemale>女性長尾火狐掠奪者暴民</Braixen_Thrasher.labelFemale>
+  <!-- female Braixen scavenger thrashers -->  <Braixen_Thrasher.labelFemalePlural>女性長尾火狐掠奪者暴民</Braixen_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Braixen pirate gunner -->  <Braixen_Pirate.label>長尾火狐海賊槍手</Braixen_Pirate.label>
+  <!-- Braixen pirate gunners -->  <Braixen_Pirate.labelPlural>長尾火狐海賊槍手</Braixen_Pirate.labelPlural>
+  <!-- male Braixen pirate gunner -->  <Braixen_Pirate.labelMale>男性長尾火狐海賊槍手</Braixen_Pirate.labelMale>
+  <!-- male Braixen pirate gunners -->  <Braixen_Pirate.labelMalePlural>男性長尾火狐海賊槍手</Braixen_Pirate.labelMalePlural>
+  <!-- female Braixen pirate gunner -->  <Braixen_Pirate.labelFemale>女性長尾火狐海賊槍手</Braixen_Pirate.labelFemale>
+  <!-- female Braixen pirate gunners -->  <Braixen_Pirate.labelFemalePlural>女性長尾火狐海賊槍手</Braixen_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Braixen villager -->  <Braixen_Villager.label>長尾火狐村民</Braixen_Villager.label>
+  <!-- Braixen villagers -->  <Braixen_Villager.labelPlural>長尾火狐村民</Braixen_Villager.labelPlural>
+  <!-- male Braixen villager -->  <Braixen_Villager.labelMale>男性長尾火狐村民</Braixen_Villager.labelMale>
+  <!-- male Braixen villagers -->  <Braixen_Villager.labelMalePlural>男性長尾火狐村民</Braixen_Villager.labelMalePlural>
+  <!-- female Braixen villager -->  <Braixen_Villager.labelFemale>女性長尾火狐村民</Braixen_Villager.labelFemale>
+  <!-- female Braixen villagers -->  <Braixen_Villager.labelFemalePlural>女性長尾火狐村民</Braixen_Villager.labelFemalePlural>
+
+  <!-- Braixen town guard -->  <Braixen_Town_Guard.label>長尾火狐城鎮衛兵</Braixen_Town_Guard.label>
+  <!-- Braixen town guards -->  <Braixen_Town_Guard.labelPlural>長尾火狐城鎮衛兵</Braixen_Town_Guard.labelPlural>
+  <!-- male Braixen town guard -->  <Braixen_Town_Guard.labelMale>男性長尾火狐城鎮衛兵</Braixen_Town_Guard.labelMale>
+  <!-- male Braixen town guards -->  <Braixen_Town_Guard.labelMalePlural>男性長尾火狐城鎮衛兵</Braixen_Town_Guard.labelMalePlural>
+  <!-- female Braixen town guard -->  <Braixen_Town_Guard.labelFemale>女性長尾火狐城鎮衛兵</Braixen_Town_Guard.labelFemale>
+  <!-- female Braixen town guards -->  <Braixen_Town_Guard.labelFemalePlural>女性長尾火狐城鎮衛兵</Braixen_Town_Guard.labelFemalePlural>
+
+  <!-- Braixen town trader -->  <Braixen_Town_Trader.label>長尾火狐城鎮商人</Braixen_Town_Trader.label>
+  <!-- Braixen town traders -->  <Braixen_Town_Trader.labelPlural>長尾火狐城鎮商人</Braixen_Town_Trader.labelPlural>
+  <!-- male Braixen town trader -->  <Braixen_Town_Trader.labelMale>男性長尾火狐城鎮商人</Braixen_Town_Trader.labelMale>
+  <!-- male Braixen town traders -->  <Braixen_Town_Trader.labelMalePlural>男性長尾火狐城鎮商人</Braixen_Town_Trader.labelMalePlural>
+  <!-- female Braixen town trader -->  <Braixen_Town_Trader.labelFemale>女性長尾火狐城鎮商人</Braixen_Town_Trader.labelFemale>
+  <!-- female Braixen town traders -->  <Braixen_Town_Trader.labelFemalePlural>女性長尾火狐城鎮商人</Braixen_Town_Trader.labelFemalePlural>
+
+  <!-- Braixen town councilman -->  <Braixen_Town_Councilman.label>長尾火狐城鎮議員</Braixen_Town_Councilman.label>
+  <!-- town councilmen -->  <Braixen_Town_Councilman.labelPlural>城鎮議員</Braixen_Town_Councilman.labelPlural>
+  <!-- male Braixen town councilman -->  <Braixen_Town_Councilman.labelMale>男性長尾火狐城鎮議員</Braixen_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Braixen_Town_Councilman.labelMalePlural>男性城鎮議員</Braixen_Town_Councilman.labelMalePlural>
+  <!-- female Braixen town councilman -->  <Braixen_Town_Councilman.labelFemale>女性長尾火狐城鎮議員</Braixen_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Braixen_Town_Councilman.labelFemalePlural>女性城鎮議員</Braixen_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Braixen penitent -->  <Braixen_Tribal_Penitent.label>長尾火狐海賊</Braixen_Tribal_Penitent.label>
+  <!-- Braixen penitents -->  <Braixen_Tribal_Penitent.labelPlural>長尾火狐海賊</Braixen_Tribal_Penitent.labelPlural>
+  <!-- male Braixen penitent -->  <Braixen_Tribal_Penitent.labelMale>男性長尾火狐海賊</Braixen_Tribal_Penitent.labelMale>
+  <!-- male Braixen penitents -->  <Braixen_Tribal_Penitent.labelMalePlural>男性長尾火狐海賊</Braixen_Tribal_Penitent.labelMalePlural>
+  <!-- female Braixen penitent -->  <Braixen_Tribal_Penitent.labelFemale>女性長尾火狐海賊</Braixen_Tribal_Penitent.labelFemale>
+  <!-- female Braixen penitents -->  <Braixen_Tribal_Penitent.labelFemalePlural>女性長尾火狐海賊</Braixen_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Braixen archer -->  <Braixen_Tribal_Archer.label>長尾火狐弓箭手</Braixen_Tribal_Archer.label>
+  <!-- Braixen archers -->  <Braixen_Tribal_Archer.labelPlural>長尾火狐弓箭手</Braixen_Tribal_Archer.labelPlural>
+  <!-- male Braixen archer -->  <Braixen_Tribal_Archer.labelMale>男性長尾火狐弓箭手</Braixen_Tribal_Archer.labelMale>
+  <!-- male Braixen archers -->  <Braixen_Tribal_Archer.labelMalePlural>男性長尾火狐弓箭手</Braixen_Tribal_Archer.labelMalePlural>
+  <!-- female Braixen archer -->  <Braixen_Tribal_Archer.labelFemale>女性長尾火狐弓箭手</Braixen_Tribal_Archer.labelFemale>
+  <!-- female Braixen archers -->  <Braixen_Tribal_Archer.labelFemalePlural>女性長尾火狐弓箭手</Braixen_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Braixen warrior -->  <Braixen_Tribal_Warrior.label>長尾火狐戰士</Braixen_Tribal_Warrior.label>
+  <!-- Braixen warriors -->  <Braixen_Tribal_Warrior.labelPlural>長尾火狐戰士</Braixen_Tribal_Warrior.labelPlural>
+  <!-- male Braixen warrior -->  <Braixen_Tribal_Warrior.labelMale>男性長尾火狐戰士</Braixen_Tribal_Warrior.labelMale>
+  <!-- male Braixen warriors -->  <Braixen_Tribal_Warrior.labelMalePlural>男性長尾火狐戰士</Braixen_Tribal_Warrior.labelMalePlural>
+  <!-- female Braixen warrior -->  <Braixen_Tribal_Warrior.labelFemale>女性長尾火狐戰士</Braixen_Tribal_Warrior.labelFemale>
+  <!-- female Braixen warriors -->  <Braixen_Tribal_Warrior.labelFemalePlural>女性長尾火狐戰士</Braixen_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Braixen hunter -->  <Braixen_Tribal_Hunter.label>長尾火狐獵人</Braixen_Tribal_Hunter.label>
+  <!-- Braixen hunters -->  <Braixen_Tribal_Hunter.labelPlural>長尾火狐獵人</Braixen_Tribal_Hunter.labelPlural>
+  <!-- male Braixen hunter -->  <Braixen_Tribal_Hunter.labelMale>男性長尾火狐獵人</Braixen_Tribal_Hunter.labelMale>
+  <!-- male Braixen hunters -->  <Braixen_Tribal_Hunter.labelMalePlural>男性長尾火狐獵人</Braixen_Tribal_Hunter.labelMalePlural>
+  <!-- female Braixen hunter -->  <Braixen_Tribal_Hunter.labelFemale>女性長尾火狐獵人</Braixen_Tribal_Hunter.labelFemale>
+  <!-- female Braixen hunters -->  <Braixen_Tribal_Hunter.labelFemalePlural>女性長尾火狐獵人</Braixen_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Braixen trader -->  <Braixen_Tribal_Trader.label>長尾火狐商人</Braixen_Tribal_Trader.label>
+  <!-- Braixen traders -->  <Braixen_Tribal_Trader.labelPlural>長尾火狐商人</Braixen_Tribal_Trader.labelPlural>
+  <!-- male Braixen trader -->  <Braixen_Tribal_Trader.labelMale>男性長尾火狐商人</Braixen_Tribal_Trader.labelMale>
+  <!-- male Braixen traders -->  <Braixen_Tribal_Trader.labelMalePlural>男性長尾火狐商人</Braixen_Tribal_Trader.labelMalePlural>
+  <!-- female Braixen trader -->  <Braixen_Tribal_Trader.labelFemale>女性長尾火狐商人</Braixen_Tribal_Trader.labelFemale>
+  <!-- female Braixen traders -->  <Braixen_Tribal_Trader.labelFemalePlural>女性長尾火狐商人</Braixen_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Braixen berserker -->  <Braixen_Tribal_Berserker.label>長尾火狐狂戰士</Braixen_Tribal_Berserker.label>
+  <!-- Braixen berserkers -->  <Braixen_Tribal_Berserker.labelPlural>長尾火狐狂戰士</Braixen_Tribal_Berserker.labelPlural>
+  <!-- male Braixen berserker -->  <Braixen_Tribal_Berserker.labelMale>男性長尾火狐狂戰士</Braixen_Tribal_Berserker.labelMale>
+  <!-- male Braixen berserkers -->  <Braixen_Tribal_Berserker.labelMalePlural>男性長尾火狐狂戰士</Braixen_Tribal_Berserker.labelMalePlural>
+  <!-- female Braixen berserker -->  <Braixen_Tribal_Berserker.labelFemale>女性長尾火狐狂戰士</Braixen_Tribal_Berserker.labelFemale>
+  <!-- female Braixen berserkers -->  <Braixen_Tribal_Berserker.labelFemalePlural>女性長尾火狐狂戰士</Braixen_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Braixen heavy archer -->  <Braixen_Tribal_HeavyArcher.label>長尾火狐重裝弓箭手</Braixen_Tribal_HeavyArcher.label>
+  <!-- Braixen heavy archers -->  <Braixen_Tribal_HeavyArcher.labelPlural>長尾火狐重裝弓箭手</Braixen_Tribal_HeavyArcher.labelPlural>
+  <!-- male Braixen heavy archer -->  <Braixen_Tribal_HeavyArcher.labelMale>男性長尾火狐重裝弓箭手</Braixen_Tribal_HeavyArcher.labelMale>
+  <!-- male Braixen heavy archers -->  <Braixen_Tribal_HeavyArcher.labelMalePlural>男性長尾火狐重裝弓箭手</Braixen_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Braixen heavy archer -->  <Braixen_Tribal_HeavyArcher.labelFemale>女性長尾火狐重裝弓箭手</Braixen_Tribal_HeavyArcher.labelFemale>
+  <!-- female Braixen heavy archers -->  <Braixen_Tribal_HeavyArcher.labelFemalePlural>女性長尾火狐重裝弓箭手</Braixen_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Braixen_Tribal_ChiefMelee -->  <!--[Duplicated] <Braixen_Tribal_ChiefMelee.label>長尾火狐_Tribal_ChiefMelee</Braixen_Tribal_ChiefMelee.label>-->
+  <!-- Braixen_Tribal_ChiefMelees -->  <!--[Duplicated] <Braixen_Tribal_ChiefMelee.labelPlural>長尾火狐_Tribal_ChiefMele</Braixen_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Braixen_Tribal_ChiefMelee -->  <!--[Duplicated] <Braixen_Tribal_ChiefMelee.labelMale>男性長尾火狐_Tribal_ChiefMelee</Braixen_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Braixen_Tribal_ChiefMelees -->  <!--[Duplicated] <Braixen_Tribal_ChiefMelee.labelMalePlural>男性長尾火狐_Tribal_ChiefMele</Braixen_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Braixen_Tribal_ChiefMelee -->  <!--[Duplicated] <Braixen_Tribal_ChiefMelee.labelFemale>女性長尾火狐_Tribal_ChiefMelee</Braixen_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Braixen_Tribal_ChiefMelees -->  <!--[Duplicated] <Braixen_Tribal_ChiefMelee.labelFemalePlural>女性長尾火狐_Tribal_ChiefMele</Braixen_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Braixen berserker chief -->  <Braixen_Tribal_ChiefMelee.label>長尾火狐狂戰士隊長</Braixen_Tribal_ChiefMelee.label>
+  <!-- Braixen berserker chiefs -->  <Braixen_Tribal_ChiefMelee.labelPlural>長尾火狐狂戰士隊長</Braixen_Tribal_ChiefMelee.labelPlural>
+  <!-- male Braixen berserker chief -->  <Braixen_Tribal_ChiefMelee.labelMale>男性長尾火狐狂戰士隊長</Braixen_Tribal_ChiefMelee.labelMale>
+  <!-- male Braixen berserker chiefs -->  <Braixen_Tribal_ChiefMelee.labelMalePlural>男性長尾火狐狂戰士隊長</Braixen_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Braixen berserker chief -->  <Braixen_Tribal_ChiefMelee.labelFemale>女性長尾火狐狂戰士隊長</Braixen_Tribal_ChiefMelee.labelFemale>
+  <!-- female Braixen berserker chiefs -->  <Braixen_Tribal_ChiefMelee.labelFemalePlural>女性長尾火狐狂戰士隊長</Braixen_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Braixen archer chief -->  <Braixen_Tribal_ChiefRanged.label>長尾火狐弓箭手隊長</Braixen_Tribal_ChiefRanged.label>
+  <!-- Braixen archer chiefs -->  <Braixen_Tribal_ChiefRanged.labelPlural>長尾火狐弓箭手隊長</Braixen_Tribal_ChiefRanged.labelPlural>
+  <!-- male Braixen archer chief -->  <Braixen_Tribal_ChiefRanged.labelMale>男性長尾火狐弓箭手隊長</Braixen_Tribal_ChiefRanged.labelMale>
+  <!-- male Braixen archer chiefs -->  <Braixen_Tribal_ChiefRanged.labelMalePlural>男性長尾火狐弓箭手隊長</Braixen_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Braixen archer chief -->  <Braixen_Tribal_ChiefRanged.labelFemale>女性長尾火狐弓箭手隊長</Braixen_Tribal_ChiefRanged.labelFemale>
+  <!-- female Braixen archer chiefs -->  <Braixen_Tribal_ChiefRanged.labelFemalePlural>女性長尾火狐弓箭手隊長</Braixen_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

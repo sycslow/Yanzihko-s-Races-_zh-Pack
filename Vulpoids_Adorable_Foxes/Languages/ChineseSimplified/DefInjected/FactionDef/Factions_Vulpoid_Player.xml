@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Vulpoid Colony -->
+  <PlayerVulpoidIndustrial.label>狐形种殖民地</PlayerVulpoidIndustrial.label>
+  <!-- EN: Vulpoid Colony -->
+  <PlayerVulpoidIndustrial.description>狐形种殖民地</PlayerVulpoidIndustrial.description>
+  <!-- EN: leader -->
+  <PlayerVulpoidIndustrial.leaderTitle>TODO</PlayerVulpoidIndustrial.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerVulpoidIndustrial.messageDefendersAttacking>TODO</PlayerVulpoidIndustrial.messageDefendersAttacking>
+  <!-- EN: Vulpoid -->
+  <PlayerVulpoidIndustrial.pawnSingular>狐形种殖民者</PlayerVulpoidIndustrial.pawnSingular>
+  <!-- EN: Vulpoid -->
+  <PlayerVulpoidIndustrial.pawnsPlural>狐形种殖民者</PlayerVulpoidIndustrial.pawnsPlural>
+  
+  <!-- EN: Vulpoid Colony (No tech) -->
+  <PlayerVulpoidIndustrialNoTech.label>狐形种殖民地 (无科技)</PlayerVulpoidIndustrialNoTech.label>
+  <!-- EN: Vulpoid colony -->
+  <PlayerVulpoidIndustrialNoTech.description>狐形种殖民地</PlayerVulpoidIndustrialNoTech.description>
+  <!-- EN: leader -->
+  <PlayerVulpoidIndustrialNoTech.leaderTitle>TODO</PlayerVulpoidIndustrialNoTech.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerVulpoidIndustrialNoTech.messageDefendersAttacking>TODO</PlayerVulpoidIndustrialNoTech.messageDefendersAttacking>
+  <!-- EN: Vulpoid -->
+  <PlayerVulpoidIndustrialNoTech.pawnSingular>狐形种殖民者</PlayerVulpoidIndustrialNoTech.pawnSingular>
+  <!-- EN: Vulpoid -->
+  <PlayerVulpoidIndustrialNoTech.pawnsPlural>狐形种殖民者</PlayerVulpoidIndustrialNoTech.pawnsPlural>
+  
+  <!-- EN: Vulpoid Tribe -->
+  <PlayerVulpoidTribal.label>狐形种部落</PlayerVulpoidTribal.label>
+  <!-- EN: Vulpoid tribe -->
+  <PlayerVulpoidTribal.description>狐形种部落</PlayerVulpoidTribal.description>
+  <!-- EN: leader -->
+  <PlayerVulpoidTribal.leaderTitle>TODO</PlayerVulpoidTribal.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerVulpoidTribal.messageDefendersAttacking>TODO</PlayerVulpoidTribal.messageDefendersAttacking>
+  <!-- EN: Vulpoid -->
+  <PlayerVulpoidTribal.pawnSingular>狐形种部落民</PlayerVulpoidTribal.pawnSingular>
+  <!-- EN: Vulpoid -->
+  <PlayerVulpoidTribal.pawnsPlural>狐形种部落民</PlayerVulpoidTribal.pawnsPlural>
+  
+  <!-- EN: Vulpoid Tribe (No tech) -->
+  <PlayerVulpoidTribalNoTech.label>狐形种部落 (无科技)</PlayerVulpoidTribalNoTech.label>
+  <!-- EN: Vulpoid tribe -->
+  <PlayerVulpoidTribalNoTech.description>狐形种部落</PlayerVulpoidTribalNoTech.description>
+  <!-- EN: leader -->
+  <PlayerVulpoidTribalNoTech.leaderTitle>TODO</PlayerVulpoidTribalNoTech.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerVulpoidTribalNoTech.messageDefendersAttacking>TODO</PlayerVulpoidTribalNoTech.messageDefendersAttacking>
+  <!-- EN: Vulpoid -->
+  <PlayerVulpoidTribalNoTech.pawnSingular>狐形种部落民</PlayerVulpoidTribalNoTech.pawnSingular>
+  <!-- EN: Vulpoid -->
+  <PlayerVulpoidTribalNoTech.pawnsPlural>狐形种部落民</PlayerVulpoidTribalNoTech.pawnsPlural>
+  
+</LanguageData>

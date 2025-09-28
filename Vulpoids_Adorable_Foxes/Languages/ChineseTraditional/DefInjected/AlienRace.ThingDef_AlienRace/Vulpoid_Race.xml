@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- OLD： Vulpes -->
+  <!-- EN: Vulpoid -->
+  <Yanz_Vulpoid.label>狐形種</Yanz_Vulpoid.label>
+  <!-- OLD： Vulpes is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body. Vulpes is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->
+  <!-- EN: Vulpoid is a race of adorable genetically engineered foxes with high mental capabilities but weak and fragile body. Vulpoid is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->
+  <Yanz_Vulpoid.description>狐形種是一種透過基因工程所改造而成的可愛狐狸種族，他們具有高度的智慧能力，但身體能力卻十分的脆弱。狐形種是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Yanz_Vulpoid.description>
+  <!-- EN: teeth -->
+  <Yanz_Vulpoid.tools.teeth.label>牙齒</Yanz_Vulpoid.tools.teeth.label>
+  <!-- EN: left claws -->
+  <Yanz_Vulpoid.tools.left_claws.label>左爪</Yanz_Vulpoid.tools.left_claws.label>
+  <!-- EN: right claws -->
+  <Yanz_Vulpoid.tools.right_claws.label>右爪</Yanz_Vulpoid.tools.right_claws.label>
+    <!-- 下面的東西警世用，別動它  These are using for skin function. DO NOT translate them.
+	避免更動關鍵字	Avoid changes	＝	generalSettings.alienPartGenerator	-->
+    <!-- hair --><!-- 
+  <Vulpes.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Vulpes.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name> -->
+  <!-- skin --><!-- 
+  <Vulpes.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Vulpes.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
+    <!-- EN: left eye --><!--
+  <Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.5.conditions.0.bodyPartLabel>TODO</Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.5.conditions.0.bodyPartLabel>-->
+  <!-- EN: left eye --><!--
+  <Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.6.conditions.0.bodyPartLabel>TODO</Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.6.conditions.0.bodyPartLabel>-->
+  <!-- EN: right eye --><!--
+  <Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.7.conditions.0.bodyPartLabel>TODO</Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.7.conditions.0.bodyPartLabel>-->
+  <!-- EN: right eye --><!--
+  <Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.8.conditions.0.bodyPartLabel>TODO</Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.8.conditions.0.bodyPartLabel>-->
+  <!-- EN: left ear --><!--
+  <Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.9.conditions.0.bodyPartLabel>TODO</Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.9.conditions.0.bodyPartLabel>-->
+  <!-- EN: right ear --><!--
+  <Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.10.conditions.0.bodyPartLabel>TODO</Yanz_Vulpoid.alienRace.generalSettings.alienPartGenerator.bodyAddons.10.conditions.0.bodyPartLabel>-->
+  
+</LanguageData>

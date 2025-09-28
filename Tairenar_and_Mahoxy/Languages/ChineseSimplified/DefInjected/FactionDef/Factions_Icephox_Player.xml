@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Icephox Colony -->
+  <PlayerIcephoxIndustrial.label>TODO</PlayerIcephoxIndustrial.label>
+  <!-- EN: Icephox Colony -->
+  <PlayerIcephoxIndustrial.description>TODO</PlayerIcephoxIndustrial.description>
+  <!-- EN: leader -->
+  <PlayerIcephoxIndustrial.leaderTitle>TODO</PlayerIcephoxIndustrial.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerIcephoxIndustrial.messageDefendersAttacking>TODO</PlayerIcephoxIndustrial.messageDefendersAttacking>
+  <!-- EN: Icephox -->
+  <PlayerIcephoxIndustrial.pawnSingular>TODO</PlayerIcephoxIndustrial.pawnSingular>
+  <!-- EN: Icephox -->
+  <PlayerIcephoxIndustrial.pawnsPlural>TODO</PlayerIcephoxIndustrial.pawnsPlural>
+  
+  <!-- EN: Icephox Colony (No tech) -->
+  <PlayerIcephoxIndustrialNoTech.label>TODO</PlayerIcephoxIndustrialNoTech.label>
+  <!-- EN: Icephox colony -->
+  <PlayerIcephoxIndustrialNoTech.description>TODO</PlayerIcephoxIndustrialNoTech.description>
+  <!-- EN: leader -->
+  <PlayerIcephoxIndustrialNoTech.leaderTitle>TODO</PlayerIcephoxIndustrialNoTech.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerIcephoxIndustrialNoTech.messageDefendersAttacking>TODO</PlayerIcephoxIndustrialNoTech.messageDefendersAttacking>
+  <!-- EN: Icephox -->
+  <PlayerIcephoxIndustrialNoTech.pawnSingular>TODO</PlayerIcephoxIndustrialNoTech.pawnSingular>
+  <!-- EN: Icephox -->
+  <PlayerIcephoxIndustrialNoTech.pawnsPlural>TODO</PlayerIcephoxIndustrialNoTech.pawnsPlural>
+  
+  <!-- EN: Icephox Tribe -->
+  <PlayerIcephoxTribal.label>TODO</PlayerIcephoxTribal.label>
+  <!-- EN: Icephox tribe -->
+  <PlayerIcephoxTribal.description>TODO</PlayerIcephoxTribal.description>
+  <!-- EN: leader -->
+  <PlayerIcephoxTribal.leaderTitle>TODO</PlayerIcephoxTribal.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerIcephoxTribal.messageDefendersAttacking>TODO</PlayerIcephoxTribal.messageDefendersAttacking>
+  <!-- EN: Icephox -->
+  <PlayerIcephoxTribal.pawnSingular>TODO</PlayerIcephoxTribal.pawnSingular>
+  <!-- EN: Icephox -->
+  <PlayerIcephoxTribal.pawnsPlural>TODO</PlayerIcephoxTribal.pawnsPlural>
+  
+  <!-- EN: Icephox Tribe (No tech) -->
+  <PlayerIcephoxTribalNoTech.label>TODO</PlayerIcephoxTribalNoTech.label>
+  <!-- EN: Icephox tribe -->
+  <PlayerIcephoxTribalNoTech.description>TODO</PlayerIcephoxTribalNoTech.description>
+  <!-- EN: leader -->
+  <PlayerIcephoxTribalNoTech.leaderTitle>TODO</PlayerIcephoxTribalNoTech.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerIcephoxTribalNoTech.messageDefendersAttacking>TODO</PlayerIcephoxTribalNoTech.messageDefendersAttacking>
+  <!-- EN: Icephox -->
+  <PlayerIcephoxTribalNoTech.pawnSingular>TODO</PlayerIcephoxTribalNoTech.pawnSingular>
+  <!-- EN: Icephox -->
+  <PlayerIcephoxTribalNoTech.pawnsPlural>TODO</PlayerIcephoxTribalNoTech.pawnsPlural>
+  
+</LanguageData>

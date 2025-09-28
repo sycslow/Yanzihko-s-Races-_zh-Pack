@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Delphox Tribe -->  <PlayerDelphoxTribal.label>妖火红狐部落</PlayerDelphoxTribal.label>
+  <!-- Delphox tribe -->  <PlayerDelphoxTribal.description>妖火红狐部落</PlayerDelphoxTribal.description>
+  <!-- Delphox -->  <PlayerDelphoxTribal.pawnsPlural>妖火红狐部落民</PlayerDelphoxTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Delphox Tribe (No tech) -->  <PlayerDelphoxTribalNoTech.label>妖火红狐部落 (无科技)</PlayerDelphoxTribalNoTech.label>
+  <!-- Delphox tribe -->  <PlayerDelphoxTribalNoTech.description>妖火红狐部落</PlayerDelphoxTribalNoTech.description>
+  <!-- Delphox -->  <PlayerDelphoxTribalNoTech.pawnsPlural>妖火红狐部落民</PlayerDelphoxTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Delphox Colony -->  <PlayerDelphoxIndustrial.label>妖火红狐殖民地</PlayerDelphoxIndustrial.label>
+  <!-- Delphox Colony -->  <PlayerDelphoxIndustrial.description>妖火红狐殖民地</PlayerDelphoxIndustrial.description>
+  <!-- Delphox -->  <PlayerDelphoxIndustrial.pawnsPlural>妖火红狐殖民者</PlayerDelphoxIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Delphox Colony (No tech) -->  <PlayerDelphoxIndustrialNoTech.label>妖火红狐殖民地 (无科技)</PlayerDelphoxIndustrialNoTech.label>
+  <!-- Delphox colony -->  <PlayerDelphoxIndustrialNoTech.description>妖火红狐殖民地</PlayerDelphoxIndustrialNoTech.description>
+  <!-- Delphox -->  <PlayerDelphoxIndustrialNoTech.pawnsPlural>妖火红狐殖民者</PlayerDelphoxIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Vulpoid drifter -->
+  <Vulpoid_Drifter.label>狐形種漂泊者</Vulpoid_Drifter.label>
+  
+  <!-- EN: Vulpoid grenadier -->
+  <Vulpoid_Grenadier_Destructive.label>狐形種擲彈兵</Vulpoid_Grenadier_Destructive.label>
+  
+  <!-- EN: Vulpoid EMP grenadier -->
+  <Vulpoid_Grenadier_EMP.label>狐形種EMP擲彈兵</Vulpoid_Grenadier_EMP.label>
+  
+  <!-- EN: Vulpoid smoke grenadier -->
+  <Vulpoid_Grenadier_Smoke.label>狐形種煙霧彈擲彈兵</Vulpoid_Grenadier_Smoke.label>
+  
+  <!-- EN: Vulpoid elite mercenary -->
+  <Vulpoid_Mercenary_Elite.label>狐形種精銳傭兵</Vulpoid_Mercenary_Elite.label>
+  <!-- EN: elite mercenaries -->
+  <Vulpoid_Mercenary_Elite.labelPlural>狐形種精銳傭兵</Vulpoid_Mercenary_Elite.labelPlural>
+  
+  <!-- EN: Vulpoid mercenary gunner -->
+  <Vulpoid_Mercenary_Gunner.label>狐形種槍手傭兵</Vulpoid_Mercenary_Gunner.label>
+  
+  <!-- EN: Vulpoid heavy mercenary -->
+  <Vulpoid_Mercenary_Heavy.label>狐形種重裝傭兵</Vulpoid_Mercenary_Heavy.label>
+  <!-- EN: heavy mercenaries -->
+  <Vulpoid_Mercenary_Heavy.labelPlural>重裝傭兵</Vulpoid_Mercenary_Heavy.labelPlural>
+  
+  <!-- EN: Vulpoid mercenary slasher -->
+  <Vulpoid_Mercenary_Slasher.label>狐形種殺手傭兵</Vulpoid_Mercenary_Slasher.label>
+  
+  <!-- EN: Vulpoid mercenary sniper -->
+  <Vulpoid_Mercenary_Sniper.label>狐形種狙擊手傭兵</Vulpoid_Mercenary_Sniper.label>
+  
+  <!-- EN: Vulpoid pirate gunner -->
+  <Vulpoid_Pirate.label>狐形種海賊槍手</Vulpoid_Pirate.label>
+  
+  <!-- EN: Vulpoid boss -->
+  <Vulpoid_PirateBoss.label>狐形種海賊團長</Vulpoid_PirateBoss.label>
+  <!-- EN: bosses -->
+  <Vulpoid_PirateBoss.labelPlural>狐形種海賊團長</Vulpoid_PirateBoss.labelPlural>
+  
+  <!-- EN: Vulpoid scavenger gunner -->
+  <Vulpoid_Scavenger.label>狐形種掠奪者槍手</Vulpoid_Scavenger.label>
+  
+  <!-- EN: Vulpoid scavenger thrasher -->
+  <Vulpoid_Thrasher.label>狐形種掠奪者暴民</Vulpoid_Thrasher.label>
+  
+  <!-- EN: Vulpoid town councilman -->
+  <Vulpoid_Town_Councilman.label>狐形種城鎮議員</Vulpoid_Town_Councilman.label>
+  <!-- EN: town councilmen -->
+  <Vulpoid_Town_Councilman.labelPlural>狐形種城鎮議員</Vulpoid_Town_Councilman.labelPlural>
+  
+  <!-- EN: Vulpoid town guard -->
+  <Vulpoid_Town_Guard.label>狐形種城鎮衛兵</Vulpoid_Town_Guard.label>
+  
+  <!-- EN: Vulpoid town trader -->
+  <Vulpoid_Town_Trader.label>狐形種城鎮商人</Vulpoid_Town_Trader.label>
+  
+  <!-- EN: Vulpoid archer -->
+  <Vulpoid_Tribal_Archer.label>狐形種弓箭手</Vulpoid_Tribal_Archer.label>
+  
+  <!-- EN: Vulpoid berserker -->
+  <Vulpoid_Tribal_Berserker.label>狐形種狂戰士</Vulpoid_Tribal_Berserker.label>
+  
+  <!-- EN: Vulpoid berserker chief -->
+  <Vulpoid_Tribal_ChiefMelee.label>狐形種狂戰士隊長</Vulpoid_Tribal_ChiefMelee.label>
+  
+  <!-- EN: Vulpoid archer chief -->
+  <Vulpoid_Tribal_ChiefRanged.label>狐形種弓箭手隊長</Vulpoid_Tribal_ChiefRanged.label>
+  
+  <!-- EN: Vulpoid heavy archer -->
+  <Vulpoid_Tribal_HeavyArcher.label>狐形種重裝弓箭手</Vulpoid_Tribal_HeavyArcher.label>
+  
+  <!-- EN: Vulpoid hunter -->
+  <Vulpoid_Tribal_Hunter.label>狐形種獵人</Vulpoid_Tribal_Hunter.label>
+  
+  <!-- EN: Vulpoid penitent -->
+  <Vulpoid_Tribal_Penitent.label>狐形種海賊</Vulpoid_Tribal_Penitent.label>
+  
+  <!-- EN: Vulpoid trader -->
+  <Vulpoid_Tribal_Trader.label>狐形種商人</Vulpoid_Tribal_Trader.label>
+  
+  <!-- EN: Vulpoid warrior -->
+  <Vulpoid_Tribal_Warrior.label>狐形種戰士</Vulpoid_Tribal_Warrior.label>
+  
+  <!-- EN: Vulpoid villager -->
+  <Vulpoid_Villager.label>狐形種村民</Vulpoid_Villager.label>
+  
+  <!-- EN: Vulpoid -->
+  <VulpoidColonist.label>狐形種</VulpoidColonist.label>
+  
+  <!-- EN: Vulpoid slave -->
+  <VulpoidSlave.label>狐形種奴隸</VulpoidSlave.label>
+  
+  <!-- EN: Vulpoid space refugee -->
+  <VulpoidSpaceRefugee.label>狐形種星際難民</VulpoidSpaceRefugee.label>
+  
+  <!-- EN: Vulpoid -->
+  <VulpoidTribesperson.label>狐形種</VulpoidTribesperson.label>
+  
+</LanguageData>
