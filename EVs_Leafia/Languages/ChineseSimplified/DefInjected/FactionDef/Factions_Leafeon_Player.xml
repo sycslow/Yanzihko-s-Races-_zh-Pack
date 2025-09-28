@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Leafeon Tribe -->  <PlayerLeafeonTribal.label>叶伊布部落</PlayerLeafeonTribal.label>
+  <!-- Leafeon tribe -->  <PlayerLeafeonTribal.description>叶伊布部落</PlayerLeafeonTribal.description>
+  <!-- Leafeon -->  <PlayerLeafeonTribal.pawnsPlural>叶伊布部落民</PlayerLeafeonTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Leafeon Tribe (No tech) -->  <PlayerLeafeonTribalNoTech.label>叶伊布部落 (无科技)</PlayerLeafeonTribalNoTech.label>
+  <!-- Leafeon tribe -->  <PlayerLeafeonTribalNoTech.description>叶伊布部落</PlayerLeafeonTribalNoTech.description>
+  <!-- Leafeon -->  <PlayerLeafeonTribalNoTech.pawnsPlural>叶伊布部落民</PlayerLeafeonTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Leafeon Colony -->  <PlayerLeafeonIndustrial.label>叶伊布殖民地</PlayerLeafeonIndustrial.label>
+  <!-- Leafeon Colony -->  <PlayerLeafeonIndustrial.description>叶伊布殖民地</PlayerLeafeonIndustrial.description>
+  <!-- Leafeon -->  <PlayerLeafeonIndustrial.pawnsPlural>叶伊布殖民者</PlayerLeafeonIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Leafeon Colony (No tech) -->  <PlayerLeafeonIndustrialNoTech.label>叶伊布殖民地 (无科技)</PlayerLeafeonIndustrialNoTech.label>
+  <!-- Leafeon colony -->  <PlayerLeafeonIndustrialNoTech.description>叶伊布殖民地</PlayerLeafeonIndustrialNoTech.description>
+  <!-- Leafeon -->  <PlayerLeafeonIndustrialNoTech.pawnsPlural>叶伊布殖民者</PlayerLeafeonIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

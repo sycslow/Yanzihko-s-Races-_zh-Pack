@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Glaceon -->  <Yanz_Glaceon.label>冰伊布</Yanz_Glaceon.label>
+  <!-- Glaceons were a highly experimental xenotype developed upon entropy manipulation research. Glaceons are able to reduce local enthropy and to seemingly dump it into nowhere. Glaceons themselves seem to have much lower enthropy than their surroundings, making them essentially immunte to cold temperatures. Glaceon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Glaceon.description>冰伊布是一種基於熵操控研究的高度實驗性異種族。冰伊布能夠降低局部熵，並似乎將其排放到某個未知之處。冰伊布本身的熵比周圍環境低得多，使它們幾乎對寒冷溫度免疫。冰伊布是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Yanz_Glaceon.description>
+  <!-- teeth -->  <Yanz_Glaceon.tools.0.label>牙齒</Yanz_Glaceon.tools.0.label>
+  <!-- left claws -->  <Yanz_Glaceon.tools.1.label>左爪</Yanz_Glaceon.tools.1.label>
+  <!-- right claws -->  <Yanz_Glaceon.tools.2.label>右爪</Yanz_Glaceon.tools.2.label>
+
+
+
+</LanguageData>

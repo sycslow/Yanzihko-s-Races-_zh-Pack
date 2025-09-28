@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Glaceon space refugee -->  <GlaceonSpaceRefugee.label>冰伊布星際難民</GlaceonSpaceRefugee.label>
+  <!-- Glaceon space refugees -->  <GlaceonSpaceRefugee.labelPlural>冰伊布星際難民</GlaceonSpaceRefugee.labelPlural>
+  <!-- male Glaceon space refugee -->  <GlaceonSpaceRefugee.labelMale>男性冰伊布星際難民</GlaceonSpaceRefugee.labelMale>
+  <!-- male Glaceon space refugees -->  <GlaceonSpaceRefugee.labelMalePlural>男性冰伊布星際難民</GlaceonSpaceRefugee.labelMalePlural>
+  <!-- female Glaceon space refugee -->  <GlaceonSpaceRefugee.labelFemale>女性冰伊布星際難民</GlaceonSpaceRefugee.labelFemale>
+  <!-- female Glaceon space refugees -->  <GlaceonSpaceRefugee.labelFemalePlural>女性冰伊布星際難民</GlaceonSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Glaceon slave -->  <GlaceonSlave.label>冰伊布奴隸</GlaceonSlave.label>
+  <!-- Glaceon slaves -->  <GlaceonSlave.labelPlural>冰伊布奴隸</GlaceonSlave.labelPlural>
+  <!-- male Glaceon slave -->  <GlaceonSlave.labelMale>男性冰伊布奴隸</GlaceonSlave.labelMale>
+  <!-- male Glaceon slaves -->  <GlaceonSlave.labelMalePlural>男性冰伊布奴隸</GlaceonSlave.labelMalePlural>
+  <!-- female Glaceon slave -->  <GlaceonSlave.labelFemale>女性冰伊布奴隸</GlaceonSlave.labelFemale>
+  <!-- female Glaceon slaves -->  <GlaceonSlave.labelFemalePlural>女性冰伊布奴隸</GlaceonSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Glaceon -->  <GlaceonColonist.label>冰伊布</GlaceonColonist.label>
+  <!-- Glaceons -->  <GlaceonColonist.labelPlural>冰伊布</GlaceonColonist.labelPlural>
+  <!-- male Glaceon -->  <GlaceonColonist.labelMale>男性冰伊布</GlaceonColonist.labelMale>
+  <!-- male Glaceons -->  <GlaceonColonist.labelMalePlural>男性冰伊布</GlaceonColonist.labelMalePlural>
+  <!-- female Glaceon -->  <GlaceonColonist.labelFemale>女性冰伊布</GlaceonColonist.labelFemale>
+  <!-- female Glaceons -->  <GlaceonColonist.labelFemalePlural>女性冰伊布</GlaceonColonist.labelFemalePlural>
+
+  <!-- Glaceon -->  <GlaceonTribesperson.label>冰伊布</GlaceonTribesperson.label>
+  <!-- Glaceons -->  <GlaceonTribesperson.labelPlural>冰伊布</GlaceonTribesperson.labelPlural>
+  <!-- male Glaceon -->  <GlaceonTribesperson.labelMale>男性冰伊布</GlaceonTribesperson.labelMale>
+  <!-- male Glaceons -->  <GlaceonTribesperson.labelMalePlural>男性冰伊布</GlaceonTribesperson.labelMalePlural>
+  <!-- female Glaceon -->  <GlaceonTribesperson.labelFemale>女性冰伊布</GlaceonTribesperson.labelFemale>
+  <!-- female Glaceons -->  <GlaceonTribesperson.labelFemalePlural>女性冰伊布</GlaceonTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Glaceon grenadier -->  <Glaceon_Grenadier_Destructive.label>冰伊布擲彈兵</Glaceon_Grenadier_Destructive.label>
+  <!-- Glaceon grenadiers -->  <Glaceon_Grenadier_Destructive.labelPlural>冰伊布擲彈兵</Glaceon_Grenadier_Destructive.labelPlural>
+  <!-- male Glaceon grenadier -->  <Glaceon_Grenadier_Destructive.labelMale>男性冰伊布擲彈兵</Glaceon_Grenadier_Destructive.labelMale>
+  <!-- male Glaceon grenadiers -->  <Glaceon_Grenadier_Destructive.labelMalePlural>男性冰伊布擲彈兵</Glaceon_Grenadier_Destructive.labelMalePlural>
+  <!-- female Glaceon grenadier -->  <Glaceon_Grenadier_Destructive.labelFemale>女性冰伊布擲彈兵</Glaceon_Grenadier_Destructive.labelFemale>
+  <!-- female Glaceon grenadiers -->  <Glaceon_Grenadier_Destructive.labelFemalePlural>女性冰伊布擲彈兵</Glaceon_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Glaceon EMP grenadier -->  <Glaceon_Grenadier_EMP.label>冰伊布 EMP擲彈兵</Glaceon_Grenadier_EMP.label>
+  <!-- Glaceon EMP grenadiers -->  <Glaceon_Grenadier_EMP.labelPlural>冰伊布 EMP擲彈兵</Glaceon_Grenadier_EMP.labelPlural>
+  <!-- male Glaceon EMP grenadier -->  <Glaceon_Grenadier_EMP.labelMale>男性冰伊布 EMP擲彈兵</Glaceon_Grenadier_EMP.labelMale>
+  <!-- male Glaceon EMP grenadiers -->  <Glaceon_Grenadier_EMP.labelMalePlural>男性冰伊布 EMP擲彈兵</Glaceon_Grenadier_EMP.labelMalePlural>
+  <!-- female Glaceon EMP grenadier -->  <Glaceon_Grenadier_EMP.labelFemale>女性冰伊布 EMP擲彈兵</Glaceon_Grenadier_EMP.labelFemale>
+  <!-- female Glaceon EMP grenadiers -->  <Glaceon_Grenadier_EMP.labelFemalePlural>女性冰伊布 EMP擲彈兵</Glaceon_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Glaceon smoke grenadier -->  <Glaceon_Grenadier_Smoke.label>冰伊布煙霧彈擲彈兵</Glaceon_Grenadier_Smoke.label>
+  <!-- Glaceon smoke grenadiers -->  <Glaceon_Grenadier_Smoke.labelPlural>冰伊布煙霧彈擲彈兵</Glaceon_Grenadier_Smoke.labelPlural>
+  <!-- male Glaceon smoke grenadier -->  <Glaceon_Grenadier_Smoke.labelMale>男性冰伊布煙霧彈擲彈兵</Glaceon_Grenadier_Smoke.labelMale>
+  <!-- male Glaceon smoke grenadiers -->  <Glaceon_Grenadier_Smoke.labelMalePlural>男性冰伊布煙霧彈擲彈兵</Glaceon_Grenadier_Smoke.labelMalePlural>
+  <!-- female Glaceon smoke grenadier -->  <Glaceon_Grenadier_Smoke.labelFemale>女性冰伊布煙霧彈擲彈兵</Glaceon_Grenadier_Smoke.labelFemale>
+  <!-- female Glaceon smoke grenadiers -->  <Glaceon_Grenadier_Smoke.labelFemalePlural>女性冰伊布煙霧彈擲彈兵</Glaceon_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Glaceon mercenary gunner -->  <Glaceon_Mercenary_Gunner.label>冰伊布槍手傭兵</Glaceon_Mercenary_Gunner.label>
+  <!-- Glaceon mercenary gunners -->  <Glaceon_Mercenary_Gunner.labelPlural>冰伊布槍手傭兵</Glaceon_Mercenary_Gunner.labelPlural>
+  <!-- male Glaceon mercenary gunner -->  <Glaceon_Mercenary_Gunner.labelMale>男性冰伊布槍手傭兵</Glaceon_Mercenary_Gunner.labelMale>
+  <!-- male Glaceon mercenary gunners -->  <Glaceon_Mercenary_Gunner.labelMalePlural>男性冰伊布槍手傭兵</Glaceon_Mercenary_Gunner.labelMalePlural>
+  <!-- female Glaceon mercenary gunner -->  <Glaceon_Mercenary_Gunner.labelFemale>女性冰伊布槍手傭兵</Glaceon_Mercenary_Gunner.labelFemale>
+  <!-- female Glaceon mercenary gunners -->  <Glaceon_Mercenary_Gunner.labelFemalePlural>女性冰伊布槍手傭兵</Glaceon_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Glaceon mercenary sniper -->  <Glaceon_Mercenary_Sniper.label>冰伊布狙擊手傭兵</Glaceon_Mercenary_Sniper.label>
+  <!-- Glaceon mercenary snipers -->  <Glaceon_Mercenary_Sniper.labelPlural>冰伊布狙擊手傭兵</Glaceon_Mercenary_Sniper.labelPlural>
+  <!-- male Glaceon mercenary sniper -->  <Glaceon_Mercenary_Sniper.labelMale>男性冰伊布狙擊手傭兵</Glaceon_Mercenary_Sniper.labelMale>
+  <!-- male Glaceon mercenary snipers -->  <Glaceon_Mercenary_Sniper.labelMalePlural>男性冰伊布狙擊手傭兵</Glaceon_Mercenary_Sniper.labelMalePlural>
+  <!-- female Glaceon mercenary sniper -->  <Glaceon_Mercenary_Sniper.labelFemale>女性冰伊布狙擊手傭兵</Glaceon_Mercenary_Sniper.labelFemale>
+  <!-- female Glaceon mercenary snipers -->  <Glaceon_Mercenary_Sniper.labelFemalePlural>女性冰伊布狙擊手傭兵</Glaceon_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Glaceon mercenary slasher -->  <Glaceon_Mercenary_Slasher.label>冰伊布殺手傭兵</Glaceon_Mercenary_Slasher.label>
+  <!-- Glaceon mercenary slashers -->  <Glaceon_Mercenary_Slasher.labelPlural>冰伊布殺手傭兵</Glaceon_Mercenary_Slasher.labelPlural>
+  <!-- male Glaceon mercenary slasher -->  <Glaceon_Mercenary_Slasher.labelMale>男性冰伊布殺手傭兵</Glaceon_Mercenary_Slasher.labelMale>
+  <!-- male Glaceon mercenary slashers -->  <Glaceon_Mercenary_Slasher.labelMalePlural>男性冰伊布殺手傭兵</Glaceon_Mercenary_Slasher.labelMalePlural>
+  <!-- female Glaceon mercenary slasher -->  <Glaceon_Mercenary_Slasher.labelFemale>女性冰伊布殺手傭兵</Glaceon_Mercenary_Slasher.labelFemale>
+  <!-- female Glaceon mercenary slashers -->  <Glaceon_Mercenary_Slasher.labelFemalePlural>女性冰伊布殺手傭兵</Glaceon_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Glaceon heavy mercenary -->  <Glaceon_Mercenary_Heavy.label>冰伊布重裝傭兵</Glaceon_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Glaceon_Mercenary_Heavy.labelPlural>重裝傭兵</Glaceon_Mercenary_Heavy.labelPlural>
+  <!-- male Glaceon heavy mercenary -->  <Glaceon_Mercenary_Heavy.labelMale>男性冰伊布重裝傭兵</Glaceon_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Glaceon_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Glaceon_Mercenary_Heavy.labelMalePlural>
+  <!-- female Glaceon heavy mercenary -->  <Glaceon_Mercenary_Heavy.labelFemale>女性冰伊布重裝傭兵</Glaceon_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Glaceon_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Glaceon_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Glaceon boss -->  <Glaceon_PirateBoss.label>冰伊布海賊團長</Glaceon_PirateBoss.label>
+  <!-- bosses -->  <Glaceon_PirateBoss.labelPlural>海賊團長</Glaceon_PirateBoss.labelPlural>
+  <!-- male Glaceon boss -->  <Glaceon_PirateBoss.labelMale>男性冰伊布海賊團長</Glaceon_PirateBoss.labelMale>
+  <!-- male bosses -->  <Glaceon_PirateBoss.labelMalePlural>男性海賊團長</Glaceon_PirateBoss.labelMalePlural>
+  <!-- female Glaceon boss -->  <Glaceon_PirateBoss.labelFemale>女性冰伊布海賊團長</Glaceon_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Glaceon_PirateBoss.labelFemalePlural>女性海賊團長</Glaceon_PirateBoss.labelFemalePlural>
+
+  <!-- Glaceon elite mercenary -->  <Glaceon_Mercenary_Elite.label>冰伊布精銳傭兵</Glaceon_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Glaceon_Mercenary_Elite.labelPlural>精銳傭兵</Glaceon_Mercenary_Elite.labelPlural>
+  <!-- male Glaceon elite mercenary -->  <Glaceon_Mercenary_Elite.labelMale>男性冰伊布精銳傭兵</Glaceon_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Glaceon_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Glaceon_Mercenary_Elite.labelMalePlural>
+  <!-- female Glaceon elite mercenary -->  <Glaceon_Mercenary_Elite.labelFemale>女性冰伊布精銳傭兵</Glaceon_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Glaceon_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Glaceon_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Glaceon drifter -->  <Glaceon_Drifter.label>冰伊布漂泊者</Glaceon_Drifter.label>
+  <!-- Glaceon drifters -->  <Glaceon_Drifter.labelPlural>冰伊布漂泊者</Glaceon_Drifter.labelPlural>
+  <!-- male Glaceon drifter -->  <Glaceon_Drifter.labelMale>男性冰伊布漂泊者</Glaceon_Drifter.labelMale>
+  <!-- male Glaceon drifters -->  <Glaceon_Drifter.labelMalePlural>男性冰伊布漂泊者</Glaceon_Drifter.labelMalePlural>
+  <!-- female Glaceon drifter -->  <Glaceon_Drifter.labelFemale>女性冰伊布漂泊者</Glaceon_Drifter.labelFemale>
+  <!-- female Glaceon drifters -->  <Glaceon_Drifter.labelFemalePlural>女性冰伊布漂泊者</Glaceon_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Glaceon scavenger gunner -->  <Glaceon_Scavenger.label>冰伊布掠奪者槍手</Glaceon_Scavenger.label>
+  <!-- Glaceon scavenger gunners -->  <Glaceon_Scavenger.labelPlural>冰伊布掠奪者槍手</Glaceon_Scavenger.labelPlural>
+  <!-- male Glaceon scavenger gunner -->  <Glaceon_Scavenger.labelMale>男性冰伊布掠奪者槍手</Glaceon_Scavenger.labelMale>
+  <!-- male Glaceon scavenger gunners -->  <Glaceon_Scavenger.labelMalePlural>男性冰伊布掠奪者槍手</Glaceon_Scavenger.labelMalePlural>
+  <!-- female Glaceon scavenger gunner -->  <Glaceon_Scavenger.labelFemale>女性冰伊布掠奪者槍手</Glaceon_Scavenger.labelFemale>
+  <!-- female Glaceon scavenger gunners -->  <Glaceon_Scavenger.labelFemalePlural>女性冰伊布掠奪者槍手</Glaceon_Scavenger.labelFemalePlural>
+
+  <!-- Glaceon scavenger thrasher -->  <Glaceon_Thrasher.label>冰伊布掠奪者暴民</Glaceon_Thrasher.label>
+  <!-- Glaceon scavenger thrashers -->  <Glaceon_Thrasher.labelPlural>冰伊布掠奪者暴民</Glaceon_Thrasher.labelPlural>
+  <!-- male Glaceon scavenger thrasher -->  <Glaceon_Thrasher.labelMale>男性冰伊布掠奪者暴民</Glaceon_Thrasher.labelMale>
+  <!-- male Glaceon scavenger thrashers -->  <Glaceon_Thrasher.labelMalePlural>男性冰伊布掠奪者暴民</Glaceon_Thrasher.labelMalePlural>
+  <!-- female Glaceon scavenger thrasher -->  <Glaceon_Thrasher.labelFemale>女性冰伊布掠奪者暴民</Glaceon_Thrasher.labelFemale>
+  <!-- female Glaceon scavenger thrashers -->  <Glaceon_Thrasher.labelFemalePlural>女性冰伊布掠奪者暴民</Glaceon_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Glaceon pirate gunner -->  <Glaceon_Pirate.label>冰伊布海賊槍手</Glaceon_Pirate.label>
+  <!-- Glaceon pirate gunners -->  <Glaceon_Pirate.labelPlural>冰伊布海賊槍手</Glaceon_Pirate.labelPlural>
+  <!-- male Glaceon pirate gunner -->  <Glaceon_Pirate.labelMale>男性冰伊布海賊槍手</Glaceon_Pirate.labelMale>
+  <!-- male Glaceon pirate gunners -->  <Glaceon_Pirate.labelMalePlural>男性冰伊布海賊槍手</Glaceon_Pirate.labelMalePlural>
+  <!-- female Glaceon pirate gunner -->  <Glaceon_Pirate.labelFemale>女性冰伊布海賊槍手</Glaceon_Pirate.labelFemale>
+  <!-- female Glaceon pirate gunners -->  <Glaceon_Pirate.labelFemalePlural>女性冰伊布海賊槍手</Glaceon_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Glaceon villager -->  <Glaceon_Villager.label>冰伊布村民</Glaceon_Villager.label>
+  <!-- Glaceon villagers -->  <Glaceon_Villager.labelPlural>冰伊布村民</Glaceon_Villager.labelPlural>
+  <!-- male Glaceon villager -->  <Glaceon_Villager.labelMale>男性冰伊布村民</Glaceon_Villager.labelMale>
+  <!-- male Glaceon villagers -->  <Glaceon_Villager.labelMalePlural>男性冰伊布村民</Glaceon_Villager.labelMalePlural>
+  <!-- female Glaceon villager -->  <Glaceon_Villager.labelFemale>女性冰伊布村民</Glaceon_Villager.labelFemale>
+  <!-- female Glaceon villagers -->  <Glaceon_Villager.labelFemalePlural>女性冰伊布村民</Glaceon_Villager.labelFemalePlural>
+
+  <!-- Glaceon town guard -->  <Glaceon_Town_Guard.label>冰伊布城鎮衛兵</Glaceon_Town_Guard.label>
+  <!-- Glaceon town guards -->  <Glaceon_Town_Guard.labelPlural>冰伊布城鎮衛兵</Glaceon_Town_Guard.labelPlural>
+  <!-- male Glaceon town guard -->  <Glaceon_Town_Guard.labelMale>男性冰伊布城鎮衛兵</Glaceon_Town_Guard.labelMale>
+  <!-- male Glaceon town guards -->  <Glaceon_Town_Guard.labelMalePlural>男性冰伊布城鎮衛兵</Glaceon_Town_Guard.labelMalePlural>
+  <!-- female Glaceon town guard -->  <Glaceon_Town_Guard.labelFemale>女性冰伊布城鎮衛兵</Glaceon_Town_Guard.labelFemale>
+  <!-- female Glaceon town guards -->  <Glaceon_Town_Guard.labelFemalePlural>女性冰伊布城鎮衛兵</Glaceon_Town_Guard.labelFemalePlural>
+
+  <!-- Glaceon town trader -->  <Glaceon_Town_Trader.label>冰伊布城鎮商人</Glaceon_Town_Trader.label>
+  <!-- Glaceon town traders -->  <Glaceon_Town_Trader.labelPlural>冰伊布城鎮商人</Glaceon_Town_Trader.labelPlural>
+  <!-- male Glaceon town trader -->  <Glaceon_Town_Trader.labelMale>男性冰伊布城鎮商人</Glaceon_Town_Trader.labelMale>
+  <!-- male Glaceon town traders -->  <Glaceon_Town_Trader.labelMalePlural>男性冰伊布城鎮商人</Glaceon_Town_Trader.labelMalePlural>
+  <!-- female Glaceon town trader -->  <Glaceon_Town_Trader.labelFemale>女性冰伊布城鎮商人</Glaceon_Town_Trader.labelFemale>
+  <!-- female Glaceon town traders -->  <Glaceon_Town_Trader.labelFemalePlural>女性冰伊布城鎮商人</Glaceon_Town_Trader.labelFemalePlural>
+
+  <!-- Glaceon town councilman -->  <Glaceon_Town_Councilman.label>冰伊布城鎮議員</Glaceon_Town_Councilman.label>
+  <!-- town councilmen -->  <Glaceon_Town_Councilman.labelPlural>城鎮議員</Glaceon_Town_Councilman.labelPlural>
+  <!-- male Glaceon town councilman -->  <Glaceon_Town_Councilman.labelMale>男性冰伊布城鎮議員</Glaceon_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Glaceon_Town_Councilman.labelMalePlural>男性城鎮議員</Glaceon_Town_Councilman.labelMalePlural>
+  <!-- female Glaceon town councilman -->  <Glaceon_Town_Councilman.labelFemale>女性冰伊布城鎮議員</Glaceon_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Glaceon_Town_Councilman.labelFemalePlural>女性城鎮議員</Glaceon_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Glaceon penitent -->  <Glaceon_Tribal_Penitent.label>冰伊布海賊</Glaceon_Tribal_Penitent.label>
+  <!-- Glaceon penitents -->  <Glaceon_Tribal_Penitent.labelPlural>冰伊布海賊</Glaceon_Tribal_Penitent.labelPlural>
+  <!-- male Glaceon penitent -->  <Glaceon_Tribal_Penitent.labelMale>男性冰伊布海賊</Glaceon_Tribal_Penitent.labelMale>
+  <!-- male Glaceon penitents -->  <Glaceon_Tribal_Penitent.labelMalePlural>男性冰伊布海賊</Glaceon_Tribal_Penitent.labelMalePlural>
+  <!-- female Glaceon penitent -->  <Glaceon_Tribal_Penitent.labelFemale>女性冰伊布海賊</Glaceon_Tribal_Penitent.labelFemale>
+  <!-- female Glaceon penitents -->  <Glaceon_Tribal_Penitent.labelFemalePlural>女性冰伊布海賊</Glaceon_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Glaceon archer -->  <Glaceon_Tribal_Archer.label>冰伊布弓箭手</Glaceon_Tribal_Archer.label>
+  <!-- Glaceon archers -->  <Glaceon_Tribal_Archer.labelPlural>冰伊布弓箭手</Glaceon_Tribal_Archer.labelPlural>
+  <!-- male Glaceon archer -->  <Glaceon_Tribal_Archer.labelMale>男性冰伊布弓箭手</Glaceon_Tribal_Archer.labelMale>
+  <!-- male Glaceon archers -->  <Glaceon_Tribal_Archer.labelMalePlural>男性冰伊布弓箭手</Glaceon_Tribal_Archer.labelMalePlural>
+  <!-- female Glaceon archer -->  <Glaceon_Tribal_Archer.labelFemale>女性冰伊布弓箭手</Glaceon_Tribal_Archer.labelFemale>
+  <!-- female Glaceon archers -->  <Glaceon_Tribal_Archer.labelFemalePlural>女性冰伊布弓箭手</Glaceon_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Glaceon warrior -->  <Glaceon_Tribal_Warrior.label>冰伊布戰士</Glaceon_Tribal_Warrior.label>
+  <!-- Glaceon warriors -->  <Glaceon_Tribal_Warrior.labelPlural>冰伊布戰士</Glaceon_Tribal_Warrior.labelPlural>
+  <!-- male Glaceon warrior -->  <Glaceon_Tribal_Warrior.labelMale>男性冰伊布戰士</Glaceon_Tribal_Warrior.labelMale>
+  <!-- male Glaceon warriors -->  <Glaceon_Tribal_Warrior.labelMalePlural>男性冰伊布戰士</Glaceon_Tribal_Warrior.labelMalePlural>
+  <!-- female Glaceon warrior -->  <Glaceon_Tribal_Warrior.labelFemale>女性冰伊布戰士</Glaceon_Tribal_Warrior.labelFemale>
+  <!-- female Glaceon warriors -->  <Glaceon_Tribal_Warrior.labelFemalePlural>女性冰伊布戰士</Glaceon_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Glaceon hunter -->  <Glaceon_Tribal_Hunter.label>冰伊布獵人</Glaceon_Tribal_Hunter.label>
+  <!-- Glaceon hunters -->  <Glaceon_Tribal_Hunter.labelPlural>冰伊布獵人</Glaceon_Tribal_Hunter.labelPlural>
+  <!-- male Glaceon hunter -->  <Glaceon_Tribal_Hunter.labelMale>男性冰伊布獵人</Glaceon_Tribal_Hunter.labelMale>
+  <!-- male Glaceon hunters -->  <Glaceon_Tribal_Hunter.labelMalePlural>男性冰伊布獵人</Glaceon_Tribal_Hunter.labelMalePlural>
+  <!-- female Glaceon hunter -->  <Glaceon_Tribal_Hunter.labelFemale>女性冰伊布獵人</Glaceon_Tribal_Hunter.labelFemale>
+  <!-- female Glaceon hunters -->  <Glaceon_Tribal_Hunter.labelFemalePlural>女性冰伊布獵人</Glaceon_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Glaceon trader -->  <Glaceon_Tribal_Trader.label>冰伊布商人</Glaceon_Tribal_Trader.label>
+  <!-- Glaceon traders -->  <Glaceon_Tribal_Trader.labelPlural>冰伊布商人</Glaceon_Tribal_Trader.labelPlural>
+  <!-- male Glaceon trader -->  <Glaceon_Tribal_Trader.labelMale>男性冰伊布商人</Glaceon_Tribal_Trader.labelMale>
+  <!-- male Glaceon traders -->  <Glaceon_Tribal_Trader.labelMalePlural>男性冰伊布商人</Glaceon_Tribal_Trader.labelMalePlural>
+  <!-- female Glaceon trader -->  <Glaceon_Tribal_Trader.labelFemale>女性冰伊布商人</Glaceon_Tribal_Trader.labelFemale>
+  <!-- female Glaceon traders -->  <Glaceon_Tribal_Trader.labelFemalePlural>女性冰伊布商人</Glaceon_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Glaceon berserker -->  <Glaceon_Tribal_Berserker.label>冰伊布狂戰士</Glaceon_Tribal_Berserker.label>
+  <!-- Glaceon berserkers -->  <Glaceon_Tribal_Berserker.labelPlural>冰伊布狂戰士</Glaceon_Tribal_Berserker.labelPlural>
+  <!-- male Glaceon berserker -->  <Glaceon_Tribal_Berserker.labelMale>男性冰伊布狂戰士</Glaceon_Tribal_Berserker.labelMale>
+  <!-- male Glaceon berserkers -->  <Glaceon_Tribal_Berserker.labelMalePlural>男性冰伊布狂戰士</Glaceon_Tribal_Berserker.labelMalePlural>
+  <!-- female Glaceon berserker -->  <Glaceon_Tribal_Berserker.labelFemale>女性冰伊布狂戰士</Glaceon_Tribal_Berserker.labelFemale>
+  <!-- female Glaceon berserkers -->  <Glaceon_Tribal_Berserker.labelFemalePlural>女性冰伊布狂戰士</Glaceon_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Glaceon heavy archer -->  <Glaceon_Tribal_HeavyArcher.label>冰伊布重裝弓箭手</Glaceon_Tribal_HeavyArcher.label>
+  <!-- Glaceon heavy archers -->  <Glaceon_Tribal_HeavyArcher.labelPlural>冰伊布重裝弓箭手</Glaceon_Tribal_HeavyArcher.labelPlural>
+  <!-- male Glaceon heavy archer -->  <Glaceon_Tribal_HeavyArcher.labelMale>男性冰伊布重裝弓箭手</Glaceon_Tribal_HeavyArcher.labelMale>
+  <!-- male Glaceon heavy archers -->  <Glaceon_Tribal_HeavyArcher.labelMalePlural>男性冰伊布重裝弓箭手</Glaceon_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Glaceon heavy archer -->  <Glaceon_Tribal_HeavyArcher.labelFemale>女性冰伊布重裝弓箭手</Glaceon_Tribal_HeavyArcher.labelFemale>
+  <!-- female Glaceon heavy archers -->  <Glaceon_Tribal_HeavyArcher.labelFemalePlural>女性冰伊布重裝弓箭手</Glaceon_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Glaceon_Tribal_ChiefMelee -->  <!--[Duplicated] <Glaceon_Tribal_ChiefMelee.label>冰伊布_Tribal_ChiefMelee</Glaceon_Tribal_ChiefMelee.label>-->
+  <!-- Glaceon_Tribal_ChiefMelees -->  <!--[Duplicated] <Glaceon_Tribal_ChiefMelee.labelPlural>冰伊布_Tribal_ChiefMele</Glaceon_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Glaceon_Tribal_ChiefMelee -->  <!--[Duplicated] <Glaceon_Tribal_ChiefMelee.labelMale>男性冰伊布_Tribal_ChiefMelee</Glaceon_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Glaceon_Tribal_ChiefMelees -->  <!--[Duplicated] <Glaceon_Tribal_ChiefMelee.labelMalePlural>男性冰伊布_Tribal_ChiefMele</Glaceon_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Glaceon_Tribal_ChiefMelee -->  <!--[Duplicated] <Glaceon_Tribal_ChiefMelee.labelFemale>女性冰伊布_Tribal_ChiefMelee</Glaceon_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Glaceon_Tribal_ChiefMelees -->  <!--[Duplicated] <Glaceon_Tribal_ChiefMelee.labelFemalePlural>女性冰伊布_Tribal_ChiefMele</Glaceon_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Glaceon berserker chief -->  <Glaceon_Tribal_ChiefMelee.label>冰伊布狂戰士隊長</Glaceon_Tribal_ChiefMelee.label>
+  <!-- Glaceon berserker chiefs -->  <Glaceon_Tribal_ChiefMelee.labelPlural>冰伊布狂戰士隊長</Glaceon_Tribal_ChiefMelee.labelPlural>
+  <!-- male Glaceon berserker chief -->  <Glaceon_Tribal_ChiefMelee.labelMale>男性冰伊布狂戰士隊長</Glaceon_Tribal_ChiefMelee.labelMale>
+  <!-- male Glaceon berserker chiefs -->  <Glaceon_Tribal_ChiefMelee.labelMalePlural>男性冰伊布狂戰士隊長</Glaceon_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Glaceon berserker chief -->  <Glaceon_Tribal_ChiefMelee.labelFemale>女性冰伊布狂戰士隊長</Glaceon_Tribal_ChiefMelee.labelFemale>
+  <!-- female Glaceon berserker chiefs -->  <Glaceon_Tribal_ChiefMelee.labelFemalePlural>女性冰伊布狂戰士隊長</Glaceon_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Glaceon archer chief -->  <Glaceon_Tribal_ChiefRanged.label>冰伊布弓箭手隊長</Glaceon_Tribal_ChiefRanged.label>
+  <!-- Glaceon archer chiefs -->  <Glaceon_Tribal_ChiefRanged.labelPlural>冰伊布弓箭手隊長</Glaceon_Tribal_ChiefRanged.labelPlural>
+  <!-- male Glaceon archer chief -->  <Glaceon_Tribal_ChiefRanged.labelMale>男性冰伊布弓箭手隊長</Glaceon_Tribal_ChiefRanged.labelMale>
+  <!-- male Glaceon archer chiefs -->  <Glaceon_Tribal_ChiefRanged.labelMalePlural>男性冰伊布弓箭手隊長</Glaceon_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Glaceon archer chief -->  <Glaceon_Tribal_ChiefRanged.labelFemale>女性冰伊布弓箭手隊長</Glaceon_Tribal_ChiefRanged.labelFemale>
+  <!-- female Glaceon archer chiefs -->  <Glaceon_Tribal_ChiefRanged.labelFemalePlural>女性冰伊布弓箭手隊長</Glaceon_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

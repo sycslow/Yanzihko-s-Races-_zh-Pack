@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <GlaceonTribalPawn.label>部落民</GlaceonTribalPawn.label>
+  <!-- members -->  <GlaceonTribalPawn.labelPlural>部落民</GlaceonTribalPawn.labelPlural>
+  <!-- male member -->  <GlaceonTribalPawn.labelMale>男性部落民</GlaceonTribalPawn.labelMale>
+  <!-- male members -->  <GlaceonTribalPawn.labelMalePlural>男性部落民</GlaceonTribalPawn.labelMalePlural>
+  <!-- female member -->  <GlaceonTribalPawn.labelFemale>女性部落民</GlaceonTribalPawn.labelFemale>
+  <!-- female members -->  <GlaceonTribalPawn.labelFemalePlural>女性部落民</GlaceonTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <GlaceonIndustrialPawn.label>殖民者</GlaceonIndustrialPawn.label>
+  <!-- members -->  <GlaceonIndustrialPawn.labelPlural>殖民者</GlaceonIndustrialPawn.labelPlural>
+  <!-- male member -->  <GlaceonIndustrialPawn.labelMale>男性殖民者</GlaceonIndustrialPawn.labelMale>
+  <!-- male members -->  <GlaceonIndustrialPawn.labelMalePlural>男性殖民者</GlaceonIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <GlaceonIndustrialPawn.labelFemale>女性殖民者</GlaceonIndustrialPawn.labelFemale>
+  <!-- female members -->  <GlaceonIndustrialPawn.labelFemalePlural>女性殖民者</GlaceonIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

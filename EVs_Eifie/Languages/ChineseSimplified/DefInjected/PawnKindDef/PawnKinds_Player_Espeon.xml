@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <EspeonTribalPawn.label>部落民</EspeonTribalPawn.label>
+  <!-- members -->  <EspeonTribalPawn.labelPlural>部落民</EspeonTribalPawn.labelPlural>
+  <!-- male member -->  <EspeonTribalPawn.labelMale>男性部落民</EspeonTribalPawn.labelMale>
+  <!-- male members -->  <EspeonTribalPawn.labelMalePlural>男性部落民</EspeonTribalPawn.labelMalePlural>
+  <!-- female member -->  <EspeonTribalPawn.labelFemale>女性部落民</EspeonTribalPawn.labelFemale>
+  <!-- female members -->  <EspeonTribalPawn.labelFemalePlural>女性部落民</EspeonTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <EspeonIndustrialPawn.label>殖民者</EspeonIndustrialPawn.label>
+  <!-- members -->  <EspeonIndustrialPawn.labelPlural>殖民者</EspeonIndustrialPawn.labelPlural>
+  <!-- male member -->  <EspeonIndustrialPawn.labelMale>男性殖民者</EspeonIndustrialPawn.labelMale>
+  <!-- male members -->  <EspeonIndustrialPawn.labelMalePlural>男性殖民者</EspeonIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <EspeonIndustrialPawn.labelFemale>女性殖民者</EspeonIndustrialPawn.labelFemale>
+  <!-- female members -->  <EspeonIndustrialPawn.labelFemalePlural>女性殖民者</EspeonIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

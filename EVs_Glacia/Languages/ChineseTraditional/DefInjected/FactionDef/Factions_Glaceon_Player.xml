@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Glaceon Tribe -->  <PlayerGlaceonTribal.label>冰伊布部落</PlayerGlaceonTribal.label>
+  <!-- Glaceon tribe -->  <PlayerGlaceonTribal.description>冰伊布部落</PlayerGlaceonTribal.description>
+  <!-- Glaceon -->  <PlayerGlaceonTribal.pawnsPlural>冰伊布部落民</PlayerGlaceonTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Glaceon Tribe (No tech) -->  <PlayerGlaceonTribalNoTech.label>冰伊布部落 (無科技)</PlayerGlaceonTribalNoTech.label>
+  <!-- Glaceon tribe -->  <PlayerGlaceonTribalNoTech.description>冰伊布部落</PlayerGlaceonTribalNoTech.description>
+  <!-- Glaceon -->  <PlayerGlaceonTribalNoTech.pawnsPlural>冰伊布部落民</PlayerGlaceonTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Glaceon Colony -->  <PlayerGlaceonIndustrial.label>冰伊布殖民地</PlayerGlaceonIndustrial.label>
+  <!-- Glaceon Colony -->  <PlayerGlaceonIndustrial.description>冰伊布殖民地</PlayerGlaceonIndustrial.description>
+  <!-- Glaceon -->  <PlayerGlaceonIndustrial.pawnsPlural>冰伊布殖民者</PlayerGlaceonIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Glaceon Colony (No tech) -->  <PlayerGlaceonIndustrialNoTech.label>冰伊布殖民地 (無科技)</PlayerGlaceonIndustrialNoTech.label>
+  <!-- Glaceon colony -->  <PlayerGlaceonIndustrialNoTech.description>冰伊布殖民地</PlayerGlaceonIndustrialNoTech.description>
+  <!-- Glaceon -->  <PlayerGlaceonIndustrialNoTech.pawnsPlural>冰伊布殖民者</PlayerGlaceonIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Espeon Tribe -->  <PlayerEspeonTribal.label>太阳伊布部落</PlayerEspeonTribal.label>
+  <!-- Espeon tribe -->  <PlayerEspeonTribal.description>太阳伊布部落</PlayerEspeonTribal.description>
+  <!-- Espeon -->  <PlayerEspeonTribal.pawnsPlural>太阳伊布部落民</PlayerEspeonTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Espeon Tribe (No tech) -->  <PlayerEspeonTribalNoTech.label>太阳伊布部落 (无科技)</PlayerEspeonTribalNoTech.label>
+  <!-- Espeon tribe -->  <PlayerEspeonTribalNoTech.description>太阳伊布部落</PlayerEspeonTribalNoTech.description>
+  <!-- Espeon -->  <PlayerEspeonTribalNoTech.pawnsPlural>太阳伊布部落民</PlayerEspeonTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Espeon Colony -->  <PlayerEspeonIndustrial.label>太阳伊布殖民地</PlayerEspeonIndustrial.label>
+  <!-- Espeon Colony -->  <PlayerEspeonIndustrial.description>太阳伊布殖民地</PlayerEspeonIndustrial.description>
+  <!-- Espeon -->  <PlayerEspeonIndustrial.pawnsPlural>太阳伊布殖民者</PlayerEspeonIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Espeon Colony (No tech) -->  <PlayerEspeonIndustrialNoTech.label>太阳伊布殖民地 (无科技)</PlayerEspeonIndustrialNoTech.label>
+  <!-- Espeon colony -->  <PlayerEspeonIndustrialNoTech.description>太阳伊布殖民地</PlayerEspeonIndustrialNoTech.description>
+  <!-- Espeon -->  <PlayerEspeonIndustrialNoTech.pawnsPlural>太阳伊布殖民者</PlayerEspeonIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

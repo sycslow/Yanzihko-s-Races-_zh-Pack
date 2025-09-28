@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Leafeon space refugee -->  <LeafeonSpaceRefugee.label>叶伊布星际难民</LeafeonSpaceRefugee.label>
+  <!-- Leafeon space refugees -->  <LeafeonSpaceRefugee.labelPlural>叶伊布星际难民</LeafeonSpaceRefugee.labelPlural>
+  <!-- male Leafeon space refugee -->  <LeafeonSpaceRefugee.labelMale>男性叶伊布星际难民</LeafeonSpaceRefugee.labelMale>
+  <!-- male Leafeon space refugees -->  <LeafeonSpaceRefugee.labelMalePlural>男性叶伊布星际难民</LeafeonSpaceRefugee.labelMalePlural>
+  <!-- female Leafeon space refugee -->  <LeafeonSpaceRefugee.labelFemale>女性叶伊布星际难民</LeafeonSpaceRefugee.labelFemale>
+  <!-- female Leafeon space refugees -->  <LeafeonSpaceRefugee.labelFemalePlural>女性叶伊布星际难民</LeafeonSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Leafeon slave -->  <LeafeonSlave.label>叶伊布奴隶</LeafeonSlave.label>
+  <!-- Leafeon slaves -->  <LeafeonSlave.labelPlural>叶伊布奴隶</LeafeonSlave.labelPlural>
+  <!-- male Leafeon slave -->  <LeafeonSlave.labelMale>男性叶伊布奴隶</LeafeonSlave.labelMale>
+  <!-- male Leafeon slaves -->  <LeafeonSlave.labelMalePlural>男性叶伊布奴隶</LeafeonSlave.labelMalePlural>
+  <!-- female Leafeon slave -->  <LeafeonSlave.labelFemale>女性叶伊布奴隶</LeafeonSlave.labelFemale>
+  <!-- female Leafeon slaves -->  <LeafeonSlave.labelFemalePlural>女性叶伊布奴隶</LeafeonSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Leafeon -->  <LeafeonColonist.label>叶伊布</LeafeonColonist.label>
+  <!-- Leafeons -->  <LeafeonColonist.labelPlural>叶伊布</LeafeonColonist.labelPlural>
+  <!-- male Leafeon -->  <LeafeonColonist.labelMale>男性叶伊布</LeafeonColonist.labelMale>
+  <!-- male Leafeons -->  <LeafeonColonist.labelMalePlural>男性叶伊布</LeafeonColonist.labelMalePlural>
+  <!-- female Leafeon -->  <LeafeonColonist.labelFemale>女性叶伊布</LeafeonColonist.labelFemale>
+  <!-- female Leafeons -->  <LeafeonColonist.labelFemalePlural>女性叶伊布</LeafeonColonist.labelFemalePlural>
+
+  <!-- Leafeon -->  <LeafeonTribesperson.label>叶伊布</LeafeonTribesperson.label>
+  <!-- Leafeons -->  <LeafeonTribesperson.labelPlural>叶伊布</LeafeonTribesperson.labelPlural>
+  <!-- male Leafeon -->  <LeafeonTribesperson.labelMale>男性叶伊布</LeafeonTribesperson.labelMale>
+  <!-- male Leafeons -->  <LeafeonTribesperson.labelMalePlural>男性叶伊布</LeafeonTribesperson.labelMalePlural>
+  <!-- female Leafeon -->  <LeafeonTribesperson.labelFemale>女性叶伊布</LeafeonTribesperson.labelFemale>
+  <!-- female Leafeons -->  <LeafeonTribesperson.labelFemalePlural>女性叶伊布</LeafeonTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Leafeon grenadier -->  <Leafeon_Grenadier_Destructive.label>叶伊布掷弹兵</Leafeon_Grenadier_Destructive.label>
+  <!-- Leafeon grenadiers -->  <Leafeon_Grenadier_Destructive.labelPlural>叶伊布掷弹兵</Leafeon_Grenadier_Destructive.labelPlural>
+  <!-- male Leafeon grenadier -->  <Leafeon_Grenadier_Destructive.labelMale>男性叶伊布掷弹兵</Leafeon_Grenadier_Destructive.labelMale>
+  <!-- male Leafeon grenadiers -->  <Leafeon_Grenadier_Destructive.labelMalePlural>男性叶伊布掷弹兵</Leafeon_Grenadier_Destructive.labelMalePlural>
+  <!-- female Leafeon grenadier -->  <Leafeon_Grenadier_Destructive.labelFemale>女性叶伊布掷弹兵</Leafeon_Grenadier_Destructive.labelFemale>
+  <!-- female Leafeon grenadiers -->  <Leafeon_Grenadier_Destructive.labelFemalePlural>女性叶伊布掷弹兵</Leafeon_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Leafeon EMPgrenadier -->  <Leafeon_Grenadier_EMP.label>叶伊布 EMP掷弹兵</Leafeon_Grenadier_EMP.label>
+  <!-- Leafeon EMPgrenadiers -->  <Leafeon_Grenadier_EMP.labelPlural>叶伊布 EMP掷弹兵</Leafeon_Grenadier_EMP.labelPlural>
+  <!-- male Leafeon EMPgrenadier -->  <Leafeon_Grenadier_EMP.labelMale>男性叶伊布 EMP掷弹兵</Leafeon_Grenadier_EMP.labelMale>
+  <!-- male Leafeon EMPgrenadiers -->  <Leafeon_Grenadier_EMP.labelMalePlural>男性叶伊布 EMP掷弹兵</Leafeon_Grenadier_EMP.labelMalePlural>
+  <!-- female Leafeon EMPgrenadier -->  <Leafeon_Grenadier_EMP.labelFemale>女性叶伊布 EMP掷弹兵</Leafeon_Grenadier_EMP.labelFemale>
+  <!-- female Leafeon EMPgrenadiers -->  <Leafeon_Grenadier_EMP.labelFemalePlural>女性叶伊布 EMP掷弹兵</Leafeon_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Leafeon smoke grenadier -->  <Leafeon_Grenadier_Smoke.label>叶伊布烟雾弹掷弹兵</Leafeon_Grenadier_Smoke.label>
+  <!-- Leafeon smoke grenadiers -->  <Leafeon_Grenadier_Smoke.labelPlural>叶伊布烟雾弹掷弹兵</Leafeon_Grenadier_Smoke.labelPlural>
+  <!-- male Leafeon smoke grenadier -->  <Leafeon_Grenadier_Smoke.labelMale>男性叶伊布烟雾弹掷弹兵</Leafeon_Grenadier_Smoke.labelMale>
+  <!-- male Leafeon smoke grenadiers -->  <Leafeon_Grenadier_Smoke.labelMalePlural>男性叶伊布烟雾弹掷弹兵</Leafeon_Grenadier_Smoke.labelMalePlural>
+  <!-- female Leafeon smoke grenadier -->  <Leafeon_Grenadier_Smoke.labelFemale>女性叶伊布烟雾弹掷弹兵</Leafeon_Grenadier_Smoke.labelFemale>
+  <!-- female Leafeon smoke grenadiers -->  <Leafeon_Grenadier_Smoke.labelFemalePlural>女性叶伊布烟雾弹掷弹兵</Leafeon_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Leafeon mercenary gunner -->  <Leafeon_Mercenary_Gunner.label>叶伊布枪手佣兵</Leafeon_Mercenary_Gunner.label>
+  <!-- Leafeon mercenary gunners -->  <Leafeon_Mercenary_Gunner.labelPlural>叶伊布枪手佣兵</Leafeon_Mercenary_Gunner.labelPlural>
+  <!-- male Leafeon mercenary gunner -->  <Leafeon_Mercenary_Gunner.labelMale>男性叶伊布枪手佣兵</Leafeon_Mercenary_Gunner.labelMale>
+  <!-- male Leafeon mercenary gunners -->  <Leafeon_Mercenary_Gunner.labelMalePlural>男性叶伊布枪手佣兵</Leafeon_Mercenary_Gunner.labelMalePlural>
+  <!-- female Leafeon mercenary gunner -->  <Leafeon_Mercenary_Gunner.labelFemale>女性叶伊布枪手佣兵</Leafeon_Mercenary_Gunner.labelFemale>
+  <!-- female Leafeon mercenary gunners -->  <Leafeon_Mercenary_Gunner.labelFemalePlural>女性叶伊布枪手佣兵</Leafeon_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Leafeon mercenary sniper -->  <Leafeon_Mercenary_Sniper.label>叶伊布狙击手佣兵</Leafeon_Mercenary_Sniper.label>
+  <!-- Leafeon mercenary snipers -->  <Leafeon_Mercenary_Sniper.labelPlural>叶伊布狙击手佣兵</Leafeon_Mercenary_Sniper.labelPlural>
+  <!-- male Leafeon mercenary sniper -->  <Leafeon_Mercenary_Sniper.labelMale>男性叶伊布狙击手佣兵</Leafeon_Mercenary_Sniper.labelMale>
+  <!-- male Leafeon mercenary snipers -->  <Leafeon_Mercenary_Sniper.labelMalePlural>男性叶伊布狙击手佣兵</Leafeon_Mercenary_Sniper.labelMalePlural>
+  <!-- female Leafeon mercenary sniper -->  <Leafeon_Mercenary_Sniper.labelFemale>女性叶伊布狙击手佣兵</Leafeon_Mercenary_Sniper.labelFemale>
+  <!-- female Leafeon mercenary snipers -->  <Leafeon_Mercenary_Sniper.labelFemalePlural>女性叶伊布狙击手佣兵</Leafeon_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Leafeon mercenary slasher -->  <Leafeon_Mercenary_Slasher.label>叶伊布杀手佣兵</Leafeon_Mercenary_Slasher.label>
+  <!-- Leafeon mercenary slashers -->  <Leafeon_Mercenary_Slasher.labelPlural>叶伊布杀手佣兵</Leafeon_Mercenary_Slasher.labelPlural>
+  <!-- male Leafeon mercenary slasher -->  <Leafeon_Mercenary_Slasher.labelMale>男性叶伊布杀手佣兵</Leafeon_Mercenary_Slasher.labelMale>
+  <!-- male Leafeon mercenary slashers -->  <Leafeon_Mercenary_Slasher.labelMalePlural>男性叶伊布杀手佣兵</Leafeon_Mercenary_Slasher.labelMalePlural>
+  <!-- female Leafeon mercenary slasher -->  <Leafeon_Mercenary_Slasher.labelFemale>女性叶伊布杀手佣兵</Leafeon_Mercenary_Slasher.labelFemale>
+  <!-- female Leafeon mercenary slashers -->  <Leafeon_Mercenary_Slasher.labelFemalePlural>女性叶伊布杀手佣兵</Leafeon_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Leafeon heavy mercenary -->  <Leafeon_Mercenary_Heavy.label>叶伊布重装佣兵</Leafeon_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Leafeon_Mercenary_Heavy.labelPlural>重装佣兵</Leafeon_Mercenary_Heavy.labelPlural>
+  <!-- male Leafeon heavy mercenary -->  <Leafeon_Mercenary_Heavy.labelMale>男性叶伊布重装佣兵</Leafeon_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Leafeon_Mercenary_Heavy.labelMalePlural>男性重装佣兵</Leafeon_Mercenary_Heavy.labelMalePlural>
+  <!-- female Leafeon heavy mercenary -->  <Leafeon_Mercenary_Heavy.labelFemale>女性叶伊布重装佣兵</Leafeon_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Leafeon_Mercenary_Heavy.labelFemalePlural>女性重装佣兵</Leafeon_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Leafeon boss -->  <Leafeon_PirateBoss.label>叶伊布海贼团长</Leafeon_PirateBoss.label>
+  <!-- bosses -->  <Leafeon_PirateBoss.labelPlural>海贼团长</Leafeon_PirateBoss.labelPlural>
+  <!-- male Leafeon boss -->  <Leafeon_PirateBoss.labelMale>男性叶伊布海贼团长</Leafeon_PirateBoss.labelMale>
+  <!-- male bosses -->  <Leafeon_PirateBoss.labelMalePlural>男性海贼团长</Leafeon_PirateBoss.labelMalePlural>
+  <!-- female Leafeon boss -->  <Leafeon_PirateBoss.labelFemale>女性叶伊布海贼团长</Leafeon_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Leafeon_PirateBoss.labelFemalePlural>女性海贼团长</Leafeon_PirateBoss.labelFemalePlural>
+
+  <!-- Leafeon elite mercenary -->  <Leafeon_Mercenary_Elite.label>叶伊布精锐佣兵</Leafeon_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Leafeon_Mercenary_Elite.labelPlural>精锐佣兵</Leafeon_Mercenary_Elite.labelPlural>
+  <!-- male Leafeon elite mercenary -->  <Leafeon_Mercenary_Elite.labelMale>男性叶伊布精锐佣兵</Leafeon_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Leafeon_Mercenary_Elite.labelMalePlural>男性精锐佣兵</Leafeon_Mercenary_Elite.labelMalePlural>
+  <!-- female Leafeon elite mercenary -->  <Leafeon_Mercenary_Elite.labelFemale>女性叶伊布精锐佣兵</Leafeon_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Leafeon_Mercenary_Elite.labelFemalePlural>女性精锐佣兵</Leafeon_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Leafeon drifter -->  <Leafeon_Drifter.label>叶伊布漂泊者</Leafeon_Drifter.label>
+  <!-- Leafeon drifters -->  <Leafeon_Drifter.labelPlural>叶伊布漂泊者</Leafeon_Drifter.labelPlural>
+  <!-- male Leafeon drifter -->  <Leafeon_Drifter.labelMale>男性叶伊布漂泊者</Leafeon_Drifter.labelMale>
+  <!-- male Leafeon drifters -->  <Leafeon_Drifter.labelMalePlural>男性叶伊布漂泊者</Leafeon_Drifter.labelMalePlural>
+  <!-- female Leafeon drifter -->  <Leafeon_Drifter.labelFemale>女性叶伊布漂泊者</Leafeon_Drifter.labelFemale>
+  <!-- female Leafeon drifters -->  <Leafeon_Drifter.labelFemalePlural>女性叶伊布漂泊者</Leafeon_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Leafeon scavenger gunner -->  <Leafeon_Scavenger.label>叶伊布掠夺者枪手</Leafeon_Scavenger.label>
+  <!-- Leafeon scavenger gunners -->  <Leafeon_Scavenger.labelPlural>叶伊布掠夺者枪手</Leafeon_Scavenger.labelPlural>
+  <!-- male Leafeon scavenger gunner -->  <Leafeon_Scavenger.labelMale>男性叶伊布掠夺者枪手</Leafeon_Scavenger.labelMale>
+  <!-- male Leafeon scavenger gunners -->  <Leafeon_Scavenger.labelMalePlural>男性叶伊布掠夺者枪手</Leafeon_Scavenger.labelMalePlural>
+  <!-- female Leafeon scavenger gunner -->  <Leafeon_Scavenger.labelFemale>女性叶伊布掠夺者枪手</Leafeon_Scavenger.labelFemale>
+  <!-- female Leafeon scavenger gunners -->  <Leafeon_Scavenger.labelFemalePlural>女性叶伊布掠夺者枪手</Leafeon_Scavenger.labelFemalePlural>
+
+  <!-- Leafeon scavenger thrasher -->  <Leafeon_Thrasher.label>叶伊布掠夺者暴民</Leafeon_Thrasher.label>
+  <!-- Leafeon scavenger thrashers -->  <Leafeon_Thrasher.labelPlural>叶伊布掠夺者暴民</Leafeon_Thrasher.labelPlural>
+  <!-- male Leafeon scavenger thrasher -->  <Leafeon_Thrasher.labelMale>男性叶伊布掠夺者暴民</Leafeon_Thrasher.labelMale>
+  <!-- male Leafeon scavenger thrashers -->  <Leafeon_Thrasher.labelMalePlural>男性叶伊布掠夺者暴民</Leafeon_Thrasher.labelMalePlural>
+  <!-- female Leafeon scavenger thrasher -->  <Leafeon_Thrasher.labelFemale>女性叶伊布掠夺者暴民</Leafeon_Thrasher.labelFemale>
+  <!-- female Leafeon scavenger thrashers -->  <Leafeon_Thrasher.labelFemalePlural>女性叶伊布掠夺者暴民</Leafeon_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Leafeon pirate gunner -->  <Leafeon_Pirate.label>叶伊布海贼枪手</Leafeon_Pirate.label>
+  <!-- Leafeon pirate gunners -->  <Leafeon_Pirate.labelPlural>叶伊布海贼枪手</Leafeon_Pirate.labelPlural>
+  <!-- male Leafeon pirate gunner -->  <Leafeon_Pirate.labelMale>男性叶伊布海贼枪手</Leafeon_Pirate.labelMale>
+  <!-- male Leafeon pirate gunners -->  <Leafeon_Pirate.labelMalePlural>男性叶伊布海贼枪手</Leafeon_Pirate.labelMalePlural>
+  <!-- female Leafeon pirate gunner -->  <Leafeon_Pirate.labelFemale>女性叶伊布海贼枪手</Leafeon_Pirate.labelFemale>
+  <!-- female Leafeon pirate gunners -->  <Leafeon_Pirate.labelFemalePlural>女性叶伊布海贼枪手</Leafeon_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Leafeon villager -->  <Leafeon_Villager.label>叶伊布村民</Leafeon_Villager.label>
+  <!-- Leafeon villagers -->  <Leafeon_Villager.labelPlural>叶伊布村民</Leafeon_Villager.labelPlural>
+  <!-- male Leafeon villager -->  <Leafeon_Villager.labelMale>男性叶伊布村民</Leafeon_Villager.labelMale>
+  <!-- male Leafeon villagers -->  <Leafeon_Villager.labelMalePlural>男性叶伊布村民</Leafeon_Villager.labelMalePlural>
+  <!-- female Leafeon villager -->  <Leafeon_Villager.labelFemale>女性叶伊布村民</Leafeon_Villager.labelFemale>
+  <!-- female Leafeon villagers -->  <Leafeon_Villager.labelFemalePlural>女性叶伊布村民</Leafeon_Villager.labelFemalePlural>
+
+  <!-- Leafeon town guard -->  <Leafeon_Town_Guard.label>叶伊布城镇卫兵</Leafeon_Town_Guard.label>
+  <!-- Leafeon town guards -->  <Leafeon_Town_Guard.labelPlural>叶伊布城镇卫兵</Leafeon_Town_Guard.labelPlural>
+  <!-- male Leafeon town guard -->  <Leafeon_Town_Guard.labelMale>男性叶伊布城镇卫兵</Leafeon_Town_Guard.labelMale>
+  <!-- male Leafeon town guards -->  <Leafeon_Town_Guard.labelMalePlural>男性叶伊布城镇卫兵</Leafeon_Town_Guard.labelMalePlural>
+  <!-- female Leafeon town guard -->  <Leafeon_Town_Guard.labelFemale>女性叶伊布城镇卫兵</Leafeon_Town_Guard.labelFemale>
+  <!-- female Leafeon town guards -->  <Leafeon_Town_Guard.labelFemalePlural>女性叶伊布城镇卫兵</Leafeon_Town_Guard.labelFemalePlural>
+
+  <!-- Leafeon town trader -->  <Leafeon_Town_Trader.label>叶伊布城镇商人</Leafeon_Town_Trader.label>
+  <!-- Leafeon town traders -->  <Leafeon_Town_Trader.labelPlural>叶伊布城镇商人</Leafeon_Town_Trader.labelPlural>
+  <!-- male Leafeon town trader -->  <Leafeon_Town_Trader.labelMale>男性叶伊布城镇商人</Leafeon_Town_Trader.labelMale>
+  <!-- male Leafeon town traders -->  <Leafeon_Town_Trader.labelMalePlural>男性叶伊布城镇商人</Leafeon_Town_Trader.labelMalePlural>
+  <!-- female Leafeon town trader -->  <Leafeon_Town_Trader.labelFemale>女性叶伊布城镇商人</Leafeon_Town_Trader.labelFemale>
+  <!-- female Leafeon town traders -->  <Leafeon_Town_Trader.labelFemalePlural>女性叶伊布城镇商人</Leafeon_Town_Trader.labelFemalePlural>
+
+  <!-- Leafeon town councilman -->  <Leafeon_Town_Councilman.label>叶伊布城镇议员</Leafeon_Town_Councilman.label>
+  <!-- town councilmen -->  <Leafeon_Town_Councilman.labelPlural>城镇议员</Leafeon_Town_Councilman.labelPlural>
+  <!-- male Leafeon town councilman -->  <Leafeon_Town_Councilman.labelMale>男性叶伊布城镇议员</Leafeon_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Leafeon_Town_Councilman.labelMalePlural>男性城镇议员</Leafeon_Town_Councilman.labelMalePlural>
+  <!-- female Leafeon town councilman -->  <Leafeon_Town_Councilman.labelFemale>女性叶伊布城镇议员</Leafeon_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Leafeon_Town_Councilman.labelFemalePlural>女性城镇议员</Leafeon_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Leafeon penitent -->  <Leafeon_Tribal_Penitent.label>叶伊布海贼</Leafeon_Tribal_Penitent.label>
+  <!-- Leafeon penitents -->  <Leafeon_Tribal_Penitent.labelPlural>叶伊布海贼</Leafeon_Tribal_Penitent.labelPlural>
+  <!-- male Leafeon penitent -->  <Leafeon_Tribal_Penitent.labelMale>男性叶伊布海贼</Leafeon_Tribal_Penitent.labelMale>
+  <!-- male Leafeon penitents -->  <Leafeon_Tribal_Penitent.labelMalePlural>男性叶伊布海贼</Leafeon_Tribal_Penitent.labelMalePlural>
+  <!-- female Leafeon penitent -->  <Leafeon_Tribal_Penitent.labelFemale>女性叶伊布海贼</Leafeon_Tribal_Penitent.labelFemale>
+  <!-- female Leafeon penitents -->  <Leafeon_Tribal_Penitent.labelFemalePlural>女性叶伊布海贼</Leafeon_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Leafeon archer -->  <Leafeon_Tribal_Archer.label>叶伊布弓箭手</Leafeon_Tribal_Archer.label>
+  <!-- Leafeon archers -->  <Leafeon_Tribal_Archer.labelPlural>叶伊布弓箭手</Leafeon_Tribal_Archer.labelPlural>
+  <!-- male Leafeon archer -->  <Leafeon_Tribal_Archer.labelMale>男性叶伊布弓箭手</Leafeon_Tribal_Archer.labelMale>
+  <!-- male Leafeon archers -->  <Leafeon_Tribal_Archer.labelMalePlural>男性叶伊布弓箭手</Leafeon_Tribal_Archer.labelMalePlural>
+  <!-- female Leafeon archer -->  <Leafeon_Tribal_Archer.labelFemale>女性叶伊布弓箭手</Leafeon_Tribal_Archer.labelFemale>
+  <!-- female Leafeon archers -->  <Leafeon_Tribal_Archer.labelFemalePlural>女性叶伊布弓箭手</Leafeon_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Leafeon warrior -->  <Leafeon_Tribal_Warrior.label>叶伊布战士</Leafeon_Tribal_Warrior.label>
+  <!-- Leafeon warriors -->  <Leafeon_Tribal_Warrior.labelPlural>叶伊布战士</Leafeon_Tribal_Warrior.labelPlural>
+  <!-- male Leafeon warrior -->  <Leafeon_Tribal_Warrior.labelMale>男性叶伊布战士</Leafeon_Tribal_Warrior.labelMale>
+  <!-- male Leafeon warriors -->  <Leafeon_Tribal_Warrior.labelMalePlural>男性叶伊布战士</Leafeon_Tribal_Warrior.labelMalePlural>
+  <!-- female Leafeon warrior -->  <Leafeon_Tribal_Warrior.labelFemale>女性叶伊布战士</Leafeon_Tribal_Warrior.labelFemale>
+  <!-- female Leafeon warriors -->  <Leafeon_Tribal_Warrior.labelFemalePlural>女性叶伊布战士</Leafeon_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Leafeon hunter -->  <Leafeon_Tribal_Hunter.label>叶伊布猎人</Leafeon_Tribal_Hunter.label>
+  <!-- Leafeon hunters -->  <Leafeon_Tribal_Hunter.labelPlural>叶伊布猎人</Leafeon_Tribal_Hunter.labelPlural>
+  <!-- male Leafeon hunter -->  <Leafeon_Tribal_Hunter.labelMale>男性叶伊布猎人</Leafeon_Tribal_Hunter.labelMale>
+  <!-- male Leafeon hunters -->  <Leafeon_Tribal_Hunter.labelMalePlural>男性叶伊布猎人</Leafeon_Tribal_Hunter.labelMalePlural>
+  <!-- female Leafeon hunter -->  <Leafeon_Tribal_Hunter.labelFemale>女性叶伊布猎人</Leafeon_Tribal_Hunter.labelFemale>
+  <!-- female Leafeon hunters -->  <Leafeon_Tribal_Hunter.labelFemalePlural>女性叶伊布猎人</Leafeon_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Leafeon trader -->  <Leafeon_Tribal_Trader.label>叶伊布商人</Leafeon_Tribal_Trader.label>
+  <!-- Leafeon traders -->  <Leafeon_Tribal_Trader.labelPlural>叶伊布商人</Leafeon_Tribal_Trader.labelPlural>
+  <!-- male Leafeon trader -->  <Leafeon_Tribal_Trader.labelMale>男性叶伊布商人</Leafeon_Tribal_Trader.labelMale>
+  <!-- male Leafeon traders -->  <Leafeon_Tribal_Trader.labelMalePlural>男性叶伊布商人</Leafeon_Tribal_Trader.labelMalePlural>
+  <!-- female Leafeon trader -->  <Leafeon_Tribal_Trader.labelFemale>女性叶伊布商人</Leafeon_Tribal_Trader.labelFemale>
+  <!-- female Leafeon traders -->  <Leafeon_Tribal_Trader.labelFemalePlural>女性叶伊布商人</Leafeon_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Leafeon berserker -->  <Leafeon_Tribal_Berserker.label>叶伊布狂战士</Leafeon_Tribal_Berserker.label>
+  <!-- Leafeon berserkers -->  <Leafeon_Tribal_Berserker.labelPlural>叶伊布狂战士</Leafeon_Tribal_Berserker.labelPlural>
+  <!-- male Leafeon berserker -->  <Leafeon_Tribal_Berserker.labelMale>男性叶伊布狂战士</Leafeon_Tribal_Berserker.labelMale>
+  <!-- male Leafeon berserkers -->  <Leafeon_Tribal_Berserker.labelMalePlural>男性叶伊布狂战士</Leafeon_Tribal_Berserker.labelMalePlural>
+  <!-- female Leafeon berserker -->  <Leafeon_Tribal_Berserker.labelFemale>女性叶伊布狂战士</Leafeon_Tribal_Berserker.labelFemale>
+  <!-- female Leafeon berserkers -->  <Leafeon_Tribal_Berserker.labelFemalePlural>女性叶伊布狂战士</Leafeon_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Leafeon heavy archer -->  <Leafeon_Tribal_HeavyArcher.label>叶伊布重装弓箭手</Leafeon_Tribal_HeavyArcher.label>
+  <!-- Leafeon heavy archers -->  <Leafeon_Tribal_HeavyArcher.labelPlural>叶伊布重装弓箭手</Leafeon_Tribal_HeavyArcher.labelPlural>
+  <!-- male Leafeon heavy archer -->  <Leafeon_Tribal_HeavyArcher.labelMale>男性叶伊布重装弓箭手</Leafeon_Tribal_HeavyArcher.labelMale>
+  <!-- male Leafeon heavy archers -->  <Leafeon_Tribal_HeavyArcher.labelMalePlural>男性叶伊布重装弓箭手</Leafeon_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Leafeon heavy archer -->  <Leafeon_Tribal_HeavyArcher.labelFemale>女性叶伊布重装弓箭手</Leafeon_Tribal_HeavyArcher.labelFemale>
+  <!-- female Leafeon heavy archers -->  <Leafeon_Tribal_HeavyArcher.labelFemalePlural>女性叶伊布重装弓箭手</Leafeon_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Leafeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Leafeon_Tribal_ChiefMelee.label>叶伊布_Tribal_ChiefMelee</Leafeon_Tribal_ChiefMelee.label>-->
+  <!-- Leafeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Leafeon_Tribal_ChiefMelee.labelPlural>叶伊布_Tribal_ChiefMele</Leafeon_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Leafeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Leafeon_Tribal_ChiefMelee.labelMale>男性叶伊布_Tribal_ChiefMelee</Leafeon_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Leafeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Leafeon_Tribal_ChiefMelee.labelMalePlural>男性叶伊布_Tribal_ChiefMele</Leafeon_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Leafeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Leafeon_Tribal_ChiefMelee.labelFemale>女性叶伊布_Tribal_ChiefMelee</Leafeon_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Leafeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Leafeon_Tribal_ChiefMelee.labelFemalePlural>女性叶伊布_Tribal_ChiefMele</Leafeon_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Leafeon berserker chief -->  <Leafeon_Tribal_ChiefMelee.label>叶伊布狂战士队长</Leafeon_Tribal_ChiefMelee.label>
+  <!-- Leafeon berserker chiefs -->  <Leafeon_Tribal_ChiefMelee.labelPlural>叶伊布狂战士队长</Leafeon_Tribal_ChiefMelee.labelPlural>
+  <!-- male Leafeon berserker chief -->  <Leafeon_Tribal_ChiefMelee.labelMale>男性叶伊布狂战士队长</Leafeon_Tribal_ChiefMelee.labelMale>
+  <!-- male Leafeon berserker chiefs -->  <Leafeon_Tribal_ChiefMelee.labelMalePlural>男性叶伊布狂战士队长</Leafeon_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Leafeon berserker chief -->  <Leafeon_Tribal_ChiefMelee.labelFemale>女性叶伊布狂战士队长</Leafeon_Tribal_ChiefMelee.labelFemale>
+  <!-- female Leafeon berserker chiefs -->  <Leafeon_Tribal_ChiefMelee.labelFemalePlural>女性叶伊布狂战士队长</Leafeon_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Leafeon archer chief -->  <Leafeon_Tribal_ChiefRanged.label>叶伊布弓箭手队长</Leafeon_Tribal_ChiefRanged.label>
+  <!-- Leafeon archer chiefs -->  <Leafeon_Tribal_ChiefRanged.labelPlural>叶伊布弓箭手队长</Leafeon_Tribal_ChiefRanged.labelPlural>
+  <!-- male Leafeon archer chief -->  <Leafeon_Tribal_ChiefRanged.labelMale>男性叶伊布弓箭手队长</Leafeon_Tribal_ChiefRanged.labelMale>
+  <!-- male Leafeon archer chiefs -->  <Leafeon_Tribal_ChiefRanged.labelMalePlural>男性叶伊布弓箭手队长</Leafeon_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Leafeon archer chief -->  <Leafeon_Tribal_ChiefRanged.labelFemale>女性叶伊布弓箭手队长</Leafeon_Tribal_ChiefRanged.labelFemale>
+  <!-- female Leafeon archer chiefs -->  <Leafeon_Tribal_ChiefRanged.labelFemalePlural>女性叶伊布弓箭手队长</Leafeon_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

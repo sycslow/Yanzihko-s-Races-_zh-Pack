@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Glaceon -->  <Yanz_Glaceon.label>冰伊布</Yanz_Glaceon.label>
+  <!-- Glaceons were a highly experimental xenotype developed upon entropy manipulation research. Glaceons are able to reduce local enthropy and to seemingly dump it into nowhere. Glaceons themselves seem to have much lower enthropy than their surroundings, making them essentially immunte to cold temperatures. Glaceon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Glaceon.description>冰伊布是一种基于熵操控研究的高度实验性异种族。冰伊布能够降低局部熵，并似乎将其排放到某个未知之处。冰伊布本身的熵比周围环境低得多，使它们几乎对寒冷温度免疫。冰伊布是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</Yanz_Glaceon.description>
+  <!-- teeth -->  <Yanz_Glaceon.tools.0.label>teeth</Yanz_Glaceon.tools.0.label>
+  <!-- left claws -->  <Yanz_Glaceon.tools.1.label>left claws</Yanz_Glaceon.tools.1.label>
+  <!-- right claws -->  <Yanz_Glaceon.tools.2.label>right claws</Yanz_Glaceon.tools.2.label>
+  <!-- hair -->  <Yanz_Glaceon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Glaceon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <!-- skin -->  <Yanz_Glaceon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Glaceon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+
+
+</LanguageData>

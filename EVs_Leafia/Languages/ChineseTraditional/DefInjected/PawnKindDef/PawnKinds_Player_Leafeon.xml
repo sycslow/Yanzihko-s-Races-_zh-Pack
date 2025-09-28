@@ -1,0 +1,19 @@
+﻿殖民者<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <LeafeonTribalPawn.label>部落民</LeafeonTribalPawn.label>
+  <!-- members -->  <LeafeonTribalPawn.labelPlural>部落民</LeafeonTribalPawn.labelPlural>
+  <!-- male member -->  <LeafeonTribalPawn.labelMale>男性部落民</LeafeonTribalPawn.labelMale>
+  <!-- male members -->  <LeafeonTribalPawn.labelMalePlural>男性部落民</LeafeonTribalPawn.labelMalePlural>
+  <!-- female member -->  <LeafeonTribalPawn.labelFemale>女性部落民</LeafeonTribalPawn.labelFemale>
+  <!-- female members -->  <LeafeonTribalPawn.labelFemalePlural>女性部落民</LeafeonTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <LeafeonIndustrialPawn.label>殖民者</LeafeonIndustrialPawn.label>
+  <!-- members -->  <LeafeonIndustrialPawn.labelPlural>殖民者</LeafeonIndustrialPawn.labelPlural>
+  <!-- male member -->  <LeafeonIndustrialPawn.labelMale>男性殖民者</LeafeonIndustrialPawn.labelMale>
+  <!-- male members -->  <LeafeonIndustrialPawn.labelMalePlural>男性殖民者</LeafeonIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <LeafeonIndustrialPawn.labelFemale>女性殖民者</LeafeonIndustrialPawn.labelFemale>
+  <!-- female members -->  <LeafeonIndustrialPawn.labelFemalePlural>女性殖民者</LeafeonIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

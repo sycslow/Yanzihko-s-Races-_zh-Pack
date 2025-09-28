@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leafeon -->  <Yanz_Leafeon.label>叶伊布</Yanz_Leafeon.label>
+  <!-- Leafeon is a species, based at Eevee's genome, with photosynthesis capabilities and were originally designed for hot climates with scarcity of food. Leafeons require minimal amount of nutrition in conditions of Rimworld but if their leaves are damaged, it directly affects their productivity. Leafeon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Leafeon.description>叶伊布是一种基于伊布基因组改造的物种，具有光合作用的能力，最初设计用于炎热且食物稀缺的气候条件。叶伊布在边缘世界所需要的营养极少，但如果它们的叶片受损，其生产力会直接受到影响。叶伊布是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</Yanz_Leafeon.description>
+  <!-- teeth -->  <Yanz_Leafeon.tools.0.label>牙齿</Yanz_Leafeon.tools.0.label>
+  <!-- left claws -->  <Yanz_Leafeon.tools.1.label>左爪</Yanz_Leafeon.tools.1.label>
+  <!-- right claws -->  <Yanz_Leafeon.tools.2.label>右爪</Yanz_Leafeon.tools.2.label>
+  <!-- hair --><!--   <Yanz_Leafeon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Leafeon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name> -->
+  <!-- skin --><!--   <Yanz_Leafeon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Leafeon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
+
+
+</LanguageData>

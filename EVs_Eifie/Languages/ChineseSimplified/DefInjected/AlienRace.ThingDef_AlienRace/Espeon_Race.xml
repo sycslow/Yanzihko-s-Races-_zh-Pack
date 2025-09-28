@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Espeon -->  <Yanz_Espeon.label>太阳伊布</Yanz_Espeon.label>
+  <!-- Espeons were a highly experimental xenotype developed upon entropy manipulation research. First "experiments" were able to alter space and matter at small scale without any restrictions. After their modification as servitor species for Glitterworld, Espeons have lost most of their dangerous abilities. But they still should be approached carefully. Espeon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Espeon.description>太阳伊布是一种基于熵操控研究的高度实验性异种族。最初的“实验”是能够在无限制的条件下小范围地改变空间和物质。在被改造成闪耀世界的仆从物种後，太阳伊布失去了大部分的危险能力。但仍需谨慎小心地对待它们。太阳伊布是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</Yanz_Espeon.description>
+  <!-- teeth -->  <Yanz_Espeon.tools.0.label>牙齿</Yanz_Espeon.tools.0.label>
+  <!-- left claws -->  <Yanz_Espeon.tools.1.label>左爪</Yanz_Espeon.tools.1.label>
+  <!-- right claws -->  <Yanz_Espeon.tools.2.label>右爪</Yanz_Espeon.tools.2.label>
+  <!-- hair --><!--  <Yanz_Espeon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Espeon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <Yanz_Espeon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Espeon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

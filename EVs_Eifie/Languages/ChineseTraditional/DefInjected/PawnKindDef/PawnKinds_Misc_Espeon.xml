@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Espeon space refugee -->  <EspeonSpaceRefugee.label>太陽伊布星際難民</EspeonSpaceRefugee.label>
+  <!-- Espeon space refugees -->  <EspeonSpaceRefugee.labelPlural>太陽伊布星際難民</EspeonSpaceRefugee.labelPlural>
+  <!-- male Espeon space refugee -->  <EspeonSpaceRefugee.labelMale>男性太陽伊布星際難民</EspeonSpaceRefugee.labelMale>
+  <!-- male Espeon space refugees -->  <EspeonSpaceRefugee.labelMalePlural>男性太陽伊布星際難民</EspeonSpaceRefugee.labelMalePlural>
+  <!-- female Espeon space refugee -->  <EspeonSpaceRefugee.labelFemale>女性太陽伊布星際難民</EspeonSpaceRefugee.labelFemale>
+  <!-- female Espeon space refugees -->  <EspeonSpaceRefugee.labelFemalePlural>女性太陽伊布星際難民</EspeonSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Espeon slave -->  <EspeonSlave.label>太陽伊布奴隸</EspeonSlave.label>
+  <!-- Espeon slaves -->  <EspeonSlave.labelPlural>太陽伊布奴隸</EspeonSlave.labelPlural>
+  <!-- male Espeon slave -->  <EspeonSlave.labelMale>男性太陽伊布奴隸</EspeonSlave.labelMale>
+  <!-- male Espeon slaves -->  <EspeonSlave.labelMalePlural>男性太陽伊布奴隸</EspeonSlave.labelMalePlural>
+  <!-- female Espeon slave -->  <EspeonSlave.labelFemale>女性太陽伊布奴隸</EspeonSlave.labelFemale>
+  <!-- female Espeon slaves -->  <EspeonSlave.labelFemalePlural>女性太陽伊布奴隸</EspeonSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Espeon -->  <EspeonColonist.label>太陽伊布</EspeonColonist.label>
+  <!-- Espeons -->  <EspeonColonist.labelPlural>太陽伊布</EspeonColonist.labelPlural>
+  <!-- male Espeon -->  <EspeonColonist.labelMale>男性太陽伊布</EspeonColonist.labelMale>
+  <!-- male Espeons -->  <EspeonColonist.labelMalePlural>男性太陽伊布</EspeonColonist.labelMalePlural>
+  <!-- female Espeon -->  <EspeonColonist.labelFemale>女性太陽伊布</EspeonColonist.labelFemale>
+  <!-- female Espeons -->  <EspeonColonist.labelFemalePlural>女性太陽伊布</EspeonColonist.labelFemalePlural>
+
+  <!-- Espeon -->  <EspeonTribesperson.label>太陽伊布</EspeonTribesperson.label>
+  <!-- Espeons -->  <EspeonTribesperson.labelPlural>太陽伊布</EspeonTribesperson.labelPlural>
+  <!-- male Espeon -->  <EspeonTribesperson.labelMale>男性太陽伊布</EspeonTribesperson.labelMale>
+  <!-- male Espeons -->  <EspeonTribesperson.labelMalePlural>男性太陽伊布</EspeonTribesperson.labelMalePlural>
+  <!-- female Espeon -->  <EspeonTribesperson.labelFemale>女性太陽伊布</EspeonTribesperson.labelFemale>
+  <!-- female Espeons -->  <EspeonTribesperson.labelFemalePlural>女性太陽伊布</EspeonTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Espeon grenadier -->  <Espeon_Grenadier_Destructive.label>太陽伊布擲彈兵</Espeon_Grenadier_Destructive.label>
+  <!-- Espeon grenadiers -->  <Espeon_Grenadier_Destructive.labelPlural>太陽伊布擲彈兵</Espeon_Grenadier_Destructive.labelPlural>
+  <!-- male Espeon grenadier -->  <Espeon_Grenadier_Destructive.labelMale>男性太陽伊布擲彈兵</Espeon_Grenadier_Destructive.labelMale>
+  <!-- male Espeon grenadiers -->  <Espeon_Grenadier_Destructive.labelMalePlural>男性太陽伊布擲彈兵</Espeon_Grenadier_Destructive.labelMalePlural>
+  <!-- female Espeon grenadier -->  <Espeon_Grenadier_Destructive.labelFemale>女性太陽伊布擲彈兵</Espeon_Grenadier_Destructive.labelFemale>
+  <!-- female Espeon grenadiers -->  <Espeon_Grenadier_Destructive.labelFemalePlural>女性太陽伊布擲彈兵</Espeon_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Espeon EMP grenadier -->  <Espeon_Grenadier_EMP.label>太陽伊布 EMP擲彈兵</Espeon_Grenadier_EMP.label>
+  <!-- Espeon EMP grenadiers -->  <Espeon_Grenadier_EMP.labelPlural>太陽伊布 EMP擲彈兵</Espeon_Grenadier_EMP.labelPlural>
+  <!-- male Espeon EMP grenadier -->  <Espeon_Grenadier_EMP.labelMale>男性太陽伊布 EMP擲彈兵</Espeon_Grenadier_EMP.labelMale>
+  <!-- male Espeon EMP grenadiers -->  <Espeon_Grenadier_EMP.labelMalePlural>男性太陽伊布 EMP擲彈兵</Espeon_Grenadier_EMP.labelMalePlural>
+  <!-- female Espeon EMP grenadier -->  <Espeon_Grenadier_EMP.labelFemale>女性太陽伊布 EMP擲彈兵</Espeon_Grenadier_EMP.labelFemale>
+  <!-- female Espeon EMP grenadiers -->  <Espeon_Grenadier_EMP.labelFemalePlural>女性太陽伊布 EMP擲彈兵</Espeon_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Espeon smoke grenadier -->  <Espeon_Grenadier_Smoke.label>太陽伊布煙霧彈擲彈兵</Espeon_Grenadier_Smoke.label>
+  <!-- Espeon smoke grenadiers -->  <Espeon_Grenadier_Smoke.labelPlural>太陽伊布煙霧彈擲彈兵</Espeon_Grenadier_Smoke.labelPlural>
+  <!-- male Espeon smoke grenadier -->  <Espeon_Grenadier_Smoke.labelMale>男性太陽伊布煙霧彈擲彈兵</Espeon_Grenadier_Smoke.labelMale>
+  <!-- male Espeon smoke grenadiers -->  <Espeon_Grenadier_Smoke.labelMalePlural>男性太陽伊布煙霧彈擲彈兵</Espeon_Grenadier_Smoke.labelMalePlural>
+  <!-- female Espeon smoke grenadier -->  <Espeon_Grenadier_Smoke.labelFemale>女性太陽伊布煙霧彈擲彈兵</Espeon_Grenadier_Smoke.labelFemale>
+  <!-- female Espeon smoke grenadiers -->  <Espeon_Grenadier_Smoke.labelFemalePlural>女性太陽伊布煙霧彈擲彈兵</Espeon_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Espeon mercenary gunner -->  <Espeon_Mercenary_Gunner.label>太陽伊布槍手傭兵</Espeon_Mercenary_Gunner.label>
+  <!-- Espeon mercenary gunners -->  <Espeon_Mercenary_Gunner.labelPlural>太陽伊布槍手傭兵</Espeon_Mercenary_Gunner.labelPlural>
+  <!-- male Espeon mercenary gunner -->  <Espeon_Mercenary_Gunner.labelMale>男性太陽伊布槍手傭兵</Espeon_Mercenary_Gunner.labelMale>
+  <!-- male Espeon mercenary gunners -->  <Espeon_Mercenary_Gunner.labelMalePlural>男性太陽伊布槍手傭兵</Espeon_Mercenary_Gunner.labelMalePlural>
+  <!-- female Espeon mercenary gunner -->  <Espeon_Mercenary_Gunner.labelFemale>女性太陽伊布槍手傭兵</Espeon_Mercenary_Gunner.labelFemale>
+  <!-- female Espeon mercenary gunners -->  <Espeon_Mercenary_Gunner.labelFemalePlural>女性太陽伊布槍手傭兵</Espeon_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Espeon mercenary sniper -->  <Espeon_Mercenary_Sniper.label>太陽伊布狙擊手傭兵</Espeon_Mercenary_Sniper.label>
+  <!-- Espeon mercenary snipers -->  <Espeon_Mercenary_Sniper.labelPlural>太陽伊布狙擊手傭兵</Espeon_Mercenary_Sniper.labelPlural>
+  <!-- male Espeon mercenary sniper -->  <Espeon_Mercenary_Sniper.labelMale>男性太陽伊布狙擊手傭兵</Espeon_Mercenary_Sniper.labelMale>
+  <!-- male Espeon mercenary snipers -->  <Espeon_Mercenary_Sniper.labelMalePlural>男性太陽伊布狙擊手傭兵</Espeon_Mercenary_Sniper.labelMalePlural>
+  <!-- female Espeon mercenary sniper -->  <Espeon_Mercenary_Sniper.labelFemale>女性太陽伊布狙擊手傭兵</Espeon_Mercenary_Sniper.labelFemale>
+  <!-- female Espeon mercenary snipers -->  <Espeon_Mercenary_Sniper.labelFemalePlural>女性太陽伊布狙擊手傭兵</Espeon_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Espeon mercenary slasher -->  <Espeon_Mercenary_Slasher.label>太陽伊布殺手傭兵</Espeon_Mercenary_Slasher.label>
+  <!-- Espeon mercenary slashers -->  <Espeon_Mercenary_Slasher.labelPlural>太陽伊布殺手傭兵</Espeon_Mercenary_Slasher.labelPlural>
+  <!-- male Espeon mercenary slasher -->  <Espeon_Mercenary_Slasher.labelMale>男性太陽伊布殺手傭兵</Espeon_Mercenary_Slasher.labelMale>
+  <!-- male Espeon mercenary slashers -->  <Espeon_Mercenary_Slasher.labelMalePlural>男性太陽伊布殺手傭兵</Espeon_Mercenary_Slasher.labelMalePlural>
+  <!-- female Espeon mercenary slasher -->  <Espeon_Mercenary_Slasher.labelFemale>女性太陽伊布殺手傭兵</Espeon_Mercenary_Slasher.labelFemale>
+  <!-- female Espeon mercenary slashers -->  <Espeon_Mercenary_Slasher.labelFemalePlural>女性太陽伊布殺手傭兵</Espeon_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Espeon heavy mercenary -->  <Espeon_Mercenary_Heavy.label>太陽伊布重裝傭兵</Espeon_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Espeon_Mercenary_Heavy.labelPlural>重裝傭兵</Espeon_Mercenary_Heavy.labelPlural>
+  <!-- male Espeon heavy mercenary -->  <Espeon_Mercenary_Heavy.labelMale>男性太陽伊布重裝傭兵</Espeon_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Espeon_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Espeon_Mercenary_Heavy.labelMalePlural>
+  <!-- female Espeon heavy mercenary -->  <Espeon_Mercenary_Heavy.labelFemale>女性太陽伊布重裝傭兵</Espeon_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Espeon_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Espeon_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Espeon boss -->  <Espeon_PirateBoss.label>太陽伊布海賊團長</Espeon_PirateBoss.label>
+  <!-- bosses -->  <Espeon_PirateBoss.labelPlural>海賊團長</Espeon_PirateBoss.labelPlural>
+  <!-- male Espeon boss -->  <Espeon_PirateBoss.labelMale>男性太陽伊布海賊團長</Espeon_PirateBoss.labelMale>
+  <!-- male bosses -->  <Espeon_PirateBoss.labelMalePlural>男性海賊團長</Espeon_PirateBoss.labelMalePlural>
+  <!-- female Espeon boss -->  <Espeon_PirateBoss.labelFemale>女性太陽伊布海賊團長</Espeon_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Espeon_PirateBoss.labelFemalePlural>女性海賊團長</Espeon_PirateBoss.labelFemalePlural>
+
+  <!-- Espeon elite mercenary -->  <Espeon_Mercenary_Elite.label>太陽伊布精銳傭兵</Espeon_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Espeon_Mercenary_Elite.labelPlural>精銳傭兵</Espeon_Mercenary_Elite.labelPlural>
+  <!-- male Espeon elite mercenary -->  <Espeon_Mercenary_Elite.labelMale>男性太陽伊布精銳傭兵</Espeon_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Espeon_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Espeon_Mercenary_Elite.labelMalePlural>
+  <!-- female Espeon elite mercenary -->  <Espeon_Mercenary_Elite.labelFemale>女性太陽伊布精銳傭兵</Espeon_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Espeon_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Espeon_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Espeon drifter -->  <Espeon_Drifter.label>太陽伊布漂泊者</Espeon_Drifter.label>
+  <!-- Espeon drifters -->  <Espeon_Drifter.labelPlural>太陽伊布漂泊者</Espeon_Drifter.labelPlural>
+  <!-- male Espeon drifter -->  <Espeon_Drifter.labelMale>男性太陽伊布漂泊者</Espeon_Drifter.labelMale>
+  <!-- male Espeon drifters -->  <Espeon_Drifter.labelMalePlural>男性太陽伊布漂泊者</Espeon_Drifter.labelMalePlural>
+  <!-- female Espeon drifter -->  <Espeon_Drifter.labelFemale>女性太陽伊布漂泊者</Espeon_Drifter.labelFemale>
+  <!-- female Espeon drifters -->  <Espeon_Drifter.labelFemalePlural>女性太陽伊布漂泊者</Espeon_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Espeon scavenger gunner -->  <Espeon_Scavenger.label>太陽伊布掠奪者槍手</Espeon_Scavenger.label>
+  <!-- Espeon scavenger gunners -->  <Espeon_Scavenger.labelPlural>太陽伊布掠奪者槍手</Espeon_Scavenger.labelPlural>
+  <!-- male Espeon scavenger gunner -->  <Espeon_Scavenger.labelMale>男性太陽伊布掠奪者槍手</Espeon_Scavenger.labelMale>
+  <!-- male Espeon scavenger gunners -->  <Espeon_Scavenger.labelMalePlural>男性太陽伊布掠奪者槍手</Espeon_Scavenger.labelMalePlural>
+  <!-- female Espeon scavenger gunner -->  <Espeon_Scavenger.labelFemale>女性太陽伊布掠奪者槍手</Espeon_Scavenger.labelFemale>
+  <!-- female Espeon scavenger gunners -->  <Espeon_Scavenger.labelFemalePlural>女性太陽伊布掠奪者槍手</Espeon_Scavenger.labelFemalePlural>
+
+  <!-- Espeon scavenger thrasher -->  <Espeon_Thrasher.label>太陽伊布掠奪者暴民</Espeon_Thrasher.label>
+  <!-- Espeon scavenger thrashers -->  <Espeon_Thrasher.labelPlural>太陽伊布掠奪者暴民</Espeon_Thrasher.labelPlural>
+  <!-- male Espeon scavenger thrasher -->  <Espeon_Thrasher.labelMale>男性太陽伊布掠奪者暴民</Espeon_Thrasher.labelMale>
+  <!-- male Espeon scavenger thrashers -->  <Espeon_Thrasher.labelMalePlural>男性太陽伊布掠奪者暴民</Espeon_Thrasher.labelMalePlural>
+  <!-- female Espeon scavenger thrasher -->  <Espeon_Thrasher.labelFemale>女性太陽伊布掠奪者暴民</Espeon_Thrasher.labelFemale>
+  <!-- female Espeon scavenger thrashers -->  <Espeon_Thrasher.labelFemalePlural>女性太陽伊布掠奪者暴民</Espeon_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Espeon pirate gunner -->  <Espeon_Pirate.label>太陽伊布海賊槍手</Espeon_Pirate.label>
+  <!-- Espeon pirate gunners -->  <Espeon_Pirate.labelPlural>太陽伊布海賊槍手</Espeon_Pirate.labelPlural>
+  <!-- male Espeon pirate gunner -->  <Espeon_Pirate.labelMale>男性太陽伊布海賊槍手</Espeon_Pirate.labelMale>
+  <!-- male Espeon pirate gunners -->  <Espeon_Pirate.labelMalePlural>男性太陽伊布海賊槍手</Espeon_Pirate.labelMalePlural>
+  <!-- female Espeon pirate gunner -->  <Espeon_Pirate.labelFemale>女性太陽伊布海賊槍手</Espeon_Pirate.labelFemale>
+  <!-- female Espeon pirate gunners -->  <Espeon_Pirate.labelFemalePlural>女性太陽伊布海賊槍手</Espeon_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Espeon villager -->  <Espeon_Villager.label>太陽伊布村民</Espeon_Villager.label>
+  <!-- Espeon villagers -->  <Espeon_Villager.labelPlural>太陽伊布村民</Espeon_Villager.labelPlural>
+  <!-- male Espeon villager -->  <Espeon_Villager.labelMale>男性太陽伊布村民</Espeon_Villager.labelMale>
+  <!-- male Espeon villagers -->  <Espeon_Villager.labelMalePlural>男性太陽伊布村民</Espeon_Villager.labelMalePlural>
+  <!-- female Espeon villager -->  <Espeon_Villager.labelFemale>女性太陽伊布村民</Espeon_Villager.labelFemale>
+  <!-- female Espeon villagers -->  <Espeon_Villager.labelFemalePlural>女性太陽伊布村民</Espeon_Villager.labelFemalePlural>
+
+  <!-- Espeon town guard -->  <Espeon_Town_Guard.label>太陽伊布城鎮衛兵</Espeon_Town_Guard.label>
+  <!-- Espeon town guards -->  <Espeon_Town_Guard.labelPlural>太陽伊布城鎮衛兵</Espeon_Town_Guard.labelPlural>
+  <!-- male Espeon town guard -->  <Espeon_Town_Guard.labelMale>男性太陽伊布城鎮衛兵</Espeon_Town_Guard.labelMale>
+  <!-- male Espeon town guards -->  <Espeon_Town_Guard.labelMalePlural>男性太陽伊布城鎮衛兵</Espeon_Town_Guard.labelMalePlural>
+  <!-- female Espeon town guard -->  <Espeon_Town_Guard.labelFemale>女性太陽伊布城鎮衛兵</Espeon_Town_Guard.labelFemale>
+  <!-- female Espeon town guards -->  <Espeon_Town_Guard.labelFemalePlural>女性太陽伊布城鎮衛兵</Espeon_Town_Guard.labelFemalePlural>
+
+  <!-- Espeon town trader -->  <Espeon_Town_Trader.label>太陽伊布城鎮商人</Espeon_Town_Trader.label>
+  <!-- Espeon town traders -->  <Espeon_Town_Trader.labelPlural>太陽伊布城鎮商人</Espeon_Town_Trader.labelPlural>
+  <!-- male Espeon town trader -->  <Espeon_Town_Trader.labelMale>男性太陽伊布城鎮商人</Espeon_Town_Trader.labelMale>
+  <!-- male Espeon town traders -->  <Espeon_Town_Trader.labelMalePlural>男性太陽伊布城鎮商人</Espeon_Town_Trader.labelMalePlural>
+  <!-- female Espeon town trader -->  <Espeon_Town_Trader.labelFemale>女性太陽伊布城鎮商人</Espeon_Town_Trader.labelFemale>
+  <!-- female Espeon town traders -->  <Espeon_Town_Trader.labelFemalePlural>女性太陽伊布城鎮商人</Espeon_Town_Trader.labelFemalePlural>
+
+  <!-- Espeon town councilman -->  <Espeon_Town_Councilman.label>太陽伊布城鎮議員</Espeon_Town_Councilman.label>
+  <!-- town councilmen -->  <Espeon_Town_Councilman.labelPlural>城鎮議員</Espeon_Town_Councilman.labelPlural>
+  <!-- male Espeon town councilman -->  <Espeon_Town_Councilman.labelMale>男性太陽伊布城鎮議員</Espeon_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Espeon_Town_Councilman.labelMalePlural>男性城鎮議員</Espeon_Town_Councilman.labelMalePlural>
+  <!-- female Espeon town councilman -->  <Espeon_Town_Councilman.labelFemale>女性太陽伊布城鎮議員</Espeon_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Espeon_Town_Councilman.labelFemalePlural>女性城鎮議員</Espeon_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Espeon penitent -->  <Espeon_Tribal_Penitent.label>太陽伊布海賊</Espeon_Tribal_Penitent.label>
+  <!-- Espeon penitents -->  <Espeon_Tribal_Penitent.labelPlural>太陽伊布海賊</Espeon_Tribal_Penitent.labelPlural>
+  <!-- male Espeon penitent -->  <Espeon_Tribal_Penitent.labelMale>男性太陽伊布海賊</Espeon_Tribal_Penitent.labelMale>
+  <!-- male Espeon penitents -->  <Espeon_Tribal_Penitent.labelMalePlural>男性太陽伊布海賊</Espeon_Tribal_Penitent.labelMalePlural>
+  <!-- female Espeon penitent -->  <Espeon_Tribal_Penitent.labelFemale>女性太陽伊布海賊</Espeon_Tribal_Penitent.labelFemale>
+  <!-- female Espeon penitents -->  <Espeon_Tribal_Penitent.labelFemalePlural>女性太陽伊布海賊</Espeon_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Espeon archer -->  <Espeon_Tribal_Archer.label>太陽伊布弓箭手</Espeon_Tribal_Archer.label>
+  <!-- Espeon archers -->  <Espeon_Tribal_Archer.labelPlural>太陽伊布弓箭手</Espeon_Tribal_Archer.labelPlural>
+  <!-- male Espeon archer -->  <Espeon_Tribal_Archer.labelMale>男性太陽伊布弓箭手</Espeon_Tribal_Archer.labelMale>
+  <!-- male Espeon archers -->  <Espeon_Tribal_Archer.labelMalePlural>男性太陽伊布弓箭手</Espeon_Tribal_Archer.labelMalePlural>
+  <!-- female Espeon archer -->  <Espeon_Tribal_Archer.labelFemale>女性太陽伊布弓箭手</Espeon_Tribal_Archer.labelFemale>
+  <!-- female Espeon archers -->  <Espeon_Tribal_Archer.labelFemalePlural>女性太陽伊布弓箭手</Espeon_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Espeon warrior -->  <Espeon_Tribal_Warrior.label>太陽伊布戰士</Espeon_Tribal_Warrior.label>
+  <!-- Espeon warriors -->  <Espeon_Tribal_Warrior.labelPlural>太陽伊布戰士</Espeon_Tribal_Warrior.labelPlural>
+  <!-- male Espeon warrior -->  <Espeon_Tribal_Warrior.labelMale>男性太陽伊布戰士</Espeon_Tribal_Warrior.labelMale>
+  <!-- male Espeon warriors -->  <Espeon_Tribal_Warrior.labelMalePlural>男性太陽伊布戰士</Espeon_Tribal_Warrior.labelMalePlural>
+  <!-- female Espeon warrior -->  <Espeon_Tribal_Warrior.labelFemale>女性太陽伊布戰士</Espeon_Tribal_Warrior.labelFemale>
+  <!-- female Espeon warriors -->  <Espeon_Tribal_Warrior.labelFemalePlural>女性太陽伊布戰士</Espeon_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Espeon hunter -->  <Espeon_Tribal_Hunter.label>太陽伊布獵人</Espeon_Tribal_Hunter.label>
+  <!-- Espeon hunters -->  <Espeon_Tribal_Hunter.labelPlural>太陽伊布獵人</Espeon_Tribal_Hunter.labelPlural>
+  <!-- male Espeon hunter -->  <Espeon_Tribal_Hunter.labelMale>男性太陽伊布獵人</Espeon_Tribal_Hunter.labelMale>
+  <!-- male Espeon hunters -->  <Espeon_Tribal_Hunter.labelMalePlural>男性太陽伊布獵人</Espeon_Tribal_Hunter.labelMalePlural>
+  <!-- female Espeon hunter -->  <Espeon_Tribal_Hunter.labelFemale>女性太陽伊布獵人</Espeon_Tribal_Hunter.labelFemale>
+  <!-- female Espeon hunters -->  <Espeon_Tribal_Hunter.labelFemalePlural>女性太陽伊布獵人</Espeon_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Espeon trader -->  <Espeon_Tribal_Trader.label>太陽伊布商人</Espeon_Tribal_Trader.label>
+  <!-- Espeon traders -->  <Espeon_Tribal_Trader.labelPlural>太陽伊布商人</Espeon_Tribal_Trader.labelPlural>
+  <!-- male Espeon trader -->  <Espeon_Tribal_Trader.labelMale>男性太陽伊布商人</Espeon_Tribal_Trader.labelMale>
+  <!-- male Espeon traders -->  <Espeon_Tribal_Trader.labelMalePlural>男性太陽伊布商人</Espeon_Tribal_Trader.labelMalePlural>
+  <!-- female Espeon trader -->  <Espeon_Tribal_Trader.labelFemale>女性太陽伊布商人</Espeon_Tribal_Trader.labelFemale>
+  <!-- female Espeon traders -->  <Espeon_Tribal_Trader.labelFemalePlural>女性太陽伊布商人</Espeon_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Espeon berserker -->  <Espeon_Tribal_Berserker.label>太陽伊布狂戰士</Espeon_Tribal_Berserker.label>
+  <!-- Espeon berserkers -->  <Espeon_Tribal_Berserker.labelPlural>太陽伊布狂戰士</Espeon_Tribal_Berserker.labelPlural>
+  <!-- male Espeon berserker -->  <Espeon_Tribal_Berserker.labelMale>男性太陽伊布狂戰士</Espeon_Tribal_Berserker.labelMale>
+  <!-- male Espeon berserkers -->  <Espeon_Tribal_Berserker.labelMalePlural>男性太陽伊布狂戰士</Espeon_Tribal_Berserker.labelMalePlural>
+  <!-- female Espeon berserker -->  <Espeon_Tribal_Berserker.labelFemale>女性太陽伊布狂戰士</Espeon_Tribal_Berserker.labelFemale>
+  <!-- female Espeon berserkers -->  <Espeon_Tribal_Berserker.labelFemalePlural>女性太陽伊布狂戰士</Espeon_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Espeon heavy archer -->  <Espeon_Tribal_HeavyArcher.label>太陽伊布重裝弓箭手</Espeon_Tribal_HeavyArcher.label>
+  <!-- Espeon heavy archers -->  <Espeon_Tribal_HeavyArcher.labelPlural>太陽伊布重裝弓箭手</Espeon_Tribal_HeavyArcher.labelPlural>
+  <!-- male Espeon heavy archer -->  <Espeon_Tribal_HeavyArcher.labelMale>男性太陽伊布重裝弓箭手</Espeon_Tribal_HeavyArcher.labelMale>
+  <!-- male Espeon heavy archers -->  <Espeon_Tribal_HeavyArcher.labelMalePlural>男性太陽伊布重裝弓箭手</Espeon_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Espeon heavy archer -->  <Espeon_Tribal_HeavyArcher.labelFemale>女性太陽伊布重裝弓箭手</Espeon_Tribal_HeavyArcher.labelFemale>
+  <!-- female Espeon heavy archers -->  <Espeon_Tribal_HeavyArcher.labelFemalePlural>女性太陽伊布重裝弓箭手</Espeon_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Espeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Espeon_Tribal_ChiefMelee.label>太陽伊布_Tribal_ChiefMelee</Espeon_Tribal_ChiefMelee.label>-->
+  <!-- Espeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Espeon_Tribal_ChiefMelee.labelPlural>太陽伊布_Tribal_ChiefMele</Espeon_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Espeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Espeon_Tribal_ChiefMelee.labelMale>男性太陽伊布_Tribal_ChiefMelee</Espeon_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Espeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Espeon_Tribal_ChiefMelee.labelMalePlural>男性太陽伊布_Tribal_ChiefMele</Espeon_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Espeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Espeon_Tribal_ChiefMelee.labelFemale>女性太陽伊布_Tribal_ChiefMelee</Espeon_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Espeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Espeon_Tribal_ChiefMelee.labelFemalePlural>女性太陽伊布_Tribal_ChiefMele</Espeon_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Espeon berserker chief -->  <Espeon_Tribal_ChiefMelee.label>太陽伊布狂戰士隊長</Espeon_Tribal_ChiefMelee.label>
+  <!-- Espeon berserker chiefs -->  <Espeon_Tribal_ChiefMelee.labelPlural>太陽伊布狂戰士隊長</Espeon_Tribal_ChiefMelee.labelPlural>
+  <!-- male Espeon berserker chief -->  <Espeon_Tribal_ChiefMelee.labelMale>男性太陽伊布狂戰士隊長</Espeon_Tribal_ChiefMelee.labelMale>
+  <!-- male Espeon berserker chiefs -->  <Espeon_Tribal_ChiefMelee.labelMalePlural>男性太陽伊布狂戰士隊長</Espeon_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Espeon berserker chief -->  <Espeon_Tribal_ChiefMelee.labelFemale>女性太陽伊布狂戰士隊長</Espeon_Tribal_ChiefMelee.labelFemale>
+  <!-- female Espeon berserker chiefs -->  <Espeon_Tribal_ChiefMelee.labelFemalePlural>女性太陽伊布狂戰士隊長</Espeon_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Espeon archer chief -->  <Espeon_Tribal_ChiefRanged.label>太陽伊布弓箭手隊長</Espeon_Tribal_ChiefRanged.label>
+  <!-- Espeon archer chiefs -->  <Espeon_Tribal_ChiefRanged.labelPlural>太陽伊布弓箭手隊長</Espeon_Tribal_ChiefRanged.labelPlural>
+  <!-- male Espeon archer chief -->  <Espeon_Tribal_ChiefRanged.labelMale>男性太陽伊布弓箭手隊長</Espeon_Tribal_ChiefRanged.labelMale>
+  <!-- male Espeon archer chiefs -->  <Espeon_Tribal_ChiefRanged.labelMalePlural>男性太陽伊布弓箭手隊長</Espeon_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Espeon archer chief -->  <Espeon_Tribal_ChiefRanged.labelFemale>女性太陽伊布弓箭手隊長</Espeon_Tribal_ChiefRanged.labelFemale>
+  <!-- female Espeon archer chiefs -->  <Espeon_Tribal_ChiefRanged.labelFemalePlural>女性太陽伊布弓箭手隊長</Espeon_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>
