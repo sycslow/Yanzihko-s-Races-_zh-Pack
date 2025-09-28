@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Flareon space refugee -->  <FlareonSpaceRefugee.label>火伊布星際難民</FlareonSpaceRefugee.label>
+  <!-- Flareon space refugees -->  <FlareonSpaceRefugee.labelPlural>火伊布星際難民</FlareonSpaceRefugee.labelPlural>
+  <!-- male Flareon space refugee -->  <FlareonSpaceRefugee.labelMale>男性火伊布星際難民</FlareonSpaceRefugee.labelMale>
+  <!-- male Flareon space refugees -->  <FlareonSpaceRefugee.labelMalePlural>男性火伊布星際難民</FlareonSpaceRefugee.labelMalePlural>
+  <!-- female Flareon space refugee -->  <FlareonSpaceRefugee.labelFemale>女性火伊布星際難民</FlareonSpaceRefugee.labelFemale>
+  <!-- female Flareon space refugees -->  <FlareonSpaceRefugee.labelFemalePlural>女性火伊布星際難民</FlareonSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Flareon slave -->  <FlareonSlave.label>火伊布奴隸</FlareonSlave.label>
+  <!-- Flareon slaves -->  <FlareonSlave.labelPlural>火伊布奴隸</FlareonSlave.labelPlural>
+  <!-- male Flareon slave -->  <FlareonSlave.labelMale>男性火伊布奴隸</FlareonSlave.labelMale>
+  <!-- male Flareon slaves -->  <FlareonSlave.labelMalePlural>男性火伊布奴隸</FlareonSlave.labelMalePlural>
+  <!-- female Flareon slave -->  <FlareonSlave.labelFemale>女性火伊布奴隸</FlareonSlave.labelFemale>
+  <!-- female Flareon slaves -->  <FlareonSlave.labelFemalePlural>女性火伊布奴隸</FlareonSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Flareon -->  <FlareonColonist.label>火伊布</FlareonColonist.label>
+  <!-- Flareons -->  <FlareonColonist.labelPlural>火伊布</FlareonColonist.labelPlural>
+  <!-- male Flareon -->  <FlareonColonist.labelMale>男性火伊布</FlareonColonist.labelMale>
+  <!-- male Flareons -->  <FlareonColonist.labelMalePlural>男性火伊布</FlareonColonist.labelMalePlural>
+  <!-- female Flareon -->  <FlareonColonist.labelFemale>女性火伊布</FlareonColonist.labelFemale>
+  <!-- female Flareons -->  <FlareonColonist.labelFemalePlural>女性火伊布</FlareonColonist.labelFemalePlural>
+
+  <!-- Flareon -->  <FlareonTribesperson.label>火伊布</FlareonTribesperson.label>
+  <!-- Flareons -->  <FlareonTribesperson.labelPlural>火伊布</FlareonTribesperson.labelPlural>
+  <!-- male Flareon -->  <FlareonTribesperson.labelMale>男性火伊布</FlareonTribesperson.labelMale>
+  <!-- male Flareons -->  <FlareonTribesperson.labelMalePlural>男性火伊布</FlareonTribesperson.labelMalePlural>
+  <!-- female Flareon -->  <FlareonTribesperson.labelFemale>女性火伊布</FlareonTribesperson.labelFemale>
+  <!-- female Flareons -->  <FlareonTribesperson.labelFemalePlural>女性火伊布</FlareonTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Flareon grenadier -->  <Flareon_Grenadier_Destructive.label>火伊布擲彈兵</Flareon_Grenadier_Destructive.label>
+  <!-- Flareon grenadiers -->  <Flareon_Grenadier_Destructive.labelPlural>火伊布擲彈兵</Flareon_Grenadier_Destructive.labelPlural>
+  <!-- male Flareon grenadier -->  <Flareon_Grenadier_Destructive.labelMale>男性火伊布擲彈兵</Flareon_Grenadier_Destructive.labelMale>
+  <!-- male Flareon grenadiers -->  <Flareon_Grenadier_Destructive.labelMalePlural>男性火伊布擲彈兵</Flareon_Grenadier_Destructive.labelMalePlural>
+  <!-- female Flareon grenadier -->  <Flareon_Grenadier_Destructive.labelFemale>女性火伊布擲彈兵</Flareon_Grenadier_Destructive.labelFemale>
+  <!-- female Flareon grenadiers -->  <Flareon_Grenadier_Destructive.labelFemalePlural>女性火伊布擲彈兵</Flareon_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Flareon EMP grenadier -->  <Flareon_Grenadier_EMP.label>火伊布 EMP擲彈兵</Flareon_Grenadier_EMP.label>
+  <!-- Flareon EMP grenadiers -->  <Flareon_Grenadier_EMP.labelPlural>火伊布 EMP擲彈兵</Flareon_Grenadier_EMP.labelPlural>
+  <!-- male Flareon EMP grenadier -->  <Flareon_Grenadier_EMP.labelMale>男性火伊布 EMP擲彈兵</Flareon_Grenadier_EMP.labelMale>
+  <!-- male Flareon EMP grenadiers -->  <Flareon_Grenadier_EMP.labelMalePlural>男性火伊布 EMP擲彈兵</Flareon_Grenadier_EMP.labelMalePlural>
+  <!-- female Flareon EMP grenadier -->  <Flareon_Grenadier_EMP.labelFemale>女性火伊布 EMP擲彈兵</Flareon_Grenadier_EMP.labelFemale>
+  <!-- female Flareon EMP grenadiers -->  <Flareon_Grenadier_EMP.labelFemalePlural>女性火伊布 EMP擲彈兵</Flareon_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Flareon smoke grenadier -->  <Flareon_Grenadier_Smoke.label>火伊布煙霧彈擲彈兵</Flareon_Grenadier_Smoke.label>
+  <!-- Flareon smoke grenadiers -->  <Flareon_Grenadier_Smoke.labelPlural>火伊布煙霧彈擲彈兵</Flareon_Grenadier_Smoke.labelPlural>
+  <!-- male Flareon smoke grenadier -->  <Flareon_Grenadier_Smoke.labelMale>男性火伊布煙霧彈擲彈兵</Flareon_Grenadier_Smoke.labelMale>
+  <!-- male Flareon smoke grenadiers -->  <Flareon_Grenadier_Smoke.labelMalePlural>男性火伊布煙霧彈擲彈兵</Flareon_Grenadier_Smoke.labelMalePlural>
+  <!-- female Flareon smoke grenadier -->  <Flareon_Grenadier_Smoke.labelFemale>女性火伊布煙霧彈擲彈兵</Flareon_Grenadier_Smoke.labelFemale>
+  <!-- female Flareon smoke grenadiers -->  <Flareon_Grenadier_Smoke.labelFemalePlural>女性火伊布煙霧彈擲彈兵</Flareon_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Flareon mercenary gunner -->  <Flareon_Mercenary_Gunner.label>火伊布槍手傭兵</Flareon_Mercenary_Gunner.label>
+  <!-- Flareon mercenary gunners -->  <Flareon_Mercenary_Gunner.labelPlural>火伊布槍手傭兵</Flareon_Mercenary_Gunner.labelPlural>
+  <!-- male Flareon mercenary gunner -->  <Flareon_Mercenary_Gunner.labelMale>男性火伊布槍手傭兵</Flareon_Mercenary_Gunner.labelMale>
+  <!-- male Flareon mercenary gunners -->  <Flareon_Mercenary_Gunner.labelMalePlural>男性火伊布槍手傭兵</Flareon_Mercenary_Gunner.labelMalePlural>
+  <!-- female Flareon mercenary gunner -->  <Flareon_Mercenary_Gunner.labelFemale>女性火伊布槍手傭兵</Flareon_Mercenary_Gunner.labelFemale>
+  <!-- female Flareon mercenary gunners -->  <Flareon_Mercenary_Gunner.labelFemalePlural>女性火伊布槍手傭兵</Flareon_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Flareon mercenary sniper -->  <Flareon_Mercenary_Sniper.label>火伊布狙擊手傭兵</Flareon_Mercenary_Sniper.label>
+  <!-- Flareon mercenary snipers -->  <Flareon_Mercenary_Sniper.labelPlural>火伊布狙擊手傭兵</Flareon_Mercenary_Sniper.labelPlural>
+  <!-- male Flareon mercenary sniper -->  <Flareon_Mercenary_Sniper.labelMale>男性火伊布狙擊手傭兵</Flareon_Mercenary_Sniper.labelMale>
+  <!-- male Flareon mercenary snipers -->  <Flareon_Mercenary_Sniper.labelMalePlural>男性火伊布狙擊手傭兵</Flareon_Mercenary_Sniper.labelMalePlural>
+  <!-- female Flareon mercenary sniper -->  <Flareon_Mercenary_Sniper.labelFemale>女性火伊布狙擊手傭兵</Flareon_Mercenary_Sniper.labelFemale>
+  <!-- female Flareon mercenary snipers -->  <Flareon_Mercenary_Sniper.labelFemalePlural>女性火伊布狙擊手傭兵</Flareon_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Flareon mercenary slasher -->  <Flareon_Mercenary_Slasher.label>火伊布殺手傭兵</Flareon_Mercenary_Slasher.label>
+  <!-- Flareon mercenary slashers -->  <Flareon_Mercenary_Slasher.labelPlural>火伊布殺手傭兵</Flareon_Mercenary_Slasher.labelPlural>
+  <!-- male Flareon mercenary slasher -->  <Flareon_Mercenary_Slasher.labelMale>男性火伊布殺手傭兵</Flareon_Mercenary_Slasher.labelMale>
+  <!-- male Flareon mercenary slashers -->  <Flareon_Mercenary_Slasher.labelMalePlural>男性火伊布殺手傭兵</Flareon_Mercenary_Slasher.labelMalePlural>
+  <!-- female Flareon mercenary slasher -->  <Flareon_Mercenary_Slasher.labelFemale>女性火伊布殺手傭兵</Flareon_Mercenary_Slasher.labelFemale>
+  <!-- female Flareon mercenary slashers -->  <Flareon_Mercenary_Slasher.labelFemalePlural>女性火伊布殺手傭兵</Flareon_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Flareon heavy mercenary -->  <Flareon_Mercenary_Heavy.label>火伊布重裝傭兵</Flareon_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Flareon_Mercenary_Heavy.labelPlural>重裝傭兵</Flareon_Mercenary_Heavy.labelPlural>
+  <!-- male Flareon heavy mercenary -->  <Flareon_Mercenary_Heavy.labelMale>男性火伊布重裝傭兵</Flareon_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Flareon_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Flareon_Mercenary_Heavy.labelMalePlural>
+  <!-- female Flareon heavy mercenary -->  <Flareon_Mercenary_Heavy.labelFemale>女性火伊布重裝傭兵</Flareon_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Flareon_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Flareon_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Flareon boss -->  <Flareon_PirateBoss.label>火伊布海賊團長</Flareon_PirateBoss.label>
+  <!-- bosses -->  <Flareon_PirateBoss.labelPlural>海賊團長</Flareon_PirateBoss.labelPlural>
+  <!-- male Flareon boss -->  <Flareon_PirateBoss.labelMale>男性火伊布海賊團長</Flareon_PirateBoss.labelMale>
+  <!-- male bosses -->  <Flareon_PirateBoss.labelMalePlural>男性海賊團長</Flareon_PirateBoss.labelMalePlural>
+  <!-- female Flareon boss -->  <Flareon_PirateBoss.labelFemale>女性火伊布海賊團長</Flareon_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Flareon_PirateBoss.labelFemalePlural>女性海賊團長</Flareon_PirateBoss.labelFemalePlural>
+
+  <!-- Flareon elite mercenary -->  <Flareon_Mercenary_Elite.label>火伊布精銳傭兵</Flareon_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Flareon_Mercenary_Elite.labelPlural>精銳傭兵</Flareon_Mercenary_Elite.labelPlural>
+  <!-- male Flareon elite mercenary -->  <Flareon_Mercenary_Elite.labelMale>男性火伊布精銳傭兵</Flareon_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Flareon_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Flareon_Mercenary_Elite.labelMalePlural>
+  <!-- female Flareon elite mercenary -->  <Flareon_Mercenary_Elite.labelFemale>女性火伊布精銳傭兵</Flareon_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Flareon_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Flareon_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Flareon drifter -->  <Flareon_Drifter.label>火伊布漂泊者</Flareon_Drifter.label>
+  <!-- Flareon drifters -->  <Flareon_Drifter.labelPlural>火伊布漂泊者</Flareon_Drifter.labelPlural>
+  <!-- male Flareon drifter -->  <Flareon_Drifter.labelMale>男性火伊布漂泊者</Flareon_Drifter.labelMale>
+  <!-- male Flareon drifters -->  <Flareon_Drifter.labelMalePlural>男性火伊布漂泊者</Flareon_Drifter.labelMalePlural>
+  <!-- female Flareon drifter -->  <Flareon_Drifter.labelFemale>女性火伊布漂泊者</Flareon_Drifter.labelFemale>
+  <!-- female Flareon drifters -->  <Flareon_Drifter.labelFemalePlural>女性火伊布漂泊者</Flareon_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Flareon scavenger gunner -->  <Flareon_Scavenger.label>火伊布掠奪者槍手</Flareon_Scavenger.label>
+  <!-- Flareon scavenger gunners -->  <Flareon_Scavenger.labelPlural>火伊布掠奪者槍手</Flareon_Scavenger.labelPlural>
+  <!-- male Flareon scavenger gunner -->  <Flareon_Scavenger.labelMale>男性火伊布掠奪者槍手</Flareon_Scavenger.labelMale>
+  <!-- male Flareon scavenger gunners -->  <Flareon_Scavenger.labelMalePlural>男性火伊布掠奪者槍手</Flareon_Scavenger.labelMalePlural>
+  <!-- female Flareon scavenger gunner -->  <Flareon_Scavenger.labelFemale>女性火伊布掠奪者槍手</Flareon_Scavenger.labelFemale>
+  <!-- female Flareon scavenger gunners -->  <Flareon_Scavenger.labelFemalePlural>女性火伊布掠奪者槍手</Flareon_Scavenger.labelFemalePlural>
+
+  <!-- Flareon scavenger thrasher -->  <Flareon_Thrasher.label>火伊布掠奪者暴民</Flareon_Thrasher.label>
+  <!-- Flareon scavenger thrashers -->  <Flareon_Thrasher.labelPlural>火伊布掠奪者暴民</Flareon_Thrasher.labelPlural>
+  <!-- male Flareon scavenger thrasher -->  <Flareon_Thrasher.labelMale>男性火伊布掠奪者暴民</Flareon_Thrasher.labelMale>
+  <!-- male Flareon scavenger thrashers -->  <Flareon_Thrasher.labelMalePlural>男性火伊布掠奪者暴民</Flareon_Thrasher.labelMalePlural>
+  <!-- female Flareon scavenger thrasher -->  <Flareon_Thrasher.labelFemale>女性火伊布掠奪者暴民</Flareon_Thrasher.labelFemale>
+  <!-- female Flareon scavenger thrashers -->  <Flareon_Thrasher.labelFemalePlural>女性火伊布掠奪者暴民</Flareon_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Flareon pirate gunner -->  <Flareon_Pirate.label>火伊布海賊槍手</Flareon_Pirate.label>
+  <!-- Flareon pirate gunners -->  <Flareon_Pirate.labelPlural>火伊布海賊槍手</Flareon_Pirate.labelPlural>
+  <!-- male Flareon pirate gunner -->  <Flareon_Pirate.labelMale>男性火伊布海賊槍手</Flareon_Pirate.labelMale>
+  <!-- male Flareon pirate gunners -->  <Flareon_Pirate.labelMalePlural>男性火伊布海賊槍手</Flareon_Pirate.labelMalePlural>
+  <!-- female Flareon pirate gunner -->  <Flareon_Pirate.labelFemale>女性火伊布海賊槍手</Flareon_Pirate.labelFemale>
+  <!-- female Flareon pirate gunners -->  <Flareon_Pirate.labelFemalePlural>女性火伊布海賊槍手</Flareon_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Flareon villager -->  <Flareon_Villager.label>火伊布村民</Flareon_Villager.label>
+  <!-- Flareon villagers -->  <Flareon_Villager.labelPlural>火伊布村民</Flareon_Villager.labelPlural>
+  <!-- male Flareon villager -->  <Flareon_Villager.labelMale>男性火伊布村民</Flareon_Villager.labelMale>
+  <!-- male Flareon villagers -->  <Flareon_Villager.labelMalePlural>男性火伊布村民</Flareon_Villager.labelMalePlural>
+  <!-- female Flareon villager -->  <Flareon_Villager.labelFemale>女性火伊布村民</Flareon_Villager.labelFemale>
+  <!-- female Flareon villagers -->  <Flareon_Villager.labelFemalePlural>女性火伊布村民</Flareon_Villager.labelFemalePlural>
+
+  <!-- Flareon town guard -->  <Flareon_Town_Guard.label>火伊布城鎮衛兵</Flareon_Town_Guard.label>
+  <!-- Flareon town guards -->  <Flareon_Town_Guard.labelPlural>火伊布城鎮衛兵</Flareon_Town_Guard.labelPlural>
+  <!-- male Flareon town guard -->  <Flareon_Town_Guard.labelMale>男性火伊布城鎮衛兵</Flareon_Town_Guard.labelMale>
+  <!-- male Flareon town guards -->  <Flareon_Town_Guard.labelMalePlural>男性火伊布城鎮衛兵</Flareon_Town_Guard.labelMalePlural>
+  <!-- female Flareon town guard -->  <Flareon_Town_Guard.labelFemale>女性火伊布城鎮衛兵</Flareon_Town_Guard.labelFemale>
+  <!-- female Flareon town guards -->  <Flareon_Town_Guard.labelFemalePlural>女性火伊布城鎮衛兵</Flareon_Town_Guard.labelFemalePlural>
+
+  <!-- Flareon town trader -->  <Flareon_Town_Trader.label>火伊布城鎮商人</Flareon_Town_Trader.label>
+  <!-- Flareon town traders -->  <Flareon_Town_Trader.labelPlural>火伊布城鎮商人</Flareon_Town_Trader.labelPlural>
+  <!-- male Flareon town trader -->  <Flareon_Town_Trader.labelMale>男性火伊布城鎮商人</Flareon_Town_Trader.labelMale>
+  <!-- male Flareon town traders -->  <Flareon_Town_Trader.labelMalePlural>男性火伊布城鎮商人</Flareon_Town_Trader.labelMalePlural>
+  <!-- female Flareon town trader -->  <Flareon_Town_Trader.labelFemale>女性火伊布城鎮商人</Flareon_Town_Trader.labelFemale>
+  <!-- female Flareon town traders -->  <Flareon_Town_Trader.labelFemalePlural>女性火伊布城鎮商人</Flareon_Town_Trader.labelFemalePlural>
+
+  <!-- Flareon town councilman -->  <Flareon_Town_Councilman.label>火伊布城鎮議員</Flareon_Town_Councilman.label>
+  <!-- town councilmen -->  <Flareon_Town_Councilman.labelPlural>城鎮議員</Flareon_Town_Councilman.labelPlural>
+  <!-- male Flareon town councilman -->  <Flareon_Town_Councilman.labelMale>男性火伊布城鎮議員</Flareon_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Flareon_Town_Councilman.labelMalePlural>男性城鎮議員</Flareon_Town_Councilman.labelMalePlural>
+  <!-- female Flareon town councilman -->  <Flareon_Town_Councilman.labelFemale>女性火伊布城鎮議員</Flareon_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Flareon_Town_Councilman.labelFemalePlural>女性城鎮議員</Flareon_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Flareon penitent -->  <Flareon_Tribal_Penitent.label>火伊布海賊</Flareon_Tribal_Penitent.label>
+  <!-- Flareon penitents -->  <Flareon_Tribal_Penitent.labelPlural>火伊布海賊</Flareon_Tribal_Penitent.labelPlural>
+  <!-- male Flareon penitent -->  <Flareon_Tribal_Penitent.labelMale>男性火伊布海賊</Flareon_Tribal_Penitent.labelMale>
+  <!-- male Flareon penitents -->  <Flareon_Tribal_Penitent.labelMalePlural>男性火伊布海賊</Flareon_Tribal_Penitent.labelMalePlural>
+  <!-- female Flareon penitent -->  <Flareon_Tribal_Penitent.labelFemale>女性火伊布海賊</Flareon_Tribal_Penitent.labelFemale>
+  <!-- female Flareon penitents -->  <Flareon_Tribal_Penitent.labelFemalePlural>女性火伊布海賊</Flareon_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Flareon archer -->  <Flareon_Tribal_Archer.label>火伊布弓箭手</Flareon_Tribal_Archer.label>
+  <!-- Flareon archers -->  <Flareon_Tribal_Archer.labelPlural>火伊布弓箭手</Flareon_Tribal_Archer.labelPlural>
+  <!-- male Flareon archer -->  <Flareon_Tribal_Archer.labelMale>男性火伊布弓箭手</Flareon_Tribal_Archer.labelMale>
+  <!-- male Flareon archers -->  <Flareon_Tribal_Archer.labelMalePlural>男性火伊布弓箭手</Flareon_Tribal_Archer.labelMalePlural>
+  <!-- female Flareon archer -->  <Flareon_Tribal_Archer.labelFemale>女性火伊布弓箭手</Flareon_Tribal_Archer.labelFemale>
+  <!-- female Flareon archers -->  <Flareon_Tribal_Archer.labelFemalePlural>女性火伊布弓箭手</Flareon_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Flareon warrior -->  <Flareon_Tribal_Warrior.label>火伊布戰士</Flareon_Tribal_Warrior.label>
+  <!-- Flareon warriors -->  <Flareon_Tribal_Warrior.labelPlural>火伊布戰士</Flareon_Tribal_Warrior.labelPlural>
+  <!-- male Flareon warrior -->  <Flareon_Tribal_Warrior.labelMale>男性火伊布戰士</Flareon_Tribal_Warrior.labelMale>
+  <!-- male Flareon warriors -->  <Flareon_Tribal_Warrior.labelMalePlural>男性火伊布戰士</Flareon_Tribal_Warrior.labelMalePlural>
+  <!-- female Flareon warrior -->  <Flareon_Tribal_Warrior.labelFemale>女性火伊布戰士</Flareon_Tribal_Warrior.labelFemale>
+  <!-- female Flareon warriors -->  <Flareon_Tribal_Warrior.labelFemalePlural>女性火伊布戰士</Flareon_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Flareon hunter -->  <Flareon_Tribal_Hunter.label>火伊布獵人</Flareon_Tribal_Hunter.label>
+  <!-- Flareon hunters -->  <Flareon_Tribal_Hunter.labelPlural>火伊布獵人</Flareon_Tribal_Hunter.labelPlural>
+  <!-- male Flareon hunter -->  <Flareon_Tribal_Hunter.labelMale>男性火伊布獵人</Flareon_Tribal_Hunter.labelMale>
+  <!-- male Flareon hunters -->  <Flareon_Tribal_Hunter.labelMalePlural>男性火伊布獵人</Flareon_Tribal_Hunter.labelMalePlural>
+  <!-- female Flareon hunter -->  <Flareon_Tribal_Hunter.labelFemale>女性火伊布獵人</Flareon_Tribal_Hunter.labelFemale>
+  <!-- female Flareon hunters -->  <Flareon_Tribal_Hunter.labelFemalePlural>女性火伊布獵人</Flareon_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Flareon trader -->  <Flareon_Tribal_Trader.label>火伊布商人</Flareon_Tribal_Trader.label>
+  <!-- Flareon traders -->  <Flareon_Tribal_Trader.labelPlural>火伊布商人</Flareon_Tribal_Trader.labelPlural>
+  <!-- male Flareon trader -->  <Flareon_Tribal_Trader.labelMale>男性火伊布商人</Flareon_Tribal_Trader.labelMale>
+  <!-- male Flareon traders -->  <Flareon_Tribal_Trader.labelMalePlural>男性火伊布商人</Flareon_Tribal_Trader.labelMalePlural>
+  <!-- female Flareon trader -->  <Flareon_Tribal_Trader.labelFemale>女性火伊布商人</Flareon_Tribal_Trader.labelFemale>
+  <!-- female Flareon traders -->  <Flareon_Tribal_Trader.labelFemalePlural>女性火伊布商人</Flareon_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Flareon berserker -->  <Flareon_Tribal_Berserker.label>火伊布狂戰士</Flareon_Tribal_Berserker.label>
+  <!-- Flareon berserkers -->  <Flareon_Tribal_Berserker.labelPlural>火伊布狂戰士</Flareon_Tribal_Berserker.labelPlural>
+  <!-- male Flareon berserker -->  <Flareon_Tribal_Berserker.labelMale>男性火伊布狂戰士</Flareon_Tribal_Berserker.labelMale>
+  <!-- male Flareon berserkers -->  <Flareon_Tribal_Berserker.labelMalePlural>男性火伊布狂戰士</Flareon_Tribal_Berserker.labelMalePlural>
+  <!-- female Flareon berserker -->  <Flareon_Tribal_Berserker.labelFemale>女性火伊布狂戰士</Flareon_Tribal_Berserker.labelFemale>
+  <!-- female Flareon berserkers -->  <Flareon_Tribal_Berserker.labelFemalePlural>女性火伊布狂戰士</Flareon_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Flareon heavy archer -->  <Flareon_Tribal_HeavyArcher.label>火伊布重裝弓箭手</Flareon_Tribal_HeavyArcher.label>
+  <!-- Flareon heavy archers -->  <Flareon_Tribal_HeavyArcher.labelPlural>火伊布重裝弓箭手</Flareon_Tribal_HeavyArcher.labelPlural>
+  <!-- male Flareon heavy archer -->  <Flareon_Tribal_HeavyArcher.labelMale>男性火伊布重裝弓箭手</Flareon_Tribal_HeavyArcher.labelMale>
+  <!-- male Flareon heavy archers -->  <Flareon_Tribal_HeavyArcher.labelMalePlural>男性火伊布重裝弓箭手</Flareon_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Flareon heavy archer -->  <Flareon_Tribal_HeavyArcher.labelFemale>女性火伊布重裝弓箭手</Flareon_Tribal_HeavyArcher.labelFemale>
+  <!-- female Flareon heavy archers -->  <Flareon_Tribal_HeavyArcher.labelFemalePlural>女性火伊布重裝弓箭手</Flareon_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Flareon_Tribal_ChiefMelee -->  <!--[Duplicated] <Flareon_Tribal_ChiefMelee.label>火伊布_Tribal_隊長Melee</Flareon_Tribal_ChiefMelee.label>-->
+  <!-- Flareon_Tribal_ChiefMelees -->  <!--[Duplicated] <Flareon_Tribal_ChiefMelee.labelPlural>火伊布_Tribal_隊長Melee</Flareon_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Flareon_Tribal_ChiefMelee -->  <!--[Duplicated] <Flareon_Tribal_ChiefMelee.labelMale>男性火伊布_Tribal_隊長Melee</Flareon_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Flareon_Tribal_ChiefMelees -->  <!--[Duplicated] <Flareon_Tribal_ChiefMelee.labelMalePlural>男性火伊布_Tribal_隊長Melee</Flareon_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Flareon_Tribal_ChiefMelee -->  <!--[Duplicated] <Flareon_Tribal_ChiefMelee.labelFemale>女性火伊布_Tribal_隊長Melee</Flareon_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Flareon_Tribal_ChiefMelees -->  <!--[Duplicated] <Flareon_Tribal_ChiefMelee.labelFemalePlural>女性火伊布_Tribal_隊長Melee</Flareon_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Flareon berserker chief -->  <Flareon_Tribal_ChiefMelee.label>火伊布狂戰士隊長</Flareon_Tribal_ChiefMelee.label>
+  <!-- Flareon berserker chiefs -->  <Flareon_Tribal_ChiefMelee.labelPlural>火伊布狂戰士隊長</Flareon_Tribal_ChiefMelee.labelPlural>
+  <!-- male Flareon berserker chief -->  <Flareon_Tribal_ChiefMelee.labelMale>男性火伊布狂戰士隊長</Flareon_Tribal_ChiefMelee.labelMale>
+  <!-- male Flareon berserker chiefs -->  <Flareon_Tribal_ChiefMelee.labelMalePlural>男性火伊布狂戰士隊長</Flareon_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Flareon berserker chief -->  <Flareon_Tribal_ChiefMelee.labelFemale>女性火伊布狂戰士隊長</Flareon_Tribal_ChiefMelee.labelFemale>
+  <!-- female Flareon berserker chiefs -->  <Flareon_Tribal_ChiefMelee.labelFemalePlural>女性火伊布狂戰士隊長</Flareon_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Flareon archer chief -->  <Flareon_Tribal_ChiefRanged.label>火伊布弓箭手隊長</Flareon_Tribal_ChiefRanged.label>
+  <!-- Flareon archer chiefs -->  <Flareon_Tribal_ChiefRanged.labelPlural>火伊布弓箭手隊長</Flareon_Tribal_ChiefRanged.labelPlural>
+  <!-- male Flareon archer chief -->  <Flareon_Tribal_ChiefRanged.labelMale>男性火伊布弓箭手隊長</Flareon_Tribal_ChiefRanged.labelMale>
+  <!-- male Flareon archer chiefs -->  <Flareon_Tribal_ChiefRanged.labelMalePlural>男性火伊布弓箭手隊長</Flareon_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Flareon archer chief -->  <Flareon_Tribal_ChiefRanged.labelFemale>女性火伊布弓箭手隊長</Flareon_Tribal_ChiefRanged.labelFemale>
+  <!-- female Flareon archer chiefs -->  <Flareon_Tribal_ChiefRanged.labelFemalePlural>女性火伊布弓箭手隊長</Flareon_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

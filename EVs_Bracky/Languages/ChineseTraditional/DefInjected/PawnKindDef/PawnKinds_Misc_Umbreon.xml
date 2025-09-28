@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Umbreon space refugee -->  <UmbreonSpaceRefugee.label>月亮伊布星際難民</UmbreonSpaceRefugee.label>
+  <!-- Umbreon space refugees -->  <UmbreonSpaceRefugee.labelPlural>月亮伊布星際難民</UmbreonSpaceRefugee.labelPlural>
+  <!-- male Umbreon space refugee -->  <UmbreonSpaceRefugee.labelMale>男性月亮伊布星際難民</UmbreonSpaceRefugee.labelMale>
+  <!-- male Umbreon space refugees -->  <UmbreonSpaceRefugee.labelMalePlural>男性月亮伊布星際難民</UmbreonSpaceRefugee.labelMalePlural>
+  <!-- female Umbreon space refugee -->  <UmbreonSpaceRefugee.labelFemale>女性月亮伊布星際難民</UmbreonSpaceRefugee.labelFemale>
+  <!-- female Umbreon space refugees -->  <UmbreonSpaceRefugee.labelFemalePlural>女性月亮伊布星際難民</UmbreonSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Umbreon slave -->  <UmbreonSlave.label>月亮伊布奴隸</UmbreonSlave.label>
+  <!-- Umbreon slaves -->  <UmbreonSlave.labelPlural>月亮伊布奴隸</UmbreonSlave.labelPlural>
+  <!-- male Umbreon slave -->  <UmbreonSlave.labelMale>男性月亮伊布奴隸</UmbreonSlave.labelMale>
+  <!-- male Umbreon slaves -->  <UmbreonSlave.labelMalePlural>男性月亮伊布奴隸</UmbreonSlave.labelMalePlural>
+  <!-- female Umbreon slave -->  <UmbreonSlave.labelFemale>女性月亮伊布奴隸</UmbreonSlave.labelFemale>
+  <!-- female Umbreon slaves -->  <UmbreonSlave.labelFemalePlural>女性月亮伊布奴隸</UmbreonSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Umbreon -->  <UmbreonColonist.label>月亮伊布</UmbreonColonist.label>
+  <!-- Umbreons -->  <UmbreonColonist.labelPlural>月亮伊布</UmbreonColonist.labelPlural>
+  <!-- male Umbreon -->  <UmbreonColonist.labelMale>男性月亮伊布</UmbreonColonist.labelMale>
+  <!-- male Umbreons -->  <UmbreonColonist.labelMalePlural>男性月亮伊布</UmbreonColonist.labelMalePlural>
+  <!-- female Umbreon -->  <UmbreonColonist.labelFemale>女性月亮伊布</UmbreonColonist.labelFemale>
+  <!-- female Umbreons -->  <UmbreonColonist.labelFemalePlural>女性月亮伊布</UmbreonColonist.labelFemalePlural>
+
+  <!-- Umbreon -->  <UmbreonTribesperson.label>月亮伊布</UmbreonTribesperson.label>
+  <!-- Umbreons -->  <UmbreonTribesperson.labelPlural>月亮伊布</UmbreonTribesperson.labelPlural>
+  <!-- male Umbreon -->  <UmbreonTribesperson.labelMale>男性月亮伊布</UmbreonTribesperson.labelMale>
+  <!-- male Umbreons -->  <UmbreonTribesperson.labelMalePlural>男性月亮伊布</UmbreonTribesperson.labelMalePlural>
+  <!-- female Umbreon -->  <UmbreonTribesperson.labelFemale>女性月亮伊布</UmbreonTribesperson.labelFemale>
+  <!-- female Umbreons -->  <UmbreonTribesperson.labelFemalePlural>女性月亮伊布</UmbreonTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Umbreon grenadier -->  <Umbreon_Grenadier_Destructive.label>月亮伊布擲彈兵</Umbreon_Grenadier_Destructive.label>
+  <!-- Umbreon grenadiers -->  <Umbreon_Grenadier_Destructive.labelPlural>月亮伊布擲彈兵</Umbreon_Grenadier_Destructive.labelPlural>
+  <!-- male Umbreon grenadier -->  <Umbreon_Grenadier_Destructive.labelMale>男性月亮伊布擲彈兵</Umbreon_Grenadier_Destructive.labelMale>
+  <!-- male Umbreon grenadiers -->  <Umbreon_Grenadier_Destructive.labelMalePlural>男性月亮伊布擲彈兵</Umbreon_Grenadier_Destructive.labelMalePlural>
+  <!-- female Umbreon grenadier -->  <Umbreon_Grenadier_Destructive.labelFemale>女性月亮伊布擲彈兵</Umbreon_Grenadier_Destructive.labelFemale>
+  <!-- female Umbreon grenadiers -->  <Umbreon_Grenadier_Destructive.labelFemalePlural>女性月亮伊布擲彈兵</Umbreon_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Umbreon EMPgrenadier -->  <Umbreon_Grenadier_EMP.label>月亮伊布 EMP擲彈兵</Umbreon_Grenadier_EMP.label>
+  <!-- Umbreon EMPgrenadiers -->  <Umbreon_Grenadier_EMP.labelPlural>月亮伊布 EMP擲彈兵</Umbreon_Grenadier_EMP.labelPlural>
+  <!-- male Umbreon EMPgrenadier -->  <Umbreon_Grenadier_EMP.labelMale>男性月亮伊布 EMP擲彈兵</Umbreon_Grenadier_EMP.labelMale>
+  <!-- male Umbreon EMPgrenadiers -->  <Umbreon_Grenadier_EMP.labelMalePlural>男性月亮伊布 EMP擲彈兵</Umbreon_Grenadier_EMP.labelMalePlural>
+  <!-- female Umbreon EMPgrenadier -->  <Umbreon_Grenadier_EMP.labelFemale>女性月亮伊布 EMP擲彈兵</Umbreon_Grenadier_EMP.labelFemale>
+  <!-- female Umbreon EMPgrenadiers -->  <Umbreon_Grenadier_EMP.labelFemalePlural>女性月亮伊布 EMP擲彈兵</Umbreon_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Umbreon smoke grenadier -->  <Umbreon_Grenadier_Smoke.label>月亮伊布煙霧彈擲彈兵</Umbreon_Grenadier_Smoke.label>
+  <!-- Umbreon smoke grenadiers -->  <Umbreon_Grenadier_Smoke.labelPlural>月亮伊布煙霧彈擲彈兵</Umbreon_Grenadier_Smoke.labelPlural>
+  <!-- male Umbreon smoke grenadier -->  <Umbreon_Grenadier_Smoke.labelMale>男性月亮伊布煙霧彈擲彈兵</Umbreon_Grenadier_Smoke.labelMale>
+  <!-- male Umbreon smoke grenadiers -->  <Umbreon_Grenadier_Smoke.labelMalePlural>男性月亮伊布煙霧彈擲彈兵</Umbreon_Grenadier_Smoke.labelMalePlural>
+  <!-- female Umbreon smoke grenadier -->  <Umbreon_Grenadier_Smoke.labelFemale>女性月亮伊布煙霧彈擲彈兵</Umbreon_Grenadier_Smoke.labelFemale>
+  <!-- female Umbreon smoke grenadiers -->  <Umbreon_Grenadier_Smoke.labelFemalePlural>女性月亮伊布煙霧彈擲彈兵</Umbreon_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Umbreon mercenary gunner -->  <Umbreon_Mercenary_Gunner.label>月亮伊布槍手傭兵</Umbreon_Mercenary_Gunner.label>
+  <!-- Umbreon mercenary gunners -->  <Umbreon_Mercenary_Gunner.labelPlural>月亮伊布槍手傭兵</Umbreon_Mercenary_Gunner.labelPlural>
+  <!-- male Umbreon mercenary gunner -->  <Umbreon_Mercenary_Gunner.labelMale>男性月亮伊布槍手傭兵</Umbreon_Mercenary_Gunner.labelMale>
+  <!-- male Umbreon mercenary gunners -->  <Umbreon_Mercenary_Gunner.labelMalePlural>男性月亮伊布槍手傭兵</Umbreon_Mercenary_Gunner.labelMalePlural>
+  <!-- female Umbreon mercenary gunner -->  <Umbreon_Mercenary_Gunner.labelFemale>女性月亮伊布槍手傭兵</Umbreon_Mercenary_Gunner.labelFemale>
+  <!-- female Umbreon mercenary gunners -->  <Umbreon_Mercenary_Gunner.labelFemalePlural>女性月亮伊布槍手傭兵</Umbreon_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Umbreon mercenary sniper -->  <Umbreon_Mercenary_Sniper.label>月亮伊布狙擊手傭兵</Umbreon_Mercenary_Sniper.label>
+  <!-- Umbreon mercenary snipers -->  <Umbreon_Mercenary_Sniper.labelPlural>月亮伊布狙擊手傭兵</Umbreon_Mercenary_Sniper.labelPlural>
+  <!-- male Umbreon mercenary sniper -->  <Umbreon_Mercenary_Sniper.labelMale>男性月亮伊布狙擊手傭兵</Umbreon_Mercenary_Sniper.labelMale>
+  <!-- male Umbreon mercenary snipers -->  <Umbreon_Mercenary_Sniper.labelMalePlural>男性月亮伊布狙擊手傭兵</Umbreon_Mercenary_Sniper.labelMalePlural>
+  <!-- female Umbreon mercenary sniper -->  <Umbreon_Mercenary_Sniper.labelFemale>女性月亮伊布狙擊手傭兵</Umbreon_Mercenary_Sniper.labelFemale>
+  <!-- female Umbreon mercenary snipers -->  <Umbreon_Mercenary_Sniper.labelFemalePlural>女性月亮伊布狙擊手傭兵</Umbreon_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Umbreon mercenary slasher -->  <Umbreon_Mercenary_Slasher.label>月亮伊布殺手傭兵</Umbreon_Mercenary_Slasher.label>
+  <!-- Umbreon mercenary slashers -->  <Umbreon_Mercenary_Slasher.labelPlural>月亮伊布殺手傭兵</Umbreon_Mercenary_Slasher.labelPlural>
+  <!-- male Umbreon mercenary slasher -->  <Umbreon_Mercenary_Slasher.labelMale>男性月亮伊布殺手傭兵</Umbreon_Mercenary_Slasher.labelMale>
+  <!-- male Umbreon mercenary slashers -->  <Umbreon_Mercenary_Slasher.labelMalePlural>男性月亮伊布殺手傭兵</Umbreon_Mercenary_Slasher.labelMalePlural>
+  <!-- female Umbreon mercenary slasher -->  <Umbreon_Mercenary_Slasher.labelFemale>女性月亮伊布殺手傭兵</Umbreon_Mercenary_Slasher.labelFemale>
+  <!-- female Umbreon mercenary slashers -->  <Umbreon_Mercenary_Slasher.labelFemalePlural>女性月亮伊布殺手傭兵</Umbreon_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Umbreon heavy mercenary -->  <Umbreon_Mercenary_Heavy.label>月亮伊布重裝傭兵</Umbreon_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Umbreon_Mercenary_Heavy.labelPlural>重裝傭兵</Umbreon_Mercenary_Heavy.labelPlural>
+  <!-- male Umbreon heavy mercenary -->  <Umbreon_Mercenary_Heavy.labelMale>男性月亮伊布重裝傭兵</Umbreon_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Umbreon_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Umbreon_Mercenary_Heavy.labelMalePlural>
+  <!-- female Umbreon heavy mercenary -->  <Umbreon_Mercenary_Heavy.labelFemale>女性月亮伊布重裝傭兵</Umbreon_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Umbreon_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Umbreon_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Umbreon boss -->  <Umbreon_PirateBoss.label>月亮伊布海賊團長</Umbreon_PirateBoss.label>
+  <!-- bosses -->  <Umbreon_PirateBoss.labelPlural>海賊團長</Umbreon_PirateBoss.labelPlural>
+  <!-- male Umbreon boss -->  <Umbreon_PirateBoss.labelMale>男性月亮伊布海賊團長</Umbreon_PirateBoss.labelMale>
+  <!-- male bosses -->  <Umbreon_PirateBoss.labelMalePlural>男性海賊團長</Umbreon_PirateBoss.labelMalePlural>
+  <!-- female Umbreon boss -->  <Umbreon_PirateBoss.labelFemale>女性月亮伊布海賊團長</Umbreon_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Umbreon_PirateBoss.labelFemalePlural>女性海賊團長</Umbreon_PirateBoss.labelFemalePlural>
+
+  <!-- Umbreon elite mercenary -->  <Umbreon_Mercenary_Elite.label>月亮伊布精銳傭兵</Umbreon_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Umbreon_Mercenary_Elite.labelPlural>精銳傭兵</Umbreon_Mercenary_Elite.labelPlural>
+  <!-- male Umbreon elite mercenary -->  <Umbreon_Mercenary_Elite.labelMale>男性月亮伊布精銳傭兵</Umbreon_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Umbreon_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Umbreon_Mercenary_Elite.labelMalePlural>
+  <!-- female Umbreon elite mercenary -->  <Umbreon_Mercenary_Elite.labelFemale>女性月亮伊布精銳傭兵</Umbreon_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Umbreon_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Umbreon_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Umbreon drifter -->  <Umbreon_Drifter.label>月亮伊布漂泊者</Umbreon_Drifter.label>
+  <!-- Umbreon drifters -->  <Umbreon_Drifter.labelPlural>月亮伊布漂泊者</Umbreon_Drifter.labelPlural>
+  <!-- male Umbreon drifter -->  <Umbreon_Drifter.labelMale>男性月亮伊布漂泊者</Umbreon_Drifter.labelMale>
+  <!-- male Umbreon drifters -->  <Umbreon_Drifter.labelMalePlural>男性月亮伊布漂泊者</Umbreon_Drifter.labelMalePlural>
+  <!-- female Umbreon drifter -->  <Umbreon_Drifter.labelFemale>女性月亮伊布漂泊者</Umbreon_Drifter.labelFemale>
+  <!-- female Umbreon drifters -->  <Umbreon_Drifter.labelFemalePlural>女性月亮伊布漂泊者</Umbreon_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Umbreon scavenger gunner -->  <Umbreon_Scavenger.label>月亮伊布掠奪者槍手</Umbreon_Scavenger.label>
+  <!-- Umbreon scavenger gunners -->  <Umbreon_Scavenger.labelPlural>月亮伊布掠奪者槍手</Umbreon_Scavenger.labelPlural>
+  <!-- male Umbreon scavenger gunner -->  <Umbreon_Scavenger.labelMale>男性月亮伊布掠奪者槍手</Umbreon_Scavenger.labelMale>
+  <!-- male Umbreon scavenger gunners -->  <Umbreon_Scavenger.labelMalePlural>男性月亮伊布掠奪者槍手</Umbreon_Scavenger.labelMalePlural>
+  <!-- female Umbreon scavenger gunner -->  <Umbreon_Scavenger.labelFemale>女性月亮伊布掠奪者槍手</Umbreon_Scavenger.labelFemale>
+  <!-- female Umbreon scavenger gunners -->  <Umbreon_Scavenger.labelFemalePlural>女性月亮伊布掠奪者槍手</Umbreon_Scavenger.labelFemalePlural>
+
+  <!-- Umbreon scavenger thrasher -->  <Umbreon_Thrasher.label>月亮伊布掠奪者暴民</Umbreon_Thrasher.label>
+  <!-- Umbreon scavenger thrashers -->  <Umbreon_Thrasher.labelPlural>月亮伊布掠奪者暴民</Umbreon_Thrasher.labelPlural>
+  <!-- male Umbreon scavenger thrasher -->  <Umbreon_Thrasher.labelMale>男性月亮伊布掠奪者暴民</Umbreon_Thrasher.labelMale>
+  <!-- male Umbreon scavenger thrashers -->  <Umbreon_Thrasher.labelMalePlural>男性月亮伊布掠奪者暴民</Umbreon_Thrasher.labelMalePlural>
+  <!-- female Umbreon scavenger thrasher -->  <Umbreon_Thrasher.labelFemale>女性月亮伊布掠奪者暴民</Umbreon_Thrasher.labelFemale>
+  <!-- female Umbreon scavenger thrashers -->  <Umbreon_Thrasher.labelFemalePlural>女性月亮伊布掠奪者暴民</Umbreon_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Umbreon pirate gunner -->  <Umbreon_Pirate.label>月亮伊布海賊槍手</Umbreon_Pirate.label>
+  <!-- Umbreon pirate gunners -->  <Umbreon_Pirate.labelPlural>月亮伊布海賊槍手</Umbreon_Pirate.labelPlural>
+  <!-- male Umbreon pirate gunner -->  <Umbreon_Pirate.labelMale>男性月亮伊布海賊槍手</Umbreon_Pirate.labelMale>
+  <!-- male Umbreon pirate gunners -->  <Umbreon_Pirate.labelMalePlural>男性月亮伊布海賊槍手</Umbreon_Pirate.labelMalePlural>
+  <!-- female Umbreon pirate gunner -->  <Umbreon_Pirate.labelFemale>女性月亮伊布海賊槍手</Umbreon_Pirate.labelFemale>
+  <!-- female Umbreon pirate gunners -->  <Umbreon_Pirate.labelFemalePlural>女性月亮伊布海賊槍手</Umbreon_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Umbreon villager -->  <Umbreon_Villager.label>月亮伊布村民</Umbreon_Villager.label>
+  <!-- Umbreon villagers -->  <Umbreon_Villager.labelPlural>月亮伊布村民</Umbreon_Villager.labelPlural>
+  <!-- male Umbreon villager -->  <Umbreon_Villager.labelMale>男性月亮伊布村民</Umbreon_Villager.labelMale>
+  <!-- male Umbreon villagers -->  <Umbreon_Villager.labelMalePlural>男性月亮伊布村民</Umbreon_Villager.labelMalePlural>
+  <!-- female Umbreon villager -->  <Umbreon_Villager.labelFemale>女性月亮伊布村民</Umbreon_Villager.labelFemale>
+  <!-- female Umbreon villagers -->  <Umbreon_Villager.labelFemalePlural>女性月亮伊布村民</Umbreon_Villager.labelFemalePlural>
+
+  <!-- Umbreon town guard -->  <Umbreon_Town_Guard.label>月亮伊布城鎮衛兵</Umbreon_Town_Guard.label>
+  <!-- Umbreon town guards -->  <Umbreon_Town_Guard.labelPlural>月亮伊布城鎮衛兵</Umbreon_Town_Guard.labelPlural>
+  <!-- male Umbreon town guard -->  <Umbreon_Town_Guard.labelMale>男性月亮伊布城鎮衛兵</Umbreon_Town_Guard.labelMale>
+  <!-- male Umbreon town guards -->  <Umbreon_Town_Guard.labelMalePlural>男性月亮伊布城鎮衛兵</Umbreon_Town_Guard.labelMalePlural>
+  <!-- female Umbreon town guard -->  <Umbreon_Town_Guard.labelFemale>女性月亮伊布城鎮衛兵</Umbreon_Town_Guard.labelFemale>
+  <!-- female Umbreon town guards -->  <Umbreon_Town_Guard.labelFemalePlural>女性月亮伊布城鎮衛兵</Umbreon_Town_Guard.labelFemalePlural>
+
+  <!-- Umbreon town trader -->  <Umbreon_Town_Trader.label>月亮伊布城鎮商人</Umbreon_Town_Trader.label>
+  <!-- Umbreon town traders -->  <Umbreon_Town_Trader.labelPlural>月亮伊布城鎮商人</Umbreon_Town_Trader.labelPlural>
+  <!-- male Umbreon town trader -->  <Umbreon_Town_Trader.labelMale>男性月亮伊布城鎮商人</Umbreon_Town_Trader.labelMale>
+  <!-- male Umbreon town traders -->  <Umbreon_Town_Trader.labelMalePlural>男性月亮伊布城鎮商人</Umbreon_Town_Trader.labelMalePlural>
+  <!-- female Umbreon town trader -->  <Umbreon_Town_Trader.labelFemale>女性月亮伊布城鎮商人</Umbreon_Town_Trader.labelFemale>
+  <!-- female Umbreon town traders -->  <Umbreon_Town_Trader.labelFemalePlural>女性月亮伊布城鎮商人</Umbreon_Town_Trader.labelFemalePlural>
+
+  <!-- Umbreon town councilman -->  <Umbreon_Town_Councilman.label>月亮伊布城鎮議員</Umbreon_Town_Councilman.label>
+  <!-- town councilmen -->  <Umbreon_Town_Councilman.labelPlural>城鎮議員</Umbreon_Town_Councilman.labelPlural>
+  <!-- male Umbreon town councilman -->  <Umbreon_Town_Councilman.labelMale>男性月亮伊布城鎮議員</Umbreon_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Umbreon_Town_Councilman.labelMalePlural>男性城鎮議員</Umbreon_Town_Councilman.labelMalePlural>
+  <!-- female Umbreon town councilman -->  <Umbreon_Town_Councilman.labelFemale>女性月亮伊布城鎮議員</Umbreon_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Umbreon_Town_Councilman.labelFemalePlural>女性城鎮議員</Umbreon_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Umbreon penitent -->  <Umbreon_Tribal_Penitent.label>月亮伊布海賊</Umbreon_Tribal_Penitent.label>
+  <!-- Umbreon penitents -->  <Umbreon_Tribal_Penitent.labelPlural>月亮伊布海賊</Umbreon_Tribal_Penitent.labelPlural>
+  <!-- male Umbreon penitent -->  <Umbreon_Tribal_Penitent.labelMale>男性月亮伊布海賊</Umbreon_Tribal_Penitent.labelMale>
+  <!-- male Umbreon penitents -->  <Umbreon_Tribal_Penitent.labelMalePlural>男性月亮伊布海賊</Umbreon_Tribal_Penitent.labelMalePlural>
+  <!-- female Umbreon penitent -->  <Umbreon_Tribal_Penitent.labelFemale>女性月亮伊布海賊</Umbreon_Tribal_Penitent.labelFemale>
+  <!-- female Umbreon penitents -->  <Umbreon_Tribal_Penitent.labelFemalePlural>女性月亮伊布海賊</Umbreon_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Umbreon archer -->  <Umbreon_Tribal_Archer.label>月亮伊布弓箭手</Umbreon_Tribal_Archer.label>
+  <!-- Umbreon archers -->  <Umbreon_Tribal_Archer.labelPlural>月亮伊布弓箭手</Umbreon_Tribal_Archer.labelPlural>
+  <!-- male Umbreon archer -->  <Umbreon_Tribal_Archer.labelMale>男性月亮伊布弓箭手</Umbreon_Tribal_Archer.labelMale>
+  <!-- male Umbreon archers -->  <Umbreon_Tribal_Archer.labelMalePlural>男性月亮伊布弓箭手</Umbreon_Tribal_Archer.labelMalePlural>
+  <!-- female Umbreon archer -->  <Umbreon_Tribal_Archer.labelFemale>女性月亮伊布弓箭手</Umbreon_Tribal_Archer.labelFemale>
+  <!-- female Umbreon archers -->  <Umbreon_Tribal_Archer.labelFemalePlural>女性月亮伊布弓箭手</Umbreon_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Umbreon warrior -->  <Umbreon_Tribal_Warrior.label>月亮伊布戰士</Umbreon_Tribal_Warrior.label>
+  <!-- Umbreon warriors -->  <Umbreon_Tribal_Warrior.labelPlural>月亮伊布戰士</Umbreon_Tribal_Warrior.labelPlural>
+  <!-- male Umbreon warrior -->  <Umbreon_Tribal_Warrior.labelMale>男性月亮伊布戰士</Umbreon_Tribal_Warrior.labelMale>
+  <!-- male Umbreon warriors -->  <Umbreon_Tribal_Warrior.labelMalePlural>男性月亮伊布戰士</Umbreon_Tribal_Warrior.labelMalePlural>
+  <!-- female Umbreon warrior -->  <Umbreon_Tribal_Warrior.labelFemale>女性月亮伊布戰士</Umbreon_Tribal_Warrior.labelFemale>
+  <!-- female Umbreon warriors -->  <Umbreon_Tribal_Warrior.labelFemalePlural>女性月亮伊布戰士</Umbreon_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Umbreon hunter -->  <Umbreon_Tribal_Hunter.label>月亮伊布獵人</Umbreon_Tribal_Hunter.label>
+  <!-- Umbreon hunters -->  <Umbreon_Tribal_Hunter.labelPlural>月亮伊布獵人</Umbreon_Tribal_Hunter.labelPlural>
+  <!-- male Umbreon hunter -->  <Umbreon_Tribal_Hunter.labelMale>男性月亮伊布獵人</Umbreon_Tribal_Hunter.labelMale>
+  <!-- male Umbreon hunters -->  <Umbreon_Tribal_Hunter.labelMalePlural>男性月亮伊布獵人</Umbreon_Tribal_Hunter.labelMalePlural>
+  <!-- female Umbreon hunter -->  <Umbreon_Tribal_Hunter.labelFemale>女性月亮伊布獵人</Umbreon_Tribal_Hunter.labelFemale>
+  <!-- female Umbreon hunters -->  <Umbreon_Tribal_Hunter.labelFemalePlural>女性月亮伊布獵人</Umbreon_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Umbreon trader -->  <Umbreon_Tribal_Trader.label>月亮伊布商人</Umbreon_Tribal_Trader.label>
+  <!-- Umbreon traders -->  <Umbreon_Tribal_Trader.labelPlural>月亮伊布商人</Umbreon_Tribal_Trader.labelPlural>
+  <!-- male Umbreon trader -->  <Umbreon_Tribal_Trader.labelMale>男性月亮伊布商人</Umbreon_Tribal_Trader.labelMale>
+  <!-- male Umbreon traders -->  <Umbreon_Tribal_Trader.labelMalePlural>男性月亮伊布商人</Umbreon_Tribal_Trader.labelMalePlural>
+  <!-- female Umbreon trader -->  <Umbreon_Tribal_Trader.labelFemale>女性月亮伊布商人</Umbreon_Tribal_Trader.labelFemale>
+  <!-- female Umbreon traders -->  <Umbreon_Tribal_Trader.labelFemalePlural>女性月亮伊布商人</Umbreon_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Umbreon berserker -->  <Umbreon_Tribal_Berserker.label>月亮伊布狂戰士</Umbreon_Tribal_Berserker.label>
+  <!-- Umbreon berserkers -->  <Umbreon_Tribal_Berserker.labelPlural>月亮伊布狂戰士</Umbreon_Tribal_Berserker.labelPlural>
+  <!-- male Umbreon berserker -->  <Umbreon_Tribal_Berserker.labelMale>男性月亮伊布狂戰士</Umbreon_Tribal_Berserker.labelMale>
+  <!-- male Umbreon berserkers -->  <Umbreon_Tribal_Berserker.labelMalePlural>男性月亮伊布狂戰士</Umbreon_Tribal_Berserker.labelMalePlural>
+  <!-- female Umbreon berserker -->  <Umbreon_Tribal_Berserker.labelFemale>女性月亮伊布狂戰士</Umbreon_Tribal_Berserker.labelFemale>
+  <!-- female Umbreon berserkers -->  <Umbreon_Tribal_Berserker.labelFemalePlural>女性月亮伊布狂戰士</Umbreon_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Umbreon heavy archer -->  <Umbreon_Tribal_HeavyArcher.label>月亮伊布重裝弓箭手</Umbreon_Tribal_HeavyArcher.label>
+  <!-- Umbreon heavy archers -->  <Umbreon_Tribal_HeavyArcher.labelPlural>月亮伊布重裝弓箭手</Umbreon_Tribal_HeavyArcher.labelPlural>
+  <!-- male Umbreon heavy archer -->  <Umbreon_Tribal_HeavyArcher.labelMale>男性月亮伊布重裝弓箭手</Umbreon_Tribal_HeavyArcher.labelMale>
+  <!-- male Umbreon heavy archers -->  <Umbreon_Tribal_HeavyArcher.labelMalePlural>男性月亮伊布重裝弓箭手</Umbreon_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Umbreon heavy archer -->  <Umbreon_Tribal_HeavyArcher.labelFemale>女性月亮伊布重裝弓箭手</Umbreon_Tribal_HeavyArcher.labelFemale>
+  <!-- female Umbreon heavy archers -->  <Umbreon_Tribal_HeavyArcher.labelFemalePlural>女性月亮伊布重裝弓箭手</Umbreon_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Umbreon_Tribal_ChiefMelee -->  <!--[Duplicated] <Umbreon_Tribal_ChiefMelee.label>月亮伊布_Tribal_ChiefMelee</Umbreon_Tribal_ChiefMelee.label>-->
+  <!-- Umbreon_Tribal_ChiefMelees -->  <!--[Duplicated] <Umbreon_Tribal_ChiefMelee.labelPlural>月亮伊布_Tribal_ChiefMele</Umbreon_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Umbreon_Tribal_ChiefMelee -->  <!--[Duplicated] <Umbreon_Tribal_ChiefMelee.labelMale>男性月亮伊布_Tribal_ChiefMelee</Umbreon_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Umbreon_Tribal_ChiefMelees -->  <!--[Duplicated] <Umbreon_Tribal_ChiefMelee.labelMalePlural>男性月亮伊布_Tribal_ChiefMele</Umbreon_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Umbreon_Tribal_ChiefMelee -->  <!--[Duplicated] <Umbreon_Tribal_ChiefMelee.labelFemale>女性月亮伊布_Tribal_ChiefMelee</Umbreon_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Umbreon_Tribal_ChiefMelees -->  <!--[Duplicated] <Umbreon_Tribal_ChiefMelee.labelFemalePlural>女性月亮伊布_Tribal_ChiefMele</Umbreon_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Umbreon berserker chief -->  <Umbreon_Tribal_ChiefMelee.label>月亮伊布狂戰士隊長</Umbreon_Tribal_ChiefMelee.label>
+  <!-- Umbreon berserker chiefs -->  <Umbreon_Tribal_ChiefMelee.labelPlural>月亮伊布狂戰士隊長</Umbreon_Tribal_ChiefMelee.labelPlural>
+  <!-- male Umbreon berserker chief -->  <Umbreon_Tribal_ChiefMelee.labelMale>男性月亮伊布狂戰士隊長</Umbreon_Tribal_ChiefMelee.labelMale>
+  <!-- male Umbreon berserker chiefs -->  <Umbreon_Tribal_ChiefMelee.labelMalePlural>男性月亮伊布狂戰士隊長</Umbreon_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Umbreon berserker chief -->  <Umbreon_Tribal_ChiefMelee.labelFemale>女性月亮伊布狂戰士隊長</Umbreon_Tribal_ChiefMelee.labelFemale>
+  <!-- female Umbreon berserker chiefs -->  <Umbreon_Tribal_ChiefMelee.labelFemalePlural>女性月亮伊布狂戰士隊長</Umbreon_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Umbreon archer chief -->  <Umbreon_Tribal_ChiefRanged.label>月亮伊布弓箭手隊長</Umbreon_Tribal_ChiefRanged.label>
+  <!-- Umbreon archer chiefs -->  <Umbreon_Tribal_ChiefRanged.labelPlural>月亮伊布弓箭手隊長</Umbreon_Tribal_ChiefRanged.labelPlural>
+  <!-- male Umbreon archer chief -->  <Umbreon_Tribal_ChiefRanged.labelMale>男性月亮伊布弓箭手隊長</Umbreon_Tribal_ChiefRanged.labelMale>
+  <!-- male Umbreon archer chiefs -->  <Umbreon_Tribal_ChiefRanged.labelMalePlural>男性月亮伊布弓箭手隊長</Umbreon_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Umbreon archer chief -->  <Umbreon_Tribal_ChiefRanged.labelFemale>女性月亮伊布弓箭手隊長</Umbreon_Tribal_ChiefRanged.labelFemale>
+  <!-- female Umbreon archer chiefs -->  <Umbreon_Tribal_ChiefRanged.labelFemalePlural>女性月亮伊布弓箭手隊長</Umbreon_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

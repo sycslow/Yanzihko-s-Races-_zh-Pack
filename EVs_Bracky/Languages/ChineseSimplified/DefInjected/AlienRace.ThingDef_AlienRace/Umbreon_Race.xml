@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Umbreon -->  <Yanz_Umbreon.label>月亮伊布</Yanz_Umbreon.label>
+  <!-- Umbreon is a species, based at Eevee's genome. Umbreon were originally designed to act as bodyguards, surveillance and other covert security roles for events and companies that valued aesthetics very highly. Umbreon, despite their small body size are very tough and hard to kill, not to mention fatal melee attacks that they can deal. Anyone who is not as tough as them or doesn't have corresponding equipment to counter their capabilities should avoid melee combat at all costs. Umbreon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Umbreon.description>月亮伊布是一種基於伊布基因組改造的物種。月亮伊布原本最初是被設計用於擔任保鏢、監控和其他隱秘安保的角色，適用於那些高度重視美學的活動和公司。儘管月亮伊布的體型較小，但它們非常堅韌且難以被殺死，並且能造成致命的近戰攻擊。任何不如它們堅韌或沒有相應裝備的人都應避免與它們進行近身戰鬥。月亮伊布是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Yanz_Umbreon.description>
+  <!-- teeth -->  <Yanz_Umbreon.tools.0.label>牙齒</Yanz_Umbreon.tools.0.label>
+  <!-- left claws -->  <Yanz_Umbreon.tools.1.label>左爪</Yanz_Umbreon.tools.1.label>
+  <!-- right claws -->  <Yanz_Umbreon.tools.2.label>右爪</Yanz_Umbreon.tools.2.label>
+  <!-- hair --><!--   <Yanz_Umbreon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Umbreon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name> -->
+  <!-- skin --><!--   <Yanz_Umbreon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Umbreon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
+
+
+</LanguageData>

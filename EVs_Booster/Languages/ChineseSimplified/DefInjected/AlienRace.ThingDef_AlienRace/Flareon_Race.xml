@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Flareon -->  <Yanz_Flareon.label>火伊布</Yanz_Flareon.label>
+  <!-- Flareon is a Genetically modified species designed to survive in environments with extreme heat. They are more robust than many others Eeveelutions and require a bit less nutrition thanks to their unique ability to partially convert thermal radiation into useful energy for their cells. Flareon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Flareon.description>火伊布是一种基因改造物种，设计目的是在极端高温环境中生存。与其他许多伊布进化型相比，它们更加强壮，并且由于其能够将部分热辐射转化为细胞有用能量的独特能力，因此对营养的须求稍低。火伊布是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</Yanz_Flareon.description>
+  <!-- teeth -->  <Yanz_Flareon.tools.0.label>牙齿</Yanz_Flareon.tools.0.label>
+  <!-- left claws -->  <Yanz_Flareon.tools.1.label>左爪</Yanz_Flareon.tools.1.label>
+  <!-- right claws -->  <Yanz_Flareon.tools.2.label>右爪</Yanz_Flareon.tools.2.label>
+  <!-- hair --><!--   <Yanz_Flareon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Flareon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name> -->
+  <!-- skin --><!--   <Yanz_Flareon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Flareon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Eevee -->
+  <Yanz_Eevee.label>伊布</Yanz_Eevee.label>
+  <!-- Genetically modified species, believed to be either the original progenitor stock for their parent companies products or a hybrid of all the variants of that type. One of the most common Eeveelutions with the smallest body size. Eevee is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->
+  <Yanz_Eevee.description>伊布是基因改造物种，被认为是其母公司产品的原始祖先品种或该类型所有变种的混合体。它是体型最小的伊布进化型之一，也是最常见的进化型之一。伊布是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</Yanz_Eevee.description>
+  <!-- teeth -->
+  <Yanz_Eevee.tools.0.label>牙齿</Yanz_Eevee.tools.0.label>
+  <!-- left claws -->
+  <Yanz_Eevee.tools.1.label>左爪</Yanz_Eevee.tools.1.label>
+  <!-- right claws -->
+  <Yanz_Eevee.tools.2.label>右爪</Yanz_Eevee.tools.2.label>
+  
+  <!-- These are using for skin function. DO NOT translate them. -->
+  <!-- 
+  <Yanz_Eevee.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Eevee.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Yanz_Eevee.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Eevee.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+ -->
+
+</LanguageData>

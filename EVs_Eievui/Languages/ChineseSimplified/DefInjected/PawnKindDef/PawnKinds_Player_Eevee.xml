@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <EeveeTribalPawn.label>部落民</EeveeTribalPawn.label>
+  <!-- members -->  <EeveeTribalPawn.labelPlural>部落民</EeveeTribalPawn.labelPlural>
+  <!-- male member -->  <EeveeTribalPawn.labelMale>男性部落民</EeveeTribalPawn.labelMale>
+  <!-- male members -->  <EeveeTribalPawn.labelMalePlural>男性部落民</EeveeTribalPawn.labelMalePlural>
+  <!-- female member -->  <EeveeTribalPawn.labelFemale>女性部落民</EeveeTribalPawn.labelFemale>
+  <!-- female members -->  <EeveeTribalPawn.labelFemalePlural>女性部落民</EeveeTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <EeveeIndustrialPawn.label>殖民者</EeveeIndustrialPawn.label>
+  <!-- members -->  <EeveeIndustrialPawn.labelPlural>殖民者</EeveeIndustrialPawn.labelPlural>
+  <!-- male member -->  <EeveeIndustrialPawn.labelMale>男性殖民者</EeveeIndustrialPawn.labelMale>
+  <!-- male members -->  <EeveeIndustrialPawn.labelMalePlural>男性殖民者</EeveeIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <EeveeIndustrialPawn.labelFemale>女性殖民者</EeveeIndustrialPawn.labelFemale>
+  <!-- female members -->  <EeveeIndustrialPawn.labelFemalePlural>女性殖民者</EeveeIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

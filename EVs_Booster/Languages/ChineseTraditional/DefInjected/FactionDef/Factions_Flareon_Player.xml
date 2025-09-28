@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Flareon Tribe -->  <PlayerFlareonTribal.label>火伊布部落</PlayerFlareonTribal.label>
+  <!-- Flareon tribe -->  <PlayerFlareonTribal.description>火伊布部落</PlayerFlareonTribal.description>
+  <!-- Flareon -->  <PlayerFlareonTribal.pawnsPlural>火伊布部落民</PlayerFlareonTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Flareon Tribe (No tech) -->  <PlayerFlareonTribalNoTech.label>火伊布部落(無科技)</PlayerFlareonTribalNoTech.label>
+  <!-- Flareon tribe -->  <PlayerFlareonTribalNoTech.description>火伊布部落</PlayerFlareonTribalNoTech.description>
+  <!-- Flareon -->  <PlayerFlareonTribalNoTech.pawnsPlural>火伊布部落民</PlayerFlareonTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Flareon Colony -->  <PlayerFlareonIndustrial.label>火伊布殖民地</PlayerFlareonIndustrial.label>
+  <!-- Flareon Colony -->  <PlayerFlareonIndustrial.description>火伊布殖民地</PlayerFlareonIndustrial.description>
+  <!-- Flareon -->  <PlayerFlareonIndustrial.pawnsPlural>火伊布殖民者</PlayerFlareonIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Flareon Colony (No tech) -->  <PlayerFlareonIndustrialNoTech.label>火伊布殖民地(無科技)</PlayerFlareonIndustrialNoTech.label>
+  <!-- Flareon colony -->  <PlayerFlareonIndustrialNoTech.description>火伊布殖民地</PlayerFlareonIndustrialNoTech.description>
+  <!-- Flareon -->  <PlayerFlareonIndustrialNoTech.pawnsPlural>火伊布殖民者</PlayerFlareonIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <UmbreonTribalPawn.label>部落民</UmbreonTribalPawn.label>
+  <!-- members -->  <UmbreonTribalPawn.labelPlural>部落民</UmbreonTribalPawn.labelPlural>
+  <!-- male member -->  <UmbreonTribalPawn.labelMale>男性部落民</UmbreonTribalPawn.labelMale>
+  <!-- male members -->  <UmbreonTribalPawn.labelMalePlural>男性部落民</UmbreonTribalPawn.labelMalePlural>
+  <!-- female member -->  <UmbreonTribalPawn.labelFemale>女性部落民</UmbreonTribalPawn.labelFemale>
+  <!-- female members -->  <UmbreonTribalPawn.labelFemalePlural>女性部落民</UmbreonTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <UmbreonIndustrialPawn.label>殖民者</UmbreonIndustrialPawn.label>
+  <!-- members -->  <UmbreonIndustrialPawn.labelPlural>殖民者</UmbreonIndustrialPawn.labelPlural>
+  <!-- male member -->  <UmbreonIndustrialPawn.labelMale>男性殖民者</UmbreonIndustrialPawn.labelMale>
+  <!-- male members -->  <UmbreonIndustrialPawn.labelMalePlural>男性殖民者</UmbreonIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <UmbreonIndustrialPawn.labelFemale>女性殖民者</UmbreonIndustrialPawn.labelFemale>
+  <!-- female members -->  <UmbreonIndustrialPawn.labelFemalePlural>女性殖民者</UmbreonIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Umbreon Tribe -->  <PlayerUmbreonTribal.label>月亮伊布部落</PlayerUmbreonTribal.label>
+  <!-- Umbreon tribe -->  <PlayerUmbreonTribal.description>月亮伊布部落</PlayerUmbreonTribal.description>
+  <!-- Umbreon -->  <PlayerUmbreonTribal.pawnsPlural>月亮伊布部落民</PlayerUmbreonTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Umbreon Tribe (No tech) -->  <PlayerUmbreonTribalNoTech.label>月亮伊布部落 (無科技)</PlayerUmbreonTribalNoTech.label>
+  <!-- Umbreon tribe -->  <PlayerUmbreonTribalNoTech.description>月亮伊布部落</PlayerUmbreonTribalNoTech.description>
+  <!-- Umbreon -->  <PlayerUmbreonTribalNoTech.pawnsPlural>月亮伊布部落民</PlayerUmbreonTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Umbreon Colony -->  <PlayerUmbreonIndustrial.label>月亮伊布殖民地</PlayerUmbreonIndustrial.label>
+  <!-- Umbreon Colony -->  <PlayerUmbreonIndustrial.description>月亮伊布殖民地</PlayerUmbreonIndustrial.description>
+  <!-- Umbreon -->  <PlayerUmbreonIndustrial.pawnsPlural>月亮伊布殖民者</PlayerUmbreonIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Umbreon Colony (No tech) -->  <PlayerUmbreonIndustrialNoTech.label>月亮伊布殖民地 (無科技)</PlayerUmbreonIndustrialNoTech.label>
+  <!-- Umbreon colony -->  <PlayerUmbreonIndustrialNoTech.description>月亮伊布殖民地</PlayerUmbreonIndustrialNoTech.description>
+  <!-- Umbreon -->  <PlayerUmbreonIndustrialNoTech.pawnsPlural>月亮伊布殖民者</PlayerUmbreonIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

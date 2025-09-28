@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Eevee Tribe -->  <PlayerEeveeTribal.label>伊布部落</PlayerEeveeTribal.label>
+  <!-- Eevee tribe -->  <PlayerEeveeTribal.description>伊布部落</PlayerEeveeTribal.description>
+  <!-- Eevee -->  <PlayerEeveeTribal.pawnsPlural>伊布部落民</PlayerEeveeTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Eevee Tribe (No tech) -->  <PlayerEeveeTribalNoTech.label>伊布部落 (无科技)</PlayerEeveeTribalNoTech.label>
+  <!-- Eevee tribe -->  <PlayerEeveeTribalNoTech.description>伊布部落</PlayerEeveeTribalNoTech.description>
+  <!-- Eevee -->  <PlayerEeveeTribalNoTech.pawnsPlural>伊布部落民</PlayerEeveeTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Eevee Colony -->  <PlayerEeveeIndustrial.label>伊布殖民地</PlayerEeveeIndustrial.label>
+  <!-- Eevee Colony -->  <PlayerEeveeIndustrial.description>伊布殖民地</PlayerEeveeIndustrial.description>
+  <!-- Eevee -->  <PlayerEeveeIndustrial.pawnsPlural>伊布殖民者</PlayerEeveeIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Eevee Colony (No tech) -->  <PlayerEeveeIndustrialNoTech.label>伊布殖民地 (无科技)</PlayerEeveeIndustrialNoTech.label>
+  <!-- Eevee colony -->  <PlayerEeveeIndustrialNoTech.description>伊布殖民地</PlayerEeveeIndustrialNoTech.description>
+  <!-- Eevee -->  <PlayerEeveeIndustrialNoTech.pawnsPlural>伊布殖民者</PlayerEeveeIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

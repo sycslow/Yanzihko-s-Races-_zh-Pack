@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Umbreon -->  <UmbreonScenario1.label>月亮伊布</UmbreonScenario1.label>
+  <!-- This is a basic scenario that can be changed at any time. -->  <UmbreonScenario1.description>這是一個可以隨時更改的基礎情境劇本。</UmbreonScenario1.description>
+  <!-- Umbreon -->  <UmbreonScenario1.scenario.name>月亮伊布</UmbreonScenario1.scenario.name>
+  <!-- Three Umbreon colonists with very basic resources. -->  <UmbreonScenario1.scenario.summary>三名月亮伊布殖民者，擁有非常基礎的補給資源。</UmbreonScenario1.scenario.summary>
+  <!-- This is a basic scenario that can be changed at any time. -->  <UmbreonScenario1.scenario.description>這是一個可以隨時更改的基礎情境劇本。</UmbreonScenario1.scenario.description>
+  <!-- The three of you awake after an extremely rough landing however none of you remarkably bear no injuries other than waning cryptosleep sickness. -->
+  <UmbreonScenario1.scenario.parts.GameStartDialog.text>你們三人在一次極為艱難的著陸後醒來，但令人驚訝的是，除了逐漸消退的冷凍休眠艙症候群外，沒有人受傷。</UmbreonScenario1.scenario.parts.GameStartDialog.text>
+    <!-- UNUSED --><!--  <UmbreonScenario1.scenario.parts.12.text>你們三人在一次極為艱難的著陸後醒來，但令人驚訝的是，除了逐漸消退的冷凍休眠艙症候群外，沒有人受傷。</UmbreonScenario1.scenario.parts.12.text>-->
+
+
+</LanguageData>

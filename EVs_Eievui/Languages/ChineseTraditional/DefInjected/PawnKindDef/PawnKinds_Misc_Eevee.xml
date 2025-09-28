@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Eevee space refugee -->  <EeveeSpaceRefugee.label>伊布星際難民</EeveeSpaceRefugee.label>
+  <!-- Eevee space refugees -->  <EeveeSpaceRefugee.labelPlural>伊布星際難民</EeveeSpaceRefugee.labelPlural>
+  <!-- male Eevee space refugee -->  <EeveeSpaceRefugee.labelMale>男性伊布星際難民</EeveeSpaceRefugee.labelMale>
+  <!-- male Eevee space refugees -->  <EeveeSpaceRefugee.labelMalePlural>男性伊布星際難民</EeveeSpaceRefugee.labelMalePlural>
+  <!-- female Eevee space refugee -->  <EeveeSpaceRefugee.labelFemale>女性伊布星際難民</EeveeSpaceRefugee.labelFemale>
+  <!-- female Eevee space refugees -->  <EeveeSpaceRefugee.labelFemalePlural>女性伊布星際難民</EeveeSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Eevee slave -->  <EeveeSlave.label>伊布奴隸</EeveeSlave.label>
+  <!-- Eevee slaves -->  <EeveeSlave.labelPlural>伊布奴隸</EeveeSlave.labelPlural>
+  <!-- male Eevee slave -->  <EeveeSlave.labelMale>男性伊布奴隸</EeveeSlave.labelMale>
+  <!-- male Eevee slaves -->  <EeveeSlave.labelMalePlural>男性伊布奴隸</EeveeSlave.labelMalePlural>
+  <!-- female Eevee slave -->  <EeveeSlave.labelFemale>女性伊布奴隸</EeveeSlave.labelFemale>
+  <!-- female Eevee slaves -->  <EeveeSlave.labelFemalePlural>女性伊布奴隸</EeveeSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Eevee -->  <EeveeColonist.label>伊布</EeveeColonist.label>
+  <!-- Eevees -->  <EeveeColonist.labelPlural>伊布</EeveeColonist.labelPlural>
+  <!-- male Eevee -->  <EeveeColonist.labelMale>男性伊布</EeveeColonist.labelMale>
+  <!-- male Eevees -->  <EeveeColonist.labelMalePlural>男性伊布</EeveeColonist.labelMalePlural>
+  <!-- female Eevee -->  <EeveeColonist.labelFemale>女性伊布</EeveeColonist.labelFemale>
+  <!-- female Eevees -->  <EeveeColonist.labelFemalePlural>女性伊布</EeveeColonist.labelFemalePlural>
+
+  <!-- Eevee -->  <EeveeTribesperson.label>伊布</EeveeTribesperson.label>
+  <!-- Eevees -->  <EeveeTribesperson.labelPlural>伊布</EeveeTribesperson.labelPlural>
+  <!-- male Eevee -->  <EeveeTribesperson.labelMale>男性伊布</EeveeTribesperson.labelMale>
+  <!-- male Eevees -->  <EeveeTribesperson.labelMalePlural>男性伊布</EeveeTribesperson.labelMalePlural>
+  <!-- female Eevee -->  <EeveeTribesperson.labelFemale>女性伊布</EeveeTribesperson.labelFemale>
+  <!-- female Eevees -->  <EeveeTribesperson.labelFemalePlural>女性伊布</EeveeTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Eevee grenadier -->  <Eevee_Grenadier_Destructive.label>伊布擲彈兵</Eevee_Grenadier_Destructive.label>
+  <!-- Eevee grenadiers -->  <Eevee_Grenadier_Destructive.labelPlural>伊布擲彈兵</Eevee_Grenadier_Destructive.labelPlural>
+  <!-- male Eevee grenadier -->  <Eevee_Grenadier_Destructive.labelMale>男性伊布擲彈兵</Eevee_Grenadier_Destructive.labelMale>
+  <!-- male Eevee grenadiers -->  <Eevee_Grenadier_Destructive.labelMalePlural>男性伊布擲彈兵</Eevee_Grenadier_Destructive.labelMalePlural>
+  <!-- female Eevee grenadier -->  <Eevee_Grenadier_Destructive.labelFemale>女性伊布擲彈兵</Eevee_Grenadier_Destructive.labelFemale>
+  <!-- female Eevee grenadiers -->  <Eevee_Grenadier_Destructive.labelFemalePlural>女性伊布擲彈兵</Eevee_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Eevee EMP grenadier -->  <Eevee_Grenadier_EMP.label>伊布 EMP擲彈兵</Eevee_Grenadier_EMP.label>
+  <!-- Eevee EMP grenadiers -->  <Eevee_Grenadier_EMP.labelPlural>伊布 EMP擲彈兵</Eevee_Grenadier_EMP.labelPlural>
+  <!-- male Eevee EMP grenadier -->  <Eevee_Grenadier_EMP.labelMale>男性伊布 EMP擲彈兵</Eevee_Grenadier_EMP.labelMale>
+  <!-- male Eevee EMP grenadiers -->  <Eevee_Grenadier_EMP.labelMalePlural>男性伊布 EMP擲彈兵</Eevee_Grenadier_EMP.labelMalePlural>
+  <!-- female Eevee EMP grenadier -->  <Eevee_Grenadier_EMP.labelFemale>女性伊布 EMP擲彈兵</Eevee_Grenadier_EMP.labelFemale>
+  <!-- female Eevee EMP grenadiers -->  <Eevee_Grenadier_EMP.labelFemalePlural>女性伊布 EMP擲彈兵</Eevee_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Eevee smoke grenadier -->  <Eevee_Grenadier_Smoke.label>伊布煙霧彈擲彈兵</Eevee_Grenadier_Smoke.label>
+  <!-- Eevee smoke grenadiers -->  <Eevee_Grenadier_Smoke.labelPlural>伊布煙霧彈擲彈兵</Eevee_Grenadier_Smoke.labelPlural>
+  <!-- male Eevee smoke grenadier -->  <Eevee_Grenadier_Smoke.labelMale>男性伊布煙霧彈擲彈兵</Eevee_Grenadier_Smoke.labelMale>
+  <!-- male Eevee smoke grenadiers -->  <Eevee_Grenadier_Smoke.labelMalePlural>男性伊布煙霧彈擲彈兵</Eevee_Grenadier_Smoke.labelMalePlural>
+  <!-- female Eevee smoke grenadier -->  <Eevee_Grenadier_Smoke.labelFemale>女性伊布煙霧彈擲彈兵</Eevee_Grenadier_Smoke.labelFemale>
+  <!-- female Eevee smoke grenadiers -->  <Eevee_Grenadier_Smoke.labelFemalePlural>女性伊布煙霧彈擲彈兵</Eevee_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Eevee mercenary gunner -->  <Eevee_Mercenary_Gunner.label>伊布槍手傭兵</Eevee_Mercenary_Gunner.label>
+  <!-- Eevee mercenary gunners -->  <Eevee_Mercenary_Gunner.labelPlural>伊布槍手傭兵</Eevee_Mercenary_Gunner.labelPlural>
+  <!-- male Eevee mercenary gunner -->  <Eevee_Mercenary_Gunner.labelMale>男性伊布槍手傭兵</Eevee_Mercenary_Gunner.labelMale>
+  <!-- male Eevee mercenary gunners -->  <Eevee_Mercenary_Gunner.labelMalePlural>男性伊布槍手傭兵</Eevee_Mercenary_Gunner.labelMalePlural>
+  <!-- female Eevee mercenary gunner -->  <Eevee_Mercenary_Gunner.labelFemale>女性伊布槍手傭兵</Eevee_Mercenary_Gunner.labelFemale>
+  <!-- female Eevee mercenary gunners -->  <Eevee_Mercenary_Gunner.labelFemalePlural>女性伊布槍手傭兵</Eevee_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Eevee mercenary sniper -->  <Eevee_Mercenary_Sniper.label>伊布狙擊手傭兵</Eevee_Mercenary_Sniper.label>
+  <!-- Eevee mercenary snipers -->  <Eevee_Mercenary_Sniper.labelPlural>伊布狙擊手傭兵</Eevee_Mercenary_Sniper.labelPlural>
+  <!-- male Eevee mercenary sniper -->  <Eevee_Mercenary_Sniper.labelMale>男性伊布狙擊手傭兵</Eevee_Mercenary_Sniper.labelMale>
+  <!-- male Eevee mercenary snipers -->  <Eevee_Mercenary_Sniper.labelMalePlural>男性伊布狙擊手傭兵</Eevee_Mercenary_Sniper.labelMalePlural>
+  <!-- female Eevee mercenary sniper -->  <Eevee_Mercenary_Sniper.labelFemale>女性伊布狙擊手傭兵</Eevee_Mercenary_Sniper.labelFemale>
+  <!-- female Eevee mercenary snipers -->  <Eevee_Mercenary_Sniper.labelFemalePlural>女性伊布狙擊手傭兵</Eevee_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Eevee mercenary slasher -->  <Eevee_Mercenary_Slasher.label>伊布殺手傭兵</Eevee_Mercenary_Slasher.label>
+  <!-- Eevee mercenary slashers -->  <Eevee_Mercenary_Slasher.labelPlural>伊布殺手傭兵</Eevee_Mercenary_Slasher.labelPlural>
+  <!-- male Eevee mercenary slasher -->  <Eevee_Mercenary_Slasher.labelMale>男性伊布殺手傭兵</Eevee_Mercenary_Slasher.labelMale>
+  <!-- male Eevee mercenary slashers -->  <Eevee_Mercenary_Slasher.labelMalePlural>男性伊布殺手傭兵</Eevee_Mercenary_Slasher.labelMalePlural>
+  <!-- female Eevee mercenary slasher -->  <Eevee_Mercenary_Slasher.labelFemale>女性伊布殺手傭兵</Eevee_Mercenary_Slasher.labelFemale>
+  <!-- female Eevee mercenary slashers -->  <Eevee_Mercenary_Slasher.labelFemalePlural>女性伊布殺手傭兵</Eevee_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Eevee heavy mercenary -->  <Eevee_Mercenary_Heavy.label>伊布重裝傭兵</Eevee_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Eevee_Mercenary_Heavy.labelPlural>重裝傭兵</Eevee_Mercenary_Heavy.labelPlural>
+  <!-- male Eevee heavy mercenary -->  <Eevee_Mercenary_Heavy.labelMale>男性伊布重裝傭兵</Eevee_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Eevee_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Eevee_Mercenary_Heavy.labelMalePlural>
+  <!-- female Eevee heavy mercenary -->  <Eevee_Mercenary_Heavy.labelFemale>女性伊布重裝傭兵</Eevee_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Eevee_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Eevee_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Eevee boss -->  <Eevee_PirateBoss.label>伊布海賊團長</Eevee_PirateBoss.label>
+  <!-- bosses -->  <Eevee_PirateBoss.labelPlural>海賊團長</Eevee_PirateBoss.labelPlural>
+  <!-- male Eevee boss -->  <Eevee_PirateBoss.labelMale>男性伊布海賊團長</Eevee_PirateBoss.labelMale>
+  <!-- male bosses -->  <Eevee_PirateBoss.labelMalePlural>男性海賊團長</Eevee_PirateBoss.labelMalePlural>
+  <!-- female Eevee boss -->  <Eevee_PirateBoss.labelFemale>女性伊布海賊團長</Eevee_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Eevee_PirateBoss.labelFemalePlural>女性海賊團長</Eevee_PirateBoss.labelFemalePlural>
+
+  <!-- Eevee elite mercenary -->  <Eevee_Mercenary_Elite.label>伊布精銳傭兵</Eevee_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Eevee_Mercenary_Elite.labelPlural>精銳傭兵</Eevee_Mercenary_Elite.labelPlural>
+  <!-- male Eevee elite mercenary -->  <Eevee_Mercenary_Elite.labelMale>男性伊布精銳傭兵</Eevee_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Eevee_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Eevee_Mercenary_Elite.labelMalePlural>
+  <!-- female Eevee elite mercenary -->  <Eevee_Mercenary_Elite.labelFemale>女性伊布精銳傭兵</Eevee_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Eevee_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Eevee_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Eevee drifter -->  <Eevee_Drifter.label>伊布漂泊者</Eevee_Drifter.label>
+  <!-- Eevee drifters -->  <Eevee_Drifter.labelPlural>伊布漂泊者</Eevee_Drifter.labelPlural>
+  <!-- male Eevee drifter -->  <Eevee_Drifter.labelMale>男性伊布漂泊者</Eevee_Drifter.labelMale>
+  <!-- male Eevee drifters -->  <Eevee_Drifter.labelMalePlural>男性伊布漂泊者</Eevee_Drifter.labelMalePlural>
+  <!-- female Eevee drifter -->  <Eevee_Drifter.labelFemale>女性伊布漂泊者</Eevee_Drifter.labelFemale>
+  <!-- female Eevee drifters -->  <Eevee_Drifter.labelFemalePlural>女性伊布漂泊者</Eevee_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Eevee scavenger gunner -->  <Eevee_Scavenger.label>伊布掠奪者槍手</Eevee_Scavenger.label>
+  <!-- Eevee scavenger gunners -->  <Eevee_Scavenger.labelPlural>伊布掠奪者槍手</Eevee_Scavenger.labelPlural>
+  <!-- male Eevee scavenger gunner -->  <Eevee_Scavenger.labelMale>男性伊布掠奪者槍手</Eevee_Scavenger.labelMale>
+  <!-- male Eevee scavenger gunners -->  <Eevee_Scavenger.labelMalePlural>男性伊布掠奪者槍手</Eevee_Scavenger.labelMalePlural>
+  <!-- female Eevee scavenger gunner -->  <Eevee_Scavenger.labelFemale>女性伊布掠奪者槍手</Eevee_Scavenger.labelFemale>
+  <!-- female Eevee scavenger gunners -->  <Eevee_Scavenger.labelFemalePlural>女性伊布掠奪者槍手</Eevee_Scavenger.labelFemalePlural>
+
+  <!-- Eevee scavenger thrasher -->  <Eevee_Thrasher.label>伊布掠奪者暴民</Eevee_Thrasher.label>
+  <!-- Eevee scavenger thrashers -->  <Eevee_Thrasher.labelPlural>伊布掠奪者暴民</Eevee_Thrasher.labelPlural>
+  <!-- male Eevee scavenger thrasher -->  <Eevee_Thrasher.labelMale>男性伊布掠奪者暴民</Eevee_Thrasher.labelMale>
+  <!-- male Eevee scavenger thrashers -->  <Eevee_Thrasher.labelMalePlural>男性伊布掠奪者暴民</Eevee_Thrasher.labelMalePlural>
+  <!-- female Eevee scavenger thrasher -->  <Eevee_Thrasher.labelFemale>女性伊布掠奪者暴民</Eevee_Thrasher.labelFemale>
+  <!-- female Eevee scavenger thrashers -->  <Eevee_Thrasher.labelFemalePlural>女性伊布掠奪者暴民</Eevee_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Eevee pirate gunner -->  <Eevee_Pirate.label>伊布海賊槍手</Eevee_Pirate.label>
+  <!-- Eevee pirate gunners -->  <Eevee_Pirate.labelPlural>伊布海賊槍手</Eevee_Pirate.labelPlural>
+  <!-- male Eevee pirate gunner -->  <Eevee_Pirate.labelMale>男性伊布海賊槍手</Eevee_Pirate.labelMale>
+  <!-- male Eevee pirate gunners -->  <Eevee_Pirate.labelMalePlural>男性伊布海賊槍手</Eevee_Pirate.labelMalePlural>
+  <!-- female Eevee pirate gunner -->  <Eevee_Pirate.labelFemale>女性伊布海賊槍手</Eevee_Pirate.labelFemale>
+  <!-- female Eevee pirate gunners -->  <Eevee_Pirate.labelFemalePlural>女性伊布海賊槍手</Eevee_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Eevee villager -->  <Eevee_Villager.label>伊布村民</Eevee_Villager.label>
+  <!-- Eevee villagers -->  <Eevee_Villager.labelPlural>伊布村民</Eevee_Villager.labelPlural>
+  <!-- male Eevee villager -->  <Eevee_Villager.labelMale>男性伊布村民</Eevee_Villager.labelMale>
+  <!-- male Eevee villagers -->  <Eevee_Villager.labelMalePlural>男性伊布村民</Eevee_Villager.labelMalePlural>
+  <!-- female Eevee villager -->  <Eevee_Villager.labelFemale>女性伊布村民</Eevee_Villager.labelFemale>
+  <!-- female Eevee villagers -->  <Eevee_Villager.labelFemalePlural>女性伊布村民</Eevee_Villager.labelFemalePlural>
+
+  <!-- Eevee town guard -->  <Eevee_Town_Guard.label>伊布城鎮衛兵</Eevee_Town_Guard.label>
+  <!-- Eevee town guards -->  <Eevee_Town_Guard.labelPlural>伊布城鎮衛兵</Eevee_Town_Guard.labelPlural>
+  <!-- male Eevee town guard -->  <Eevee_Town_Guard.labelMale>男性伊布城鎮衛兵</Eevee_Town_Guard.labelMale>
+  <!-- male Eevee town guards -->  <Eevee_Town_Guard.labelMalePlural>男性伊布城鎮衛兵</Eevee_Town_Guard.labelMalePlural>
+  <!-- female Eevee town guard -->  <Eevee_Town_Guard.labelFemale>女性伊布城鎮衛兵</Eevee_Town_Guard.labelFemale>
+  <!-- female Eevee town guards -->  <Eevee_Town_Guard.labelFemalePlural>女性伊布城鎮衛兵</Eevee_Town_Guard.labelFemalePlural>
+
+  <!-- Eevee town trader -->  <Eevee_Town_Trader.label>伊布城鎮商人</Eevee_Town_Trader.label>
+  <!-- Eevee town traders -->  <Eevee_Town_Trader.labelPlural>伊布城鎮商人</Eevee_Town_Trader.labelPlural>
+  <!-- male Eevee town trader -->  <Eevee_Town_Trader.labelMale>男性伊布城鎮商人</Eevee_Town_Trader.labelMale>
+  <!-- male Eevee town traders -->  <Eevee_Town_Trader.labelMalePlural>男性伊布城鎮商人</Eevee_Town_Trader.labelMalePlural>
+  <!-- female Eevee town trader -->  <Eevee_Town_Trader.labelFemale>女性伊布城鎮商人</Eevee_Town_Trader.labelFemale>
+  <!-- female Eevee town traders -->  <Eevee_Town_Trader.labelFemalePlural>女性伊布城鎮商人</Eevee_Town_Trader.labelFemalePlural>
+
+  <!-- Eevee town councilman -->  <Eevee_Town_Councilman.label>伊布城鎮議員</Eevee_Town_Councilman.label>
+  <!-- town councilmen -->  <Eevee_Town_Councilman.labelPlural>城鎮議員</Eevee_Town_Councilman.labelPlural>
+  <!-- male Eevee town councilman -->  <Eevee_Town_Councilman.labelMale>男性伊布城鎮議員</Eevee_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Eevee_Town_Councilman.labelMalePlural>男性城鎮議員</Eevee_Town_Councilman.labelMalePlural>
+  <!-- female Eevee town councilman -->  <Eevee_Town_Councilman.labelFemale>女性伊布城鎮議員</Eevee_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Eevee_Town_Councilman.labelFemalePlural>女性城鎮議員</Eevee_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Eevee penitent -->  <Eevee_Tribal_Penitent.label>伊布海賊</Eevee_Tribal_Penitent.label>
+  <!-- Eevee penitents -->  <Eevee_Tribal_Penitent.labelPlural>伊布海賊</Eevee_Tribal_Penitent.labelPlural>
+  <!-- male Eevee penitent -->  <Eevee_Tribal_Penitent.labelMale>男性伊布海賊</Eevee_Tribal_Penitent.labelMale>
+  <!-- male Eevee penitents -->  <Eevee_Tribal_Penitent.labelMalePlural>男性伊布海賊</Eevee_Tribal_Penitent.labelMalePlural>
+  <!-- female Eevee penitent -->  <Eevee_Tribal_Penitent.labelFemale>女性伊布海賊</Eevee_Tribal_Penitent.labelFemale>
+  <!-- female Eevee penitents -->  <Eevee_Tribal_Penitent.labelFemalePlural>女性伊布海賊</Eevee_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Eevee archer -->  <Eevee_Tribal_Archer.label>伊布弓箭手</Eevee_Tribal_Archer.label>
+  <!-- Eevee archers -->  <Eevee_Tribal_Archer.labelPlural>伊布弓箭手</Eevee_Tribal_Archer.labelPlural>
+  <!-- male Eevee archer -->  <Eevee_Tribal_Archer.labelMale>男性伊布弓箭手</Eevee_Tribal_Archer.labelMale>
+  <!-- male Eevee archers -->  <Eevee_Tribal_Archer.labelMalePlural>男性伊布弓箭手</Eevee_Tribal_Archer.labelMalePlural>
+  <!-- female Eevee archer -->  <Eevee_Tribal_Archer.labelFemale>女性伊布弓箭手</Eevee_Tribal_Archer.labelFemale>
+  <!-- female Eevee archers -->  <Eevee_Tribal_Archer.labelFemalePlural>女性伊布弓箭手</Eevee_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Eevee warrior -->  <Eevee_Tribal_Warrior.label>伊布戰士</Eevee_Tribal_Warrior.label>
+  <!-- Eevee warriors -->  <Eevee_Tribal_Warrior.labelPlural>伊布戰士</Eevee_Tribal_Warrior.labelPlural>
+  <!-- male Eevee warrior -->  <Eevee_Tribal_Warrior.labelMale>男性伊布戰士</Eevee_Tribal_Warrior.labelMale>
+  <!-- male Eevee warriors -->  <Eevee_Tribal_Warrior.labelMalePlural>男性伊布戰士</Eevee_Tribal_Warrior.labelMalePlural>
+  <!-- female Eevee warrior -->  <Eevee_Tribal_Warrior.labelFemale>女性伊布戰士</Eevee_Tribal_Warrior.labelFemale>
+  <!-- female Eevee warriors -->  <Eevee_Tribal_Warrior.labelFemalePlural>女性伊布戰士</Eevee_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Eevee hunter -->  <Eevee_Tribal_Hunter.label>伊布獵人</Eevee_Tribal_Hunter.label>
+  <!-- Eevee hunters -->  <Eevee_Tribal_Hunter.labelPlural>伊布獵人</Eevee_Tribal_Hunter.labelPlural>
+  <!-- male Eevee hunter -->  <Eevee_Tribal_Hunter.labelMale>男性伊布獵人</Eevee_Tribal_Hunter.labelMale>
+  <!-- male Eevee hunters -->  <Eevee_Tribal_Hunter.labelMalePlural>男性伊布獵人</Eevee_Tribal_Hunter.labelMalePlural>
+  <!-- female Eevee hunter -->  <Eevee_Tribal_Hunter.labelFemale>女性伊布獵人</Eevee_Tribal_Hunter.labelFemale>
+  <!-- female Eevee hunters -->  <Eevee_Tribal_Hunter.labelFemalePlural>女性伊布獵人</Eevee_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Eevee trader -->  <Eevee_Tribal_Trader.label>伊布商人</Eevee_Tribal_Trader.label>
+  <!-- Eevee traders -->  <Eevee_Tribal_Trader.labelPlural>伊布商人</Eevee_Tribal_Trader.labelPlural>
+  <!-- male Eevee trader -->  <Eevee_Tribal_Trader.labelMale>男性伊布商人</Eevee_Tribal_Trader.labelMale>
+  <!-- male Eevee traders -->  <Eevee_Tribal_Trader.labelMalePlural>男性伊布商人</Eevee_Tribal_Trader.labelMalePlural>
+  <!-- female Eevee trader -->  <Eevee_Tribal_Trader.labelFemale>女性伊布商人</Eevee_Tribal_Trader.labelFemale>
+  <!-- female Eevee traders -->  <Eevee_Tribal_Trader.labelFemalePlural>女性伊布商人</Eevee_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Eevee berserker -->  <Eevee_Tribal_Berserker.label>伊布狂戰士</Eevee_Tribal_Berserker.label>
+  <!-- Eevee berserkers -->  <Eevee_Tribal_Berserker.labelPlural>伊布狂戰士</Eevee_Tribal_Berserker.labelPlural>
+  <!-- male Eevee berserker -->  <Eevee_Tribal_Berserker.labelMale>男性伊布狂戰士</Eevee_Tribal_Berserker.labelMale>
+  <!-- male Eevee berserkers -->  <Eevee_Tribal_Berserker.labelMalePlural>男性伊布狂戰士</Eevee_Tribal_Berserker.labelMalePlural>
+  <!-- female Eevee berserker -->  <Eevee_Tribal_Berserker.labelFemale>女性伊布狂戰士</Eevee_Tribal_Berserker.labelFemale>
+  <!-- female Eevee berserkers -->  <Eevee_Tribal_Berserker.labelFemalePlural>女性伊布狂戰士</Eevee_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Eevee heavy archer -->  <Eevee_Tribal_HeavyArcher.label>伊布重裝弓箭手</Eevee_Tribal_HeavyArcher.label>
+  <!-- Eevee heavy archers -->  <Eevee_Tribal_HeavyArcher.labelPlural>伊布重裝弓箭手</Eevee_Tribal_HeavyArcher.labelPlural>
+  <!-- male Eevee heavy archer -->  <Eevee_Tribal_HeavyArcher.labelMale>男性伊布重裝弓箭手</Eevee_Tribal_HeavyArcher.labelMale>
+  <!-- male Eevee heavy archers -->  <Eevee_Tribal_HeavyArcher.labelMalePlural>男性伊布重裝弓箭手</Eevee_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Eevee heavy archer -->  <Eevee_Tribal_HeavyArcher.labelFemale>女性伊布重裝弓箭手</Eevee_Tribal_HeavyArcher.labelFemale>
+  <!-- female Eevee heavy archers -->  <Eevee_Tribal_HeavyArcher.labelFemalePlural>女性伊布重裝弓箭手</Eevee_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Eevee_Tribal_ChiefMelee -->  <!--[Duplicated] <Eevee_Tribal_ChiefMelee.label>伊布_Tribal_ChiefMelee</Eevee_Tribal_ChiefMelee.label>-->
+  <!-- Eevee_Tribal_ChiefMelees -->  <!--[Duplicated] <Eevee_Tribal_ChiefMelee.labelPlural>伊布_Tribal_ChiefMele</Eevee_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Eevee_Tribal_ChiefMelee -->  <!--[Duplicated] <Eevee_Tribal_ChiefMelee.labelMale>男性伊布_Tribal_ChiefMelee</Eevee_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Eevee_Tribal_ChiefMelees -->  <!--[Duplicated] <Eevee_Tribal_ChiefMelee.labelMalePlural>男性伊布_Tribal_ChiefMele</Eevee_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Eevee_Tribal_ChiefMelee -->  <!--[Duplicated] <Eevee_Tribal_ChiefMelee.labelFemale>女性伊布_Tribal_ChiefMelee</Eevee_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Eevee_Tribal_ChiefMelees -->  <!--[Duplicated] <Eevee_Tribal_ChiefMelee.labelFemalePlural>女性伊布_Tribal_ChiefMele</Eevee_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Eevee berserker chief -->  <Eevee_Tribal_ChiefMelee.label>伊布狂戰士隊長</Eevee_Tribal_ChiefMelee.label>
+  <!-- Eevee berserker chiefs -->  <Eevee_Tribal_ChiefMelee.labelPlural>伊布狂戰士隊長</Eevee_Tribal_ChiefMelee.labelPlural>
+  <!-- male Eevee berserker chief -->  <Eevee_Tribal_ChiefMelee.labelMale>男性伊布狂戰士隊長</Eevee_Tribal_ChiefMelee.labelMale>
+  <!-- male Eevee berserker chiefs -->  <Eevee_Tribal_ChiefMelee.labelMalePlural>男性伊布狂戰士隊長</Eevee_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Eevee berserker chief -->  <Eevee_Tribal_ChiefMelee.labelFemale>女性伊布狂戰士隊長</Eevee_Tribal_ChiefMelee.labelFemale>
+  <!-- female Eevee berserker chiefs -->  <Eevee_Tribal_ChiefMelee.labelFemalePlural>女性伊布狂戰士隊長</Eevee_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Eevee archer chief -->  <Eevee_Tribal_ChiefRanged.label>伊布弓箭手隊長</Eevee_Tribal_ChiefRanged.label>
+  <!-- Eevee archer chiefs -->  <Eevee_Tribal_ChiefRanged.labelPlural>伊布弓箭手隊長</Eevee_Tribal_ChiefRanged.labelPlural>
+  <!-- male Eevee archer chief -->  <Eevee_Tribal_ChiefRanged.labelMale>男性伊布弓箭手隊長</Eevee_Tribal_ChiefRanged.labelMale>
+  <!-- male Eevee archer chiefs -->  <Eevee_Tribal_ChiefRanged.labelMalePlural>男性伊布弓箭手隊長</Eevee_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Eevee archer chief -->  <Eevee_Tribal_ChiefRanged.labelFemale>女性伊布弓箭手隊長</Eevee_Tribal_ChiefRanged.labelFemale>
+  <!-- female Eevee archer chiefs -->  <Eevee_Tribal_ChiefRanged.labelFemalePlural>女性伊布弓箭手隊長</Eevee_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>
