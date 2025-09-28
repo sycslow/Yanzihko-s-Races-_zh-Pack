@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Cheetah space refugee -->
+  <CheetahSpaceRefugee.label>獵豹種星際難民</CheetahSpaceRefugee.label>
+  <!-- Cheetah space refugees -->
+  <CheetahSpaceRefugee.labelPlural>獵豹種星際難民</CheetahSpaceRefugee.labelPlural>
+  <!-- male Cheetah space refugee -->
+  <CheetahSpaceRefugee.labelMale>男性獵豹種星際難民</CheetahSpaceRefugee.labelMale>
+  <!-- male Cheetah space refugees -->
+  <CheetahSpaceRefugee.labelMalePlural>男性獵豹種星際難民</CheetahSpaceRefugee.labelMalePlural>
+  <!-- female Cheetah space refugee -->
+  <CheetahSpaceRefugee.labelFemale>女性獵豹種星際難民</CheetahSpaceRefugee.labelFemale>
+  <!-- female Cheetah space refugees -->
+  <CheetahSpaceRefugee.labelFemalePlural>女性獵豹種星際難民</CheetahSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Cheetah slave -->
+  <CheetahSlave.label>獵豹種奴隸</CheetahSlave.label>
+  <!-- Cheetah slaves -->
+  <CheetahSlave.labelPlural>獵豹種奴隸</CheetahSlave.labelPlural>
+  <!-- male Cheetah slave -->
+  <CheetahSlave.labelMale>男性獵豹種奴隸</CheetahSlave.labelMale>
+  <!-- male Cheetah slaves -->
+  <CheetahSlave.labelMalePlural>男性獵豹種奴隸</CheetahSlave.labelMalePlural>
+  <!-- female Cheetah slave -->
+  <CheetahSlave.labelFemale>女性獵豹種奴隸</CheetahSlave.labelFemale>
+  <!-- female Cheetah slaves -->
+  <CheetahSlave.labelFemalePlural>女性獵豹種奴隸</CheetahSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Cheetah -->
+  <CheetahColonist.label>獵豹種</CheetahColonist.label>
+  <!-- Cheetahs -->
+  <CheetahColonist.labelPlural>獵豹種</CheetahColonist.labelPlural>
+  <!-- male Cheetah -->
+  <CheetahColonist.labelMale>男性獵豹種</CheetahColonist.labelMale>
+  <!-- male Cheetahs -->
+  <CheetahColonist.labelMalePlural>男性獵豹種</CheetahColonist.labelMalePlural>
+  <!-- female Cheetah -->
+  <CheetahColonist.labelFemale>女性獵豹種</CheetahColonist.labelFemale>
+  <!-- female Cheetahs -->
+  <CheetahColonist.labelFemalePlural>女性獵豹種</CheetahColonist.labelFemalePlural>
+
+  <!-- Cheetah -->
+  <CheetahTribesperson.label>獵豹種</CheetahTribesperson.label>
+  <!-- Cheetahs -->
+  <CheetahTribesperson.labelPlural>獵豹種</CheetahTribesperson.labelPlural>
+  <!-- male Cheetah -->
+  <CheetahTribesperson.labelMale>男性獵豹種</CheetahTribesperson.labelMale>
+  <!-- male Cheetahs -->
+  <CheetahTribesperson.labelMalePlural>男性獵豹種</CheetahTribesperson.labelMalePlural>
+  <!-- female Cheetah -->
+  <CheetahTribesperson.labelFemale>女性獵豹種</CheetahTribesperson.labelFemale>
+  <!-- female Cheetahs -->
+  <CheetahTribesperson.labelFemalePlural>女性獵豹種</CheetahTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Cheetah grenadier -->
+  <Cheetah_Grenadier_Destructive.label>獵豹種擲彈兵</Cheetah_Grenadier_Destructive.label>
+  <!-- Cheetah grenadiers -->
+  <Cheetah_Grenadier_Destructive.labelPlural>獵豹種擲彈兵</Cheetah_Grenadier_Destructive.labelPlural>
+  <!-- male Cheetah grenadier -->
+  <Cheetah_Grenadier_Destructive.labelMale>男性獵豹種擲彈兵</Cheetah_Grenadier_Destructive.labelMale>
+  <!-- male Cheetah grenadiers -->
+  <Cheetah_Grenadier_Destructive.labelMalePlural>男性獵豹種擲彈兵</Cheetah_Grenadier_Destructive.labelMalePlural>
+  <!-- female Cheetah grenadier -->
+  <Cheetah_Grenadier_Destructive.labelFemale>女性獵豹種擲彈兵</Cheetah_Grenadier_Destructive.labelFemale>
+  <!-- female Cheetah grenadiers -->
+  <Cheetah_Grenadier_Destructive.labelFemalePlural>女性獵豹種擲彈兵</Cheetah_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Cheetah EMPgrenadier -->
+  <Cheetah_Grenadier_EMP.label>獵豹種EMP擲彈兵</Cheetah_Grenadier_EMP.label>
+  <!-- Cheetah EMPgrenadiers -->
+  <Cheetah_Grenadier_EMP.labelPlural>獵豹種EMP擲彈兵</Cheetah_Grenadier_EMP.labelPlural>
+  <!-- male Cheetah EMPgrenadier -->
+  <Cheetah_Grenadier_EMP.labelMale>男性獵豹種EMP擲彈兵</Cheetah_Grenadier_EMP.labelMale>
+  <!-- male Cheetah EMPgrenadiers -->
+  <Cheetah_Grenadier_EMP.labelMalePlural>男性獵豹種EMP擲彈兵</Cheetah_Grenadier_EMP.labelMalePlural>
+  <!-- female Cheetah EMPgrenadier -->
+  <Cheetah_Grenadier_EMP.labelFemale>女性獵豹種EMP擲彈兵</Cheetah_Grenadier_EMP.labelFemale>
+  <!-- female Cheetah EMPgrenadiers -->
+  <Cheetah_Grenadier_EMP.labelFemalePlural>女性獵豹種EMP擲彈兵</Cheetah_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Cheetah smoke grenadier -->
+  <Cheetah_Grenadier_Smoke.label>獵豹種煙霧彈擲彈兵</Cheetah_Grenadier_Smoke.label>
+  <!-- Cheetah smoke grenadiers -->
+  <Cheetah_Grenadier_Smoke.labelPlural>獵豹種煙霧彈擲彈兵</Cheetah_Grenadier_Smoke.labelPlural>
+  <!-- male Cheetah smoke grenadier -->
+  <Cheetah_Grenadier_Smoke.labelMale>男性獵豹種煙霧彈擲彈兵</Cheetah_Grenadier_Smoke.labelMale>
+  <!-- male Cheetah smoke grenadiers -->
+  <Cheetah_Grenadier_Smoke.labelMalePlural>男性獵豹種煙霧彈擲彈兵</Cheetah_Grenadier_Smoke.labelMalePlural>
+  <!-- female Cheetah smoke grenadier -->
+  <Cheetah_Grenadier_Smoke.labelFemale>女性獵豹種煙霧彈擲彈兵</Cheetah_Grenadier_Smoke.labelFemale>
+  <!-- female Cheetah smoke grenadiers -->
+  <Cheetah_Grenadier_Smoke.labelFemalePlural>女性獵豹種煙霧彈擲彈兵</Cheetah_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Cheetah mercenary gunner -->
+  <Cheetah_Mercenary_Gunner.label>獵豹種槍手傭兵</Cheetah_Mercenary_Gunner.label>
+  <!-- Cheetah mercenary gunners -->
+  <Cheetah_Mercenary_Gunner.labelPlural>獵豹種槍手傭兵</Cheetah_Mercenary_Gunner.labelPlural>
+  <!-- male Cheetah mercenary gunner -->
+  <Cheetah_Mercenary_Gunner.labelMale>男性獵豹種槍手傭兵</Cheetah_Mercenary_Gunner.labelMale>
+  <!-- male Cheetah mercenary gunners -->
+  <Cheetah_Mercenary_Gunner.labelMalePlural>男性獵豹種槍手傭兵</Cheetah_Mercenary_Gunner.labelMalePlural>
+  <!-- female Cheetah mercenary gunner -->
+  <Cheetah_Mercenary_Gunner.labelFemale>女性獵豹種槍手傭兵</Cheetah_Mercenary_Gunner.labelFemale>
+  <!-- female Cheetah mercenary gunners -->
+  <Cheetah_Mercenary_Gunner.labelFemalePlural>女性獵豹種槍手傭兵</Cheetah_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Cheetah mercenary sniper -->
+  <Cheetah_Mercenary_Sniper.label>獵豹種狙擊手傭兵</Cheetah_Mercenary_Sniper.label>
+  <!-- Cheetah mercenary snipers -->
+  <Cheetah_Mercenary_Sniper.labelPlural>獵豹種狙擊手傭兵</Cheetah_Mercenary_Sniper.labelPlural>
+  <!-- male Cheetah mercenary sniper -->
+  <Cheetah_Mercenary_Sniper.labelMale>男性獵豹種狙擊手傭兵</Cheetah_Mercenary_Sniper.labelMale>
+  <!-- male Cheetah mercenary snipers -->
+  <Cheetah_Mercenary_Sniper.labelMalePlural>男性獵豹種狙擊手傭兵</Cheetah_Mercenary_Sniper.labelMalePlural>
+  <!-- female Cheetah mercenary sniper -->
+  <Cheetah_Mercenary_Sniper.labelFemale>女性獵豹種狙擊手傭兵</Cheetah_Mercenary_Sniper.labelFemale>
+  <!-- female Cheetah mercenary snipers -->
+  <Cheetah_Mercenary_Sniper.labelFemalePlural>女性獵豹種狙擊手傭兵</Cheetah_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Cheetah mercenary slasher -->
+  <Cheetah_Mercenary_Slasher.label>獵豹種殺手傭兵</Cheetah_Mercenary_Slasher.label>
+  <!-- Cheetah mercenary slashers -->
+  <Cheetah_Mercenary_Slasher.labelPlural>獵豹種殺手傭兵</Cheetah_Mercenary_Slasher.labelPlural>
+  <!-- male Cheetah mercenary slasher -->
+  <Cheetah_Mercenary_Slasher.labelMale>男性獵豹種殺手傭兵</Cheetah_Mercenary_Slasher.labelMale>
+  <!-- male Cheetah mercenary slashers -->
+  <Cheetah_Mercenary_Slasher.labelMalePlural>男性獵豹種殺手傭兵</Cheetah_Mercenary_Slasher.labelMalePlural>
+  <!-- female Cheetah mercenary slasher -->
+  <Cheetah_Mercenary_Slasher.labelFemale>女性獵豹種殺手傭兵</Cheetah_Mercenary_Slasher.labelFemale>
+  <!-- female Cheetah mercenary slashers -->
+  <Cheetah_Mercenary_Slasher.labelFemalePlural>女性獵豹種殺手傭兵</Cheetah_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Cheetah heavy mercenary -->
+  <Cheetah_Mercenary_Heavy.label>獵豹種重裝傭兵</Cheetah_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->
+  <Cheetah_Mercenary_Heavy.labelPlural>重裝傭兵</Cheetah_Mercenary_Heavy.labelPlural>
+  <!-- male Cheetah heavy mercenary -->
+  <Cheetah_Mercenary_Heavy.labelMale>男性獵豹種重裝傭兵</Cheetah_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->
+  <Cheetah_Mercenary_Heavy.labelMalePlural>男性 重裝傭兵</Cheetah_Mercenary_Heavy.labelMalePlural>
+  <!-- female Cheetah heavy mercenary -->
+  <Cheetah_Mercenary_Heavy.labelFemale>女性獵豹種重裝傭兵</Cheetah_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->
+  <Cheetah_Mercenary_Heavy.labelFemalePlural>女性 重裝傭兵</Cheetah_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Cheetah boss -->
+  <Cheetah_PirateBoss.label>獵豹種海賊團長</Cheetah_PirateBoss.label>
+  <!-- bosses -->
+  <Cheetah_PirateBoss.labelPlural>海賊團長</Cheetah_PirateBoss.labelPlural>
+  <!-- male Cheetah boss -->
+  <Cheetah_PirateBoss.labelMale>男性獵豹種海賊團長</Cheetah_PirateBoss.labelMale>
+  <!-- male bosses -->
+  <Cheetah_PirateBoss.labelMalePlural>男性 海賊團長</Cheetah_PirateBoss.labelMalePlural>
+  <!-- female Cheetah boss -->
+  <Cheetah_PirateBoss.labelFemale>女性獵豹種海賊團長</Cheetah_PirateBoss.labelFemale>
+  <!-- female bosses -->
+  <Cheetah_PirateBoss.labelFemalePlural>女性 海賊團長</Cheetah_PirateBoss.labelFemalePlural>
+
+  <!-- Cheetah elite mercenary -->
+  <Cheetah_Mercenary_Elite.label>獵豹種精銳傭兵</Cheetah_Mercenary_Elite.label>
+  <!-- elite mercenaries -->
+  <Cheetah_Mercenary_Elite.labelPlural>精銳傭兵</Cheetah_Mercenary_Elite.labelPlural>
+  <!-- male Cheetah elite mercenary -->
+  <Cheetah_Mercenary_Elite.labelMale>男性獵豹種精銳傭兵</Cheetah_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->
+  <Cheetah_Mercenary_Elite.labelMalePlural>男性獵豹種精銳傭兵</Cheetah_Mercenary_Elite.labelMalePlural>
+  <!-- female Cheetah elite mercenary -->
+  <Cheetah_Mercenary_Elite.labelFemale>女性獵豹種精銳傭兵</Cheetah_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->
+  <Cheetah_Mercenary_Elite.labelFemalePlural>女性獵豹種精銳傭兵</Cheetah_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Cheetah drifter -->
+  <Cheetah_Drifter.label>獵豹種漂泊者</Cheetah_Drifter.label>
+  <!-- Cheetah drifters -->
+  <Cheetah_Drifter.labelPlural>獵豹種漂泊者</Cheetah_Drifter.labelPlural>
+  <!-- male Cheetah drifter -->
+  <Cheetah_Drifter.labelMale>男性獵豹種漂泊者</Cheetah_Drifter.labelMale>
+  <!-- male Cheetah drifters -->
+  <Cheetah_Drifter.labelMalePlural>男性獵豹種漂泊者</Cheetah_Drifter.labelMalePlural>
+  <!-- female Cheetah drifter -->
+  <Cheetah_Drifter.labelFemale>女性獵豹種漂泊者</Cheetah_Drifter.labelFemale>
+  <!-- female Cheetah drifters -->
+  <Cheetah_Drifter.labelFemalePlural>女性獵豹種漂泊者</Cheetah_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Cheetah scavenger gunner -->
+  <Cheetah_Scavenger.label>獵豹種掠奪者槍手</Cheetah_Scavenger.label>
+  <!-- Cheetah scavenger gunners -->
+  <Cheetah_Scavenger.labelPlural>獵豹種掠奪者槍手</Cheetah_Scavenger.labelPlural>
+  <!-- male Cheetah scavenger gunner -->
+  <Cheetah_Scavenger.labelMale>男性獵豹種掠奪者槍手</Cheetah_Scavenger.labelMale>
+  <!-- male Cheetah scavenger gunners -->
+  <Cheetah_Scavenger.labelMalePlural>男性獵豹種掠奪者槍手</Cheetah_Scavenger.labelMalePlural>
+  <!-- female Cheetah scavenger gunner -->
+  <Cheetah_Scavenger.labelFemale>女性獵豹種掠奪者槍手</Cheetah_Scavenger.labelFemale>
+  <!-- female Cheetah scavenger gunners -->
+  <Cheetah_Scavenger.labelFemalePlural>女性獵豹種掠奪者槍手</Cheetah_Scavenger.labelFemalePlural>
+
+  <!-- Cheetah scavenger thrasher -->
+  <Cheetah_Thrasher.label>獵豹種掠奪者暴民</Cheetah_Thrasher.label>
+  <!-- Cheetah scavenger thrashers -->
+  <Cheetah_Thrasher.labelPlural>獵豹種掠奪者暴民</Cheetah_Thrasher.labelPlural>
+  <!-- male Cheetah scavenger thrasher -->
+  <Cheetah_Thrasher.labelMale>男性獵豹種掠奪者暴民</Cheetah_Thrasher.labelMale>
+  <!-- male Cheetah scavenger thrashers -->
+  <Cheetah_Thrasher.labelMalePlural>男性獵豹種掠奪者暴民</Cheetah_Thrasher.labelMalePlural>
+  <!-- female Cheetah scavenger thrasher -->
+  <Cheetah_Thrasher.labelFemale>女性獵豹種掠奪者暴民</Cheetah_Thrasher.labelFemale>
+  <!-- female Cheetah scavenger thrashers -->
+  <Cheetah_Thrasher.labelFemalePlural>女性獵豹種掠奪者暴民</Cheetah_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Cheetah pirate gunner -->
+  <Cheetah_Pirate.label>獵豹種海賊槍手</Cheetah_Pirate.label>
+  <!-- Cheetah pirate gunners -->
+  <Cheetah_Pirate.labelPlural>獵豹種海賊槍手</Cheetah_Pirate.labelPlural>
+  <!-- male Cheetah pirate gunner -->
+  <Cheetah_Pirate.labelMale>男性獵豹種海賊槍手</Cheetah_Pirate.labelMale>
+  <!-- male Cheetah pirate gunners -->
+  <Cheetah_Pirate.labelMalePlural>男性獵豹種海賊槍手</Cheetah_Pirate.labelMalePlural>
+  <!-- female Cheetah pirate gunner -->
+  <Cheetah_Pirate.labelFemale>女性獵豹種海賊槍手</Cheetah_Pirate.labelFemale>
+  <!-- female Cheetah pirate gunners -->
+  <Cheetah_Pirate.labelFemalePlural>女性獵豹種海賊槍手</Cheetah_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Cheetah villager -->
+  <Cheetah_Villager.label>獵豹種村民</Cheetah_Villager.label>
+  <!-- Cheetah villagers -->
+  <Cheetah_Villager.labelPlural>獵豹種村民</Cheetah_Villager.labelPlural>
+  <!-- male Cheetah villager -->
+  <Cheetah_Villager.labelMale>男性獵豹種村民</Cheetah_Villager.labelMale>
+  <!-- male Cheetah villagers -->
+  <Cheetah_Villager.labelMalePlural>男性獵豹種村民</Cheetah_Villager.labelMalePlural>
+  <!-- female Cheetah villager -->
+  <Cheetah_Villager.labelFemale>女性獵豹種村民</Cheetah_Villager.labelFemale>
+  <!-- female Cheetah villagers -->
+  <Cheetah_Villager.labelFemalePlural>女性獵豹種村民</Cheetah_Villager.labelFemalePlural>
+
+  <!-- Cheetah town guard -->
+  <Cheetah_Town_Guard.label>獵豹種城鎮衛兵</Cheetah_Town_Guard.label>
+  <!-- Cheetah town guards -->
+  <Cheetah_Town_Guard.labelPlural>獵豹種城鎮衛兵</Cheetah_Town_Guard.labelPlural>
+  <!-- male Cheetah town guard -->
+  <Cheetah_Town_Guard.labelMale>男性獵豹種城鎮衛兵</Cheetah_Town_Guard.labelMale>
+  <!-- male Cheetah town guards -->
+  <Cheetah_Town_Guard.labelMalePlural>男性獵豹種城鎮衛兵</Cheetah_Town_Guard.labelMalePlural>
+  <!-- female Cheetah town guard -->
+  <Cheetah_Town_Guard.labelFemale>女性獵豹種城鎮衛兵</Cheetah_Town_Guard.labelFemale>
+  <!-- female Cheetah town guards -->
+  <Cheetah_Town_Guard.labelFemalePlural>女性獵豹種城鎮衛兵</Cheetah_Town_Guard.labelFemalePlural>
+
+  <!-- Cheetah town trader -->
+  <Cheetah_Town_Trader.label>獵豹種城鎮商人</Cheetah_Town_Trader.label>
+  <!-- Cheetah town traders -->
+  <Cheetah_Town_Trader.labelPlural>獵豹種城鎮商人</Cheetah_Town_Trader.labelPlural>
+  <!-- male Cheetah town trader -->
+  <Cheetah_Town_Trader.labelMale>男性獵豹種城鎮商人</Cheetah_Town_Trader.labelMale>
+  <!-- male Cheetah town traders -->
+  <Cheetah_Town_Trader.labelMalePlural>男性獵豹種城鎮商人</Cheetah_Town_Trader.labelMalePlural>
+  <!-- female Cheetah town trader -->
+  <Cheetah_Town_Trader.labelFemale>女性獵豹種城鎮商人</Cheetah_Town_Trader.labelFemale>
+  <!-- female Cheetah town traders -->
+  <Cheetah_Town_Trader.labelFemalePlural>女性獵豹種城鎮商人</Cheetah_Town_Trader.labelFemalePlural>
+
+  <!-- Cheetah town councilman -->
+  <Cheetah_Town_Councilman.label>獵豹種城鎮議員</Cheetah_Town_Councilman.label>
+  <!-- town councilmen -->
+  <Cheetah_Town_Councilman.labelPlural>獵豹種城鎮議員</Cheetah_Town_Councilman.labelPlural>
+  <!-- male Cheetah town councilman -->
+  <Cheetah_Town_Councilman.labelMale>男性獵豹種城鎮議員</Cheetah_Town_Councilman.labelMale>
+  <!-- male town councilmen -->
+  <Cheetah_Town_Councilman.labelMalePlural>男性獵豹種城鎮議員</Cheetah_Town_Councilman.labelMalePlural>
+  <!-- female Cheetah town councilman -->
+  <Cheetah_Town_Councilman.labelFemale>女性獵豹種城鎮議員</Cheetah_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->
+  <Cheetah_Town_Councilman.labelFemalePlural>女性獵豹種城鎮議員</Cheetah_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Cheetah penitent -->
+  <Cheetah_Tribal_Penitent.label>獵豹種海賊</Cheetah_Tribal_Penitent.label>
+  <!-- Cheetah penitents -->
+  <Cheetah_Tribal_Penitent.labelPlural>獵豹種海賊</Cheetah_Tribal_Penitent.labelPlural>
+  <!-- male Cheetah penitent -->
+  <Cheetah_Tribal_Penitent.labelMale>男性獵豹種海賊</Cheetah_Tribal_Penitent.labelMale>
+  <!-- male Cheetah penitents -->
+  <Cheetah_Tribal_Penitent.labelMalePlural>男性獵豹種海賊</Cheetah_Tribal_Penitent.labelMalePlural>
+  <!-- female Cheetah penitent -->
+  <Cheetah_Tribal_Penitent.labelFemale>女性獵豹種海賊</Cheetah_Tribal_Penitent.labelFemale>
+  <!-- female Cheetah penitents -->
+  <Cheetah_Tribal_Penitent.labelFemalePlural>女性獵豹種海賊</Cheetah_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Cheetah archer -->
+  <Cheetah_Tribal_Archer.label>獵豹種弓箭手</Cheetah_Tribal_Archer.label>
+  <!-- Cheetah archers -->
+  <Cheetah_Tribal_Archer.labelPlural>獵豹種弓箭手</Cheetah_Tribal_Archer.labelPlural>
+  <!-- male Cheetah archer -->
+  <Cheetah_Tribal_Archer.labelMale>男性獵豹種弓箭手</Cheetah_Tribal_Archer.labelMale>
+  <!-- male Cheetah archers -->
+  <Cheetah_Tribal_Archer.labelMalePlural>男性獵豹種弓箭手</Cheetah_Tribal_Archer.labelMalePlural>
+  <!-- female Cheetah archer -->
+  <Cheetah_Tribal_Archer.labelFemale>女性獵豹種弓箭手</Cheetah_Tribal_Archer.labelFemale>
+  <!-- female Cheetah archers -->
+  <Cheetah_Tribal_Archer.labelFemalePlural>女性獵豹種弓箭手</Cheetah_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Cheetah warrior -->
+  <Cheetah_Tribal_Warrior.label>獵豹種戰士</Cheetah_Tribal_Warrior.label>
+  <!-- Cheetah warriors -->
+  <Cheetah_Tribal_Warrior.labelPlural>獵豹種戰士</Cheetah_Tribal_Warrior.labelPlural>
+  <!-- male Cheetah warrior -->
+  <Cheetah_Tribal_Warrior.labelMale>男性獵豹種戰士</Cheetah_Tribal_Warrior.labelMale>
+  <!-- male Cheetah warriors -->
+  <Cheetah_Tribal_Warrior.labelMalePlural>男性獵豹種戰士</Cheetah_Tribal_Warrior.labelMalePlural>
+  <!-- female Cheetah warrior -->
+  <Cheetah_Tribal_Warrior.labelFemale>女性獵豹種戰士</Cheetah_Tribal_Warrior.labelFemale>
+  <!-- female Cheetah warriors -->
+  <Cheetah_Tribal_Warrior.labelFemalePlural>女性獵豹種戰士</Cheetah_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Cheetah hunter -->
+  <Cheetah_Tribal_Hunter.label>獵豹種獵人</Cheetah_Tribal_Hunter.label>
+  <!-- Cheetah hunters -->
+  <Cheetah_Tribal_Hunter.labelPlural>獵豹種獵人</Cheetah_Tribal_Hunter.labelPlural>
+  <!-- male Cheetah hunter -->
+  <Cheetah_Tribal_Hunter.labelMale>男性獵豹種獵人</Cheetah_Tribal_Hunter.labelMale>
+  <!-- male Cheetah hunters -->
+  <Cheetah_Tribal_Hunter.labelMalePlural>男性獵豹種獵人</Cheetah_Tribal_Hunter.labelMalePlural>
+  <!-- female Cheetah hunter -->
+  <Cheetah_Tribal_Hunter.labelFemale>女性獵豹種獵人</Cheetah_Tribal_Hunter.labelFemale>
+  <!-- female Cheetah hunters -->
+  <Cheetah_Tribal_Hunter.labelFemalePlural>女性獵豹種獵人</Cheetah_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Cheetah trader -->
+  <Cheetah_Tribal_Trader.label>獵豹種商人</Cheetah_Tribal_Trader.label>
+  <!-- Cheetah traders -->
+  <Cheetah_Tribal_Trader.labelPlural>獵豹種商人</Cheetah_Tribal_Trader.labelPlural>
+  <!-- male Cheetah trader -->
+  <Cheetah_Tribal_Trader.labelMale>男性獵豹種商人</Cheetah_Tribal_Trader.labelMale>
+  <!-- male Cheetah traders -->
+  <Cheetah_Tribal_Trader.labelMalePlural>男性獵豹種商人</Cheetah_Tribal_Trader.labelMalePlural>
+  <!-- female Cheetah trader -->
+  <Cheetah_Tribal_Trader.labelFemale>女性獵豹種商人</Cheetah_Tribal_Trader.labelFemale>
+  <!-- female Cheetah traders -->
+  <Cheetah_Tribal_Trader.labelFemalePlural>女性獵豹種商人</Cheetah_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Cheetah berserker -->
+  <Cheetah_Tribal_Berserker.label>獵豹種狂戰士</Cheetah_Tribal_Berserker.label>
+  <!-- Cheetah berserkers -->
+  <Cheetah_Tribal_Berserker.labelPlural>獵豹種狂戰士</Cheetah_Tribal_Berserker.labelPlural>
+  <!-- male Cheetah berserker -->
+  <Cheetah_Tribal_Berserker.labelMale>男性獵豹種狂戰士</Cheetah_Tribal_Berserker.labelMale>
+  <!-- male Cheetah berserkers -->
+  <Cheetah_Tribal_Berserker.labelMalePlural>男性獵豹種狂戰士</Cheetah_Tribal_Berserker.labelMalePlural>
+  <!-- female Cheetah berserker -->
+  <Cheetah_Tribal_Berserker.labelFemale>女性獵豹種狂戰士</Cheetah_Tribal_Berserker.labelFemale>
+  <!-- female Cheetah berserkers -->
+  <Cheetah_Tribal_Berserker.labelFemalePlural>女性獵豹種狂戰士</Cheetah_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Cheetah heavy archer -->
+  <Cheetah_Tribal_HeavyArcher.label>獵豹種重裝弓箭手</Cheetah_Tribal_HeavyArcher.label>
+  <!-- Cheetah heavy archers -->
+  <Cheetah_Tribal_HeavyArcher.labelPlural>獵豹種重裝弓箭手</Cheetah_Tribal_HeavyArcher.labelPlural>
+  <!-- male Cheetah heavy archer -->
+  <Cheetah_Tribal_HeavyArcher.labelMale>男性獵豹種重裝弓箭手</Cheetah_Tribal_HeavyArcher.labelMale>
+  <!-- male Cheetah heavy archers -->
+  <Cheetah_Tribal_HeavyArcher.labelMalePlural>男性獵豹種重裝弓箭手</Cheetah_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Cheetah heavy archer -->
+  <Cheetah_Tribal_HeavyArcher.labelFemale>女性獵豹種重裝弓箭手</Cheetah_Tribal_HeavyArcher.labelFemale>
+  <!-- female Cheetah heavy archers -->
+  <Cheetah_Tribal_HeavyArcher.labelFemalePlural>女性獵豹種重裝弓箭手</Cheetah_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Cheetah_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Cheetah_Tribal_ChiefMelee.label>Cheetah_Tribal_ChiefMelee</Cheetah_Tribal_ChiefMelee.label>-->
+  <!-- Cheetah_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Cheetah_Tribal_ChiefMelee.labelPlural>Cheetah_Tribal_ChiefMelees</Cheetah_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Cheetah_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Cheetah_Tribal_ChiefMelee.labelMale>男性獵豹種_Tribal_ChiefMelee</Cheetah_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Cheetah_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Cheetah_Tribal_ChiefMelee.labelMalePlural>男性獵豹種_Tribal_ChiefMelees</Cheetah_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Cheetah_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Cheetah_Tribal_ChiefMelee.labelFemale>女性獵豹種_Tribal_ChiefMelee</Cheetah_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Cheetah_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Cheetah_Tribal_ChiefMelee.labelFemalePlural>女性獵豹種_Tribal_ChiefMelees</Cheetah_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Cheetah berserker chief -->
+  <Cheetah_Tribal_ChiefMelee.label>獵豹種狂戰士隊長</Cheetah_Tribal_ChiefMelee.label>
+  <!-- Cheetah berserker chiefs -->
+  <Cheetah_Tribal_ChiefMelee.labelPlural>獵豹種狂戰士隊長</Cheetah_Tribal_ChiefMelee.labelPlural>
+  <!-- male Cheetah berserker chief -->
+  <Cheetah_Tribal_ChiefMelee.labelMale>男性獵豹種狂戰士隊長</Cheetah_Tribal_ChiefMelee.labelMale>
+  <!-- male Cheetah berserker chiefs -->
+  <Cheetah_Tribal_ChiefMelee.labelMalePlural>男性獵豹種狂戰士隊長</Cheetah_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Cheetah berserker chief -->
+  <Cheetah_Tribal_ChiefMelee.labelFemale>女性獵豹種狂戰士隊長</Cheetah_Tribal_ChiefMelee.labelFemale>
+  <!-- female Cheetah berserker chiefs -->
+  <Cheetah_Tribal_ChiefMelee.labelFemalePlural>女性獵豹種狂戰士隊長</Cheetah_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Cheetah archer chief -->
+  <Cheetah_Tribal_ChiefRanged.label>獵豹種弓箭手隊長</Cheetah_Tribal_ChiefRanged.label>
+  <!-- Cheetah archer chiefs -->
+  <Cheetah_Tribal_ChiefRanged.labelPlural>獵豹種弓箭手隊長</Cheetah_Tribal_ChiefRanged.labelPlural>
+  <!-- male Cheetah archer chief -->
+  <Cheetah_Tribal_ChiefRanged.labelMale>男性獵豹種弓箭手隊長</Cheetah_Tribal_ChiefRanged.labelMale>
+  <!-- male Cheetah archer chiefs -->
+  <Cheetah_Tribal_ChiefRanged.labelMalePlural>男性獵豹種弓箭手隊長</Cheetah_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Cheetah archer chief -->
+  <Cheetah_Tribal_ChiefRanged.labelFemale>女性獵豹種弓箭手隊長</Cheetah_Tribal_ChiefRanged.labelFemale>
+  <!-- female Cheetah archer chiefs -->
+  <Cheetah_Tribal_ChiefRanged.labelFemalePlural>女性獵豹種弓箭手隊長</Cheetah_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

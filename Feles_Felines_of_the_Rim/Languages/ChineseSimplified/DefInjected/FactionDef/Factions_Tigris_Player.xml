@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Tigris Tribe -->  <PlayerTigrisTribal.label>老虎种部落</PlayerTigrisTribal.label>
+  <!-- Tigris tribe -->  <PlayerTigrisTribal.description>老虎种部落</PlayerTigrisTribal.description>
+  <!-- Tigris -->  <PlayerTigrisTribal.pawnsPlural>老虎种部落民</PlayerTigrisTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Tigris Tribe (No tech) -->  <PlayerTigrisTribalNoTech.label>老虎种部落 (无科技)</PlayerTigrisTribalNoTech.label>
+  <!-- Tigris tribe -->  <PlayerTigrisTribalNoTech.description>老虎种部落</PlayerTigrisTribalNoTech.description>
+  <!-- Tigris -->  <PlayerTigrisTribalNoTech.pawnsPlural>老虎种部落民</PlayerTigrisTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Tigris Colony -->  <PlayerTigrisIndustrial.label>老虎种殖民地</PlayerTigrisIndustrial.label>
+  <!-- Tigris Colony -->  <PlayerTigrisIndustrial.description>老虎种殖民地</PlayerTigrisIndustrial.description>
+  <!-- Tigris -->  <PlayerTigrisIndustrial.pawnsPlural>老虎种殖民者</PlayerTigrisIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Tigris Colony (No tech) -->  <PlayerTigrisIndustrialNoTech.label>老虎种殖民地 (无科技)</PlayerTigrisIndustrialNoTech.label>
+  <!-- Tigris colony -->  <PlayerTigrisIndustrialNoTech.description>老虎种殖民地</PlayerTigrisIndustrialNoTech.description>
+  <!-- Tigris -->  <PlayerTigrisIndustrialNoTech.pawnsPlural>老虎种殖民者</PlayerTigrisIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

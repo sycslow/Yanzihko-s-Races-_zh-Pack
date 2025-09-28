@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Jaguar space refugee -->
+  <JaguarSpaceRefugee.label>美洲豹種星際難民</JaguarSpaceRefugee.label>
+  <!-- Jaguar space refugees -->
+  <JaguarSpaceRefugee.labelPlural>美洲豹種星際難民</JaguarSpaceRefugee.labelPlural>
+  <!-- male Jaguar space refugee -->
+  <JaguarSpaceRefugee.labelMale>男性美洲豹種星際難民</JaguarSpaceRefugee.labelMale>
+  <!-- male Jaguar space refugees -->
+  <JaguarSpaceRefugee.labelMalePlural>男性美洲豹種星際難民</JaguarSpaceRefugee.labelMalePlural>
+  <!-- female Jaguar space refugee -->
+  <JaguarSpaceRefugee.labelFemale>女性美洲豹種星際難民</JaguarSpaceRefugee.labelFemale>
+  <!-- female Jaguar space refugees -->
+  <JaguarSpaceRefugee.labelFemalePlural>女性美洲豹種星際難民</JaguarSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Jaguar slave -->
+  <JaguarSlave.label>美洲豹種奴隸</JaguarSlave.label>
+  <!-- Jaguar slaves -->
+  <JaguarSlave.labelPlural>美洲豹種奴隸</JaguarSlave.labelPlural>
+  <!-- male Jaguar slave -->
+  <JaguarSlave.labelMale>男性美洲豹種奴隸</JaguarSlave.labelMale>
+  <!-- male Jaguar slaves -->
+  <JaguarSlave.labelMalePlural>男性美洲豹種奴隸</JaguarSlave.labelMalePlural>
+  <!-- female Jaguar slave -->
+  <JaguarSlave.labelFemale>女性美洲豹種奴隸</JaguarSlave.labelFemale>
+  <!-- female Jaguar slaves -->
+  <JaguarSlave.labelFemalePlural>女性美洲豹種奴隸</JaguarSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Jaguar -->
+  <JaguarColonist.label>Jaguar</JaguarColonist.label>
+  <!-- Jaguars -->
+  <JaguarColonist.labelPlural>Jaguars</JaguarColonist.labelPlural>
+  <!-- male Jaguar -->
+  <JaguarColonist.labelMale>男性美洲豹種</JaguarColonist.labelMale>
+  <!-- male Jaguars -->
+  <JaguarColonist.labelMalePlural>男性美洲豹種</JaguarColonist.labelMalePlural>
+  <!-- female Jaguar -->
+  <JaguarColonist.labelFemale>女性美洲豹種</JaguarColonist.labelFemale>
+  <!-- female Jaguars -->
+  <JaguarColonist.labelFemalePlural>女性美洲豹種</JaguarColonist.labelFemalePlural>
+
+  <!-- Jaguar -->
+  <JaguarTribesperson.label>Jaguar</JaguarTribesperson.label>
+  <!-- Jaguars -->
+  <JaguarTribesperson.labelPlural>Jaguars</JaguarTribesperson.labelPlural>
+  <!-- male Jaguar -->
+  <JaguarTribesperson.labelMale>男性美洲豹種</JaguarTribesperson.labelMale>
+  <!-- male Jaguars -->
+  <JaguarTribesperson.labelMalePlural>男性美洲豹種</JaguarTribesperson.labelMalePlural>
+  <!-- female Jaguar -->
+  <JaguarTribesperson.labelFemale>女性美洲豹種</JaguarTribesperson.labelFemale>
+  <!-- female Jaguars -->
+  <JaguarTribesperson.labelFemalePlural>女性美洲豹種</JaguarTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Jaguar grenadier -->
+  <Jaguar_Grenadier_Destructive.label>美洲豹種擲彈兵</Jaguar_Grenadier_Destructive.label>
+  <!-- Jaguar grenadiers -->
+  <Jaguar_Grenadier_Destructive.labelPlural>美洲豹種擲彈兵</Jaguar_Grenadier_Destructive.labelPlural>
+  <!-- male Jaguar grenadier -->
+  <Jaguar_Grenadier_Destructive.labelMale>男性美洲豹種擲彈兵</Jaguar_Grenadier_Destructive.labelMale>
+  <!-- male Jaguar grenadiers -->
+  <Jaguar_Grenadier_Destructive.labelMalePlural>男性美洲豹種擲彈兵</Jaguar_Grenadier_Destructive.labelMalePlural>
+  <!-- female Jaguar grenadier -->
+  <Jaguar_Grenadier_Destructive.labelFemale>女性美洲豹種擲彈兵</Jaguar_Grenadier_Destructive.labelFemale>
+  <!-- female Jaguar grenadiers -->
+  <Jaguar_Grenadier_Destructive.labelFemalePlural>女性美洲豹種擲彈兵</Jaguar_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Jaguar EMPgrenadier -->
+  <Jaguar_Grenadier_EMP.label>美洲豹種EMP擲彈兵</Jaguar_Grenadier_EMP.label>
+  <!-- Jaguar EMPgrenadiers -->
+  <Jaguar_Grenadier_EMP.labelPlural>美洲豹種EMP擲彈兵</Jaguar_Grenadier_EMP.labelPlural>
+  <!-- male Jaguar EMPgrenadier -->
+  <Jaguar_Grenadier_EMP.labelMale>男性美洲豹種EMP擲彈兵</Jaguar_Grenadier_EMP.labelMale>
+  <!-- male Jaguar EMPgrenadiers -->
+  <Jaguar_Grenadier_EMP.labelMalePlural>男性美洲豹種EMP擲彈兵</Jaguar_Grenadier_EMP.labelMalePlural>
+  <!-- female Jaguar EMPgrenadier -->
+  <Jaguar_Grenadier_EMP.labelFemale>女性美洲豹種EMP擲彈兵</Jaguar_Grenadier_EMP.labelFemale>
+  <!-- female Jaguar EMPgrenadiers -->
+  <Jaguar_Grenadier_EMP.labelFemalePlural>女性美洲豹種EMP擲彈兵</Jaguar_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Jaguar smoke grenadier -->
+  <Jaguar_Grenadier_Smoke.label>美洲豹種煙霧彈擲彈兵</Jaguar_Grenadier_Smoke.label>
+  <!-- Jaguar smoke grenadiers -->
+  <Jaguar_Grenadier_Smoke.labelPlural>美洲豹種煙霧彈擲彈兵</Jaguar_Grenadier_Smoke.labelPlural>
+  <!-- male Jaguar smoke grenadier -->
+  <Jaguar_Grenadier_Smoke.labelMale>男性美洲豹種煙霧彈擲彈兵</Jaguar_Grenadier_Smoke.labelMale>
+  <!-- male Jaguar smoke grenadiers -->
+  <Jaguar_Grenadier_Smoke.labelMalePlural>男性美洲豹種煙霧彈擲彈兵</Jaguar_Grenadier_Smoke.labelMalePlural>
+  <!-- female Jaguar smoke grenadier -->
+  <Jaguar_Grenadier_Smoke.labelFemale>女性美洲豹種煙霧彈擲彈兵</Jaguar_Grenadier_Smoke.labelFemale>
+  <!-- female Jaguar smoke grenadiers -->
+  <Jaguar_Grenadier_Smoke.labelFemalePlural>女性美洲豹種煙霧彈擲彈兵</Jaguar_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Jaguar mercenary gunner -->
+  <Jaguar_Mercenary_Gunner.label>美洲豹種槍手傭兵</Jaguar_Mercenary_Gunner.label>
+  <!-- Jaguar mercenary gunners -->
+  <Jaguar_Mercenary_Gunner.labelPlural>美洲豹種槍手傭兵</Jaguar_Mercenary_Gunner.labelPlural>
+  <!-- male Jaguar mercenary gunner -->
+  <Jaguar_Mercenary_Gunner.labelMale>男性美洲豹種槍手傭兵</Jaguar_Mercenary_Gunner.labelMale>
+  <!-- male Jaguar mercenary gunners -->
+  <Jaguar_Mercenary_Gunner.labelMalePlural>男性美洲豹種槍手傭兵</Jaguar_Mercenary_Gunner.labelMalePlural>
+  <!-- female Jaguar mercenary gunner -->
+  <Jaguar_Mercenary_Gunner.labelFemale>女性美洲豹種槍手傭兵</Jaguar_Mercenary_Gunner.labelFemale>
+  <!-- female Jaguar mercenary gunners -->
+  <Jaguar_Mercenary_Gunner.labelFemalePlural>女性美洲豹種槍手傭兵</Jaguar_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Jaguar mercenary sniper -->
+  <Jaguar_Mercenary_Sniper.label>美洲豹種狙擊手傭兵</Jaguar_Mercenary_Sniper.label>
+  <!-- Jaguar mercenary snipers -->
+  <Jaguar_Mercenary_Sniper.labelPlural>美洲豹種狙擊手傭兵</Jaguar_Mercenary_Sniper.labelPlural>
+  <!-- male Jaguar mercenary sniper -->
+  <Jaguar_Mercenary_Sniper.labelMale>男性美洲豹種狙擊手傭兵</Jaguar_Mercenary_Sniper.labelMale>
+  <!-- male Jaguar mercenary snipers -->
+  <Jaguar_Mercenary_Sniper.labelMalePlural>男性美洲豹種狙擊手傭兵</Jaguar_Mercenary_Sniper.labelMalePlural>
+  <!-- female Jaguar mercenary sniper -->
+  <Jaguar_Mercenary_Sniper.labelFemale>女性美洲豹種狙擊手傭兵</Jaguar_Mercenary_Sniper.labelFemale>
+  <!-- female Jaguar mercenary snipers -->
+  <Jaguar_Mercenary_Sniper.labelFemalePlural>女性美洲豹種狙擊手傭兵</Jaguar_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Jaguar mercenary slasher -->
+  <Jaguar_Mercenary_Slasher.label>美洲豹種殺手傭兵</Jaguar_Mercenary_Slasher.label>
+  <!-- Jaguar mercenary slashers -->
+  <Jaguar_Mercenary_Slasher.labelPlural>美洲豹種殺手傭兵</Jaguar_Mercenary_Slasher.labelPlural>
+  <!-- male Jaguar mercenary slasher -->
+  <Jaguar_Mercenary_Slasher.labelMale>男性美洲豹種殺手傭兵</Jaguar_Mercenary_Slasher.labelMale>
+  <!-- male Jaguar mercenary slashers -->
+  <Jaguar_Mercenary_Slasher.labelMalePlural>男性美洲豹種殺手傭兵</Jaguar_Mercenary_Slasher.labelMalePlural>
+  <!-- female Jaguar mercenary slasher -->
+  <Jaguar_Mercenary_Slasher.labelFemale>女性美洲豹種殺手傭兵</Jaguar_Mercenary_Slasher.labelFemale>
+  <!-- female Jaguar mercenary slashers -->
+  <Jaguar_Mercenary_Slasher.labelFemalePlural>女性美洲豹種殺手傭兵</Jaguar_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Jaguar heavy mercenary -->
+  <Jaguar_Mercenary_Heavy.label>美洲豹種重裝傭兵</Jaguar_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->
+  <Jaguar_Mercenary_Heavy.labelPlural>重裝傭兵</Jaguar_Mercenary_Heavy.labelPlural>
+  <!-- male Jaguar heavy mercenary -->
+  <Jaguar_Mercenary_Heavy.labelMale>男性美洲豹種重裝傭兵</Jaguar_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->
+  <Jaguar_Mercenary_Heavy.labelMalePlural>男性 重裝傭兵</Jaguar_Mercenary_Heavy.labelMalePlural>
+  <!-- female Jaguar heavy mercenary -->
+  <Jaguar_Mercenary_Heavy.labelFemale>女性美洲豹種重裝傭兵</Jaguar_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->
+  <Jaguar_Mercenary_Heavy.labelFemalePlural>女性 重裝傭兵</Jaguar_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Jaguar boss -->
+  <Jaguar_PirateBoss.label>美洲豹種海賊團長</Jaguar_PirateBoss.label>
+  <!-- bosses -->
+  <Jaguar_PirateBoss.labelPlural>海賊團長</Jaguar_PirateBoss.labelPlural>
+  <!-- male Jaguar boss -->
+  <Jaguar_PirateBoss.labelMale>男性美洲豹種海賊團長</Jaguar_PirateBoss.labelMale>
+  <!-- male bosses -->
+  <Jaguar_PirateBoss.labelMalePlural>男性 海賊團長</Jaguar_PirateBoss.labelMalePlural>
+  <!-- female Jaguar boss -->
+  <Jaguar_PirateBoss.labelFemale>女性美洲豹種海賊團長</Jaguar_PirateBoss.labelFemale>
+  <!-- female bosses -->
+  <Jaguar_PirateBoss.labelFemalePlural>女性 海賊團長</Jaguar_PirateBoss.labelFemalePlural>
+
+  <!-- Jaguar elite mercenary -->
+  <Jaguar_Mercenary_Elite.label>美洲豹種精銳傭兵</Jaguar_Mercenary_Elite.label>
+  <!-- elite mercenaries -->
+  <Jaguar_Mercenary_Elite.labelPlural>精銳傭兵</Jaguar_Mercenary_Elite.labelPlural>
+  <!-- male Jaguar elite mercenary -->
+  <Jaguar_Mercenary_Elite.labelMale>男性美洲豹種精銳傭兵</Jaguar_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->
+  <Jaguar_Mercenary_Elite.labelMalePlural>男性 精銳傭兵</Jaguar_Mercenary_Elite.labelMalePlural>
+  <!-- female Jaguar elite mercenary -->
+  <Jaguar_Mercenary_Elite.labelFemale>女性美洲豹種精銳傭兵</Jaguar_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->
+  <Jaguar_Mercenary_Elite.labelFemalePlural>女性 精銳傭兵</Jaguar_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Jaguar drifter -->
+  <Jaguar_Drifter.label>美洲豹種漂泊者</Jaguar_Drifter.label>
+  <!-- Jaguar drifters -->
+  <Jaguar_Drifter.labelPlural>美洲豹種漂泊者</Jaguar_Drifter.labelPlural>
+  <!-- male Jaguar drifter -->
+  <Jaguar_Drifter.labelMale>男性美洲豹種漂泊者</Jaguar_Drifter.labelMale>
+  <!-- male Jaguar drifters -->
+  <Jaguar_Drifter.labelMalePlural>男性美洲豹種漂泊者</Jaguar_Drifter.labelMalePlural>
+  <!-- female Jaguar drifter -->
+  <Jaguar_Drifter.labelFemale>女性美洲豹種漂泊者</Jaguar_Drifter.labelFemale>
+  <!-- female Jaguar drifters -->
+  <Jaguar_Drifter.labelFemalePlural>女性美洲豹種漂泊者</Jaguar_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Jaguar scavenger gunner -->
+  <Jaguar_Scavenger.label>美洲豹種掠奪者槍手</Jaguar_Scavenger.label>
+  <!-- Jaguar scavenger gunners -->
+  <Jaguar_Scavenger.labelPlural>美洲豹種掠奪者槍手</Jaguar_Scavenger.labelPlural>
+  <!-- male Jaguar scavenger gunner -->
+  <Jaguar_Scavenger.labelMale>男性美洲豹種掠奪者槍手</Jaguar_Scavenger.labelMale>
+  <!-- male Jaguar scavenger gunners -->
+  <Jaguar_Scavenger.labelMalePlural>男性美洲豹種掠奪者槍手</Jaguar_Scavenger.labelMalePlural>
+  <!-- female Jaguar scavenger gunner -->
+  <Jaguar_Scavenger.labelFemale>女性美洲豹種掠奪者槍手</Jaguar_Scavenger.labelFemale>
+  <!-- female Jaguar scavenger gunners -->
+  <Jaguar_Scavenger.labelFemalePlural>女性美洲豹種掠奪者槍手</Jaguar_Scavenger.labelFemalePlural>
+
+  <!-- Jaguar scavenger thrasher -->
+  <Jaguar_Thrasher.label>美洲豹種掠奪者暴民</Jaguar_Thrasher.label>
+  <!-- Jaguar scavenger thrashers -->
+  <Jaguar_Thrasher.labelPlural>美洲豹種掠奪者暴民</Jaguar_Thrasher.labelPlural>
+  <!-- male Jaguar scavenger thrasher -->
+  <Jaguar_Thrasher.labelMale>男性美洲豹種掠奪者暴民</Jaguar_Thrasher.labelMale>
+  <!-- male Jaguar scavenger thrashers -->
+  <Jaguar_Thrasher.labelMalePlural>男性美洲豹種掠奪者暴民</Jaguar_Thrasher.labelMalePlural>
+  <!-- female Jaguar scavenger thrasher -->
+  <Jaguar_Thrasher.labelFemale>女性美洲豹種掠奪者暴民</Jaguar_Thrasher.labelFemale>
+  <!-- female Jaguar scavenger thrashers -->
+  <Jaguar_Thrasher.labelFemalePlural>女性美洲豹種掠奪者暴民</Jaguar_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Jaguar pirate gunner -->
+  <Jaguar_Pirate.label>美洲豹種海賊槍手</Jaguar_Pirate.label>
+  <!-- Jaguar pirate gunners -->
+  <Jaguar_Pirate.labelPlural>美洲豹種海賊槍手</Jaguar_Pirate.labelPlural>
+  <!-- male Jaguar pirate gunner -->
+  <Jaguar_Pirate.labelMale>男性美洲豹種海賊槍手</Jaguar_Pirate.labelMale>
+  <!-- male Jaguar pirate gunners -->
+  <Jaguar_Pirate.labelMalePlural>男性美洲豹種海賊槍手</Jaguar_Pirate.labelMalePlural>
+  <!-- female Jaguar pirate gunner -->
+  <Jaguar_Pirate.labelFemale>女性美洲豹種海賊槍手</Jaguar_Pirate.labelFemale>
+  <!-- female Jaguar pirate gunners -->
+  <Jaguar_Pirate.labelFemalePlural>女性美洲豹種海賊槍手</Jaguar_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Jaguar villager -->
+  <Jaguar_Villager.label>美洲豹種村民</Jaguar_Villager.label>
+  <!-- Jaguar villagers -->
+  <Jaguar_Villager.labelPlural>美洲豹種村民</Jaguar_Villager.labelPlural>
+  <!-- male Jaguar villager -->
+  <Jaguar_Villager.labelMale>男性美洲豹種村民</Jaguar_Villager.labelMale>
+  <!-- male Jaguar villagers -->
+  <Jaguar_Villager.labelMalePlural>男性美洲豹種村民</Jaguar_Villager.labelMalePlural>
+  <!-- female Jaguar villager -->
+  <Jaguar_Villager.labelFemale>女性美洲豹種村民</Jaguar_Villager.labelFemale>
+  <!-- female Jaguar villagers -->
+  <Jaguar_Villager.labelFemalePlural>女性美洲豹種村民</Jaguar_Villager.labelFemalePlural>
+
+  <!-- Jaguar town guard -->
+  <Jaguar_Town_Guard.label>美洲豹種城鎮衛兵</Jaguar_Town_Guard.label>
+  <!-- Jaguar town guards -->
+  <Jaguar_Town_Guard.labelPlural>美洲豹種城鎮衛兵</Jaguar_Town_Guard.labelPlural>
+  <!-- male Jaguar town guard -->
+  <Jaguar_Town_Guard.labelMale>男性美洲豹種城鎮衛兵</Jaguar_Town_Guard.labelMale>
+  <!-- male Jaguar town guards -->
+  <Jaguar_Town_Guard.labelMalePlural>男性美洲豹種城鎮衛兵</Jaguar_Town_Guard.labelMalePlural>
+  <!-- female Jaguar town guard -->
+  <Jaguar_Town_Guard.labelFemale>女性美洲豹種城鎮衛兵</Jaguar_Town_Guard.labelFemale>
+  <!-- female Jaguar town guards -->
+  <Jaguar_Town_Guard.labelFemalePlural>女性美洲豹種城鎮衛兵</Jaguar_Town_Guard.labelFemalePlural>
+
+  <!-- Jaguar town trader -->
+  <Jaguar_Town_Trader.label>美洲豹種城鎮商人</Jaguar_Town_Trader.label>
+  <!-- Jaguar town traders -->
+  <Jaguar_Town_Trader.labelPlural>美洲豹種城鎮商人</Jaguar_Town_Trader.labelPlural>
+  <!-- male Jaguar town trader -->
+  <Jaguar_Town_Trader.labelMale>男性美洲豹種城鎮商人</Jaguar_Town_Trader.labelMale>
+  <!-- male Jaguar town traders -->
+  <Jaguar_Town_Trader.labelMalePlural>男性美洲豹種城鎮商人</Jaguar_Town_Trader.labelMalePlural>
+  <!-- female Jaguar town trader -->
+  <Jaguar_Town_Trader.labelFemale>女性美洲豹種城鎮商人</Jaguar_Town_Trader.labelFemale>
+  <!-- female Jaguar town traders -->
+  <Jaguar_Town_Trader.labelFemalePlural>女性美洲豹種城鎮商人</Jaguar_Town_Trader.labelFemalePlural>
+
+  <!-- Jaguar town councilman -->
+  <Jaguar_Town_Councilman.label>美洲豹種城鎮議員</Jaguar_Town_Councilman.label>
+  <!-- town councilmen -->
+  <Jaguar_Town_Councilman.labelPlural>城鎮議員</Jaguar_Town_Councilman.labelPlural>
+  <!-- male Jaguar town councilman -->
+  <Jaguar_Town_Councilman.labelMale>男性美洲豹種城鎮議員</Jaguar_Town_Councilman.labelMale>
+  <!-- male town councilmen -->
+  <Jaguar_Town_Councilman.labelMalePlural>男性美洲豹種城鎮議員</Jaguar_Town_Councilman.labelMalePlural>
+  <!-- female Jaguar town councilman -->
+  <Jaguar_Town_Councilman.labelFemale>女性美洲豹種城鎮議員</Jaguar_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->
+  <Jaguar_Town_Councilman.labelFemalePlural>女性美洲豹種城鎮議員</Jaguar_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Jaguar penitent -->
+  <Jaguar_Tribal_Penitent.label>美洲豹種海賊</Jaguar_Tribal_Penitent.label>
+  <!-- Jaguar penitents -->
+  <Jaguar_Tribal_Penitent.labelPlural>美洲豹種海賊</Jaguar_Tribal_Penitent.labelPlural>
+  <!-- male Jaguar penitent -->
+  <Jaguar_Tribal_Penitent.labelMale>男性美洲豹種海賊</Jaguar_Tribal_Penitent.labelMale>
+  <!-- male Jaguar penitents -->
+  <Jaguar_Tribal_Penitent.labelMalePlural>男性美洲豹種海賊</Jaguar_Tribal_Penitent.labelMalePlural>
+  <!-- female Jaguar penitent -->
+  <Jaguar_Tribal_Penitent.labelFemale>女性美洲豹種海賊</Jaguar_Tribal_Penitent.labelFemale>
+  <!-- female Jaguar penitents -->
+  <Jaguar_Tribal_Penitent.labelFemalePlural>女性美洲豹種海賊</Jaguar_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Jaguar archer -->
+  <Jaguar_Tribal_Archer.label>美洲豹種弓箭手</Jaguar_Tribal_Archer.label>
+  <!-- Jaguar archers -->
+  <Jaguar_Tribal_Archer.labelPlural>美洲豹種弓箭手</Jaguar_Tribal_Archer.labelPlural>
+  <!-- male Jaguar archer -->
+  <Jaguar_Tribal_Archer.labelMale>男性美洲豹種弓箭手</Jaguar_Tribal_Archer.labelMale>
+  <!-- male Jaguar archers -->
+  <Jaguar_Tribal_Archer.labelMalePlural>男性美洲豹種弓箭手</Jaguar_Tribal_Archer.labelMalePlural>
+  <!-- female Jaguar archer -->
+  <Jaguar_Tribal_Archer.labelFemale>女性美洲豹種弓箭手</Jaguar_Tribal_Archer.labelFemale>
+  <!-- female Jaguar archers -->
+  <Jaguar_Tribal_Archer.labelFemalePlural>女性美洲豹種弓箭手</Jaguar_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Jaguar warrior -->
+  <Jaguar_Tribal_Warrior.label>美洲豹種戰士</Jaguar_Tribal_Warrior.label>
+  <!-- Jaguar warriors -->
+  <Jaguar_Tribal_Warrior.labelPlural>美洲豹種戰士</Jaguar_Tribal_Warrior.labelPlural>
+  <!-- male Jaguar warrior -->
+  <Jaguar_Tribal_Warrior.labelMale>男性美洲豹種戰士</Jaguar_Tribal_Warrior.labelMale>
+  <!-- male Jaguar warriors -->
+  <Jaguar_Tribal_Warrior.labelMalePlural>男性美洲豹種戰士</Jaguar_Tribal_Warrior.labelMalePlural>
+  <!-- female Jaguar warrior -->
+  <Jaguar_Tribal_Warrior.labelFemale>女性美洲豹種戰士</Jaguar_Tribal_Warrior.labelFemale>
+  <!-- female Jaguar warriors -->
+  <Jaguar_Tribal_Warrior.labelFemalePlural>女性美洲豹種戰士</Jaguar_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Jaguar hunter -->
+  <Jaguar_Tribal_Hunter.label>美洲豹種獵人</Jaguar_Tribal_Hunter.label>
+  <!-- Jaguar hunters -->
+  <Jaguar_Tribal_Hunter.labelPlural>美洲豹種獵人</Jaguar_Tribal_Hunter.labelPlural>
+  <!-- male Jaguar hunter -->
+  <Jaguar_Tribal_Hunter.labelMale>男性美洲豹種獵人</Jaguar_Tribal_Hunter.labelMale>
+  <!-- male Jaguar hunters -->
+  <Jaguar_Tribal_Hunter.labelMalePlural>男性美洲豹種獵人</Jaguar_Tribal_Hunter.labelMalePlural>
+  <!-- female Jaguar hunter -->
+  <Jaguar_Tribal_Hunter.labelFemale>女性美洲豹種獵人</Jaguar_Tribal_Hunter.labelFemale>
+  <!-- female Jaguar hunters -->
+  <Jaguar_Tribal_Hunter.labelFemalePlural>女性美洲豹種獵人</Jaguar_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Jaguar trader -->
+  <Jaguar_Tribal_Trader.label>美洲豹種商人</Jaguar_Tribal_Trader.label>
+  <!-- Jaguar traders -->
+  <Jaguar_Tribal_Trader.labelPlural>美洲豹種商人</Jaguar_Tribal_Trader.labelPlural>
+  <!-- male Jaguar trader -->
+  <Jaguar_Tribal_Trader.labelMale>男性美洲豹種商人</Jaguar_Tribal_Trader.labelMale>
+  <!-- male Jaguar traders -->
+  <Jaguar_Tribal_Trader.labelMalePlural>男性美洲豹種商人</Jaguar_Tribal_Trader.labelMalePlural>
+  <!-- female Jaguar trader -->
+  <Jaguar_Tribal_Trader.labelFemale>女性美洲豹種商人</Jaguar_Tribal_Trader.labelFemale>
+  <!-- female Jaguar traders -->
+  <Jaguar_Tribal_Trader.labelFemalePlural>女性美洲豹種商人</Jaguar_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Jaguar berserker -->
+  <Jaguar_Tribal_Berserker.label>美洲豹種狂戰士</Jaguar_Tribal_Berserker.label>
+  <!-- Jaguar berserkers -->
+  <Jaguar_Tribal_Berserker.labelPlural>美洲豹種狂戰士</Jaguar_Tribal_Berserker.labelPlural>
+  <!-- male Jaguar berserker -->
+  <Jaguar_Tribal_Berserker.labelMale>男性美洲豹種狂戰士</Jaguar_Tribal_Berserker.labelMale>
+  <!-- male Jaguar berserkers -->
+  <Jaguar_Tribal_Berserker.labelMalePlural>男性美洲豹種狂戰士</Jaguar_Tribal_Berserker.labelMalePlural>
+  <!-- female Jaguar berserker -->
+  <Jaguar_Tribal_Berserker.labelFemale>女性美洲豹種狂戰士</Jaguar_Tribal_Berserker.labelFemale>
+  <!-- female Jaguar berserkers -->
+  <Jaguar_Tribal_Berserker.labelFemalePlural>女性美洲豹種狂戰士</Jaguar_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Jaguar heavy archer -->
+  <Jaguar_Tribal_HeavyArcher.label>美洲豹種重裝弓箭手</Jaguar_Tribal_HeavyArcher.label>
+  <!-- Jaguar heavy archers -->
+  <Jaguar_Tribal_HeavyArcher.labelPlural>美洲豹種重裝弓箭手</Jaguar_Tribal_HeavyArcher.labelPlural>
+  <!-- male Jaguar heavy archer -->
+  <Jaguar_Tribal_HeavyArcher.labelMale>男性美洲豹種重裝弓箭手</Jaguar_Tribal_HeavyArcher.labelMale>
+  <!-- male Jaguar heavy archers -->
+  <Jaguar_Tribal_HeavyArcher.labelMalePlural>男性美洲豹種重裝弓箭手</Jaguar_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Jaguar heavy archer -->
+  <Jaguar_Tribal_HeavyArcher.labelFemale>女性美洲豹種重裝弓箭手</Jaguar_Tribal_HeavyArcher.labelFemale>
+  <!-- female Jaguar heavy archers -->
+  <Jaguar_Tribal_HeavyArcher.labelFemalePlural>女性美洲豹種重裝弓箭手</Jaguar_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Jaguar_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Jaguar_Tribal_ChiefMelee.label>Jaguar_Tribal_ChiefMelee</Jaguar_Tribal_ChiefMelee.label>-->
+  <!-- Jaguar_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Jaguar_Tribal_ChiefMelee.labelPlural>Jaguar_Tribal_ChiefMelees</Jaguar_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Jaguar_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Jaguar_Tribal_ChiefMelee.labelMale>男性美洲豹種_Tribal_ChiefMelee</Jaguar_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Jaguar_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Jaguar_Tribal_ChiefMelee.labelMalePlural>男性美洲豹種_Tribal_ChiefMelees</Jaguar_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Jaguar_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Jaguar_Tribal_ChiefMelee.labelFemale>女性美洲豹種_Tribal_ChiefMelee</Jaguar_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Jaguar_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Jaguar_Tribal_ChiefMelee.labelFemalePlural>女性美洲豹種_Tribal_ChiefMelees</Jaguar_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Jaguar berserker chief -->
+  <Jaguar_Tribal_ChiefMelee.label>美洲豹種狂戰士隊長</Jaguar_Tribal_ChiefMelee.label>
+  <!-- Jaguar berserker chiefs -->
+  <Jaguar_Tribal_ChiefMelee.labelPlural>美洲豹種狂戰士隊長</Jaguar_Tribal_ChiefMelee.labelPlural>
+  <!-- male Jaguar berserker chief -->
+  <Jaguar_Tribal_ChiefMelee.labelMale>男性美洲豹種狂戰士隊長</Jaguar_Tribal_ChiefMelee.labelMale>
+  <!-- male Jaguar berserker chiefs -->
+  <Jaguar_Tribal_ChiefMelee.labelMalePlural>男性美洲豹種狂戰士隊長</Jaguar_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Jaguar berserker chief -->
+  <Jaguar_Tribal_ChiefMelee.labelFemale>女性美洲豹種狂戰士隊長</Jaguar_Tribal_ChiefMelee.labelFemale>
+  <!-- female Jaguar berserker chiefs -->
+  <Jaguar_Tribal_ChiefMelee.labelFemalePlural>女性美洲豹種狂戰士隊長</Jaguar_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Jaguar archer chief -->
+  <Jaguar_Tribal_ChiefRanged.label>美洲豹種弓箭手隊長</Jaguar_Tribal_ChiefRanged.label>
+  <!-- Jaguar archer chiefs -->
+  <Jaguar_Tribal_ChiefRanged.labelPlural>美洲豹種弓箭手隊長</Jaguar_Tribal_ChiefRanged.labelPlural>
+  <!-- male Jaguar archer chief -->
+  <Jaguar_Tribal_ChiefRanged.labelMale>男性美洲豹種弓箭手隊長</Jaguar_Tribal_ChiefRanged.labelMale>
+  <!-- male Jaguar archer chiefs -->
+  <Jaguar_Tribal_ChiefRanged.labelMalePlural>男性美洲豹種弓箭手隊長</Jaguar_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Jaguar archer chief -->
+  <Jaguar_Tribal_ChiefRanged.labelFemale>女性美洲豹種弓箭手隊長</Jaguar_Tribal_ChiefRanged.labelFemale>
+  <!-- female Jaguar archer chiefs -->
+  <Jaguar_Tribal_ChiefRanged.labelFemalePlural>女性美洲豹種弓箭手隊長</Jaguar_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

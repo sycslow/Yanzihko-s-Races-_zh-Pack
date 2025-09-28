@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cheetah -->  <YanzihkoCheetah.label>獵豹種</YanzihkoCheetah.label>
+  <!-- Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Cheetah are perhaps one of the fastest Felines with an instant reaction. They literally dance around an opponent in melee fight and even dodge bullets if lucky enough. Cheetah are one of the most intelligent felines and are more social, compared to most felines. Cheetah is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <YanzihkoCheetah.description>菲利斯貓科是一群經過基因改造的物種，他們代表了來自地球上那些最受歡迎的貓科動物們。 獵豹種或許是菲利斯貓科當中，即時反應速度上最快速的貓科之一。牠們在近身戰鬥中能像跳舞般的動作圍繞著對手移動，甚至夠幸運的話還能閃避子彈。獵豹種是菲利斯貓科中最聰明的物種之一，而且比大多數的菲利斯貓科相比還稍微比較有些社會性。獵豹種是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</YanzihkoCheetah.description>
+  <!-- teeth -->  <YanzihkoCheetah.tools.0.label>牙齒</YanzihkoCheetah.tools.0.label>
+  <!-- left claws -->  <YanzihkoCheetah.tools.1.label>左爪</YanzihkoCheetah.tools.1.label>
+  <!-- right claws -->  <YanzihkoCheetah.tools.2.label>右爪</YanzihkoCheetah.tools.2.label>
+  <!-- hair --><!--  <YanzihkoCheetah.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</YanzihkoCheetah.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <YanzihkoCheetah.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</YanzihkoCheetah.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Tigris space refugee -->
+  <TigrisSpaceRefugee.label>老虎種星際難民</TigrisSpaceRefugee.label>
+  <!-- Tigris space refugees -->
+  <TigrisSpaceRefugee.labelPlural>老虎種星際難民</TigrisSpaceRefugee.labelPlural>
+  <!-- male Tigris space refugee -->
+  <TigrisSpaceRefugee.labelMale>男性老虎種星際難民</TigrisSpaceRefugee.labelMale>
+  <!-- male Tigris space refugees -->
+  <TigrisSpaceRefugee.labelMalePlural>男性老虎種星際難民</TigrisSpaceRefugee.labelMalePlural>
+  <!-- female Tigris space refugee -->
+  <TigrisSpaceRefugee.labelFemale>女性老虎種星際難民</TigrisSpaceRefugee.labelFemale>
+  <!-- female Tigris space refugees -->
+  <TigrisSpaceRefugee.labelFemalePlural>女性老虎種星際難民</TigrisSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Tigris slave -->
+  <TigrisSlave.label>老虎種奴隸</TigrisSlave.label>
+  <!-- Tigris slaves -->
+  <TigrisSlave.labelPlural>老虎種奴隸</TigrisSlave.labelPlural>
+  <!-- male Tigris slave -->
+  <TigrisSlave.labelMale>男性老虎種奴隸</TigrisSlave.labelMale>
+  <!-- male Tigris slaves -->
+  <TigrisSlave.labelMalePlural>男性老虎種奴隸</TigrisSlave.labelMalePlural>
+  <!-- female Tigris slave -->
+  <TigrisSlave.labelFemale>女性老虎種奴隸</TigrisSlave.labelFemale>
+  <!-- female Tigris slaves -->
+  <TigrisSlave.labelFemalePlural>女性老虎種奴隸</TigrisSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Tigris -->
+  <TigrisColonist.label>老虎種</TigrisColonist.label>
+  <!-- Tigriss -->
+  <TigrisColonist.labelPlural>老虎種</TigrisColonist.labelPlural>
+  <!-- male Tigris -->
+  <TigrisColonist.labelMale>男性老虎種</TigrisColonist.labelMale>
+  <!-- male Tigriss -->
+  <TigrisColonist.labelMalePlural>男性老虎種</TigrisColonist.labelMalePlural>
+  <!-- female Tigris -->
+  <TigrisColonist.labelFemale>女性老虎種</TigrisColonist.labelFemale>
+  <!-- female Tigriss -->
+  <TigrisColonist.labelFemalePlural>女性老虎種</TigrisColonist.labelFemalePlural>
+
+  <!-- Tigris -->
+  <TigrisTribesperson.label>老虎種</TigrisTribesperson.label>
+  <!-- Tigriss -->
+  <TigrisTribesperson.labelPlural>老虎種</TigrisTribesperson.labelPlural>
+  <!-- male Tigris -->
+  <TigrisTribesperson.labelMale>男性老虎種</TigrisTribesperson.labelMale>
+  <!-- male Tigriss -->
+  <TigrisTribesperson.labelMalePlural>男性老虎種</TigrisTribesperson.labelMalePlural>
+  <!-- female Tigris -->
+  <TigrisTribesperson.labelFemale>女性老虎種</TigrisTribesperson.labelFemale>
+  <!-- female Tigriss -->
+  <TigrisTribesperson.labelFemalePlural>女性老虎種</TigrisTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Tigris grenadier -->
+  <Tigris_Grenadier_Destructive.label>老虎種擲彈兵</Tigris_Grenadier_Destructive.label>
+  <!-- Tigris grenadiers -->
+  <Tigris_Grenadier_Destructive.labelPlural>老虎種擲彈兵</Tigris_Grenadier_Destructive.labelPlural>
+  <!-- male Tigris grenadier -->
+  <Tigris_Grenadier_Destructive.labelMale>男性老虎種擲彈兵</Tigris_Grenadier_Destructive.labelMale>
+  <!-- male Tigris grenadiers -->
+  <Tigris_Grenadier_Destructive.labelMalePlural>男性老虎種擲彈兵</Tigris_Grenadier_Destructive.labelMalePlural>
+  <!-- female Tigris grenadier -->
+  <Tigris_Grenadier_Destructive.labelFemale>女性老虎種擲彈兵</Tigris_Grenadier_Destructive.labelFemale>
+  <!-- female Tigris grenadiers -->
+  <Tigris_Grenadier_Destructive.labelFemalePlural>女性老虎種擲彈兵</Tigris_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Tigris EMPgrenadier -->
+  <Tigris_Grenadier_EMP.label>老虎種EMP擲彈兵</Tigris_Grenadier_EMP.label>
+  <!-- Tigris EMPgrenadiers -->
+  <Tigris_Grenadier_EMP.labelPlural>老虎種EMP擲彈兵</Tigris_Grenadier_EMP.labelPlural>
+  <!-- male Tigris EMPgrenadier -->
+  <Tigris_Grenadier_EMP.labelMale>男性老虎種EMP擲彈兵</Tigris_Grenadier_EMP.labelMale>
+  <!-- male Tigris EMPgrenadiers -->
+  <Tigris_Grenadier_EMP.labelMalePlural>男性老虎種EMP擲彈兵</Tigris_Grenadier_EMP.labelMalePlural>
+  <!-- female Tigris EMPgrenadier -->
+  <Tigris_Grenadier_EMP.labelFemale>女性老虎種EMP擲彈兵</Tigris_Grenadier_EMP.labelFemale>
+  <!-- female Tigris EMPgrenadiers -->
+  <Tigris_Grenadier_EMP.labelFemalePlural>女性老虎種EMP擲彈兵</Tigris_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Tigris smoke grenadier -->
+  <Tigris_Grenadier_Smoke.label>老虎種煙霧彈擲彈兵</Tigris_Grenadier_Smoke.label>
+  <!-- Tigris smoke grenadiers -->
+  <Tigris_Grenadier_Smoke.labelPlural>老虎種煙霧彈擲彈兵</Tigris_Grenadier_Smoke.labelPlural>
+  <!-- male Tigris smoke grenadier -->
+  <Tigris_Grenadier_Smoke.labelMale>男性老虎種煙霧彈擲彈兵</Tigris_Grenadier_Smoke.labelMale>
+  <!-- male Tigris smoke grenadiers -->
+  <Tigris_Grenadier_Smoke.labelMalePlural>男性老虎種煙霧彈擲彈兵</Tigris_Grenadier_Smoke.labelMalePlural>
+  <!-- female Tigris smoke grenadier -->
+  <Tigris_Grenadier_Smoke.labelFemale>女性老虎種煙霧彈擲彈兵</Tigris_Grenadier_Smoke.labelFemale>
+  <!-- female Tigris smoke grenadiers -->
+  <Tigris_Grenadier_Smoke.labelFemalePlural>女性老虎種煙霧彈擲彈兵</Tigris_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Tigris mercenary gunner -->
+  <Tigris_Mercenary_Gunner.label>老虎種槍手傭兵</Tigris_Mercenary_Gunner.label>
+  <!-- Tigris mercenary gunners -->
+  <Tigris_Mercenary_Gunner.labelPlural>老虎種槍手傭兵</Tigris_Mercenary_Gunner.labelPlural>
+  <!-- male Tigris mercenary gunner -->
+  <Tigris_Mercenary_Gunner.labelMale>男性老虎種槍手傭兵</Tigris_Mercenary_Gunner.labelMale>
+  <!-- male Tigris mercenary gunners -->
+  <Tigris_Mercenary_Gunner.labelMalePlural>男性老虎種槍手傭兵</Tigris_Mercenary_Gunner.labelMalePlural>
+  <!-- female Tigris mercenary gunner -->
+  <Tigris_Mercenary_Gunner.labelFemale>女性老虎種槍手傭兵</Tigris_Mercenary_Gunner.labelFemale>
+  <!-- female Tigris mercenary gunners -->
+  <Tigris_Mercenary_Gunner.labelFemalePlural>女性老虎種槍手傭兵</Tigris_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Tigris mercenary sniper -->
+  <Tigris_Mercenary_Sniper.label>老虎種狙擊手傭兵</Tigris_Mercenary_Sniper.label>
+  <!-- Tigris mercenary snipers -->
+  <Tigris_Mercenary_Sniper.labelPlural>老虎種狙擊手傭兵</Tigris_Mercenary_Sniper.labelPlural>
+  <!-- male Tigris mercenary sniper -->
+  <Tigris_Mercenary_Sniper.labelMale>男性老虎種狙擊手傭兵</Tigris_Mercenary_Sniper.labelMale>
+  <!-- male Tigris mercenary snipers -->
+  <Tigris_Mercenary_Sniper.labelMalePlural>男性老虎種狙擊手傭兵</Tigris_Mercenary_Sniper.labelMalePlural>
+  <!-- female Tigris mercenary sniper -->
+  <Tigris_Mercenary_Sniper.labelFemale>女性老虎種狙擊手傭兵</Tigris_Mercenary_Sniper.labelFemale>
+  <!-- female Tigris mercenary snipers -->
+  <Tigris_Mercenary_Sniper.labelFemalePlural>女性老虎種狙擊手傭兵</Tigris_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Tigris mercenary slasher -->
+  <Tigris_Mercenary_Slasher.label>老虎種殺手傭兵</Tigris_Mercenary_Slasher.label>
+  <!-- Tigris mercenary slashers -->
+  <Tigris_Mercenary_Slasher.labelPlural>老虎種殺手傭兵</Tigris_Mercenary_Slasher.labelPlural>
+  <!-- male Tigris mercenary slasher -->
+  <Tigris_Mercenary_Slasher.labelMale>男性老虎種殺手傭兵</Tigris_Mercenary_Slasher.labelMale>
+  <!-- male Tigris mercenary slashers -->
+  <Tigris_Mercenary_Slasher.labelMalePlural>男性老虎種殺手傭兵</Tigris_Mercenary_Slasher.labelMalePlural>
+  <!-- female Tigris mercenary slasher -->
+  <Tigris_Mercenary_Slasher.labelFemale>女性老虎種殺手傭兵</Tigris_Mercenary_Slasher.labelFemale>
+  <!-- female Tigris mercenary slashers -->
+  <Tigris_Mercenary_Slasher.labelFemalePlural>女性老虎種殺手傭兵</Tigris_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Tigris heavy mercenary -->
+  <Tigris_Mercenary_Heavy.label>老虎種重裝傭兵</Tigris_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->
+  <Tigris_Mercenary_Heavy.labelPlural>老虎種重裝傭兵</Tigris_Mercenary_Heavy.labelPlural>
+  <!-- male Tigris heavy mercenary -->
+  <Tigris_Mercenary_Heavy.labelMale>男性老虎種重裝傭兵</Tigris_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->
+  <Tigris_Mercenary_Heavy.labelMalePlural>男性老虎種重裝傭兵</Tigris_Mercenary_Heavy.labelMalePlural>
+  <!-- female Tigris heavy mercenary -->
+  <Tigris_Mercenary_Heavy.labelFemale>女性老虎種重裝傭兵</Tigris_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->
+  <Tigris_Mercenary_Heavy.labelFemalePlural>女性老虎種重裝傭兵</Tigris_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Tigris boss -->
+  <Tigris_PirateBoss.label>老虎種海賊團長</Tigris_PirateBoss.label>
+  <!-- bosses -->
+  <Tigris_PirateBoss.labelPlural>老虎種海賊團長</Tigris_PirateBoss.labelPlural>
+  <!-- male Tigris boss -->
+  <Tigris_PirateBoss.labelMale>男性老虎種海賊團長</Tigris_PirateBoss.labelMale>
+  <!-- male bosses -->
+  <Tigris_PirateBoss.labelMalePlural>男性老虎種海賊團長</Tigris_PirateBoss.labelMalePlural>
+  <!-- female Tigris boss -->
+  <Tigris_PirateBoss.labelFemale>女性老虎種海賊團長</Tigris_PirateBoss.labelFemale>
+  <!-- female bosses -->
+  <Tigris_PirateBoss.labelFemalePlural>女性老虎種海賊團長</Tigris_PirateBoss.labelFemalePlural>
+
+  <!-- Tigris elite mercenary -->
+  <Tigris_Mercenary_Elite.label>老虎種精銳傭兵</Tigris_Mercenary_Elite.label>
+  <!-- elite mercenaries -->
+  <Tigris_Mercenary_Elite.labelPlural>老虎種精銳傭兵</Tigris_Mercenary_Elite.labelPlural>
+  <!-- male Tigris elite mercenary -->
+  <Tigris_Mercenary_Elite.labelMale>男性老虎種精銳傭兵</Tigris_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->
+  <Tigris_Mercenary_Elite.labelMalePlural>男性老虎種精銳傭兵</Tigris_Mercenary_Elite.labelMalePlural>
+  <!-- female Tigris elite mercenary -->
+  <Tigris_Mercenary_Elite.labelFemale>女性老虎種精銳傭兵</Tigris_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->
+  <Tigris_Mercenary_Elite.labelFemalePlural>女性老虎種精銳傭兵</Tigris_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Tigris drifter -->
+  <Tigris_Drifter.label>老虎種漂泊者</Tigris_Drifter.label>
+  <!-- Tigris drifters -->
+  <Tigris_Drifter.labelPlural>老虎種漂泊者</Tigris_Drifter.labelPlural>
+  <!-- male Tigris drifter -->
+  <Tigris_Drifter.labelMale>男性老虎種漂泊者</Tigris_Drifter.labelMale>
+  <!-- male Tigris drifters -->
+  <Tigris_Drifter.labelMalePlural>男性老虎種漂泊者</Tigris_Drifter.labelMalePlural>
+  <!-- female Tigris drifter -->
+  <Tigris_Drifter.labelFemale>女性老虎種漂泊者</Tigris_Drifter.labelFemale>
+  <!-- female Tigris drifters -->
+  <Tigris_Drifter.labelFemalePlural>女性老虎種漂泊者</Tigris_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Tigris scavenger gunner -->
+  <Tigris_Scavenger.label>老虎種掠奪者槍手</Tigris_Scavenger.label>
+  <!-- Tigris scavenger gunners -->
+  <Tigris_Scavenger.labelPlural>老虎種掠奪者槍手</Tigris_Scavenger.labelPlural>
+  <!-- male Tigris scavenger gunner -->
+  <Tigris_Scavenger.labelMale>男性老虎種掠奪者槍手</Tigris_Scavenger.labelMale>
+  <!-- male Tigris scavenger gunners -->
+  <Tigris_Scavenger.labelMalePlural>男性老虎種掠奪者槍手</Tigris_Scavenger.labelMalePlural>
+  <!-- female Tigris scavenger gunner -->
+  <Tigris_Scavenger.labelFemale>女性老虎種掠奪者槍手</Tigris_Scavenger.labelFemale>
+  <!-- female Tigris scavenger gunners -->
+  <Tigris_Scavenger.labelFemalePlural>女性老虎種掠奪者槍手</Tigris_Scavenger.labelFemalePlural>
+
+  <!-- Tigris scavenger thrasher -->
+  <Tigris_Thrasher.label>老虎種掠奪者暴民</Tigris_Thrasher.label>
+  <!-- Tigris scavenger thrashers -->
+  <Tigris_Thrasher.labelPlural>老虎種掠奪者暴民</Tigris_Thrasher.labelPlural>
+  <!-- male Tigris scavenger thrasher -->
+  <Tigris_Thrasher.labelMale>男性老虎種掠奪者暴民</Tigris_Thrasher.labelMale>
+  <!-- male Tigris scavenger thrashers -->
+  <Tigris_Thrasher.labelMalePlural>男性老虎種掠奪者暴民</Tigris_Thrasher.labelMalePlural>
+  <!-- female Tigris scavenger thrasher -->
+  <Tigris_Thrasher.labelFemale>女性老虎種掠奪者暴民</Tigris_Thrasher.labelFemale>
+  <!-- female Tigris scavenger thrashers -->
+  <Tigris_Thrasher.labelFemalePlural>女性老虎種掠奪者暴民</Tigris_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Tigris pirate gunner -->
+  <Tigris_Pirate.label>老虎種海賊槍手</Tigris_Pirate.label>
+  <!-- Tigris pirate gunners -->
+  <Tigris_Pirate.labelPlural>老虎種海賊槍手</Tigris_Pirate.labelPlural>
+  <!-- male Tigris pirate gunner -->
+  <Tigris_Pirate.labelMale>男性老虎種海賊槍手</Tigris_Pirate.labelMale>
+  <!-- male Tigris pirate gunners -->
+  <Tigris_Pirate.labelMalePlural>男性老虎種海賊槍手</Tigris_Pirate.labelMalePlural>
+  <!-- female Tigris pirate gunner -->
+  <Tigris_Pirate.labelFemale>女性老虎種海賊槍手</Tigris_Pirate.labelFemale>
+  <!-- female Tigris pirate gunners -->
+  <Tigris_Pirate.labelFemalePlural>女性老虎種海賊槍手</Tigris_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Tigris villager -->
+  <Tigris_Villager.label>老虎種村民</Tigris_Villager.label>
+  <!-- Tigris villagers -->
+  <Tigris_Villager.labelPlural>老虎種村民</Tigris_Villager.labelPlural>
+  <!-- male Tigris villager -->
+  <Tigris_Villager.labelMale>男性老虎種村民</Tigris_Villager.labelMale>
+  <!-- male Tigris villagers -->
+  <Tigris_Villager.labelMalePlural>男性老虎種村民</Tigris_Villager.labelMalePlural>
+  <!-- female Tigris villager -->
+  <Tigris_Villager.labelFemale>女性老虎種村民</Tigris_Villager.labelFemale>
+  <!-- female Tigris villagers -->
+  <Tigris_Villager.labelFemalePlural>女性老虎種村民</Tigris_Villager.labelFemalePlural>
+
+  <!-- Tigris town guard -->
+  <Tigris_Town_Guard.label>老虎種城鎮衛兵</Tigris_Town_Guard.label>
+  <!-- Tigris town guards -->
+  <Tigris_Town_Guard.labelPlural>老虎種城鎮衛兵</Tigris_Town_Guard.labelPlural>
+  <!-- male Tigris town guard -->
+  <Tigris_Town_Guard.labelMale>男性老虎種城鎮衛兵</Tigris_Town_Guard.labelMale>
+  <!-- male Tigris town guards -->
+  <Tigris_Town_Guard.labelMalePlural>男性老虎種城鎮衛兵</Tigris_Town_Guard.labelMalePlural>
+  <!-- female Tigris town guard -->
+  <Tigris_Town_Guard.labelFemale>女性老虎種城鎮衛兵</Tigris_Town_Guard.labelFemale>
+  <!-- female Tigris town guards -->
+  <Tigris_Town_Guard.labelFemalePlural>女性老虎種城鎮衛兵</Tigris_Town_Guard.labelFemalePlural>
+
+  <!-- Tigris town trader -->
+  <Tigris_Town_Trader.label>老虎種城鎮商人</Tigris_Town_Trader.label>
+  <!-- Tigris town traders -->
+  <Tigris_Town_Trader.labelPlural>老虎種城鎮商人</Tigris_Town_Trader.labelPlural>
+  <!-- male Tigris town trader -->
+  <Tigris_Town_Trader.labelMale>男性老虎種城鎮商人</Tigris_Town_Trader.labelMale>
+  <!-- male Tigris town traders -->
+  <Tigris_Town_Trader.labelMalePlural>男性老虎種城鎮商人</Tigris_Town_Trader.labelMalePlural>
+  <!-- female Tigris town trader -->
+  <Tigris_Town_Trader.labelFemale>女性老虎種城鎮商人</Tigris_Town_Trader.labelFemale>
+  <!-- female Tigris town traders -->
+  <Tigris_Town_Trader.labelFemalePlural>女性老虎種城鎮商人</Tigris_Town_Trader.labelFemalePlural>
+
+  <!-- Tigris town councilman -->
+  <Tigris_Town_Councilman.label>老虎種城鎮議員</Tigris_Town_Councilman.label>
+  <!-- town councilmen -->
+  <Tigris_Town_Councilman.labelPlural>老虎種城鎮議員</Tigris_Town_Councilman.labelPlural>
+  <!-- male Tigris town councilman -->
+  <Tigris_Town_Councilman.labelMale>男性老虎種城鎮議員</Tigris_Town_Councilman.labelMale>
+  <!-- male town councilmen -->
+  <Tigris_Town_Councilman.labelMalePlural>男性老虎種城鎮議員</Tigris_Town_Councilman.labelMalePlural>
+  <!-- female Tigris town councilman -->
+  <Tigris_Town_Councilman.labelFemale>女性老虎種城鎮議員</Tigris_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->
+  <Tigris_Town_Councilman.labelFemalePlural>女性老虎種城鎮議員</Tigris_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Tigris penitent -->
+  <Tigris_Tribal_Penitent.label>老虎種海賊</Tigris_Tribal_Penitent.label>
+  <!-- Tigris penitents -->
+  <Tigris_Tribal_Penitent.labelPlural>老虎種海賊</Tigris_Tribal_Penitent.labelPlural>
+  <!-- male Tigris penitent -->
+  <Tigris_Tribal_Penitent.labelMale>男性老虎種海賊</Tigris_Tribal_Penitent.labelMale>
+  <!-- male Tigris penitents -->
+  <Tigris_Tribal_Penitent.labelMalePlural>男性老虎種海賊</Tigris_Tribal_Penitent.labelMalePlural>
+  <!-- female Tigris penitent -->
+  <Tigris_Tribal_Penitent.labelFemale>女性老虎種海賊</Tigris_Tribal_Penitent.labelFemale>
+  <!-- female Tigris penitents -->
+  <Tigris_Tribal_Penitent.labelFemalePlural>女性老虎種海賊</Tigris_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Tigris archer -->
+  <Tigris_Tribal_Archer.label>老虎種弓箭手</Tigris_Tribal_Archer.label>
+  <!-- Tigris archers -->
+  <Tigris_Tribal_Archer.labelPlural>老虎種弓箭手</Tigris_Tribal_Archer.labelPlural>
+  <!-- male Tigris archer -->
+  <Tigris_Tribal_Archer.labelMale>男性老虎種弓箭手</Tigris_Tribal_Archer.labelMale>
+  <!-- male Tigris archers -->
+  <Tigris_Tribal_Archer.labelMalePlural>男性老虎種弓箭手</Tigris_Tribal_Archer.labelMalePlural>
+  <!-- female Tigris archer -->
+  <Tigris_Tribal_Archer.labelFemale>女性老虎種弓箭手</Tigris_Tribal_Archer.labelFemale>
+  <!-- female Tigris archers -->
+  <Tigris_Tribal_Archer.labelFemalePlural>女性老虎種弓箭手</Tigris_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Tigris warrior -->
+  <Tigris_Tribal_Warrior.label>老虎種戰士</Tigris_Tribal_Warrior.label>
+  <!-- Tigris warriors -->
+  <Tigris_Tribal_Warrior.labelPlural>老虎種戰士</Tigris_Tribal_Warrior.labelPlural>
+  <!-- male Tigris warrior -->
+  <Tigris_Tribal_Warrior.labelMale>男性老虎種戰士</Tigris_Tribal_Warrior.labelMale>
+  <!-- male Tigris warriors -->
+  <Tigris_Tribal_Warrior.labelMalePlural>男性老虎種戰士</Tigris_Tribal_Warrior.labelMalePlural>
+  <!-- female Tigris warrior -->
+  <Tigris_Tribal_Warrior.labelFemale>女性老虎種戰士</Tigris_Tribal_Warrior.labelFemale>
+  <!-- female Tigris warriors -->
+  <Tigris_Tribal_Warrior.labelFemalePlural>女性老虎種戰士</Tigris_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Tigris hunter -->
+  <Tigris_Tribal_Hunter.label>老虎種獵人</Tigris_Tribal_Hunter.label>
+  <!-- Tigris hunters -->
+  <Tigris_Tribal_Hunter.labelPlural>老虎種獵人</Tigris_Tribal_Hunter.labelPlural>
+  <!-- male Tigris hunter -->
+  <Tigris_Tribal_Hunter.labelMale>男性老虎種獵人</Tigris_Tribal_Hunter.labelMale>
+  <!-- male Tigris hunters -->
+  <Tigris_Tribal_Hunter.labelMalePlural>男性老虎種獵人</Tigris_Tribal_Hunter.labelMalePlural>
+  <!-- female Tigris hunter -->
+  <Tigris_Tribal_Hunter.labelFemale>女性老虎種獵人</Tigris_Tribal_Hunter.labelFemale>
+  <!-- female Tigris hunters -->
+  <Tigris_Tribal_Hunter.labelFemalePlural>女性老虎種獵人</Tigris_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Tigris trader -->
+  <Tigris_Tribal_Trader.label>老虎種商人</Tigris_Tribal_Trader.label>
+  <!-- Tigris traders -->
+  <Tigris_Tribal_Trader.labelPlural>老虎種商人</Tigris_Tribal_Trader.labelPlural>
+  <!-- male Tigris trader -->
+  <Tigris_Tribal_Trader.labelMale>男性老虎種商人</Tigris_Tribal_Trader.labelMale>
+  <!-- male Tigris traders -->
+  <Tigris_Tribal_Trader.labelMalePlural>男性老虎種商人</Tigris_Tribal_Trader.labelMalePlural>
+  <!-- female Tigris trader -->
+  <Tigris_Tribal_Trader.labelFemale>女性老虎種商人</Tigris_Tribal_Trader.labelFemale>
+  <!-- female Tigris traders -->
+  <Tigris_Tribal_Trader.labelFemalePlural>女性老虎種商人</Tigris_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Tigris berserker -->
+  <Tigris_Tribal_Berserker.label>老虎種狂戰士</Tigris_Tribal_Berserker.label>
+  <!-- Tigris berserkers -->
+  <Tigris_Tribal_Berserker.labelPlural>老虎種狂戰士</Tigris_Tribal_Berserker.labelPlural>
+  <!-- male Tigris berserker -->
+  <Tigris_Tribal_Berserker.labelMale>男性老虎種狂戰士</Tigris_Tribal_Berserker.labelMale>
+  <!-- male Tigris berserkers -->
+  <Tigris_Tribal_Berserker.labelMalePlural>男性老虎種狂戰士</Tigris_Tribal_Berserker.labelMalePlural>
+  <!-- female Tigris berserker -->
+  <Tigris_Tribal_Berserker.labelFemale>女性老虎種狂戰士</Tigris_Tribal_Berserker.labelFemale>
+  <!-- female Tigris berserkers -->
+  <Tigris_Tribal_Berserker.labelFemalePlural>女性老虎種狂戰士</Tigris_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Tigris heavy archer -->
+  <Tigris_Tribal_HeavyArcher.label>老虎種重裝弓箭手</Tigris_Tribal_HeavyArcher.label>
+  <!-- Tigris heavy archers -->
+  <Tigris_Tribal_HeavyArcher.labelPlural>老虎種重裝弓箭手</Tigris_Tribal_HeavyArcher.labelPlural>
+  <!-- male Tigris heavy archer -->
+  <Tigris_Tribal_HeavyArcher.labelMale>男性老虎種重裝弓箭手</Tigris_Tribal_HeavyArcher.labelMale>
+  <!-- male Tigris heavy archers -->
+  <Tigris_Tribal_HeavyArcher.labelMalePlural>男性老虎種重裝弓箭手</Tigris_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Tigris heavy archer -->
+  <Tigris_Tribal_HeavyArcher.labelFemale>女性老虎種重裝弓箭手</Tigris_Tribal_HeavyArcher.labelFemale>
+  <!-- female Tigris heavy archers -->
+  <Tigris_Tribal_HeavyArcher.labelFemalePlural>女性老虎種重裝弓箭手</Tigris_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Tigris_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Tigris_Tribal_ChiefMelee.label>Tigris_Tribal_ChiefMelee</Tigris_Tribal_ChiefMelee.label>-->
+  <!-- Tigris_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Tigris_Tribal_ChiefMelee.labelPlural>Tigris_Tribal_ChiefMelees</Tigris_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Tigris_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Tigris_Tribal_ChiefMelee.labelMale>男性 Tigris_Tribal_ChiefMelee</Tigris_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Tigris_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Tigris_Tribal_ChiefMelee.labelMalePlural>男性 Tigris_Tribal_ChiefMelees</Tigris_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Tigris_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Tigris_Tribal_ChiefMelee.labelFemale>女性 Tigris_Tribal_ChiefMelee</Tigris_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Tigris_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Tigris_Tribal_ChiefMelee.labelFemalePlural>女性 Tigris_Tribal_ChiefMelees</Tigris_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Tigris berserker chief -->
+  <Tigris_Tribal_ChiefMelee.label>老虎種狂戰士隊長</Tigris_Tribal_ChiefMelee.label>
+  <!-- Tigris berserker chiefs -->
+  <Tigris_Tribal_ChiefMelee.labelPlural>老虎種狂戰士隊長</Tigris_Tribal_ChiefMelee.labelPlural>
+  <!-- male Tigris berserker chief -->
+  <Tigris_Tribal_ChiefMelee.labelMale>男性老虎種狂戰士隊長</Tigris_Tribal_ChiefMelee.labelMale>
+  <!-- male Tigris berserker chiefs -->
+  <Tigris_Tribal_ChiefMelee.labelMalePlural>男性老虎種狂戰士隊長</Tigris_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Tigris berserker chief -->
+  <Tigris_Tribal_ChiefMelee.labelFemale>女性老虎種狂戰士隊長</Tigris_Tribal_ChiefMelee.labelFemale>
+  <!-- female Tigris berserker chiefs -->
+  <Tigris_Tribal_ChiefMelee.labelFemalePlural>女性老虎種狂戰士隊長</Tigris_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Tigris archer chief -->
+  <Tigris_Tribal_ChiefRanged.label>老虎種弓箭手隊長</Tigris_Tribal_ChiefRanged.label>
+  <!-- Tigris archer chiefs -->
+  <Tigris_Tribal_ChiefRanged.labelPlural>老虎種弓箭手隊長</Tigris_Tribal_ChiefRanged.labelPlural>
+  <!-- male Tigris archer chief -->
+  <Tigris_Tribal_ChiefRanged.labelMale>男性老虎種弓箭手隊長</Tigris_Tribal_ChiefRanged.labelMale>
+  <!-- male Tigris archer chiefs -->
+  <Tigris_Tribal_ChiefRanged.labelMalePlural>男性老虎種弓箭手隊長</Tigris_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Tigris archer chief -->
+  <Tigris_Tribal_ChiefRanged.labelFemale>女性老虎種弓箭手隊長</Tigris_Tribal_ChiefRanged.labelFemale>
+  <!-- female Tigris archer chiefs -->
+  <Tigris_Tribal_ChiefRanged.labelFemalePlural>女性老虎種弓箭手隊長</Tigris_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

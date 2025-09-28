@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Purrfect Escape -->  <FelesScenario1.label>喵喵逃脫記</FelesScenario1.label>
+  <!-- Since your capture, you've felt nothing but defeat. Confined aboard this ship, since birth. Designed as a exotic pet. Forced to play house to a select elite. Bought and sold for the pleasure of others. One day you hear an explosion, sirens blare. You grab those closest and steal an escape pod. Anywhere is better, without chains and collars. -->  <FelesScenario1.description>自從被捕獲以來，你只感受到無盡的屈辱與挫敗。自出生的那刻起，就被囚禁在這艘太空船上。你被設計成一種異域情趣的寵物，被迫在少數精英與特權階級之間輪流扮演他們的玩物。被買賣，只為了滿足他人的娛樂。直到某一天，你聽見了爆炸聲，警報大響。你拉起身邊最親近的同伴，搶奪了一艘逃生艙。不管到哪裡都好，只要那裡能擺脫鎖鏈與項圈就好。</FelesScenario1.description>
+  <!-- Purrfect Escape -->  <FelesScenario1.scenario.name>喵喵逃脫記</FelesScenario1.scenario.name>
+  <!-- Since your capture, you've felt nothing but defeat. Confined aboard this ship, since birth. Designed as a exotic pet. Forced to play house to a select elite. Bought and sold for the pleasure of others. One day you hear an explosion, sirens blare. You grab those closest and steal an escape pod. Anywhere is better, without chains and collars. -->  <FelesScenario1.scenario.summary>自從被捕獲以來，你只感受到無盡的屈辱與挫敗。自出生的那刻起，就被囚禁在這艘太空船上。你被設計成一種異域情趣的寵物，被迫在少數精英與特權階級之間輪流扮演他們的玩物。被買賣，只為了滿足他人的娛樂。直到某一天，你聽見了爆炸聲，警報大響。你拉起身邊最親近的同伴，搶奪了一艘逃生艙。不管到哪裡都好，只要那裡能擺脫鎖鏈與項圈就好。</FelesScenario1.scenario.summary>
+  <!-- Since your capture, you've felt nothing but defeat. Confined aboard this ship, since birth. Designed as a exotic pet. Forced to play house to a select elite. Bought and sold for the pleasure of others. One day you hear an explosion, sirens blare. You grab those closest and steal an escape pod. Anywhere is better, without chains and collars. -->  <FelesScenario1.scenario.description>自從被捕獲以來，你只感受到無盡的屈辱與挫敗。自出生的那刻起，就被囚禁在這艘太空船上。你被設計成一種異域情趣的寵物，被迫在少數精英與特權階級之間輪流扮演他們的玩物。被買賣，只為了滿足他人的娛樂。直到某一天，你聽見了爆炸聲，警報大響。你拉起身邊最親近的同伴，搶奪了一艘逃生艙。不管到哪裡都好，只要那裡能擺脫鎖鏈與項圈就好。</FelesScenario1.scenario.description>
+  <!-- Freedom... A dream that finally became a reality. You happily smile at each other and laugh as your ship, your flying prison burns and falls apart over the horizon... -->
+  <FelesScenario1.scenario.parts.GameStartDialog.text>自由……一個終於夢想成真的夢。當你們看著那艘飛船、那座漂浮在天空中的牢籠，在天際的地平線上燃燒、分崩離析、散成碎片，你們彼此開心地的笑了，放聲的大笑。</FelesScenario1.scenario.parts.GameStartDialog.text>
+  <!--  <FelesScenario1.scenario.parts.10.text>Freedom... A dream that finally became a reality. You happily smile at each other and laugh as your ship, your flying prison burns and falls apart over the horizon...</FelesScenario1.scenario.parts.10.text>-->
+
+  <!-- The Cat is Out of the Bag -->  <FelesScenario2.label>貓咪出籠</FelesScenario2.label>
+  <!-- Your kind has been hunted. Put on display as dolls. Sold into slavery as pets. You've had enough. Across the lands, your brethen have decided to unite and fight. To build a new empire and spread your rule across this land. The cat is out of the bag. -->  <FelesScenario2.description>你的族群曾遭受獵捕，並被當作玩偶般的展示，也被販售奴役淪為寵物。夠了。如今在這片大地上，你的同胞們決定團結起來起義反抗。你們想要建立一個新的帝國，將你們的統治擴展到這整片大地上。貓咪已經出籠啦。</FelesScenario2.description>
+  <!-- The Cat is Out of the Bag -->  <FelesScenario2.scenario.name>貓咪出籠</FelesScenario2.scenario.name>
+  <!-- Your kind has been hunted. Put on display as dolls. Sold into slavery as pets. You've had enough. Across the lands, your brethen have decided to unite and fight. To build a new empire and spread your rule across this land. The cat is out of the bag. -->  <FelesScenario2.scenario.summary>你的族群曾遭受獵捕，並被當作玩偶般的展示，也被販售奴役淪為寵物。夠了。如今在這片大地上，你的同胞們決定團結起來起義反抗。你們想要建立一個新的帝國，將你們的統治擴展到這整片大地上。貓咪已經出籠啦。</FelesScenario2.scenario.summary>
+  <!-- Your kind has been hunted. Put on display as dolls. Sold into slavery as pets. You've had enough. Across the lands, your brethen have decided to unite and fight. To build a new empire and spread your rule across this land. The cat is out of the bag. -->  <FelesScenario2.scenario.description>你的族群曾遭受獵捕，並被當作玩偶般的展示，也被販售奴役淪為寵物。夠了。如今在這片大地上，你的同胞們決定團結起來起義反抗。你們想要建立一個新的帝國，將你們的統治擴展到這整片大地上。貓咪已經出籠啦。</FelesScenario2.scenario.description>
+  <!-- Everything feels surreal. No one was sure that your escape plan would work. But here you are, standing completely free, even with some stolen supplies to survive for some time. -->
+  <FelesScenario2.scenario.parts.GameStartDialog.text>這一切都宛如夢境一般的超不現實。沒有人真的確定你的逃亡計畫會如此成功，但此刻現在的你，的確已經完全的自由了——甚至還帶著一些偷來的補給，足以能暫時支撐著你們一段時間的生存。</FelesScenario2.scenario.parts.GameStartDialog.text>
+  <!--  <FelesScenario2.scenario.parts.12.text>Everything feels surreal. No one was sure that your escape plan would work. But here you are, standing completely free, even with some stolen supplies to survive for some time.</FelesScenario2.scenario.parts.12.text>-->
+
+
+</LanguageData>

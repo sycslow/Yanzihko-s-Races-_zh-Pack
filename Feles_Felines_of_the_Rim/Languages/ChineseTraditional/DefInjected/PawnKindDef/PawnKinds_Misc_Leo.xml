@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Leo space refugee -->
+  <LeoSpaceRefugee.label>獅子種星際難民</LeoSpaceRefugee.label>
+  <!-- Leo space refugees -->
+  <LeoSpaceRefugee.labelPlural>獅子種星際難民</LeoSpaceRefugee.labelPlural>
+  <!-- male Leo space refugee -->
+  <LeoSpaceRefugee.labelMale>男性獅子種星際難民</LeoSpaceRefugee.labelMale>
+  <!-- male Leo space refugees -->
+  <LeoSpaceRefugee.labelMalePlural>男性獅子種星際難民</LeoSpaceRefugee.labelMalePlural>
+  <!-- female Leo space refugee -->
+  <LeoSpaceRefugee.labelFemale>女性獅子種星際難民</LeoSpaceRefugee.labelFemale>
+  <!-- female Leo space refugees -->
+  <LeoSpaceRefugee.labelFemalePlural>女性獅子種星際難民</LeoSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Leo slave -->
+  <LeoSlave.label>獅子種奴隸</LeoSlave.label>
+  <!-- Leo slaves -->
+  <LeoSlave.labelPlural>獅子種奴隸</LeoSlave.labelPlural>
+  <!-- male Leo slave -->
+  <LeoSlave.labelMale>男性獅子種奴隸</LeoSlave.labelMale>
+  <!-- male Leo slaves -->
+  <LeoSlave.labelMalePlural>男性獅子種奴隸</LeoSlave.labelMalePlural>
+  <!-- female Leo slave -->
+  <LeoSlave.labelFemale>女性獅子種奴隸</LeoSlave.labelFemale>
+  <!-- female Leo slaves -->
+  <LeoSlave.labelFemalePlural>女性獅子種奴隸</LeoSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Leo -->
+  <LeoColonist.label>獅子種</LeoColonist.label>
+  <!-- Leos -->
+  <LeoColonist.labelPlural>獅子種</LeoColonist.labelPlural>
+  <!-- male Leo -->
+  <LeoColonist.labelMale>男性獅子種</LeoColonist.labelMale>
+  <!-- male Leos -->
+  <LeoColonist.labelMalePlural>男性獅子種</LeoColonist.labelMalePlural>
+  <!-- female Leo -->
+  <LeoColonist.labelFemale>女性獅子種</LeoColonist.labelFemale>
+  <!-- female Leos -->
+  <LeoColonist.labelFemalePlural>女性獅子種</LeoColonist.labelFemalePlural>
+
+  <!-- Leo -->
+  <LeoTribesperson.label>獅子種</LeoTribesperson.label>
+  <!-- Leos -->
+  <LeoTribesperson.labelPlural>獅子種</LeoTribesperson.labelPlural>
+  <!-- male Leo -->
+  <LeoTribesperson.labelMale>男性獅子種</LeoTribesperson.labelMale>
+  <!-- male Leos -->
+  <LeoTribesperson.labelMalePlural>男性獅子種</LeoTribesperson.labelMalePlural>
+  <!-- female Leo -->
+  <LeoTribesperson.labelFemale>女性獅子種</LeoTribesperson.labelFemale>
+  <!-- female Leos -->
+  <LeoTribesperson.labelFemalePlural>女性獅子種</LeoTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Leo grenadier -->
+  <Leo_Grenadier_Destructive.label>獅子種擲彈兵</Leo_Grenadier_Destructive.label>
+  <!-- Leo grenadiers -->
+  <Leo_Grenadier_Destructive.labelPlural>獅子種擲彈兵</Leo_Grenadier_Destructive.labelPlural>
+  <!-- male Leo grenadier -->
+  <Leo_Grenadier_Destructive.labelMale>男性獅子種擲彈兵</Leo_Grenadier_Destructive.labelMale>
+  <!-- male Leo grenadiers -->
+  <Leo_Grenadier_Destructive.labelMalePlural>男性獅子種擲彈兵</Leo_Grenadier_Destructive.labelMalePlural>
+  <!-- female Leo grenadier -->
+  <Leo_Grenadier_Destructive.labelFemale>女性獅子種擲彈兵</Leo_Grenadier_Destructive.labelFemale>
+  <!-- female Leo grenadiers -->
+  <Leo_Grenadier_Destructive.labelFemalePlural>女性獅子種擲彈兵</Leo_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Leo EMPgrenadier -->
+  <Leo_Grenadier_EMP.label>獅子種EMP擲彈兵</Leo_Grenadier_EMP.label>
+  <!-- Leo EMPgrenadiers -->
+  <Leo_Grenadier_EMP.labelPlural>獅子種EMP擲彈兵</Leo_Grenadier_EMP.labelPlural>
+  <!-- male Leo EMPgrenadier -->
+  <Leo_Grenadier_EMP.labelMale>男性獅子種EMP擲彈兵</Leo_Grenadier_EMP.labelMale>
+  <!-- male Leo EMPgrenadiers -->
+  <Leo_Grenadier_EMP.labelMalePlural>男性獅子種EMP擲彈兵</Leo_Grenadier_EMP.labelMalePlural>
+  <!-- female Leo EMPgrenadier -->
+  <Leo_Grenadier_EMP.labelFemale>女性獅子種EMP擲彈兵</Leo_Grenadier_EMP.labelFemale>
+  <!-- female Leo EMPgrenadiers -->
+  <Leo_Grenadier_EMP.labelFemalePlural>女性獅子種EMP擲彈兵</Leo_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Leo smoke grenadier -->
+  <Leo_Grenadier_Smoke.label>獅子種煙霧彈擲彈兵</Leo_Grenadier_Smoke.label>
+  <!-- Leo smoke grenadiers -->
+  <Leo_Grenadier_Smoke.labelPlural>獅子種煙霧彈擲彈兵</Leo_Grenadier_Smoke.labelPlural>
+  <!-- male Leo smoke grenadier -->
+  <Leo_Grenadier_Smoke.labelMale>男性獅子種煙霧彈擲彈兵</Leo_Grenadier_Smoke.labelMale>
+  <!-- male Leo smoke grenadiers -->
+  <Leo_Grenadier_Smoke.labelMalePlural>男性獅子種煙霧彈擲彈兵</Leo_Grenadier_Smoke.labelMalePlural>
+  <!-- female Leo smoke grenadier -->
+  <Leo_Grenadier_Smoke.labelFemale>女性獅子種煙霧彈擲彈兵</Leo_Grenadier_Smoke.labelFemale>
+  <!-- female Leo smoke grenadiers -->
+  <Leo_Grenadier_Smoke.labelFemalePlural>女性獅子種煙霧彈擲彈兵</Leo_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Leo mercenary gunner -->
+  <Leo_Mercenary_Gunner.label>獅子種槍手傭兵</Leo_Mercenary_Gunner.label>
+  <!-- Leo mercenary gunners -->
+  <Leo_Mercenary_Gunner.labelPlural>獅子種槍手傭兵</Leo_Mercenary_Gunner.labelPlural>
+  <!-- male Leo mercenary gunner -->
+  <Leo_Mercenary_Gunner.labelMale>男性獅子種槍手傭兵</Leo_Mercenary_Gunner.labelMale>
+  <!-- male Leo mercenary gunners -->
+  <Leo_Mercenary_Gunner.labelMalePlural>男性獅子種槍手傭兵</Leo_Mercenary_Gunner.labelMalePlural>
+  <!-- female Leo mercenary gunner -->
+  <Leo_Mercenary_Gunner.labelFemale>女性獅子種槍手傭兵</Leo_Mercenary_Gunner.labelFemale>
+  <!-- female Leo mercenary gunners -->
+  <Leo_Mercenary_Gunner.labelFemalePlural>女性獅子種槍手傭兵</Leo_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Leo mercenary sniper -->
+  <Leo_Mercenary_Sniper.label>獅子種狙擊手傭兵</Leo_Mercenary_Sniper.label>
+  <!-- Leo mercenary snipers -->
+  <Leo_Mercenary_Sniper.labelPlural>獅子種狙擊手傭兵</Leo_Mercenary_Sniper.labelPlural>
+  <!-- male Leo mercenary sniper -->
+  <Leo_Mercenary_Sniper.labelMale>男性獅子種狙擊手傭兵</Leo_Mercenary_Sniper.labelMale>
+  <!-- male Leo mercenary snipers -->
+  <Leo_Mercenary_Sniper.labelMalePlural>男性獅子種狙擊手傭兵</Leo_Mercenary_Sniper.labelMalePlural>
+  <!-- female Leo mercenary sniper -->
+  <Leo_Mercenary_Sniper.labelFemale>女性獅子種狙擊手傭兵</Leo_Mercenary_Sniper.labelFemale>
+  <!-- female Leo mercenary snipers -->
+  <Leo_Mercenary_Sniper.labelFemalePlural>女性獅子種狙擊手傭兵</Leo_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Leo mercenary slasher -->
+  <Leo_Mercenary_Slasher.label>獅子種殺手傭兵</Leo_Mercenary_Slasher.label>
+  <!-- Leo mercenary slashers -->
+  <Leo_Mercenary_Slasher.labelPlural>獅子種殺手傭兵</Leo_Mercenary_Slasher.labelPlural>
+  <!-- male Leo mercenary slasher -->
+  <Leo_Mercenary_Slasher.labelMale>男性獅子種殺手傭兵</Leo_Mercenary_Slasher.labelMale>
+  <!-- male Leo mercenary slashers -->
+  <Leo_Mercenary_Slasher.labelMalePlural>男性獅子種殺手傭兵</Leo_Mercenary_Slasher.labelMalePlural>
+  <!-- female Leo mercenary slasher -->
+  <Leo_Mercenary_Slasher.labelFemale>女性獅子種殺手傭兵</Leo_Mercenary_Slasher.labelFemale>
+  <!-- female Leo mercenary slashers -->
+  <Leo_Mercenary_Slasher.labelFemalePlural>女性獅子種殺手傭兵</Leo_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Leo heavy mercenary -->
+  <Leo_Mercenary_Heavy.label>獅子種重裝傭兵</Leo_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->
+  <Leo_Mercenary_Heavy.labelPlural>獅子種重裝傭兵</Leo_Mercenary_Heavy.labelPlural>
+  <!-- male Leo heavy mercenary -->
+  <Leo_Mercenary_Heavy.labelMale>男性獅子種重裝傭兵</Leo_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->
+  <Leo_Mercenary_Heavy.labelMalePlural>男性獅子種重裝傭兵</Leo_Mercenary_Heavy.labelMalePlural>
+  <!-- female Leo heavy mercenary -->
+  <Leo_Mercenary_Heavy.labelFemale>女性獅子種重裝傭兵</Leo_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->
+  <Leo_Mercenary_Heavy.labelFemalePlural>女性獅子種重裝傭兵</Leo_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Leo boss -->
+  <Leo_PirateBoss.label>獅子種海賊團長</Leo_PirateBoss.label>
+  <!-- bosses -->
+  <Leo_PirateBoss.labelPlural>獅子種海賊團長</Leo_PirateBoss.labelPlural>
+  <!-- male Leo boss -->
+  <Leo_PirateBoss.labelMale>男性獅子種海賊團長</Leo_PirateBoss.labelMale>
+  <!-- male bosses -->
+  <Leo_PirateBoss.labelMalePlural>男性獅子種海賊團長</Leo_PirateBoss.labelMalePlural>
+  <!-- female Leo boss -->
+  <Leo_PirateBoss.labelFemale>女性獅子種海賊團長</Leo_PirateBoss.labelFemale>
+  <!-- female bosses -->
+  <Leo_PirateBoss.labelFemalePlural>女性獅子種海賊團長</Leo_PirateBoss.labelFemalePlural>
+
+  <!-- Leo elite mercenary -->
+  <Leo_Mercenary_Elite.label>獅子種精銳傭兵</Leo_Mercenary_Elite.label>
+  <!-- elite mercenaries -->
+  <Leo_Mercenary_Elite.labelPlural>獅子種精銳傭兵</Leo_Mercenary_Elite.labelPlural>
+  <!-- male Leo elite mercenary -->
+  <Leo_Mercenary_Elite.labelMale>男性獅子種精銳傭兵</Leo_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->
+  <Leo_Mercenary_Elite.labelMalePlural>男性獅子種精銳傭兵</Leo_Mercenary_Elite.labelMalePlural>
+  <!-- female Leo elite mercenary -->
+  <Leo_Mercenary_Elite.labelFemale>女性獅子種精銳傭兵</Leo_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->
+  <Leo_Mercenary_Elite.labelFemalePlural>女性獅子種精銳傭兵</Leo_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Leo drifter -->
+  <Leo_Drifter.label>獅子種漂泊者</Leo_Drifter.label>
+  <!-- Leo drifters -->
+  <Leo_Drifter.labelPlural>獅子種漂泊者</Leo_Drifter.labelPlural>
+  <!-- male Leo drifter -->
+  <Leo_Drifter.labelMale>男性獅子種漂泊者</Leo_Drifter.labelMale>
+  <!-- male Leo drifters -->
+  <Leo_Drifter.labelMalePlural>男性獅子種漂泊者</Leo_Drifter.labelMalePlural>
+  <!-- female Leo drifter -->
+  <Leo_Drifter.labelFemale>女性獅子種漂泊者</Leo_Drifter.labelFemale>
+  <!-- female Leo drifters -->
+  <Leo_Drifter.labelFemalePlural>女性獅子種漂泊者</Leo_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Leo scavenger gunner -->
+  <Leo_Scavenger.label>獅子種掠奪者槍手</Leo_Scavenger.label>
+  <!-- Leo scavenger gunners -->
+  <Leo_Scavenger.labelPlural>獅子種掠奪者槍手</Leo_Scavenger.labelPlural>
+  <!-- male Leo scavenger gunner -->
+  <Leo_Scavenger.labelMale>男性獅子種掠奪者槍手</Leo_Scavenger.labelMale>
+  <!-- male Leo scavenger gunners -->
+  <Leo_Scavenger.labelMalePlural>男性獅子種掠奪者槍手</Leo_Scavenger.labelMalePlural>
+  <!-- female Leo scavenger gunner -->
+  <Leo_Scavenger.labelFemale>女性獅子種掠奪者槍手</Leo_Scavenger.labelFemale>
+  <!-- female Leo scavenger gunners -->
+  <Leo_Scavenger.labelFemalePlural>女性獅子種掠奪者槍手</Leo_Scavenger.labelFemalePlural>
+
+  <!-- Leo scavenger thrasher -->
+  <Leo_Thrasher.label>獅子種掠奪者暴民</Leo_Thrasher.label>
+  <!-- Leo scavenger thrashers -->
+  <Leo_Thrasher.labelPlural>獅子種掠奪者暴民</Leo_Thrasher.labelPlural>
+  <!-- male Leo scavenger thrasher -->
+  <Leo_Thrasher.labelMale>男性獅子種掠奪者暴民</Leo_Thrasher.labelMale>
+  <!-- male Leo scavenger thrashers -->
+  <Leo_Thrasher.labelMalePlural>男性獅子種掠奪者暴民</Leo_Thrasher.labelMalePlural>
+  <!-- female Leo scavenger thrasher -->
+  <Leo_Thrasher.labelFemale>女性獅子種掠奪者暴民</Leo_Thrasher.labelFemale>
+  <!-- female Leo scavenger thrashers -->
+  <Leo_Thrasher.labelFemalePlural>女性獅子種掠奪者暴民</Leo_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Leo pirate gunner -->
+  <Leo_Pirate.label>獅子種海賊槍手</Leo_Pirate.label>
+  <!-- Leo pirate gunners -->
+  <Leo_Pirate.labelPlural>獅子種海賊槍手</Leo_Pirate.labelPlural>
+  <!-- male Leo pirate gunner -->
+  <Leo_Pirate.labelMale>男性獅子種海賊槍手</Leo_Pirate.labelMale>
+  <!-- male Leo pirate gunners -->
+  <Leo_Pirate.labelMalePlural>男性獅子種海賊槍手</Leo_Pirate.labelMalePlural>
+  <!-- female Leo pirate gunner -->
+  <Leo_Pirate.labelFemale>女性獅子種海賊槍手</Leo_Pirate.labelFemale>
+  <!-- female Leo pirate gunners -->
+  <Leo_Pirate.labelFemalePlural>女性獅子種海賊槍手</Leo_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Leo villager -->
+  <Leo_Villager.label>獅子種村民</Leo_Villager.label>
+  <!-- Leo villagers -->
+  <Leo_Villager.labelPlural>獅子種村民</Leo_Villager.labelPlural>
+  <!-- male Leo villager -->
+  <Leo_Villager.labelMale>男性獅子種村民</Leo_Villager.labelMale>
+  <!-- male Leo villagers -->
+  <Leo_Villager.labelMalePlural>男性獅子種村民</Leo_Villager.labelMalePlural>
+  <!-- female Leo villager -->
+  <Leo_Villager.labelFemale>女性獅子種村民</Leo_Villager.labelFemale>
+  <!-- female Leo villagers -->
+  <Leo_Villager.labelFemalePlural>女性獅子種村民</Leo_Villager.labelFemalePlural>
+
+  <!-- Leo town guard -->
+  <Leo_Town_Guard.label>獅子種城鎮衛兵</Leo_Town_Guard.label>
+  <!-- Leo town guards -->
+  <Leo_Town_Guard.labelPlural>獅子種城鎮衛兵</Leo_Town_Guard.labelPlural>
+  <!-- male Leo town guard -->
+  <Leo_Town_Guard.labelMale>男性獅子種城鎮衛兵</Leo_Town_Guard.labelMale>
+  <!-- male Leo town guards -->
+  <Leo_Town_Guard.labelMalePlural>男性獅子種城鎮衛兵</Leo_Town_Guard.labelMalePlural>
+  <!-- female Leo town guard -->
+  <Leo_Town_Guard.labelFemale>女性獅子種城鎮衛兵</Leo_Town_Guard.labelFemale>
+  <!-- female Leo town guards -->
+  <Leo_Town_Guard.labelFemalePlural>女性獅子種城鎮衛兵</Leo_Town_Guard.labelFemalePlural>
+
+  <!-- Leo town trader -->
+  <Leo_Town_Trader.label>獅子種城鎮商人</Leo_Town_Trader.label>
+  <!-- Leo town traders -->
+  <Leo_Town_Trader.labelPlural>獅子種城鎮商人</Leo_Town_Trader.labelPlural>
+  <!-- male Leo town trader -->
+  <Leo_Town_Trader.labelMale>男性獅子種城鎮商人</Leo_Town_Trader.labelMale>
+  <!-- male Leo town traders -->
+  <Leo_Town_Trader.labelMalePlural>男性獅子種城鎮商人</Leo_Town_Trader.labelMalePlural>
+  <!-- female Leo town trader -->
+  <Leo_Town_Trader.labelFemale>女性獅子種城鎮商人</Leo_Town_Trader.labelFemale>
+  <!-- female Leo town traders -->
+  <Leo_Town_Trader.labelFemalePlural>女性獅子種城鎮商人</Leo_Town_Trader.labelFemalePlural>
+
+  <!-- Leo town councilman -->
+  <Leo_Town_Councilman.label>獅子種城鎮議員</Leo_Town_Councilman.label>
+  <!-- town councilmen -->
+  <Leo_Town_Councilman.labelPlural>獅子種城鎮議員</Leo_Town_Councilman.labelPlural>
+  <!-- male Leo town councilman -->
+  <Leo_Town_Councilman.labelMale>男性獅子種城鎮議員</Leo_Town_Councilman.labelMale>
+  <!-- male town councilmen -->
+  <Leo_Town_Councilman.labelMalePlural>男性 城鎮議員</Leo_Town_Councilman.labelMalePlural>
+  <!-- female Leo town councilman -->
+  <Leo_Town_Councilman.labelFemale>女性獅子種城鎮議員</Leo_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->
+  <Leo_Town_Councilman.labelFemalePlural>女性 城鎮議員</Leo_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Leo penitent -->
+  <Leo_Tribal_Penitent.label>獅子種海賊</Leo_Tribal_Penitent.label>
+  <!-- Leo penitents -->
+  <Leo_Tribal_Penitent.labelPlural>獅子種海賊</Leo_Tribal_Penitent.labelPlural>
+  <!-- male Leo penitent -->
+  <Leo_Tribal_Penitent.labelMale>男性獅子種海賊</Leo_Tribal_Penitent.labelMale>
+  <!-- male Leo penitents -->
+  <Leo_Tribal_Penitent.labelMalePlural>男性獅子種海賊</Leo_Tribal_Penitent.labelMalePlural>
+  <!-- female Leo penitent -->
+  <Leo_Tribal_Penitent.labelFemale>女性獅子種海賊</Leo_Tribal_Penitent.labelFemale>
+  <!-- female Leo penitents -->
+  <Leo_Tribal_Penitent.labelFemalePlural>女性獅子種海賊</Leo_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Leo archer -->
+  <Leo_Tribal_Archer.label>獅子種弓箭手</Leo_Tribal_Archer.label>
+  <!-- Leo archers -->
+  <Leo_Tribal_Archer.labelPlural>獅子種弓箭手</Leo_Tribal_Archer.labelPlural>
+  <!-- male Leo archer -->
+  <Leo_Tribal_Archer.labelMale>男性獅子種弓箭手</Leo_Tribal_Archer.labelMale>
+  <!-- male Leo archers -->
+  <Leo_Tribal_Archer.labelMalePlural>男性獅子種弓箭手</Leo_Tribal_Archer.labelMalePlural>
+  <!-- female Leo archer -->
+  <Leo_Tribal_Archer.labelFemale>女性獅子種弓箭手</Leo_Tribal_Archer.labelFemale>
+  <!-- female Leo archers -->
+  <Leo_Tribal_Archer.labelFemalePlural>女性獅子種弓箭手</Leo_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Leo warrior -->
+  <Leo_Tribal_Warrior.label>獅子種戰士</Leo_Tribal_Warrior.label>
+  <!-- Leo warriors -->
+  <Leo_Tribal_Warrior.labelPlural>獅子種戰士</Leo_Tribal_Warrior.labelPlural>
+  <!-- male Leo warrior -->
+  <Leo_Tribal_Warrior.labelMale>男性獅子種戰士</Leo_Tribal_Warrior.labelMale>
+  <!-- male Leo warriors -->
+  <Leo_Tribal_Warrior.labelMalePlural>男性獅子種戰士</Leo_Tribal_Warrior.labelMalePlural>
+  <!-- female Leo warrior -->
+  <Leo_Tribal_Warrior.labelFemale>女性獅子種戰士</Leo_Tribal_Warrior.labelFemale>
+  <!-- female Leo warriors -->
+  <Leo_Tribal_Warrior.labelFemalePlural>女性獅子種戰士</Leo_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Leo hunter -->
+  <Leo_Tribal_Hunter.label>獅子種獵人</Leo_Tribal_Hunter.label>
+  <!-- Leo hunters -->
+  <Leo_Tribal_Hunter.labelPlural>獅子種獵人</Leo_Tribal_Hunter.labelPlural>
+  <!-- male Leo hunter -->
+  <Leo_Tribal_Hunter.labelMale>男性獅子種獵人</Leo_Tribal_Hunter.labelMale>
+  <!-- male Leo hunters -->
+  <Leo_Tribal_Hunter.labelMalePlural>男性獅子種獵人</Leo_Tribal_Hunter.labelMalePlural>
+  <!-- female Leo hunter -->
+  <Leo_Tribal_Hunter.labelFemale>女性獅子種獵人</Leo_Tribal_Hunter.labelFemale>
+  <!-- female Leo hunters -->
+  <Leo_Tribal_Hunter.labelFemalePlural>女性獅子種獵人</Leo_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Leo trader -->
+  <Leo_Tribal_Trader.label>獅子種商人</Leo_Tribal_Trader.label>
+  <!-- Leo traders -->
+  <Leo_Tribal_Trader.labelPlural>獅子種商人</Leo_Tribal_Trader.labelPlural>
+  <!-- male Leo trader -->
+  <Leo_Tribal_Trader.labelMale>男性獅子種商人</Leo_Tribal_Trader.labelMale>
+  <!-- male Leo traders -->
+  <Leo_Tribal_Trader.labelMalePlural>男性獅子種商人</Leo_Tribal_Trader.labelMalePlural>
+  <!-- female Leo trader -->
+  <Leo_Tribal_Trader.labelFemale>女性獅子種商人</Leo_Tribal_Trader.labelFemale>
+  <!-- female Leo traders -->
+  <Leo_Tribal_Trader.labelFemalePlural>女性獅子種商人</Leo_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Leo berserker -->
+  <Leo_Tribal_Berserker.label>獅子種狂戰士</Leo_Tribal_Berserker.label>
+  <!-- Leo berserkers -->
+  <Leo_Tribal_Berserker.labelPlural>獅子種狂戰士</Leo_Tribal_Berserker.labelPlural>
+  <!-- male Leo berserker -->
+  <Leo_Tribal_Berserker.labelMale>男性獅子種狂戰士</Leo_Tribal_Berserker.labelMale>
+  <!-- male Leo berserkers -->
+  <Leo_Tribal_Berserker.labelMalePlural>男性獅子種狂戰士</Leo_Tribal_Berserker.labelMalePlural>
+  <!-- female Leo berserker -->
+  <Leo_Tribal_Berserker.labelFemale>女性獅子種狂戰士</Leo_Tribal_Berserker.labelFemale>
+  <!-- female Leo berserkers -->
+  <Leo_Tribal_Berserker.labelFemalePlural>女性獅子種狂戰士</Leo_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Leo heavy archer -->
+  <Leo_Tribal_HeavyArcher.label>獅子種重裝弓箭手</Leo_Tribal_HeavyArcher.label>
+  <!-- Leo heavy archers -->
+  <Leo_Tribal_HeavyArcher.labelPlural>獅子種重裝弓箭手</Leo_Tribal_HeavyArcher.labelPlural>
+  <!-- male Leo heavy archer -->
+  <Leo_Tribal_HeavyArcher.labelMale>男性獅子種重裝弓箭手</Leo_Tribal_HeavyArcher.labelMale>
+  <!-- male Leo heavy archers -->
+  <Leo_Tribal_HeavyArcher.labelMalePlural>男性獅子種重裝弓箭手</Leo_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Leo heavy archer -->
+  <Leo_Tribal_HeavyArcher.labelFemale>女性獅子種重裝弓箭手</Leo_Tribal_HeavyArcher.labelFemale>
+  <!-- female Leo heavy archers -->
+  <Leo_Tribal_HeavyArcher.labelFemalePlural>女性獅子種重裝弓箭手</Leo_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Leo_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Leo_Tribal_ChiefMelee.label>Leo_Tribal_ChiefMelee</Leo_Tribal_ChiefMelee.label>-->
+  <!-- Leo_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Leo_Tribal_ChiefMelee.labelPlural>Leo_Tribal_ChiefMelees</Leo_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Leo_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Leo_Tribal_ChiefMelee.labelMale>男性 Leo_Tribal_ChiefMelee</Leo_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Leo_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Leo_Tribal_ChiefMelee.labelMalePlural>男性 Leo_Tribal_ChiefMelees</Leo_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Leo_Tribal_ChiefMelee -->
+  <!--[Duplicated] <Leo_Tribal_ChiefMelee.labelFemale>女性 Leo_Tribal_ChiefMelee</Leo_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Leo_Tribal_ChiefMelees -->
+  <!--[Duplicated] <Leo_Tribal_ChiefMelee.labelFemalePlural>女性 Leo_Tribal_ChiefMelees</Leo_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Leo berserker chief -->
+  <Leo_Tribal_ChiefMelee.label>獅子種狂戰士隊長</Leo_Tribal_ChiefMelee.label>
+  <!-- Leo berserker chiefs -->
+  <Leo_Tribal_ChiefMelee.labelPlural>獅子種狂戰士隊長</Leo_Tribal_ChiefMelee.labelPlural>
+  <!-- male Leo berserker chief -->
+  <Leo_Tribal_ChiefMelee.labelMale>男性獅子種狂戰士隊長</Leo_Tribal_ChiefMelee.labelMale>
+  <!-- male Leo berserker chiefs -->
+  <Leo_Tribal_ChiefMelee.labelMalePlural>男性獅子種狂戰士隊長</Leo_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Leo berserker chief -->
+  <Leo_Tribal_ChiefMelee.labelFemale>女性獅子種狂戰士隊長</Leo_Tribal_ChiefMelee.labelFemale>
+  <!-- female Leo berserker chiefs -->
+  <Leo_Tribal_ChiefMelee.labelFemalePlural>女性獅子種狂戰士隊長</Leo_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Leo archer chief -->
+  <Leo_Tribal_ChiefRanged.label>獅子種弓箭手隊長</Leo_Tribal_ChiefRanged.label>
+  <!-- Leo archer chiefs -->
+  <Leo_Tribal_ChiefRanged.labelPlural>獅子種弓箭手隊長</Leo_Tribal_ChiefRanged.labelPlural>
+  <!-- male Leo archer chief -->
+  <Leo_Tribal_ChiefRanged.labelMale>男性獅子種弓箭手隊長</Leo_Tribal_ChiefRanged.labelMale>
+  <!-- male Leo archer chiefs -->
+  <Leo_Tribal_ChiefRanged.labelMalePlural>男性獅子種弓箭手隊長</Leo_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Leo archer chief -->
+  <Leo_Tribal_ChiefRanged.labelFemale>女性獅子種弓箭手隊長</Leo_Tribal_ChiefRanged.labelFemale>
+  <!-- female Leo archer chiefs -->
+  <Leo_Tribal_ChiefRanged.labelFemalePlural>女性獅子種弓箭手隊長</Leo_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

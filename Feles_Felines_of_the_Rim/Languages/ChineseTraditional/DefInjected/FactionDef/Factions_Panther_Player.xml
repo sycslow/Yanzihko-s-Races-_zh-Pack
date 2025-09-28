@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Panther Tribe -->  <PlayerPantherTribal.label>黑豹種部落</PlayerPantherTribal.label>
+  <!-- Panther tribe -->  <PlayerPantherTribal.description>黑豹種部落</PlayerPantherTribal.description>
+  <!-- Panther -->  <PlayerPantherTribal.pawnsPlural>黑豹種部落民</PlayerPantherTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Panther Tribe (No tech) -->  <PlayerPantherTribalNoTech.label>黑豹種部落 (無科技)</PlayerPantherTribalNoTech.label>
+  <!-- Panther tribe -->  <PlayerPantherTribalNoTech.description>黑豹種部落</PlayerPantherTribalNoTech.description>
+  <!-- Panther -->  <PlayerPantherTribalNoTech.pawnsPlural>黑豹種部落民</PlayerPantherTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Panther Colony -->  <PlayerPantherIndustrial.label>黑豹種殖民地</PlayerPantherIndustrial.label>
+  <!-- Panther Colony -->  <PlayerPantherIndustrial.description>黑豹種殖民地</PlayerPantherIndustrial.description>
+  <!-- Panther -->  <PlayerPantherIndustrial.pawnsPlural>黑豹種殖民者</PlayerPantherIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Panther Colony (No tech) -->  <PlayerPantherIndustrialNoTech.label>黑豹種殖民地 (無科技)</PlayerPantherIndustrialNoTech.label>
+  <!-- Panther colony -->  <PlayerPantherIndustrialNoTech.description>黑豹種殖民地</PlayerPantherIndustrialNoTech.description>
+  <!-- Panther -->  <PlayerPantherIndustrialNoTech.pawnsPlural>黑豹種殖民者</PlayerPantherIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

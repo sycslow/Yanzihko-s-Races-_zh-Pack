@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Feles Tribe -->  <PlayerFelesTribal.label>菲利斯貓科部落</PlayerFelesTribal.label>
+  <!-- Feles tribe -->  <PlayerFelesTribal.description>菲利斯貓科部落</PlayerFelesTribal.description>
+  <!-- Feles -->  <PlayerFelesTribal.pawnsPlural>菲利斯貓科部落民</PlayerFelesTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Feles Tribe (No tech) -->  <PlayerFelesTribalNoTech.label>菲利斯貓科部落 (無科技)</PlayerFelesTribalNoTech.label>
+  <!-- Feles tribe -->  <PlayerFelesTribalNoTech.description>菲利斯貓科部落</PlayerFelesTribalNoTech.description>
+  <!-- Feles -->  <PlayerFelesTribalNoTech.pawnsPlural>菲利斯貓科部落民</PlayerFelesTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Feles Colony -->  <PlayerFelesIndustrial.label>菲利斯貓科殖民地</PlayerFelesIndustrial.label>
+  <!-- Feles Colony -->  <PlayerFelesIndustrial.description>菲利斯貓科殖民地</PlayerFelesIndustrial.description>
+  <!-- Feles -->  <PlayerFelesIndustrial.pawnsPlural>菲利斯貓科殖民者</PlayerFelesIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Feles Colony (No tech) -->  <PlayerFelesIndustrialNoTech.label>菲利斯貓科殖民地 (無科技)</PlayerFelesIndustrialNoTech.label>
+  <!-- Feles colony -->  <PlayerFelesIndustrialNoTech.description>菲利斯貓科殖民地</PlayerFelesIndustrialNoTech.description>
+  <!-- Feles -->  <PlayerFelesIndustrialNoTech.pawnsPlural>菲利斯貓科殖民者</PlayerFelesIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Panther space refugee -->  <PantherSpaceRefugee.label>黑豹种星际难民</PantherSpaceRefugee.label>
+  <!-- Panther space refugees -->  <PantherSpaceRefugee.labelPlural>黑豹种星际难民</PantherSpaceRefugee.labelPlural>
+  <!-- male Panther space refugee -->  <PantherSpaceRefugee.labelMale>男性黑豹种星际难民</PantherSpaceRefugee.labelMale>
+  <!-- male Panther space refugees -->  <PantherSpaceRefugee.labelMalePlural>男性黑豹种星际难民</PantherSpaceRefugee.labelMalePlural>
+  <!-- female Panther space refugee -->  <PantherSpaceRefugee.labelFemale>女性黑豹种星际难民</PantherSpaceRefugee.labelFemale>
+  <!-- female Panther space refugees -->  <PantherSpaceRefugee.labelFemalePlural>女性黑豹种星际难民</PantherSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Panther slave -->  <PantherSlave.label>黑豹种奴隶</PantherSlave.label>
+  <!-- Panther slaves -->  <PantherSlave.labelPlural>黑豹种奴隶</PantherSlave.labelPlural>
+  <!-- male Panther slave -->  <PantherSlave.labelMale>男性黑豹种奴隶</PantherSlave.labelMale>
+  <!-- male Panther slaves -->  <PantherSlave.labelMalePlural>男性黑豹种奴隶</PantherSlave.labelMalePlural>
+  <!-- female Panther slave -->  <PantherSlave.labelFemale>女性黑豹种奴隶</PantherSlave.labelFemale>
+  <!-- female Panther slaves -->  <PantherSlave.labelFemalePlural>女性黑豹种奴隶</PantherSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Panther -->  <PantherColonist.label>黑豹种</PantherColonist.label>
+  <!-- Panthers -->  <PantherColonist.labelPlural>黑豹种</PantherColonist.labelPlural>
+  <!-- male Panther -->  <PantherColonist.labelMale>男性黑豹种</PantherColonist.labelMale>
+  <!-- male Panthers -->  <PantherColonist.labelMalePlural>男性黑豹种</PantherColonist.labelMalePlural>
+  <!-- female Panther -->  <PantherColonist.labelFemale>女性黑豹种</PantherColonist.labelFemale>
+  <!-- female Panthers -->  <PantherColonist.labelFemalePlural>女性黑豹种</PantherColonist.labelFemalePlural>
+
+  <!-- Panther -->  <PantherTribesperson.label>黑豹种</PantherTribesperson.label>
+  <!-- Panthers -->  <PantherTribesperson.labelPlural>黑豹种</PantherTribesperson.labelPlural>
+  <!-- male Panther -->  <PantherTribesperson.labelMale>男性黑豹种</PantherTribesperson.labelMale>
+  <!-- male Panthers -->  <PantherTribesperson.labelMalePlural>男性黑豹种</PantherTribesperson.labelMalePlural>
+  <!-- female Panther -->  <PantherTribesperson.labelFemale>女性黑豹种</PantherTribesperson.labelFemale>
+  <!-- female Panthers -->  <PantherTribesperson.labelFemalePlural>女性黑豹种</PantherTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Panther grenadier -->  <Panther_Grenadier_Destructive.label>黑豹种掷弹兵</Panther_Grenadier_Destructive.label>
+  <!-- Panther grenadiers -->  <Panther_Grenadier_Destructive.labelPlural>黑豹种掷弹兵</Panther_Grenadier_Destructive.labelPlural>
+  <!-- male Panther grenadier -->  <Panther_Grenadier_Destructive.labelMale>男性黑豹种掷弹兵</Panther_Grenadier_Destructive.labelMale>
+  <!-- male Panther grenadiers -->  <Panther_Grenadier_Destructive.labelMalePlural>男性黑豹种掷弹兵</Panther_Grenadier_Destructive.labelMalePlural>
+  <!-- female Panther grenadier -->  <Panther_Grenadier_Destructive.labelFemale>女性黑豹种掷弹兵</Panther_Grenadier_Destructive.labelFemale>
+  <!-- female Panther grenadiers -->  <Panther_Grenadier_Destructive.labelFemalePlural>女性黑豹种掷弹兵</Panther_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Panther EMPgrenadier -->  <Panther_Grenadier_EMP.label>黑豹种EMP掷弹兵</Panther_Grenadier_EMP.label>
+  <!-- Panther EMPgrenadiers -->  <Panther_Grenadier_EMP.labelPlural>黑豹种EMP掷弹兵</Panther_Grenadier_EMP.labelPlural>
+  <!-- male Panther EMPgrenadier -->  <Panther_Grenadier_EMP.labelMale>男性黑豹种EMP掷弹兵</Panther_Grenadier_EMP.labelMale>
+  <!-- male Panther EMPgrenadiers -->  <Panther_Grenadier_EMP.labelMalePlural>男性黑豹种EMP掷弹兵</Panther_Grenadier_EMP.labelMalePlural>
+  <!-- female Panther EMPgrenadier -->  <Panther_Grenadier_EMP.labelFemale>女性黑豹种EMP掷弹兵</Panther_Grenadier_EMP.labelFemale>
+  <!-- female Panther EMPgrenadiers -->  <Panther_Grenadier_EMP.labelFemalePlural>女性黑豹种EMP掷弹兵</Panther_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Panther smoke grenadier -->  <Panther_Grenadier_Smoke.label>黑豹种烟雾弹掷弹兵</Panther_Grenadier_Smoke.label>
+  <!-- Panther smoke grenadiers -->  <Panther_Grenadier_Smoke.labelPlural>黑豹种烟雾弹掷弹兵</Panther_Grenadier_Smoke.labelPlural>
+  <!-- male Panther smoke grenadier -->  <Panther_Grenadier_Smoke.labelMale>男性黑豹种烟雾弹掷弹兵</Panther_Grenadier_Smoke.labelMale>
+  <!-- male Panther smoke grenadiers -->  <Panther_Grenadier_Smoke.labelMalePlural>男性黑豹种烟雾弹掷弹兵</Panther_Grenadier_Smoke.labelMalePlural>
+  <!-- female Panther smoke grenadier -->  <Panther_Grenadier_Smoke.labelFemale>女性黑豹种烟雾弹掷弹兵</Panther_Grenadier_Smoke.labelFemale>
+  <!-- female Panther smoke grenadiers -->  <Panther_Grenadier_Smoke.labelFemalePlural>女性黑豹种烟雾弹掷弹兵</Panther_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Panther mercenary gunner -->  <Panther_Mercenary_Gunner.label>黑豹种枪手佣兵</Panther_Mercenary_Gunner.label>
+  <!-- Panther mercenary gunners -->  <Panther_Mercenary_Gunner.labelPlural>黑豹种枪手佣兵</Panther_Mercenary_Gunner.labelPlural>
+  <!-- male Panther mercenary gunner -->  <Panther_Mercenary_Gunner.labelMale>男性黑豹种枪手佣兵</Panther_Mercenary_Gunner.labelMale>
+  <!-- male Panther mercenary gunners -->  <Panther_Mercenary_Gunner.labelMalePlural>男性黑豹种枪手佣兵</Panther_Mercenary_Gunner.labelMalePlural>
+  <!-- female Panther mercenary gunner -->  <Panther_Mercenary_Gunner.labelFemale>女性黑豹种枪手佣兵</Panther_Mercenary_Gunner.labelFemale>
+  <!-- female Panther mercenary gunners -->  <Panther_Mercenary_Gunner.labelFemalePlural>女性黑豹种枪手佣兵</Panther_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Panther mercenary sniper -->  <Panther_Mercenary_Sniper.label>黑豹种狙击手佣兵</Panther_Mercenary_Sniper.label>
+  <!-- Panther mercenary snipers -->  <Panther_Mercenary_Sniper.labelPlural>黑豹种狙击手佣兵</Panther_Mercenary_Sniper.labelPlural>
+  <!-- male Panther mercenary sniper -->  <Panther_Mercenary_Sniper.labelMale>男性黑豹种狙击手佣兵</Panther_Mercenary_Sniper.labelMale>
+  <!-- male Panther mercenary snipers -->  <Panther_Mercenary_Sniper.labelMalePlural>男性黑豹种狙击手佣兵</Panther_Mercenary_Sniper.labelMalePlural>
+  <!-- female Panther mercenary sniper -->  <Panther_Mercenary_Sniper.labelFemale>女性黑豹种狙击手佣兵</Panther_Mercenary_Sniper.labelFemale>
+  <!-- female Panther mercenary snipers -->  <Panther_Mercenary_Sniper.labelFemalePlural>女性黑豹种狙击手佣兵</Panther_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Panther mercenary slasher -->  <Panther_Mercenary_Slasher.label>黑豹种杀手佣兵</Panther_Mercenary_Slasher.label>
+  <!-- Panther mercenary slashers -->  <Panther_Mercenary_Slasher.labelPlural>黑豹种杀手佣兵</Panther_Mercenary_Slasher.labelPlural>
+  <!-- male Panther mercenary slasher -->  <Panther_Mercenary_Slasher.labelMale>男性黑豹种杀手佣兵</Panther_Mercenary_Slasher.labelMale>
+  <!-- male Panther mercenary slashers -->  <Panther_Mercenary_Slasher.labelMalePlural>男性黑豹种杀手佣兵</Panther_Mercenary_Slasher.labelMalePlural>
+  <!-- female Panther mercenary slasher -->  <Panther_Mercenary_Slasher.labelFemale>女性黑豹种杀手佣兵</Panther_Mercenary_Slasher.labelFemale>
+  <!-- female Panther mercenary slashers -->  <Panther_Mercenary_Slasher.labelFemalePlural>女性黑豹种杀手佣兵</Panther_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Panther heavy mercenary -->  <Panther_Mercenary_Heavy.label>黑豹种重装佣兵</Panther_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Panther_Mercenary_Heavy.labelPlural>黑豹种重装佣兵</Panther_Mercenary_Heavy.labelPlural>
+  <!-- male Panther heavy mercenary -->  <Panther_Mercenary_Heavy.labelMale>男性黑豹种重装佣兵</Panther_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Panther_Mercenary_Heavy.labelMalePlural>男性黑豹种重装佣兵</Panther_Mercenary_Heavy.labelMalePlural>
+  <!-- female Panther heavy mercenary -->  <Panther_Mercenary_Heavy.labelFemale>女性黑豹种重装佣兵</Panther_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Panther_Mercenary_Heavy.labelFemalePlural>女性黑豹种重装佣兵</Panther_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Panther boss -->  <Panther_PirateBoss.label>黑豹种海贼团长</Panther_PirateBoss.label>
+  <!-- bosses -->  <Panther_PirateBoss.labelPlural>黑豹种海贼团长</Panther_PirateBoss.labelPlural>
+  <!-- male Panther boss -->  <Panther_PirateBoss.labelMale>男性黑豹种海贼团长</Panther_PirateBoss.labelMale>
+  <!-- male bosses -->  <Panther_PirateBoss.labelMalePlural>男性黑豹种海贼团长</Panther_PirateBoss.labelMalePlural>
+  <!-- female Panther boss -->  <Panther_PirateBoss.labelFemale>女性黑豹种海贼团长</Panther_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Panther_PirateBoss.labelFemalePlural>女性黑豹种海贼团长</Panther_PirateBoss.labelFemalePlural>
+
+  <!-- Panther elite mercenary -->  <Panther_Mercenary_Elite.label>黑豹种精锐佣兵</Panther_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Panther_Mercenary_Elite.labelPlural>黑豹种精锐佣兵</Panther_Mercenary_Elite.labelPlural>
+  <!-- male Panther elite mercenary -->  <Panther_Mercenary_Elite.labelMale>男性黑豹种精锐佣兵</Panther_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Panther_Mercenary_Elite.labelMalePlural>男性黑豹种精锐佣兵</Panther_Mercenary_Elite.labelMalePlural>
+  <!-- female Panther elite mercenary -->  <Panther_Mercenary_Elite.labelFemale>女性黑豹种精锐佣兵</Panther_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Panther_Mercenary_Elite.labelFemalePlural>女性黑豹种精锐佣兵</Panther_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Panther drifter -->  <Panther_Drifter.label>黑豹种漂泊者</Panther_Drifter.label>
+  <!-- Panther drifters -->  <Panther_Drifter.labelPlural>黑豹种漂泊者</Panther_Drifter.labelPlural>
+  <!-- male Panther drifter -->  <Panther_Drifter.labelMale>男性黑豹种漂泊者</Panther_Drifter.labelMale>
+  <!-- male Panther drifters -->  <Panther_Drifter.labelMalePlural>男性黑豹种漂泊者</Panther_Drifter.labelMalePlural>
+  <!-- female Panther drifter -->  <Panther_Drifter.labelFemale>女性黑豹种漂泊者</Panther_Drifter.labelFemale>
+  <!-- female Panther drifters -->  <Panther_Drifter.labelFemalePlural>女性黑豹种漂泊者</Panther_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Panther scavenger gunner -->  <Panther_Scavenger.label>黑豹种掠夺者枪手</Panther_Scavenger.label>
+  <!-- Panther scavenger gunners -->  <Panther_Scavenger.labelPlural>黑豹种掠夺者枪手</Panther_Scavenger.labelPlural>
+  <!-- male Panther scavenger gunner -->  <Panther_Scavenger.labelMale>男性黑豹种掠夺者枪手</Panther_Scavenger.labelMale>
+  <!-- male Panther scavenger gunners -->  <Panther_Scavenger.labelMalePlural>男性黑豹种掠夺者枪手</Panther_Scavenger.labelMalePlural>
+  <!-- female Panther scavenger gunner -->  <Panther_Scavenger.labelFemale>女性黑豹种掠夺者枪手</Panther_Scavenger.labelFemale>
+  <!-- female Panther scavenger gunners -->  <Panther_Scavenger.labelFemalePlural>女性黑豹种掠夺者枪手</Panther_Scavenger.labelFemalePlural>
+
+  <!-- Panther scavenger thrasher -->  <Panther_Thrasher.label>黑豹种掠夺者暴民</Panther_Thrasher.label>
+  <!-- Panther scavenger thrashers -->  <Panther_Thrasher.labelPlural>黑豹种掠夺者暴民</Panther_Thrasher.labelPlural>
+  <!-- male Panther scavenger thrasher -->  <Panther_Thrasher.labelMale>男性黑豹种掠夺者暴民</Panther_Thrasher.labelMale>
+  <!-- male Panther scavenger thrashers -->  <Panther_Thrasher.labelMalePlural>男性黑豹种掠夺者暴民</Panther_Thrasher.labelMalePlural>
+  <!-- female Panther scavenger thrasher -->  <Panther_Thrasher.labelFemale>女性黑豹种掠夺者暴民</Panther_Thrasher.labelFemale>
+  <!-- female Panther scavenger thrashers -->  <Panther_Thrasher.labelFemalePlural>女性黑豹种掠夺者暴民</Panther_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Panther pirate gunner -->  <Panther_Pirate.label>黑豹种海贼枪手</Panther_Pirate.label>
+  <!-- Panther pirate gunners -->  <Panther_Pirate.labelPlural>黑豹种海贼枪手</Panther_Pirate.labelPlural>
+  <!-- male Panther pirate gunner -->  <Panther_Pirate.labelMale>男性黑豹种海贼枪手</Panther_Pirate.labelMale>
+  <!-- male Panther pirate gunners -->  <Panther_Pirate.labelMalePlural>男性黑豹种海贼枪手</Panther_Pirate.labelMalePlural>
+  <!-- female Panther pirate gunner -->  <Panther_Pirate.labelFemale>女性黑豹种海贼枪手</Panther_Pirate.labelFemale>
+  <!-- female Panther pirate gunners -->  <Panther_Pirate.labelFemalePlural>女性黑豹种海贼枪手</Panther_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Panther villager -->  <Panther_Villager.label>黑豹种村民</Panther_Villager.label>
+  <!-- Panther villagers -->  <Panther_Villager.labelPlural>黑豹种村民</Panther_Villager.labelPlural>
+  <!-- male Panther villager -->  <Panther_Villager.labelMale>男性黑豹种村民</Panther_Villager.labelMale>
+  <!-- male Panther villagers -->  <Panther_Villager.labelMalePlural>男性黑豹种村民</Panther_Villager.labelMalePlural>
+  <!-- female Panther villager -->  <Panther_Villager.labelFemale>女性黑豹种村民</Panther_Villager.labelFemale>
+  <!-- female Panther villagers -->  <Panther_Villager.labelFemalePlural>女性黑豹种村民</Panther_Villager.labelFemalePlural>
+
+  <!-- Panther town guard -->  <Panther_Town_Guard.label>黑豹种城镇卫兵</Panther_Town_Guard.label>
+  <!-- Panther town guards -->  <Panther_Town_Guard.labelPlural>黑豹种城镇卫兵</Panther_Town_Guard.labelPlural>
+  <!-- male Panther town guard -->  <Panther_Town_Guard.labelMale>男性黑豹种城镇卫兵</Panther_Town_Guard.labelMale>
+  <!-- male Panther town guards -->  <Panther_Town_Guard.labelMalePlural>男性黑豹种城镇卫兵</Panther_Town_Guard.labelMalePlural>
+  <!-- female Panther town guard -->  <Panther_Town_Guard.labelFemale>女性黑豹种城镇卫兵</Panther_Town_Guard.labelFemale>
+  <!-- female Panther town guards -->  <Panther_Town_Guard.labelFemalePlural>女性黑豹种城镇卫兵</Panther_Town_Guard.labelFemalePlural>
+
+  <!-- Panther town trader -->  <Panther_Town_Trader.label>黑豹种城镇商人</Panther_Town_Trader.label>
+  <!-- Panther town traders -->  <Panther_Town_Trader.labelPlural>黑豹种城镇商人</Panther_Town_Trader.labelPlural>
+  <!-- male Panther town trader -->  <Panther_Town_Trader.labelMale>男性黑豹种城镇商人</Panther_Town_Trader.labelMale>
+  <!-- male Panther town traders -->  <Panther_Town_Trader.labelMalePlural>男性黑豹种城镇商人</Panther_Town_Trader.labelMalePlural>
+  <!-- female Panther town trader -->  <Panther_Town_Trader.labelFemale>女性黑豹种城镇商人</Panther_Town_Trader.labelFemale>
+  <!-- female Panther town traders -->  <Panther_Town_Trader.labelFemalePlural>女性黑豹种城镇商人</Panther_Town_Trader.labelFemalePlural>
+
+  <!-- Panther town councilman -->  <Panther_Town_Councilman.label>黑豹种城镇议员</Panther_Town_Councilman.label>
+  <!-- town councilmen -->  <Panther_Town_Councilman.labelPlural>黑豹种城镇议员</Panther_Town_Councilman.labelPlural>
+  <!-- male Panther town councilman -->  <Panther_Town_Councilman.labelMale>男性黑豹种城镇议员</Panther_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Panther_Town_Councilman.labelMalePlural>男性黑豹种城镇议员</Panther_Town_Councilman.labelMalePlural>
+  <!-- female Panther town councilman -->  <Panther_Town_Councilman.labelFemale>女性黑豹种城镇议员</Panther_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Panther_Town_Councilman.labelFemalePlural>女性黑豹种城镇议员</Panther_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Panther penitent -->  <Panther_Tribal_Penitent.label>黑豹种海贼</Panther_Tribal_Penitent.label>
+  <!-- Panther penitents -->  <Panther_Tribal_Penitent.labelPlural>黑豹种海贼</Panther_Tribal_Penitent.labelPlural>
+  <!-- male Panther penitent -->  <Panther_Tribal_Penitent.labelMale>男性黑豹种海贼</Panther_Tribal_Penitent.labelMale>
+  <!-- male Panther penitents -->  <Panther_Tribal_Penitent.labelMalePlural>男性黑豹种海贼</Panther_Tribal_Penitent.labelMalePlural>
+  <!-- female Panther penitent -->  <Panther_Tribal_Penitent.labelFemale>女性黑豹种海贼</Panther_Tribal_Penitent.labelFemale>
+  <!-- female Panther penitents -->  <Panther_Tribal_Penitent.labelFemalePlural>女性黑豹种海贼</Panther_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Panther archer -->  <Panther_Tribal_Archer.label>黑豹种弓箭手</Panther_Tribal_Archer.label>
+  <!-- Panther archers -->  <Panther_Tribal_Archer.labelPlural>黑豹种弓箭手</Panther_Tribal_Archer.labelPlural>
+  <!-- male Panther archer -->  <Panther_Tribal_Archer.labelMale>男性黑豹种弓箭手</Panther_Tribal_Archer.labelMale>
+  <!-- male Panther archers -->  <Panther_Tribal_Archer.labelMalePlural>男性黑豹种弓箭手</Panther_Tribal_Archer.labelMalePlural>
+  <!-- female Panther archer -->  <Panther_Tribal_Archer.labelFemale>女性黑豹种弓箭手</Panther_Tribal_Archer.labelFemale>
+  <!-- female Panther archers -->  <Panther_Tribal_Archer.labelFemalePlural>女性黑豹种弓箭手</Panther_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Panther warrior -->  <Panther_Tribal_Warrior.label>黑豹种战士</Panther_Tribal_Warrior.label>
+  <!-- Panther warriors -->  <Panther_Tribal_Warrior.labelPlural>黑豹种战士</Panther_Tribal_Warrior.labelPlural>
+  <!-- male Panther warrior -->  <Panther_Tribal_Warrior.labelMale>男性黑豹种战士</Panther_Tribal_Warrior.labelMale>
+  <!-- male Panther warriors -->  <Panther_Tribal_Warrior.labelMalePlural>男性黑豹种战士</Panther_Tribal_Warrior.labelMalePlural>
+  <!-- female Panther warrior -->  <Panther_Tribal_Warrior.labelFemale>女性黑豹种战士</Panther_Tribal_Warrior.labelFemale>
+  <!-- female Panther warriors -->  <Panther_Tribal_Warrior.labelFemalePlural>女性黑豹种战士</Panther_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Panther hunter -->  <Panther_Tribal_Hunter.label>黑豹种猎人</Panther_Tribal_Hunter.label>
+  <!-- Panther hunters -->  <Panther_Tribal_Hunter.labelPlural>黑豹种猎人</Panther_Tribal_Hunter.labelPlural>
+  <!-- male Panther hunter -->  <Panther_Tribal_Hunter.labelMale>男性黑豹种猎人</Panther_Tribal_Hunter.labelMale>
+  <!-- male Panther hunters -->  <Panther_Tribal_Hunter.labelMalePlural>男性黑豹种猎人</Panther_Tribal_Hunter.labelMalePlural>
+  <!-- female Panther hunter -->  <Panther_Tribal_Hunter.labelFemale>女性黑豹种猎人</Panther_Tribal_Hunter.labelFemale>
+  <!-- female Panther hunters -->  <Panther_Tribal_Hunter.labelFemalePlural>女性黑豹种猎人</Panther_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Panther trader -->  <Panther_Tribal_Trader.label>黑豹种商人</Panther_Tribal_Trader.label>
+  <!-- Panther traders -->  <Panther_Tribal_Trader.labelPlural>黑豹种商人</Panther_Tribal_Trader.labelPlural>
+  <!-- male Panther trader -->  <Panther_Tribal_Trader.labelMale>男性黑豹种商人</Panther_Tribal_Trader.labelMale>
+  <!-- male Panther traders -->  <Panther_Tribal_Trader.labelMalePlural>男性黑豹种商人</Panther_Tribal_Trader.labelMalePlural>
+  <!-- female Panther trader -->  <Panther_Tribal_Trader.labelFemale>女性黑豹种商人</Panther_Tribal_Trader.labelFemale>
+  <!-- female Panther traders -->  <Panther_Tribal_Trader.labelFemalePlural>女性黑豹种商人</Panther_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Panther berserker -->  <Panther_Tribal_Berserker.label>黑豹种狂战士</Panther_Tribal_Berserker.label>
+  <!-- Panther berserkers -->  <Panther_Tribal_Berserker.labelPlural>黑豹种狂战士</Panther_Tribal_Berserker.labelPlural>
+  <!-- male Panther berserker -->  <Panther_Tribal_Berserker.labelMale>男性黑豹种狂战士</Panther_Tribal_Berserker.labelMale>
+  <!-- male Panther berserkers -->  <Panther_Tribal_Berserker.labelMalePlural>男性黑豹种狂战士</Panther_Tribal_Berserker.labelMalePlural>
+  <!-- female Panther berserker -->  <Panther_Tribal_Berserker.labelFemale>女性黑豹种狂战士</Panther_Tribal_Berserker.labelFemale>
+  <!-- female Panther berserkers -->  <Panther_Tribal_Berserker.labelFemalePlural>女性黑豹种狂战士</Panther_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Panther heavy archer -->  <Panther_Tribal_HeavyArcher.label>黑豹种重装弓箭手</Panther_Tribal_HeavyArcher.label>
+  <!-- Panther heavy archers -->  <Panther_Tribal_HeavyArcher.labelPlural>黑豹种重装弓箭手</Panther_Tribal_HeavyArcher.labelPlural>
+  <!-- male Panther heavy archer -->  <Panther_Tribal_HeavyArcher.labelMale>男性黑豹种重装弓箭手</Panther_Tribal_HeavyArcher.labelMale>
+  <!-- male Panther heavy archers -->  <Panther_Tribal_HeavyArcher.labelMalePlural>男性黑豹种重装弓箭手</Panther_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Panther heavy archer -->  <Panther_Tribal_HeavyArcher.labelFemale>女性黑豹种重装弓箭手</Panther_Tribal_HeavyArcher.labelFemale>
+  <!-- female Panther heavy archers -->  <Panther_Tribal_HeavyArcher.labelFemalePlural>女性黑豹种重装弓箭手</Panther_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Panther_Tribal_ChiefMelee -->  <!--[Duplicated] <Panther_Tribal_ChiefMelee.label>Panther_Tribal_ChiefMelee</Panther_Tribal_ChiefMelee.label>-->
+  <!-- Panther_Tribal_ChiefMelees -->  <!--[Duplicated] <Panther_Tribal_ChiefMelee.labelPlural>Panther_Tribal_ChiefMelees</Panther_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Panther_Tribal_ChiefMelee -->  <!--[Duplicated] <Panther_Tribal_ChiefMelee.labelMale>男性 Panther_Tribal_ChiefMelee</Panther_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Panther_Tribal_ChiefMelees -->  <!--[Duplicated] <Panther_Tribal_ChiefMelee.labelMalePlural>男性 Panther_Tribal_ChiefMelees</Panther_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Panther_Tribal_ChiefMelee -->  <!--[Duplicated] <Panther_Tribal_ChiefMelee.labelFemale>女性 Panther_Tribal_ChiefMelee</Panther_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Panther_Tribal_ChiefMelees -->  <!--[Duplicated] <Panther_Tribal_ChiefMelee.labelFemalePlural>女性 Panther_Tribal_ChiefMelees</Panther_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Panther berserker chief -->  <Panther_Tribal_ChiefMelee.label>黑豹种狂战士队长</Panther_Tribal_ChiefMelee.label>
+  <!-- Panther berserker chiefs -->  <Panther_Tribal_ChiefMelee.labelPlural>黑豹种狂战士队长</Panther_Tribal_ChiefMelee.labelPlural>
+  <!-- male Panther berserker chief -->  <Panther_Tribal_ChiefMelee.labelMale>男性黑豹种狂战士队长</Panther_Tribal_ChiefMelee.labelMale>
+  <!-- male Panther berserker chiefs -->  <Panther_Tribal_ChiefMelee.labelMalePlural>男性黑豹种狂战士队长</Panther_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Panther berserker chief -->  <Panther_Tribal_ChiefMelee.labelFemale>女性黑豹种狂战士队长</Panther_Tribal_ChiefMelee.labelFemale>
+  <!-- female Panther berserker chiefs -->  <Panther_Tribal_ChiefMelee.labelFemalePlural>女性黑豹种狂战士队长</Panther_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Panther archer chief -->  <Panther_Tribal_ChiefRanged.label>黑豹种弓箭手队长</Panther_Tribal_ChiefRanged.label>
+  <!-- Panther archer chiefs -->  <Panther_Tribal_ChiefRanged.labelPlural>黑豹种弓箭手队长</Panther_Tribal_ChiefRanged.labelPlural>
+  <!-- male Panther archer chief -->  <Panther_Tribal_ChiefRanged.labelMale>男性黑豹种弓箭手队长</Panther_Tribal_ChiefRanged.labelMale>
+  <!-- male Panther archer chiefs -->  <Panther_Tribal_ChiefRanged.labelMalePlural>男性黑豹种弓箭手队长</Panther_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Panther archer chief -->  <Panther_Tribal_ChiefRanged.labelFemale>女性黑豹种弓箭手队长</Panther_Tribal_ChiefRanged.labelFemale>
+  <!-- female Panther archer chiefs -->  <Panther_Tribal_ChiefRanged.labelFemalePlural>女性黑豹种弓箭手队长</Panther_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

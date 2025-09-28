@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lion Kind -->  <LeoScenario1.label>獅子王</LeoScenario1.label>
+  <!-- Lying under the sun, surrounded by your pride. Your a newborn cub, future king of the Sahara. In the night, poachers arrive. Your father sacrifices himself, so you can make your escape. All alone now, will you rise as a king, or fall... -->  <LeoScenario1.description>躺在陽光底下，被你的獅群圍繞著。你是一隻剛出生的小獅子，是未來的撒哈拉之王。然而夜幕降臨時，盜獵者來襲。你的父親為了保護你而犧牲，好讓你得以逃脫。如今孤身一獅，你將會崛起成為王者，又抑或是殞落於此……</LeoScenario1.description>
+  <!-- Lion Kind -->  <LeoScenario1.scenario.name>獅子王</LeoScenario1.scenario.name>
+  <!-- Lying under the sun, surrounded by your pride. Your a newborn cub, future king of the Sahara. In the night, poachers arrive. Your father sacrifices himself, so you can make your escape. All alone now, will you rise as a king, or fall... -->  <LeoScenario1.scenario.summary>躺在陽光底下，被你的獅群圍繞著。你是一隻剛出生的小獅子，是未來的撒哈拉之王。然而夜幕降臨時，盜獵者來襲。你的父親為了保護你而犧牲，好讓你得以逃脫。如今孤身一獅，你將會崛起成為王者，又抑或是殞落於此……</LeoScenario1.scenario.summary>
+  <!-- Lying under the sun, surrounded by your pride. Your a newborn cub, future king of the Sahara. In the night, poachers arrive. Your father sacrifices himself, so you can make your escape. All alone now, will you rise as a king, or fall... -->  <LeoScenario1.scenario.description>躺在陽光底下，被你的獅群圍繞著。你是一隻剛出生的小獅子，是未來的撒哈拉之王。然而夜幕降臨時，盜獵者來襲。你的父親為了保護你而犧牲，好讓你得以逃脫。如今孤身一獅，你將會崛起成為王者，又抑或是殞落於此……</LeoScenario1.scenario.description>
+  <!-- There's no time for any regrets or thoughts. For now my only goal is survival... -->
+  <LeoScenario1.scenario.parts.GameStartDialog.text>此刻已經沒有時間後悔或多想了。現在，我唯一的目標就是——活下去…</LeoScenario1.scenario.parts.GameStartDialog.text><!--  <LeoScenario1.scenario.parts.3.text>There's no time for any regrets or thoughts. For now my only goal is survival...</LeoScenario1.scenario.parts.3.text>-->
+
+
+</LanguageData>

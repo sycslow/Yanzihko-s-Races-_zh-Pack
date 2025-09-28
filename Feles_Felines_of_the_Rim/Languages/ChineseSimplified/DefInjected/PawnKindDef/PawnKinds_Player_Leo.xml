@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <LeoTribalPawn.label>部落民</LeoTribalPawn.label>
+  <!-- members -->  <LeoTribalPawn.labelPlural>部落民</LeoTribalPawn.labelPlural>
+  <!-- male member -->  <LeoTribalPawn.labelMale>男性部落民</LeoTribalPawn.labelMale>
+  <!-- male members -->  <LeoTribalPawn.labelMalePlural>男性部落民</LeoTribalPawn.labelMalePlural>
+  <!-- female member -->  <LeoTribalPawn.labelFemale>女性部落民</LeoTribalPawn.labelFemale>
+  <!-- female members -->  <LeoTribalPawn.labelFemalePlural>女性部落民</LeoTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <LeoIndustrialPawn.label>殖民者</LeoIndustrialPawn.label>
+  <!-- members -->  <LeoIndustrialPawn.labelPlural>殖民者</LeoIndustrialPawn.labelPlural>
+  <!-- male member -->  <LeoIndustrialPawn.labelMale>男性殖民者</LeoIndustrialPawn.labelMale>
+  <!-- male members -->  <LeoIndustrialPawn.labelMalePlural>男性殖民者</LeoIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <LeoIndustrialPawn.labelFemale>女性殖民者</LeoIndustrialPawn.labelFemale>
+  <!-- female members -->  <LeoIndustrialPawn.labelFemalePlural>女性殖民者</LeoIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

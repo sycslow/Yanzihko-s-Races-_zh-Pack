@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Cheetah Tribe -->  <PlayerCheetahTribal.label>獵豹種部落</PlayerCheetahTribal.label>
+  <!-- Cheetah tribe -->  <PlayerCheetahTribal.description>獵豹種部落</PlayerCheetahTribal.description>
+  <!-- Cheetah -->  <PlayerCheetahTribal.pawnsPlural>獵豹種部落民</PlayerCheetahTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Cheetah Tribe (No tech) -->  <PlayerCheetahTribalNoTech.label>獵豹種部落 (無科技)</PlayerCheetahTribalNoTech.label>
+  <!-- Cheetah tribe -->  <PlayerCheetahTribalNoTech.description>獵豹種部落</PlayerCheetahTribalNoTech.description>
+  <!-- Cheetah -->  <PlayerCheetahTribalNoTech.pawnsPlural>獵豹種部落民</PlayerCheetahTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Cheetah Colony -->  <PlayerCheetahIndustrial.label>獵豹種殖民地</PlayerCheetahIndustrial.label>
+  <!-- Cheetah Colony -->  <PlayerCheetahIndustrial.description>獵豹種殖民地</PlayerCheetahIndustrial.description>
+  <!-- Cheetah -->  <PlayerCheetahIndustrial.pawnsPlural>獵豹種殖民者</PlayerCheetahIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Cheetah Colony (No tech) -->  <PlayerCheetahIndustrialNoTech.label>獵豹種殖民地 (無科技)</PlayerCheetahIndustrialNoTech.label>
+  <!-- Cheetah colony -->  <PlayerCheetahIndustrialNoTech.description>獵豹種殖民地</PlayerCheetahIndustrialNoTech.description>
+  <!-- Cheetah -->  <PlayerCheetahIndustrialNoTech.pawnsPlural>獵豹種殖民者</PlayerCheetahIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

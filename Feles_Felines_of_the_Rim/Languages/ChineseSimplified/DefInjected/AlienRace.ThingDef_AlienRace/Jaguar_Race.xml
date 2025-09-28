@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jaguar -->  <YanzihkoJaguar.label>美洲豹种</YanzihkoJaguar.label>
+  <!-- Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Jaguars are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone. Jaguar is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <YanzihkoJaguar.description>菲利斯猫科是一群经过基因改造的物种，他们代表了来自地球上那些最受欢迎的猫科动物们。美洲豹种或许也是菲利斯猫科当中最强壮、最坚韧的猫科之一。尽管体型不大，但也千万不能小看牠们。牠们不太喜欢社交活动，并倾向于独来独往，独自度过闲遐时光。美洲豹种是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</YanzihkoJaguar.description>
+  <!-- teeth -->  <YanzihkoJaguar.tools.0.label>牙齿</YanzihkoJaguar.tools.0.label>
+  <!-- left claws -->  <YanzihkoJaguar.tools.1.label>左爪</YanzihkoJaguar.tools.1.label>
+  <!-- right claws -->  <YanzihkoJaguar.tools.2.label>右爪</YanzihkoJaguar.tools.2.label>
+  <!-- hair --><!--  <YanzihkoJaguar.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</YanzihkoJaguar.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <YanzihkoJaguar.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</YanzihkoJaguar.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

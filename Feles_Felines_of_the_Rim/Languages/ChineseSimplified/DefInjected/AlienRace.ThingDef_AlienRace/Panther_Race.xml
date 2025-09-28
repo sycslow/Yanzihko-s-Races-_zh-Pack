@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Panther -->  <YanzihkoPanther.label>黑豹种</YanzihkoPanther.label>
+  <!-- Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Panthers do not have any special features compared to other felines, expect their dark black fur. They are not a very social beings and tend to spend their free time alone. Panther is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <YanzihkoPanther.description>菲利斯猫科是一群经过基因改造的物种，他们代表了来自地球上那些最受欢迎的猫科动物们。黑豹种除了那深黑色的皮毛以外，与其他的菲利斯猫科相比并没有任何特殊之处。牠们不太喜欢社交活动，并倾向于独来独往，独自度过闲遐时光。黑豹种是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</YanzihkoPanther.description>
+  <!-- teeth -->  <YanzihkoPanther.tools.0.label>牙齿</YanzihkoPanther.tools.0.label>
+  <!-- left claws -->  <YanzihkoPanther.tools.1.label>左爪</YanzihkoPanther.tools.1.label>
+  <!-- right claws -->  <YanzihkoPanther.tools.2.label>右爪</YanzihkoPanther.tools.2.label>
+  <!-- hair --><!--  <YanzihkoPanther.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</YanzihkoPanther.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <YanzihkoPanther.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</YanzihkoPanther.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Feles -->  <Feles.label>菲利斯貓科</Feles.label>
+  <!-- left lung -->  <Feles.corePart.parts.7.customLabel>左肺</Feles.corePart.parts.7.customLabel>
+  <!-- right lung -->  <Feles.corePart.parts.8.customLabel>右肺</Feles.corePart.parts.8.customLabel>
+  <!-- left kidney -->  <Feles.corePart.parts.9.customLabel>左腎</Feles.corePart.parts.9.customLabel>
+  <!-- right kidney -->  <Feles.corePart.parts.10.customLabel>右腎</Feles.corePart.parts.10.customLabel>
+  <!-- left eye -->  <Feles.corePart.parts.12.parts.0.parts.1.customLabel>左眼</Feles.corePart.parts.12.parts.0.parts.1.customLabel>
+  <!-- right eye -->  <Feles.corePart.parts.12.parts.0.parts.2.customLabel>右眼</Feles.corePart.parts.12.parts.0.parts.2.customLabel>
+  <!-- left ear -->  <Feles.corePart.parts.12.parts.0.parts.3.customLabel>左耳</Feles.corePart.parts.12.parts.0.parts.3.customLabel>
+  <!-- right ear -->  <Feles.corePart.parts.12.parts.0.parts.4.customLabel>右耳</Feles.corePart.parts.12.parts.0.parts.4.customLabel>
+  <!-- left shoulder -->  <Feles.corePart.parts.13.customLabel>左肩</Feles.corePart.parts.13.customLabel>
+  <!-- left clavicle -->  <Feles.corePart.parts.13.parts.0.customLabel>左鎖骨</Feles.corePart.parts.13.parts.0.customLabel>
+  <!-- left arm -->  <Feles.corePart.parts.13.parts.1.customLabel>左臂</Feles.corePart.parts.13.parts.1.customLabel>
+  <!-- left humerus -->  <Feles.corePart.parts.13.parts.1.parts.0.customLabel>左肱骨</Feles.corePart.parts.13.parts.1.parts.0.customLabel>
+  <!-- left radius -->  <Feles.corePart.parts.13.parts.1.parts.1.customLabel>左橈骨</Feles.corePart.parts.13.parts.1.parts.1.customLabel>
+  <!-- left hand -->  <Feles.corePart.parts.13.parts.1.parts.2.customLabel>左手</Feles.corePart.parts.13.parts.1.parts.2.customLabel>
+  <!-- left pinky -->  <Feles.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>左小指</Feles.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <!-- left ring finger -->  <Feles.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>左無名指</Feles.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <!-- left middle finger -->  <Feles.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>左中指</Feles.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <!-- left index finger -->  <Feles.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>左食指</Feles.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <!-- left thumb -->  <Feles.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>左拇指</Feles.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <!-- right shoulder -->  <Feles.corePart.parts.14.customLabel>右肩</Feles.corePart.parts.14.customLabel>
+  <!-- right clavicle -->  <Feles.corePart.parts.14.parts.0.customLabel>右鎖骨</Feles.corePart.parts.14.parts.0.customLabel>
+  <!-- right arm -->  <Feles.corePart.parts.14.parts.1.customLabel>右臂</Feles.corePart.parts.14.parts.1.customLabel>
+  <!-- right humerus -->  <Feles.corePart.parts.14.parts.1.parts.0.customLabel>右肱骨</Feles.corePart.parts.14.parts.1.parts.0.customLabel>
+  <!-- right radius -->  <Feles.corePart.parts.14.parts.1.parts.1.customLabel>右橈骨</Feles.corePart.parts.14.parts.1.parts.1.customLabel>
+  <!-- right hand -->  <Feles.corePart.parts.14.parts.1.parts.2.customLabel>右手</Feles.corePart.parts.14.parts.1.parts.2.customLabel>
+  <!-- right pinky -->  <Feles.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>右小指</Feles.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <!-- right ring finger -->  <Feles.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>右無名指</Feles.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <!-- right middle finger -->  <Feles.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>右中指</Feles.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <!-- right index finger -->  <Feles.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>右食指</Feles.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <!-- right thumb -->  <Feles.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>右拇指</Feles.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <!-- left leg -->  <Feles.corePart.parts.16.customLabel>左腿</Feles.corePart.parts.16.customLabel>
+  <!-- left femur -->  <Feles.corePart.parts.16.parts.0.customLabel>左股骨</Feles.corePart.parts.16.parts.0.customLabel>
+  <!-- left tibia -->  <Feles.corePart.parts.16.parts.1.customLabel>左脛骨</Feles.corePart.parts.16.parts.1.customLabel>
+  <!-- left foot -->  <Feles.corePart.parts.16.parts.2.customLabel>左腳</Feles.corePart.parts.16.parts.2.customLabel>
+  <!-- left little toe -->  <Feles.corePart.parts.16.parts.2.parts.0.customLabel>左小趾</Feles.corePart.parts.16.parts.2.parts.0.customLabel>
+  <!-- left fourth toe -->  <Feles.corePart.parts.16.parts.2.parts.1.customLabel>左四趾</Feles.corePart.parts.16.parts.2.parts.1.customLabel>
+  <!-- left middle toe -->  <Feles.corePart.parts.16.parts.2.parts.2.customLabel>左中趾</Feles.corePart.parts.16.parts.2.parts.2.customLabel>
+  <!-- left second toe -->  <Feles.corePart.parts.16.parts.2.parts.3.customLabel>左二趾</Feles.corePart.parts.16.parts.2.parts.3.customLabel>
+  <!-- left big toe -->  <Feles.corePart.parts.16.parts.2.parts.4.customLabel>左拇趾</Feles.corePart.parts.16.parts.2.parts.4.customLabel>
+  <!-- right leg -->  <Feles.corePart.parts.17.customLabel>右腿</Feles.corePart.parts.17.customLabel>
+  <!-- right femur -->  <Feles.corePart.parts.17.parts.0.customLabel>右股骨</Feles.corePart.parts.17.parts.0.customLabel>
+  <!-- right tibia -->  <Feles.corePart.parts.17.parts.1.customLabel>右脛骨</Feles.corePart.parts.17.parts.1.customLabel>
+  <!-- right foot -->  <Feles.corePart.parts.17.parts.2.customLabel>右腳</Feles.corePart.parts.17.parts.2.customLabel>
+  <!-- right little toe -->  <Feles.corePart.parts.17.parts.2.parts.0.customLabel>右小趾</Feles.corePart.parts.17.parts.2.parts.0.customLabel>
+  <!-- right fourth toe -->  <Feles.corePart.parts.17.parts.2.parts.1.customLabel>右四趾</Feles.corePart.parts.17.parts.2.parts.1.customLabel>
+  <!-- right middle toe -->  <Feles.corePart.parts.17.parts.2.parts.2.customLabel>右中趾</Feles.corePart.parts.17.parts.2.parts.2.customLabel>
+  <!-- right second toe -->  <Feles.corePart.parts.17.parts.2.parts.3.customLabel>右二趾</Feles.corePart.parts.17.parts.2.parts.3.customLabel>
+  <!-- right big toe -->  <Feles.corePart.parts.17.parts.2.parts.4.customLabel>右拇趾</Feles.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

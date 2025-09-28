@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <TigrisTribalPawn.label>部落民</TigrisTribalPawn.label>
+  <!-- members -->  <TigrisTribalPawn.labelPlural>部落民</TigrisTribalPawn.labelPlural>
+  <!-- male member -->  <TigrisTribalPawn.labelMale>男性部落民</TigrisTribalPawn.labelMale>
+  <!-- male members -->  <TigrisTribalPawn.labelMalePlural>男性部落民</TigrisTribalPawn.labelMalePlural>
+  <!-- female member -->  <TigrisTribalPawn.labelFemale>女性部落民</TigrisTribalPawn.labelFemale>
+  <!-- female members -->  <TigrisTribalPawn.labelFemalePlural>女性部落民</TigrisTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <TigrisIndustrialPawn.label>殖民者</TigrisIndustrialPawn.label>
+  <!-- members -->  <TigrisIndustrialPawn.labelPlural>殖民者</TigrisIndustrialPawn.labelPlural>
+  <!-- male member -->  <TigrisIndustrialPawn.labelMale>男性殖民者</TigrisIndustrialPawn.labelMale>
+  <!-- male members -->  <TigrisIndustrialPawn.labelMalePlural>男性殖民者</TigrisIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <TigrisIndustrialPawn.labelFemale>女性殖民者</TigrisIndustrialPawn.labelFemale>
+  <!-- female members -->  <TigrisIndustrialPawn.labelFemalePlural>女性殖民者</TigrisIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

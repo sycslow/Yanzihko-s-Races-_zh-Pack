@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Leo Tribe -->  <PlayerLeoTribal.label>獅子種部落</PlayerLeoTribal.label>
+  <!-- Leo tribe -->  <PlayerLeoTribal.description>獅子種部落</PlayerLeoTribal.description>
+  <!-- Leo -->  <PlayerLeoTribal.pawnsPlural>獅子種部落民</PlayerLeoTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Leo Tribe (No tech) -->  <PlayerLeoTribalNoTech.label>獅子種部落 (無科技)</PlayerLeoTribalNoTech.label>
+  <!-- Leo tribe -->  <PlayerLeoTribalNoTech.description>獅子種部落</PlayerLeoTribalNoTech.description>
+  <!-- Leo -->  <PlayerLeoTribalNoTech.pawnsPlural>獅子種部落民</PlayerLeoTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Leo Colony -->  <PlayerLeoIndustrial.label>獅子種殖民地</PlayerLeoIndustrial.label>
+  <!-- Leo Colony -->  <PlayerLeoIndustrial.description>獅子種殖民地</PlayerLeoIndustrial.description>
+  <!-- Leo -->  <PlayerLeoIndustrial.pawnsPlural>獅子種殖民者</PlayerLeoIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Leo Colony (No tech) -->  <PlayerLeoIndustrialNoTech.label>獅子種殖民地 (無科技)</PlayerLeoIndustrialNoTech.label>
+  <!-- Leo colony -->  <PlayerLeoIndustrialNoTech.description>獅子種殖民地</PlayerLeoIndustrialNoTech.description>
+  <!-- Leo -->  <PlayerLeoIndustrialNoTech.pawnsPlural>獅子種殖民者</PlayerLeoIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

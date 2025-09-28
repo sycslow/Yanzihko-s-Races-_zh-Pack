@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <PantherTribalPawn.label>部落民</PantherTribalPawn.label>
+  <!-- members -->  <PantherTribalPawn.labelPlural>部落民</PantherTribalPawn.labelPlural>
+  <!-- male member -->  <PantherTribalPawn.labelMale>男性部落民</PantherTribalPawn.labelMale>
+  <!-- male members -->  <PantherTribalPawn.labelMalePlural>男性部落民</PantherTribalPawn.labelMalePlural>
+  <!-- female member -->  <PantherTribalPawn.labelFemale>女性部落民</PantherTribalPawn.labelFemale>
+  <!-- female members -->  <PantherTribalPawn.labelFemalePlural>女性部落民</PantherTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <PantherIndustrialPawn.label>殖民者</PantherIndustrialPawn.label>
+  <!-- members -->  <PantherIndustrialPawn.labelPlural>殖民者</PantherIndustrialPawn.labelPlural>
+  <!-- male member -->  <PantherIndustrialPawn.labelMale>男性殖民者</PantherIndustrialPawn.labelMale>
+  <!-- male members -->  <PantherIndustrialPawn.labelMalePlural>男性殖民者</PantherIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <PantherIndustrialPawn.labelFemale>女性殖民者</PantherIndustrialPawn.labelFemale>
+  <!-- female members -->  <PantherIndustrialPawn.labelFemalePlural>女性殖民者</PantherIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tigris -->  <YanzihkoTigris.label>老虎種</YanzihkoTigris.label>
+  <!-- Feles is a group of genetically-engineered species representing some of the most popular feline species from planet Earth. Tigris are perhaps one of the strongest and toughest Felines. You shouldn't understimate them despite their size. They are not a very social beings and tend to spend their free time alone. Tigris is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <YanzihkoTigris.description>菲利斯貓科是一群經過基因改造的物種，他們代表了來自地球上那些最受歡迎的貓科動物們。老虎種或許也是菲利斯貓科當中最強壯、最堅韌的貓科之一。儘管體型不大，但也千萬不能小看牠們。牠們不太喜歡社交活動，並傾向於獨來獨往，獨自度過閒暇時光。老虎種是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</YanzihkoTigris.description>
+  <!-- teeth -->  <YanzihkoTigris.tools.0.label>牙齒</YanzihkoTigris.tools.0.label>
+  <!-- left claws -->  <YanzihkoTigris.tools.1.label>左爪</YanzihkoTigris.tools.1.label>
+  <!-- right claws -->  <YanzihkoTigris.tools.2.label>右爪</YanzihkoTigris.tools.2.label>
+  <!-- hair --><!--  <YanzihkoTigris.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</YanzihkoTigris.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>-->
+  <!-- skin --><!--  <YanzihkoTigris.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</YanzihkoTigris.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>-->
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Jaguar Tribe -->  <PlayerJaguarTribal.label>美洲豹种部落</PlayerJaguarTribal.label>
+  <!-- Jaguar tribe -->  <PlayerJaguarTribal.description>美洲豹种部落</PlayerJaguarTribal.description>
+  <!-- Jaguar -->  <PlayerJaguarTribal.pawnsPlural>美洲豹种部落民</PlayerJaguarTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Jaguar Tribe (No tech) -->  <PlayerJaguarTribalNoTech.label>美洲豹种部落 (无科技)</PlayerJaguarTribalNoTech.label>
+  <!-- Jaguar tribe -->  <PlayerJaguarTribalNoTech.description>美洲豹种部落</PlayerJaguarTribalNoTech.description>
+  <!-- Jaguar -->  <PlayerJaguarTribalNoTech.pawnsPlural>美洲豹种部落民</PlayerJaguarTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Jaguar Colony -->  <PlayerJaguarIndustrial.label>美洲豹种殖民地</PlayerJaguarIndustrial.label>
+  <!-- Jaguar Colony -->  <PlayerJaguarIndustrial.description>美洲豹种殖民地</PlayerJaguarIndustrial.description>
+  <!-- Jaguar -->  <PlayerJaguarIndustrial.pawnsPlural>美洲豹种殖民者</PlayerJaguarIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Jaguar Colony (No tech) -->  <PlayerJaguarIndustrialNoTech.label>美洲豹种殖民地 (无科技)</PlayerJaguarIndustrialNoTech.label>
+  <!-- Jaguar colony -->  <PlayerJaguarIndustrialNoTech.description>美洲豹种殖民地</PlayerJaguarIndustrialNoTech.description>
+  <!-- Jaguar -->  <PlayerJaguarIndustrialNoTech.pawnsPlural>美洲豹种殖民者</PlayerJaguarIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

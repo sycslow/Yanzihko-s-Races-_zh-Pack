@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <JaguarTribalPawn.label>部落民</JaguarTribalPawn.label>
+  <!-- members -->  <JaguarTribalPawn.labelPlural>部落民</JaguarTribalPawn.labelPlural>
+  <!-- male member -->  <JaguarTribalPawn.labelMale>男性部落民</JaguarTribalPawn.labelMale>
+  <!-- male members -->  <JaguarTribalPawn.labelMalePlural>男性部落民</JaguarTribalPawn.labelMalePlural>
+  <!-- female member -->  <JaguarTribalPawn.labelFemale>女性部落民</JaguarTribalPawn.labelFemale>
+  <!-- female members -->  <JaguarTribalPawn.labelFemalePlural>女性部落民</JaguarTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <JaguarIndustrialPawn.label>殖民者</JaguarIndustrialPawn.label>
+  <!-- members -->  <JaguarIndustrialPawn.labelPlural>殖民者</JaguarIndustrialPawn.labelPlural>
+  <!-- male member -->  <JaguarIndustrialPawn.labelMale>男性殖民者</JaguarIndustrialPawn.labelMale>
+  <!-- male members -->  <JaguarIndustrialPawn.labelMalePlural>男性殖民者</JaguarIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <JaguarIndustrialPawn.labelFemale>女性殖民者</JaguarIndustrialPawn.labelFemale>
+  <!-- female members -->  <JaguarIndustrialPawn.labelFemalePlural>女性殖民者</JaguarIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

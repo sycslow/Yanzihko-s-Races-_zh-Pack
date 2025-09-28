@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <CheetahTribalPawn.label>部落民</CheetahTribalPawn.label>
+  <!-- members -->  <CheetahTribalPawn.labelPlural>部落民</CheetahTribalPawn.labelPlural>
+  <!-- male member -->  <CheetahTribalPawn.labelMale>男性部落民</CheetahTribalPawn.labelMale>
+  <!-- male members -->  <CheetahTribalPawn.labelMalePlural>男性部落民</CheetahTribalPawn.labelMalePlural>
+  <!-- female member -->  <CheetahTribalPawn.labelFemale>女性部落民</CheetahTribalPawn.labelFemale>
+  <!-- female members -->  <CheetahTribalPawn.labelFemalePlural>女性部落民</CheetahTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <CheetahIndustrialPawn.label>殖民者</CheetahIndustrialPawn.label>
+  <!-- members -->  <CheetahIndustrialPawn.labelPlural>殖民者</CheetahIndustrialPawn.labelPlural>
+  <!-- male member -->  <CheetahIndustrialPawn.labelMale>男性殖民者</CheetahIndustrialPawn.labelMale>
+  <!-- male members -->  <CheetahIndustrialPawn.labelMalePlural>男性殖民者</CheetahIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <CheetahIndustrialPawn.labelFemale>女性殖民者</CheetahIndustrialPawn.labelFemale>
+  <!-- female members -->  <CheetahIndustrialPawn.labelFemalePlural>女性殖民者</CheetahIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>
