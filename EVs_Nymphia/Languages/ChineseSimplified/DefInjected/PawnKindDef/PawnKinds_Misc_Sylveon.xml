@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Sylveon space refugee -->  <SylveonSpaceRefugee.label>仙子伊布星际难民</SylveonSpaceRefugee.label>
+  <!-- Sylveon space refugees -->  <SylveonSpaceRefugee.labelPlural>仙子伊布星际难民</SylveonSpaceRefugee.labelPlural>
+  <!-- male Sylveon space refugee -->  <SylveonSpaceRefugee.labelMale>男性仙子伊布星际难民</SylveonSpaceRefugee.labelMale>
+  <!-- male Sylveon space refugees -->  <SylveonSpaceRefugee.labelMalePlural>男性仙子伊布星际难民</SylveonSpaceRefugee.labelMalePlural>
+  <!-- female Sylveon space refugee -->  <SylveonSpaceRefugee.labelFemale>女性仙子伊布星际难民</SylveonSpaceRefugee.labelFemale>
+  <!-- female Sylveon space refugees -->  <SylveonSpaceRefugee.labelFemalePlural>女性仙子伊布星际难民</SylveonSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Sylveon slave -->  <SylveonSlave.label>仙子伊布奴隶</SylveonSlave.label>
+  <!-- Sylveon slaves -->  <SylveonSlave.labelPlural>仙子伊布奴隶</SylveonSlave.labelPlural>
+  <!-- male Sylveon slave -->  <SylveonSlave.labelMale>男性仙子伊布奴隶</SylveonSlave.labelMale>
+  <!-- male Sylveon slaves -->  <SylveonSlave.labelMalePlural>男性仙子伊布奴隶</SylveonSlave.labelMalePlural>
+  <!-- female Sylveon slave -->  <SylveonSlave.labelFemale>女性仙子伊布奴隶</SylveonSlave.labelFemale>
+  <!-- female Sylveon slaves -->  <SylveonSlave.labelFemalePlural>女性仙子伊布奴隶</SylveonSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Sylveon -->  <SylveonColonist.label>仙子伊布</SylveonColonist.label>
+  <!-- Sylveons -->  <SylveonColonist.labelPlural>仙子伊布</SylveonColonist.labelPlural>
+  <!-- male Sylveon -->  <SylveonColonist.labelMale>男性仙子伊布</SylveonColonist.labelMale>
+  <!-- male Sylveons -->  <SylveonColonist.labelMalePlural>男性仙子伊布</SylveonColonist.labelMalePlural>
+  <!-- female Sylveon -->  <SylveonColonist.labelFemale>女性仙子伊布</SylveonColonist.labelFemale>
+  <!-- female Sylveons -->  <SylveonColonist.labelFemalePlural>女性仙子伊布</SylveonColonist.labelFemalePlural>
+
+  <!-- Sylveon -->  <SylveonTribesperson.label>仙子伊布</SylveonTribesperson.label>
+  <!-- Sylveons -->  <SylveonTribesperson.labelPlural>仙子伊布</SylveonTribesperson.labelPlural>
+  <!-- male Sylveon -->  <SylveonTribesperson.labelMale>男性仙子伊布</SylveonTribesperson.labelMale>
+  <!-- male Sylveons -->  <SylveonTribesperson.labelMalePlural>男性仙子伊布</SylveonTribesperson.labelMalePlural>
+  <!-- female Sylveon -->  <SylveonTribesperson.labelFemale>女性仙子伊布</SylveonTribesperson.labelFemale>
+  <!-- female Sylveons -->  <SylveonTribesperson.labelFemalePlural>女性仙子伊布</SylveonTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Sylveon grenadier -->  <Sylveon_Grenadier_Destructive.label>仙子伊布掷弹兵</Sylveon_Grenadier_Destructive.label>
+  <!-- Sylveon grenadiers -->  <Sylveon_Grenadier_Destructive.labelPlural>仙子伊布掷弹兵</Sylveon_Grenadier_Destructive.labelPlural>
+  <!-- male Sylveon grenadier -->  <Sylveon_Grenadier_Destructive.labelMale>男性仙子伊布掷弹兵</Sylveon_Grenadier_Destructive.labelMale>
+  <!-- male Sylveon grenadiers -->  <Sylveon_Grenadier_Destructive.labelMalePlural>男性仙子伊布掷弹兵</Sylveon_Grenadier_Destructive.labelMalePlural>
+  <!-- female Sylveon grenadier -->  <Sylveon_Grenadier_Destructive.labelFemale>女性仙子伊布掷弹兵</Sylveon_Grenadier_Destructive.labelFemale>
+  <!-- female Sylveon grenadiers -->  <Sylveon_Grenadier_Destructive.labelFemalePlural>女性仙子伊布掷弹兵</Sylveon_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Sylveon EMPgrenadier -->  <Sylveon_Grenadier_EMP.label>仙子伊布 EMP掷弹兵</Sylveon_Grenadier_EMP.label>
+  <!-- Sylveon EMPgrenadiers -->  <Sylveon_Grenadier_EMP.labelPlural>仙子伊布 EMP掷弹兵</Sylveon_Grenadier_EMP.labelPlural>
+  <!-- male Sylveon EMPgrenadier -->  <Sylveon_Grenadier_EMP.labelMale>男性仙子伊布 EMP掷弹兵</Sylveon_Grenadier_EMP.labelMale>
+  <!-- male Sylveon EMPgrenadiers -->  <Sylveon_Grenadier_EMP.labelMalePlural>男性仙子伊布 EMP掷弹兵</Sylveon_Grenadier_EMP.labelMalePlural>
+  <!-- female Sylveon EMPgrenadier -->  <Sylveon_Grenadier_EMP.labelFemale>女性仙子伊布 EMP掷弹兵</Sylveon_Grenadier_EMP.labelFemale>
+  <!-- female Sylveon EMPgrenadiers -->  <Sylveon_Grenadier_EMP.labelFemalePlural>女性仙子伊布 EMP掷弹兵</Sylveon_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Sylveon smoke grenadier -->  <Sylveon_Grenadier_Smoke.label>仙子伊布烟雾弹掷弹兵</Sylveon_Grenadier_Smoke.label>
+  <!-- Sylveon smoke grenadiers -->  <Sylveon_Grenadier_Smoke.labelPlural>仙子伊布烟雾弹掷弹兵</Sylveon_Grenadier_Smoke.labelPlural>
+  <!-- male Sylveon smoke grenadier -->  <Sylveon_Grenadier_Smoke.labelMale>男性仙子伊布烟雾弹掷弹兵</Sylveon_Grenadier_Smoke.labelMale>
+  <!-- male Sylveon smoke grenadiers -->  <Sylveon_Grenadier_Smoke.labelMalePlural>男性仙子伊布烟雾弹掷弹兵</Sylveon_Grenadier_Smoke.labelMalePlural>
+  <!-- female Sylveon smoke grenadier -->  <Sylveon_Grenadier_Smoke.labelFemale>女性仙子伊布烟雾弹掷弹兵</Sylveon_Grenadier_Smoke.labelFemale>
+  <!-- female Sylveon smoke grenadiers -->  <Sylveon_Grenadier_Smoke.labelFemalePlural>女性仙子伊布烟雾弹掷弹兵</Sylveon_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Sylveon mercenary gunner -->  <Sylveon_Mercenary_Gunner.label>仙子伊布枪手佣兵</Sylveon_Mercenary_Gunner.label>
+  <!-- Sylveon mercenary gunners -->  <Sylveon_Mercenary_Gunner.labelPlural>仙子伊布枪手佣兵</Sylveon_Mercenary_Gunner.labelPlural>
+  <!-- male Sylveon mercenary gunner -->  <Sylveon_Mercenary_Gunner.labelMale>男性仙子伊布枪手佣兵</Sylveon_Mercenary_Gunner.labelMale>
+  <!-- male Sylveon mercenary gunners -->  <Sylveon_Mercenary_Gunner.labelMalePlural>男性仙子伊布枪手佣兵</Sylveon_Mercenary_Gunner.labelMalePlural>
+  <!-- female Sylveon mercenary gunner -->  <Sylveon_Mercenary_Gunner.labelFemale>女性仙子伊布枪手佣兵</Sylveon_Mercenary_Gunner.labelFemale>
+  <!-- female Sylveon mercenary gunners -->  <Sylveon_Mercenary_Gunner.labelFemalePlural>女性仙子伊布枪手佣兵</Sylveon_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Sylveon mercenary sniper -->  <Sylveon_Mercenary_Sniper.label>仙子伊布狙击手佣兵</Sylveon_Mercenary_Sniper.label>
+  <!-- Sylveon mercenary snipers -->  <Sylveon_Mercenary_Sniper.labelPlural>仙子伊布狙击手佣兵</Sylveon_Mercenary_Sniper.labelPlural>
+  <!-- male Sylveon mercenary sniper -->  <Sylveon_Mercenary_Sniper.labelMale>男性仙子伊布狙击手佣兵</Sylveon_Mercenary_Sniper.labelMale>
+  <!-- male Sylveon mercenary snipers -->  <Sylveon_Mercenary_Sniper.labelMalePlural>男性仙子伊布狙击手佣兵</Sylveon_Mercenary_Sniper.labelMalePlural>
+  <!-- female Sylveon mercenary sniper -->  <Sylveon_Mercenary_Sniper.labelFemale>女性仙子伊布狙击手佣兵</Sylveon_Mercenary_Sniper.labelFemale>
+  <!-- female Sylveon mercenary snipers -->  <Sylveon_Mercenary_Sniper.labelFemalePlural>女性仙子伊布狙击手佣兵</Sylveon_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Sylveon mercenary slasher -->  <Sylveon_Mercenary_Slasher.label>仙子伊布杀手佣兵</Sylveon_Mercenary_Slasher.label>
+  <!-- Sylveon mercenary slashers -->  <Sylveon_Mercenary_Slasher.labelPlural>仙子伊布杀手佣兵</Sylveon_Mercenary_Slasher.labelPlural>
+  <!-- male Sylveon mercenary slasher -->  <Sylveon_Mercenary_Slasher.labelMale>男性仙子伊布杀手佣兵</Sylveon_Mercenary_Slasher.labelMale>
+  <!-- male Sylveon mercenary slashers -->  <Sylveon_Mercenary_Slasher.labelMalePlural>男性仙子伊布杀手佣兵</Sylveon_Mercenary_Slasher.labelMalePlural>
+  <!-- female Sylveon mercenary slasher -->  <Sylveon_Mercenary_Slasher.labelFemale>女性仙子伊布杀手佣兵</Sylveon_Mercenary_Slasher.labelFemale>
+  <!-- female Sylveon mercenary slashers -->  <Sylveon_Mercenary_Slasher.labelFemalePlural>女性仙子伊布杀手佣兵</Sylveon_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Sylveon heavy mercenary -->  <Sylveon_Mercenary_Heavy.label>仙子伊布重装佣兵</Sylveon_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Sylveon_Mercenary_Heavy.labelPlural>重装佣兵</Sylveon_Mercenary_Heavy.labelPlural>
+  <!-- male Sylveon heavy mercenary -->  <Sylveon_Mercenary_Heavy.labelMale>男性仙子伊布重装佣兵</Sylveon_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Sylveon_Mercenary_Heavy.labelMalePlural>男性重装佣兵</Sylveon_Mercenary_Heavy.labelMalePlural>
+  <!-- female Sylveon heavy mercenary -->  <Sylveon_Mercenary_Heavy.labelFemale>女性仙子伊布重装佣兵</Sylveon_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Sylveon_Mercenary_Heavy.labelFemalePlural>女性重装佣兵</Sylveon_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Sylveon boss -->  <Sylveon_PirateBoss.label>仙子伊布海贼团长</Sylveon_PirateBoss.label>
+  <!-- bosses -->  <Sylveon_PirateBoss.labelPlural>海贼团长</Sylveon_PirateBoss.labelPlural>
+  <!-- male Sylveon boss -->  <Sylveon_PirateBoss.labelMale>男性仙子伊布海贼团长</Sylveon_PirateBoss.labelMale>
+  <!-- male bosses -->  <Sylveon_PirateBoss.labelMalePlural>男性海贼团长</Sylveon_PirateBoss.labelMalePlural>
+  <!-- female Sylveon boss -->  <Sylveon_PirateBoss.labelFemale>女性仙子伊布海贼团长</Sylveon_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Sylveon_PirateBoss.labelFemalePlural>女性海贼团长</Sylveon_PirateBoss.labelFemalePlural>
+
+  <!-- Sylveon elite mercenary -->  <Sylveon_Mercenary_Elite.label>仙子伊布精锐佣兵</Sylveon_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Sylveon_Mercenary_Elite.labelPlural>精锐佣兵</Sylveon_Mercenary_Elite.labelPlural>
+  <!-- male Sylveon elite mercenary -->  <Sylveon_Mercenary_Elite.labelMale>男性仙子伊布精锐佣兵</Sylveon_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Sylveon_Mercenary_Elite.labelMalePlural>男性精锐佣兵</Sylveon_Mercenary_Elite.labelMalePlural>
+  <!-- female Sylveon elite mercenary -->  <Sylveon_Mercenary_Elite.labelFemale>女性仙子伊布精锐佣兵</Sylveon_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Sylveon_Mercenary_Elite.labelFemalePlural>女性精锐佣兵</Sylveon_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Sylveon drifter -->  <Sylveon_Drifter.label>仙子伊布漂泊者</Sylveon_Drifter.label>
+  <!-- Sylveon drifters -->  <Sylveon_Drifter.labelPlural>仙子伊布漂泊者</Sylveon_Drifter.labelPlural>
+  <!-- male Sylveon drifter -->  <Sylveon_Drifter.labelMale>男性仙子伊布漂泊者</Sylveon_Drifter.labelMale>
+  <!-- male Sylveon drifters -->  <Sylveon_Drifter.labelMalePlural>男性仙子伊布漂泊者</Sylveon_Drifter.labelMalePlural>
+  <!-- female Sylveon drifter -->  <Sylveon_Drifter.labelFemale>女性仙子伊布漂泊者</Sylveon_Drifter.labelFemale>
+  <!-- female Sylveon drifters -->  <Sylveon_Drifter.labelFemalePlural>女性仙子伊布漂泊者</Sylveon_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Sylveon scavenger gunner -->  <Sylveon_Scavenger.label>仙子伊布掠夺者枪手</Sylveon_Scavenger.label>
+  <!-- Sylveon scavenger gunners -->  <Sylveon_Scavenger.labelPlural>仙子伊布掠夺者枪手</Sylveon_Scavenger.labelPlural>
+  <!-- male Sylveon scavenger gunner -->  <Sylveon_Scavenger.labelMale>男性仙子伊布掠夺者枪手</Sylveon_Scavenger.labelMale>
+  <!-- male Sylveon scavenger gunners -->  <Sylveon_Scavenger.labelMalePlural>男性仙子伊布掠夺者枪手</Sylveon_Scavenger.labelMalePlural>
+  <!-- female Sylveon scavenger gunner -->  <Sylveon_Scavenger.labelFemale>女性仙子伊布掠夺者枪手</Sylveon_Scavenger.labelFemale>
+  <!-- female Sylveon scavenger gunners -->  <Sylveon_Scavenger.labelFemalePlural>女性仙子伊布掠夺者枪手</Sylveon_Scavenger.labelFemalePlural>
+
+  <!-- Sylveon scavenger thrasher -->  <Sylveon_Thrasher.label>仙子伊布掠夺者暴民</Sylveon_Thrasher.label>
+  <!-- Sylveon scavenger thrashers -->  <Sylveon_Thrasher.labelPlural>仙子伊布掠夺者暴民</Sylveon_Thrasher.labelPlural>
+  <!-- male Sylveon scavenger thrasher -->  <Sylveon_Thrasher.labelMale>男性仙子伊布掠夺者暴民</Sylveon_Thrasher.labelMale>
+  <!-- male Sylveon scavenger thrashers -->  <Sylveon_Thrasher.labelMalePlural>男性仙子伊布掠夺者暴民</Sylveon_Thrasher.labelMalePlural>
+  <!-- female Sylveon scavenger thrasher -->  <Sylveon_Thrasher.labelFemale>女性仙子伊布掠夺者暴民</Sylveon_Thrasher.labelFemale>
+  <!-- female Sylveon scavenger thrashers -->  <Sylveon_Thrasher.labelFemalePlural>女性仙子伊布掠夺者暴民</Sylveon_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Sylveon pirate gunner -->  <Sylveon_Pirate.label>仙子伊布海贼枪手</Sylveon_Pirate.label>
+  <!-- Sylveon pirate gunners -->  <Sylveon_Pirate.labelPlural>仙子伊布海贼枪手</Sylveon_Pirate.labelPlural>
+  <!-- male Sylveon pirate gunner -->  <Sylveon_Pirate.labelMale>男性仙子伊布海贼枪手</Sylveon_Pirate.labelMale>
+  <!-- male Sylveon pirate gunners -->  <Sylveon_Pirate.labelMalePlural>男性仙子伊布海贼枪手</Sylveon_Pirate.labelMalePlural>
+  <!-- female Sylveon pirate gunner -->  <Sylveon_Pirate.labelFemale>女性仙子伊布海贼枪手</Sylveon_Pirate.labelFemale>
+  <!-- female Sylveon pirate gunners -->  <Sylveon_Pirate.labelFemalePlural>女性仙子伊布海贼枪手</Sylveon_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Sylveon villager -->  <Sylveon_Villager.label>仙子伊布村民</Sylveon_Villager.label>
+  <!-- Sylveon villagers -->  <Sylveon_Villager.labelPlural>仙子伊布村民</Sylveon_Villager.labelPlural>
+  <!-- male Sylveon villager -->  <Sylveon_Villager.labelMale>男性仙子伊布村民</Sylveon_Villager.labelMale>
+  <!-- male Sylveon villagers -->  <Sylveon_Villager.labelMalePlural>男性仙子伊布村民</Sylveon_Villager.labelMalePlural>
+  <!-- female Sylveon villager -->  <Sylveon_Villager.labelFemale>女性仙子伊布村民</Sylveon_Villager.labelFemale>
+  <!-- female Sylveon villagers -->  <Sylveon_Villager.labelFemalePlural>女性仙子伊布村民</Sylveon_Villager.labelFemalePlural>
+
+  <!-- Sylveon town guard -->  <Sylveon_Town_Guard.label>仙子伊布城镇卫兵</Sylveon_Town_Guard.label>
+  <!-- Sylveon town guards -->  <Sylveon_Town_Guard.labelPlural>仙子伊布城镇卫兵</Sylveon_Town_Guard.labelPlural>
+  <!-- male Sylveon town guard -->  <Sylveon_Town_Guard.labelMale>男性仙子伊布城镇卫兵</Sylveon_Town_Guard.labelMale>
+  <!-- male Sylveon town guards -->  <Sylveon_Town_Guard.labelMalePlural>男性仙子伊布城镇卫兵</Sylveon_Town_Guard.labelMalePlural>
+  <!-- female Sylveon town guard -->  <Sylveon_Town_Guard.labelFemale>女性仙子伊布城镇卫兵</Sylveon_Town_Guard.labelFemale>
+  <!-- female Sylveon town guards -->  <Sylveon_Town_Guard.labelFemalePlural>女性仙子伊布城镇卫兵</Sylveon_Town_Guard.labelFemalePlural>
+
+  <!-- Sylveon town trader -->  <Sylveon_Town_Trader.label>仙子伊布城镇商人</Sylveon_Town_Trader.label>
+  <!-- Sylveon town traders -->  <Sylveon_Town_Trader.labelPlural>仙子伊布城镇商人</Sylveon_Town_Trader.labelPlural>
+  <!-- male Sylveon town trader -->  <Sylveon_Town_Trader.labelMale>男性仙子伊布城镇商人</Sylveon_Town_Trader.labelMale>
+  <!-- male Sylveon town traders -->  <Sylveon_Town_Trader.labelMalePlural>男性仙子伊布城镇商人</Sylveon_Town_Trader.labelMalePlural>
+  <!-- female Sylveon town trader -->  <Sylveon_Town_Trader.labelFemale>女性仙子伊布城镇商人</Sylveon_Town_Trader.labelFemale>
+  <!-- female Sylveon town traders -->  <Sylveon_Town_Trader.labelFemalePlural>女性仙子伊布城镇商人</Sylveon_Town_Trader.labelFemalePlural>
+
+  <!-- Sylveon town councilman -->  <Sylveon_Town_Councilman.label>仙子伊布城镇议员</Sylveon_Town_Councilman.label>
+  <!-- town councilmen -->  <Sylveon_Town_Councilman.labelPlural>城镇议员</Sylveon_Town_Councilman.labelPlural>
+  <!-- male Sylveon town councilman -->  <Sylveon_Town_Councilman.labelMale>男性仙子伊布城镇议员</Sylveon_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Sylveon_Town_Councilman.labelMalePlural>男性城镇议员</Sylveon_Town_Councilman.labelMalePlural>
+  <!-- female Sylveon town councilman -->  <Sylveon_Town_Councilman.labelFemale>女性仙子伊布城镇议员</Sylveon_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Sylveon_Town_Councilman.labelFemalePlural>女性城镇议员</Sylveon_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Sylveon penitent -->  <Sylveon_Tribal_Penitent.label>仙子伊布海贼</Sylveon_Tribal_Penitent.label>
+  <!-- Sylveon penitents -->  <Sylveon_Tribal_Penitent.labelPlural>仙子伊布海贼</Sylveon_Tribal_Penitent.labelPlural>
+  <!-- male Sylveon penitent -->  <Sylveon_Tribal_Penitent.labelMale>男性仙子伊布海贼</Sylveon_Tribal_Penitent.labelMale>
+  <!-- male Sylveon penitents -->  <Sylveon_Tribal_Penitent.labelMalePlural>男性仙子伊布海贼</Sylveon_Tribal_Penitent.labelMalePlural>
+  <!-- female Sylveon penitent -->  <Sylveon_Tribal_Penitent.labelFemale>女性仙子伊布海贼</Sylveon_Tribal_Penitent.labelFemale>
+  <!-- female Sylveon penitents -->  <Sylveon_Tribal_Penitent.labelFemalePlural>女性仙子伊布海贼</Sylveon_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Sylveon archer -->  <Sylveon_Tribal_Archer.label>仙子伊布弓箭手</Sylveon_Tribal_Archer.label>
+  <!-- Sylveon archers -->  <Sylveon_Tribal_Archer.labelPlural>仙子伊布弓箭手</Sylveon_Tribal_Archer.labelPlural>
+  <!-- male Sylveon archer -->  <Sylveon_Tribal_Archer.labelMale>男性仙子伊布弓箭手</Sylveon_Tribal_Archer.labelMale>
+  <!-- male Sylveon archers -->  <Sylveon_Tribal_Archer.labelMalePlural>男性仙子伊布弓箭手</Sylveon_Tribal_Archer.labelMalePlural>
+  <!-- female Sylveon archer -->  <Sylveon_Tribal_Archer.labelFemale>女性仙子伊布弓箭手</Sylveon_Tribal_Archer.labelFemale>
+  <!-- female Sylveon archers -->  <Sylveon_Tribal_Archer.labelFemalePlural>女性仙子伊布弓箭手</Sylveon_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Sylveon warrior -->  <Sylveon_Tribal_Warrior.label>仙子伊布战士</Sylveon_Tribal_Warrior.label>
+  <!-- Sylveon warriors -->  <Sylveon_Tribal_Warrior.labelPlural>仙子伊布战士</Sylveon_Tribal_Warrior.labelPlural>
+  <!-- male Sylveon warrior -->  <Sylveon_Tribal_Warrior.labelMale>男性仙子伊布战士</Sylveon_Tribal_Warrior.labelMale>
+  <!-- male Sylveon warriors -->  <Sylveon_Tribal_Warrior.labelMalePlural>男性仙子伊布战士</Sylveon_Tribal_Warrior.labelMalePlural>
+  <!-- female Sylveon warrior -->  <Sylveon_Tribal_Warrior.labelFemale>女性仙子伊布战士</Sylveon_Tribal_Warrior.labelFemale>
+  <!-- female Sylveon warriors -->  <Sylveon_Tribal_Warrior.labelFemalePlural>女性仙子伊布战士</Sylveon_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Sylveon hunter -->  <Sylveon_Tribal_Hunter.label>仙子伊布猎人</Sylveon_Tribal_Hunter.label>
+  <!-- Sylveon hunters -->  <Sylveon_Tribal_Hunter.labelPlural>仙子伊布猎人</Sylveon_Tribal_Hunter.labelPlural>
+  <!-- male Sylveon hunter -->  <Sylveon_Tribal_Hunter.labelMale>男性仙子伊布猎人</Sylveon_Tribal_Hunter.labelMale>
+  <!-- male Sylveon hunters -->  <Sylveon_Tribal_Hunter.labelMalePlural>男性仙子伊布猎人</Sylveon_Tribal_Hunter.labelMalePlural>
+  <!-- female Sylveon hunter -->  <Sylveon_Tribal_Hunter.labelFemale>女性仙子伊布猎人</Sylveon_Tribal_Hunter.labelFemale>
+  <!-- female Sylveon hunters -->  <Sylveon_Tribal_Hunter.labelFemalePlural>女性仙子伊布猎人</Sylveon_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Sylveon trader -->  <Sylveon_Tribal_Trader.label>仙子伊布商人</Sylveon_Tribal_Trader.label>
+  <!-- Sylveon traders -->  <Sylveon_Tribal_Trader.labelPlural>仙子伊布商人</Sylveon_Tribal_Trader.labelPlural>
+  <!-- male Sylveon trader -->  <Sylveon_Tribal_Trader.labelMale>男性仙子伊布商人</Sylveon_Tribal_Trader.labelMale>
+  <!-- male Sylveon traders -->  <Sylveon_Tribal_Trader.labelMalePlural>男性仙子伊布商人</Sylveon_Tribal_Trader.labelMalePlural>
+  <!-- female Sylveon trader -->  <Sylveon_Tribal_Trader.labelFemale>女性仙子伊布商人</Sylveon_Tribal_Trader.labelFemale>
+  <!-- female Sylveon traders -->  <Sylveon_Tribal_Trader.labelFemalePlural>女性仙子伊布商人</Sylveon_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Sylveon berserker -->  <Sylveon_Tribal_Berserker.label>仙子伊布狂战士</Sylveon_Tribal_Berserker.label>
+  <!-- Sylveon berserkers -->  <Sylveon_Tribal_Berserker.labelPlural>仙子伊布狂战士</Sylveon_Tribal_Berserker.labelPlural>
+  <!-- male Sylveon berserker -->  <Sylveon_Tribal_Berserker.labelMale>男性仙子伊布狂战士</Sylveon_Tribal_Berserker.labelMale>
+  <!-- male Sylveon berserkers -->  <Sylveon_Tribal_Berserker.labelMalePlural>男性仙子伊布狂战士</Sylveon_Tribal_Berserker.labelMalePlural>
+  <!-- female Sylveon berserker -->  <Sylveon_Tribal_Berserker.labelFemale>女性仙子伊布狂战士</Sylveon_Tribal_Berserker.labelFemale>
+  <!-- female Sylveon berserkers -->  <Sylveon_Tribal_Berserker.labelFemalePlural>女性仙子伊布狂战士</Sylveon_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Sylveon heavy archer -->  <Sylveon_Tribal_HeavyArcher.label>仙子伊布重装弓箭手</Sylveon_Tribal_HeavyArcher.label>
+  <!-- Sylveon heavy archers -->  <Sylveon_Tribal_HeavyArcher.labelPlural>仙子伊布重装弓箭手</Sylveon_Tribal_HeavyArcher.labelPlural>
+  <!-- male Sylveon heavy archer -->  <Sylveon_Tribal_HeavyArcher.labelMale>男性仙子伊布重装弓箭手</Sylveon_Tribal_HeavyArcher.labelMale>
+  <!-- male Sylveon heavy archers -->  <Sylveon_Tribal_HeavyArcher.labelMalePlural>男性仙子伊布重装弓箭手</Sylveon_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Sylveon heavy archer -->  <Sylveon_Tribal_HeavyArcher.labelFemale>女性仙子伊布重装弓箭手</Sylveon_Tribal_HeavyArcher.labelFemale>
+  <!-- female Sylveon heavy archers -->  <Sylveon_Tribal_HeavyArcher.labelFemalePlural>女性仙子伊布重装弓箭手</Sylveon_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Sylveon_Tribal_ChiefMelee -->  <!--[Duplicated] <Sylveon_Tribal_ChiefMelee.label>仙子伊布_Tribal_ChiefMelee</Sylveon_Tribal_ChiefMelee.label>-->
+  <!-- Sylveon_Tribal_ChiefMelees -->  <!--[Duplicated] <Sylveon_Tribal_ChiefMelee.labelPlural>仙子伊布_Tribal_ChiefMele</Sylveon_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Sylveon_Tribal_ChiefMelee -->  <!--[Duplicated] <Sylveon_Tribal_ChiefMelee.labelMale>男性仙子伊布_Tribal_ChiefMelee</Sylveon_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Sylveon_Tribal_ChiefMelees -->  <!--[Duplicated] <Sylveon_Tribal_ChiefMelee.labelMalePlural>男性仙子伊布_Tribal_ChiefMele</Sylveon_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Sylveon_Tribal_ChiefMelee -->  <!--[Duplicated] <Sylveon_Tribal_ChiefMelee.labelFemale>女性仙子伊布_Tribal_ChiefMelee</Sylveon_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Sylveon_Tribal_ChiefMelees -->  <!--[Duplicated] <Sylveon_Tribal_ChiefMelee.labelFemalePlural>女性仙子伊布_Tribal_ChiefMele</Sylveon_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Sylveon berserker chief -->  <Sylveon_Tribal_ChiefMelee.label>仙子伊布狂战士队长</Sylveon_Tribal_ChiefMelee.label>
+  <!-- Sylveon berserker chiefs -->  <Sylveon_Tribal_ChiefMelee.labelPlural>仙子伊布狂战士队长</Sylveon_Tribal_ChiefMelee.labelPlural>
+  <!-- male Sylveon berserker chief -->  <Sylveon_Tribal_ChiefMelee.labelMale>男性仙子伊布狂战士队长</Sylveon_Tribal_ChiefMelee.labelMale>
+  <!-- male Sylveon berserker chiefs -->  <Sylveon_Tribal_ChiefMelee.labelMalePlural>男性仙子伊布狂战士队长</Sylveon_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Sylveon berserker chief -->  <Sylveon_Tribal_ChiefMelee.labelFemale>女性仙子伊布狂战士队长</Sylveon_Tribal_ChiefMelee.labelFemale>
+  <!-- female Sylveon berserker chiefs -->  <Sylveon_Tribal_ChiefMelee.labelFemalePlural>女性仙子伊布狂战士队长</Sylveon_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Sylveon archer chief -->  <Sylveon_Tribal_ChiefRanged.label>仙子伊布弓箭手队长</Sylveon_Tribal_ChiefRanged.label>
+  <!-- Sylveon archer chiefs -->  <Sylveon_Tribal_ChiefRanged.labelPlural>仙子伊布弓箭手队长</Sylveon_Tribal_ChiefRanged.labelPlural>
+  <!-- male Sylveon archer chief -->  <Sylveon_Tribal_ChiefRanged.labelMale>男性仙子伊布弓箭手队长</Sylveon_Tribal_ChiefRanged.labelMale>
+  <!-- male Sylveon archer chiefs -->  <Sylveon_Tribal_ChiefRanged.labelMalePlural>男性仙子伊布弓箭手队长</Sylveon_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Sylveon archer chief -->  <Sylveon_Tribal_ChiefRanged.labelFemale>女性仙子伊布弓箭手队长</Sylveon_Tribal_ChiefRanged.labelFemale>
+  <!-- female Sylveon archer chiefs -->  <Sylveon_Tribal_ChiefRanged.labelFemalePlural>女性仙子伊布弓箭手队长</Sylveon_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

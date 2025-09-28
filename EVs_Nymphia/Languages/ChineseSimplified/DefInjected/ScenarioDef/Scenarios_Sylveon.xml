@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Refugees -->  <SylveonScenario1.label>难民</SylveonScenario1.label>
+  <!-- Three desperate Sylveon refugees seeking the asylum of a rimworld from the initial destruction of their homeworld by orbital bombardment on one of the few space-bound escape vessels. -->  <SylveonScenario1.description>三名经历绝望的仙子伊布难民，为了躲避最初在家乡世界那边，遭到轨道炮击轰炸而惨遭被毁灭後的命运，所以只能想尽办法寻求庇护，而不得不搭乘仅存的其中一艘太空逃难船逃难，从而逃来到了边缘世界。</SylveonScenario1.description>
+  <!-- Refugees -->  <SylveonScenario1.scenario.name>难民</SylveonScenario1.scenario.name>
+  <!-- Three Sylveon colonists with very basic resources. Be careful with Sylveon pawns since they're very weak and fragile. Medium Difficulty. -->
+  <!-- 三名仙子伊布殖民者，拥有非常基础的资源。但要小心他们的状况，因为他们非常脆弱且容易受伤。此为中等难度的剧本。 -->  <SylveonScenario1.scenario.summary>三名仙子伊布，拥有很基础的资源。要小心状态，因为很脆弱且易受伤。此为中等难度的剧本。</SylveonScenario1.scenario.summary>
+  <!-- Three desperate Sylveon refugees seeking the asylum of a rimworld from the initial destruction of their homeworld by orbital bombardment on one of the few space-bound escape vessels. -->  <SylveonScenario1.scenario.description>三名经历绝望的仙子伊布难民，为了躲避最初在家乡世界那边，遭到轨道炮击轰炸而惨遭被毁灭後的命运，所以只能想尽办法寻求庇护，而不得不搭乘仅存的其中一艘太空逃难船逃难，来到了边缘世界。\n\n三名仙子伊布殖民者，拥有非常基础的资源。但要小心他们的状况，因为他们非常脆弱且容易受伤。此为中等难度的剧本。</SylveonScenario1.scenario.description>
+  <!-- The three of you awake after an extremely rough landing however none of you remarkably bear no injuries other than waning cryptosleep sickness. -->
+  <SylveonScenario1.scenario.parts.GameStartDialog.text>在经历了极其艰辛万苦的着陆後，你们三个醒来了，然而令人惊讶地是，除了正在逐渐消退的冷冻休眠舱症候群以外，你们居然都毫发无伤。</SylveonScenario1.scenario.parts.GameStartDialog.text>
+    <!-- UNUSED --><!--  <SylveonScenario1.scenario.parts.12.text>在经历了极其艰辛万苦的着陆後，你们三个醒来了，然而令人惊讶地是，除了正在逐渐消退的冷冻休眠舱症候群以外，你们居然都毫发无伤。</SylveonScenario1.scenario.parts.12.text>-->
+
+
+</LanguageData>

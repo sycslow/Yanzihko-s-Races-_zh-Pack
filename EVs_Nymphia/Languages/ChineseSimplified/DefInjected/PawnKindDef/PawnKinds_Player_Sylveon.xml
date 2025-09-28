@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <SylveonTribalPawn.label>部落民</SylveonTribalPawn.label>
+  <!-- members -->  <SylveonTribalPawn.labelPlural>部落民</SylveonTribalPawn.labelPlural>
+  <!-- male member -->  <SylveonTribalPawn.labelMale>男性部落民</SylveonTribalPawn.labelMale>
+  <!-- male members -->  <SylveonTribalPawn.labelMalePlural>男性部落民</SylveonTribalPawn.labelMalePlural>
+  <!-- female member -->  <SylveonTribalPawn.labelFemale>女性部落民</SylveonTribalPawn.labelFemale>
+  <!-- female members -->  <SylveonTribalPawn.labelFemalePlural>女性部落民</SylveonTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <SylveonIndustrialPawn.label>殖民者</SylveonIndustrialPawn.label>
+  <!-- members -->  <SylveonIndustrialPawn.labelPlural>殖民者</SylveonIndustrialPawn.labelPlural>
+  <!-- male member -->  <SylveonIndustrialPawn.labelMale>男性殖民者</SylveonIndustrialPawn.labelMale>
+  <!-- male members -->  <SylveonIndustrialPawn.labelMalePlural>男性殖民者</SylveonIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <SylveonIndustrialPawn.labelFemale>女性殖民者</SylveonIndustrialPawn.labelFemale>
+  <!-- female members -->  <SylveonIndustrialPawn.labelFemalePlural>女性殖民者</SylveonIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

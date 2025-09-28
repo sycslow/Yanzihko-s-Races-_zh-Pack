@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <VaporeonTribalPawn.label>部落民</VaporeonTribalPawn.label>
+  <!-- members -->  <VaporeonTribalPawn.labelPlural>部落民</VaporeonTribalPawn.labelPlural>
+  <!-- male member -->  <VaporeonTribalPawn.labelMale>男性部落民</VaporeonTribalPawn.labelMale>
+  <!-- male members -->  <VaporeonTribalPawn.labelMalePlural>男性部落民</VaporeonTribalPawn.labelMalePlural>
+  <!-- female member -->  <VaporeonTribalPawn.labelFemale>女性部落民</VaporeonTribalPawn.labelFemale>
+  <!-- female members -->  <VaporeonTribalPawn.labelFemalePlural>女性部落民</VaporeonTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <VaporeonIndustrialPawn.label>殖民者</VaporeonIndustrialPawn.label>
+  <!-- members -->  <VaporeonIndustrialPawn.labelPlural>殖民者</VaporeonIndustrialPawn.labelPlural>
+  <!-- male member -->  <VaporeonIndustrialPawn.labelMale>男性殖民者</VaporeonIndustrialPawn.labelMale>
+  <!-- male members -->  <VaporeonIndustrialPawn.labelMalePlural>男性殖民者</VaporeonIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <VaporeonIndustrialPawn.labelFemale>女性殖民者</VaporeonIndustrialPawn.labelFemale>
+  <!-- female members -->  <VaporeonIndustrialPawn.labelFemalePlural>女性殖民者</VaporeonIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

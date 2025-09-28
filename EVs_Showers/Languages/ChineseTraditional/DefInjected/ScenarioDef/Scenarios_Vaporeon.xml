@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Refugees -->  <VaporeonScenario1.label>難民</VaporeonScenario1.label>
+  <!-- Despite landing in pods and being familiar with advanced technologies, you know absolutely nothing about how technological wonders work. You start with no technologies. Five Vaporeon Colonists. Hard difficulty. -->  <VaporeonScenario1.description>儘管你們是搭乘運輸艙著陸的，也熟悉先進技術，但你們對於這些科技奇跡的運作方式卻是一無所知。導致你們一開場將會以沒有任何科技的狀態開始。五名水伊布殖民者。此為困難難度的劇本。</VaporeonScenario1.description>
+  <!-- Refugees -->  <VaporeonScenario1.scenario.name>難民</VaporeonScenario1.scenario.name>
+  <!-- Despite landing in pods and being familiar with advanced technologies, you know absolutely nothing about how technological wonders work. You start with no technologies. Five Vaporeon Colonists. Hard difficulty. -->  <VaporeonScenario1.scenario.summary>儘管你們是搭乘運輸艙著陸的，也熟悉先進技術，但你們對於這些科技奇跡的運作方式卻是一無所知。導致你們一開場將會以沒有任何科技的狀態開始。五名水伊布殖民者。此為困難難度的劇本。</VaporeonScenario1.scenario.summary>
+  <!-- Despite landing in pods and being familiar with advanced technologies, you know absolutely nothing about how technological wonders work. You start with no technologies. Five Vaporeon Colonists. Hard difficulty. -->  <VaporeonScenario1.scenario.description>儘管你們是搭乘運輸艙著陸的，也熟悉先進技術，但你們對於這些科技奇跡的運作方式卻是一無所知。導致你們一開場將會以沒有任何科技的狀態開始。五名水伊布殖民者。此為困難難度的劇本。</VaporeonScenario1.scenario.description>
+  <!-- Five of you have successfully managed to escape after fighting off your abductors. All what you have is a very limited supply of food and medicine. Due to your unfortunate past in captivity, you know absolutely nothing about any kind of technology. But it seems there are enough wreckage and raw resources around to start doing atleast something... -->
+    <VaporeonScenario1.scenario.parts.GameStartDialog.text>你們五位成功擊退了綁架者的襲擊後逃脫了。但你們所擁有的只有非常有限的食物和藥品供給。由於你們過去都在囚禁中度過了如此不幸的經歷，因此導致你們對任何形式的科技都一無所知。不過，附近周圍似乎有足夠的殘骸和原始材料，或許應該能足以開始做一點什麼了……</VaporeonScenario1.scenario.parts.GameStartDialog.text>
+	  <!-- UNUSED --><!--  <VaporeonScenario1.scenario.parts.8.text>你們五位成功擊退了綁架者的襲擊後逃脫了。但你們所擁有的只有非常有限的食物和藥品供給。由於你們過去都在囚禁中度過了如此不幸的經歷，因此導致你們對任何形式的科技都一無所知。不過，附近周圍似乎有足夠的殘骸和原始材料，或許應該能足以開始做一點什麼了……</VaporeonScenario1.scenario.parts.8.text>-->
+
+
+</LanguageData>

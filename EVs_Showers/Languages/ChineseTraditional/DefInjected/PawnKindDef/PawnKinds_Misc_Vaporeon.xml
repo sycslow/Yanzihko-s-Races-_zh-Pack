@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Vaporeon space refugee -->  <VaporeonSpaceRefugee.label>水伊布星際難民</VaporeonSpaceRefugee.label>
+  <!-- Vaporeon space refugees -->  <VaporeonSpaceRefugee.labelPlural>水伊布星際難民</VaporeonSpaceRefugee.labelPlural>
+  <!-- male Vaporeon space refugee -->  <VaporeonSpaceRefugee.labelMale>男性水伊布星際難民</VaporeonSpaceRefugee.labelMale>
+  <!-- male Vaporeon space refugees -->  <VaporeonSpaceRefugee.labelMalePlural>男性水伊布星際難民</VaporeonSpaceRefugee.labelMalePlural>
+  <!-- female Vaporeon space refugee -->  <VaporeonSpaceRefugee.labelFemale>女性水伊布星際難民</VaporeonSpaceRefugee.labelFemale>
+  <!-- female Vaporeon space refugees -->  <VaporeonSpaceRefugee.labelFemalePlural>女性水伊布星際難民</VaporeonSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Vaporeon slave -->  <VaporeonSlave.label>水伊布奴隸</VaporeonSlave.label>
+  <!-- Vaporeon slaves -->  <VaporeonSlave.labelPlural>水伊布奴隸</VaporeonSlave.labelPlural>
+  <!-- male Vaporeon slave -->  <VaporeonSlave.labelMale>男性水伊布奴隸</VaporeonSlave.labelMale>
+  <!-- male Vaporeon slaves -->  <VaporeonSlave.labelMalePlural>男性水伊布奴隸</VaporeonSlave.labelMalePlural>
+  <!-- female Vaporeon slave -->  <VaporeonSlave.labelFemale>女性水伊布奴隸</VaporeonSlave.labelFemale>
+  <!-- female Vaporeon slaves -->  <VaporeonSlave.labelFemalePlural>女性水伊布奴隸</VaporeonSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Vaporeon -->  <VaporeonColonist.label>水伊布</VaporeonColonist.label>
+  <!-- Vaporeons -->  <VaporeonColonist.labelPlural>水伊布</VaporeonColonist.labelPlural>
+  <!-- male Vaporeon -->  <VaporeonColonist.labelMale>男性水伊布</VaporeonColonist.labelMale>
+  <!-- male Vaporeons -->  <VaporeonColonist.labelMalePlural>男性水伊布</VaporeonColonist.labelMalePlural>
+  <!-- female Vaporeon -->  <VaporeonColonist.labelFemale>女性水伊布</VaporeonColonist.labelFemale>
+  <!-- female Vaporeons -->  <VaporeonColonist.labelFemalePlural>女性水伊布</VaporeonColonist.labelFemalePlural>
+
+  <!-- Vaporeon -->  <VaporeonTribesperson.label>水伊布</VaporeonTribesperson.label>
+  <!-- Vaporeons -->  <VaporeonTribesperson.labelPlural>水伊布</VaporeonTribesperson.labelPlural>
+  <!-- male Vaporeon -->  <VaporeonTribesperson.labelMale>男性水伊布</VaporeonTribesperson.labelMale>
+  <!-- male Vaporeons -->  <VaporeonTribesperson.labelMalePlural>男性水伊布</VaporeonTribesperson.labelMalePlural>
+  <!-- female Vaporeon -->  <VaporeonTribesperson.labelFemale>女性水伊布</VaporeonTribesperson.labelFemale>
+  <!-- female Vaporeons -->  <VaporeonTribesperson.labelFemalePlural>女性水伊布</VaporeonTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Vaporeon grenadier -->  <Vaporeon_Grenadier_Destructive.label>水伊布擲彈兵</Vaporeon_Grenadier_Destructive.label>
+  <!-- Vaporeon grenadiers -->  <Vaporeon_Grenadier_Destructive.labelPlural>水伊布擲彈兵</Vaporeon_Grenadier_Destructive.labelPlural>
+  <!-- male Vaporeon grenadier -->  <Vaporeon_Grenadier_Destructive.labelMale>男性水伊布擲彈兵</Vaporeon_Grenadier_Destructive.labelMale>
+  <!-- male Vaporeon grenadiers -->  <Vaporeon_Grenadier_Destructive.labelMalePlural>男性水伊布擲彈兵</Vaporeon_Grenadier_Destructive.labelMalePlural>
+  <!-- female Vaporeon grenadier -->  <Vaporeon_Grenadier_Destructive.labelFemale>女性水伊布擲彈兵</Vaporeon_Grenadier_Destructive.labelFemale>
+  <!-- female Vaporeon grenadiers -->  <Vaporeon_Grenadier_Destructive.labelFemalePlural>女性水伊布擲彈兵</Vaporeon_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Vaporeon EMP grenadier -->  <Vaporeon_Grenadier_EMP.label>水伊布 EMP擲彈兵</Vaporeon_Grenadier_EMP.label>
+  <!-- Vaporeon EMP grenadiers -->  <Vaporeon_Grenadier_EMP.labelPlural>水伊布 EMP擲彈兵</Vaporeon_Grenadier_EMP.labelPlural>
+  <!-- male Vaporeon EMP grenadier -->  <Vaporeon_Grenadier_EMP.labelMale>男性水伊布 EMP擲彈兵</Vaporeon_Grenadier_EMP.labelMale>
+  <!-- male Vaporeon EMP grenadiers -->  <Vaporeon_Grenadier_EMP.labelMalePlural>男性水伊布 EMP擲彈兵</Vaporeon_Grenadier_EMP.labelMalePlural>
+  <!-- female Vaporeon EMP grenadier -->  <Vaporeon_Grenadier_EMP.labelFemale>女性水伊布 EMP擲彈兵</Vaporeon_Grenadier_EMP.labelFemale>
+  <!-- female Vaporeon EMP grenadiers -->  <Vaporeon_Grenadier_EMP.labelFemalePlural>女性水伊布 EMP擲彈兵</Vaporeon_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Vaporeon smoke grenadier -->  <Vaporeon_Grenadier_Smoke.label>水伊布煙霧彈擲彈兵</Vaporeon_Grenadier_Smoke.label>
+  <!-- Vaporeon smoke grenadiers -->  <Vaporeon_Grenadier_Smoke.labelPlural>水伊布煙霧彈擲彈兵</Vaporeon_Grenadier_Smoke.labelPlural>
+  <!-- male Vaporeon smoke grenadier -->  <Vaporeon_Grenadier_Smoke.labelMale>男性水伊布煙霧彈擲彈兵</Vaporeon_Grenadier_Smoke.labelMale>
+  <!-- male Vaporeon smoke grenadiers -->  <Vaporeon_Grenadier_Smoke.labelMalePlural>男性水伊布煙霧彈擲彈兵</Vaporeon_Grenadier_Smoke.labelMalePlural>
+  <!-- female Vaporeon smoke grenadier -->  <Vaporeon_Grenadier_Smoke.labelFemale>女性水伊布煙霧彈擲彈兵</Vaporeon_Grenadier_Smoke.labelFemale>
+  <!-- female Vaporeon smoke grenadiers -->  <Vaporeon_Grenadier_Smoke.labelFemalePlural>女性水伊布煙霧彈擲彈兵</Vaporeon_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Vaporeon mercenary gunner -->  <Vaporeon_Mercenary_Gunner.label>水伊布槍手傭兵</Vaporeon_Mercenary_Gunner.label>
+  <!-- Vaporeon mercenary gunners -->  <Vaporeon_Mercenary_Gunner.labelPlural>水伊布槍手傭兵</Vaporeon_Mercenary_Gunner.labelPlural>
+  <!-- male Vaporeon mercenary gunner -->  <Vaporeon_Mercenary_Gunner.labelMale>男性水伊布槍手傭兵</Vaporeon_Mercenary_Gunner.labelMale>
+  <!-- male Vaporeon mercenary gunners -->  <Vaporeon_Mercenary_Gunner.labelMalePlural>男性水伊布槍手傭兵</Vaporeon_Mercenary_Gunner.labelMalePlural>
+  <!-- female Vaporeon mercenary gunner -->  <Vaporeon_Mercenary_Gunner.labelFemale>女性水伊布槍手傭兵</Vaporeon_Mercenary_Gunner.labelFemale>
+  <!-- female Vaporeon mercenary gunners -->  <Vaporeon_Mercenary_Gunner.labelFemalePlural>女性水伊布槍手傭兵</Vaporeon_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Vaporeon mercenary sniper -->  <Vaporeon_Mercenary_Sniper.label>水伊布狙擊手傭兵</Vaporeon_Mercenary_Sniper.label>
+  <!-- Vaporeon mercenary snipers -->  <Vaporeon_Mercenary_Sniper.labelPlural>水伊布狙擊手傭兵</Vaporeon_Mercenary_Sniper.labelPlural>
+  <!-- male Vaporeon mercenary sniper -->  <Vaporeon_Mercenary_Sniper.labelMale>男性水伊布狙擊手傭兵</Vaporeon_Mercenary_Sniper.labelMale>
+  <!-- male Vaporeon mercenary snipers -->  <Vaporeon_Mercenary_Sniper.labelMalePlural>男性水伊布狙擊手傭兵</Vaporeon_Mercenary_Sniper.labelMalePlural>
+  <!-- female Vaporeon mercenary sniper -->  <Vaporeon_Mercenary_Sniper.labelFemale>女性水伊布狙擊手傭兵</Vaporeon_Mercenary_Sniper.labelFemale>
+  <!-- female Vaporeon mercenary snipers -->  <Vaporeon_Mercenary_Sniper.labelFemalePlural>女性水伊布狙擊手傭兵</Vaporeon_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Vaporeon mercenary slasher -->  <Vaporeon_Mercenary_Slasher.label>水伊布殺手傭兵</Vaporeon_Mercenary_Slasher.label>
+  <!-- Vaporeon mercenary slashers -->  <Vaporeon_Mercenary_Slasher.labelPlural>水伊布殺手傭兵</Vaporeon_Mercenary_Slasher.labelPlural>
+  <!-- male Vaporeon mercenary slasher -->  <Vaporeon_Mercenary_Slasher.labelMale>男性水伊布殺手傭兵</Vaporeon_Mercenary_Slasher.labelMale>
+  <!-- male Vaporeon mercenary slashers -->  <Vaporeon_Mercenary_Slasher.labelMalePlural>男性水伊布殺手傭兵</Vaporeon_Mercenary_Slasher.labelMalePlural>
+  <!-- female Vaporeon mercenary slasher -->  <Vaporeon_Mercenary_Slasher.labelFemale>女性水伊布殺手傭兵</Vaporeon_Mercenary_Slasher.labelFemale>
+  <!-- female Vaporeon mercenary slashers -->  <Vaporeon_Mercenary_Slasher.labelFemalePlural>女性水伊布殺手傭兵</Vaporeon_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Vaporeon heavy mercenary -->  <Vaporeon_Mercenary_Heavy.label>水伊布重裝傭兵</Vaporeon_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Vaporeon_Mercenary_Heavy.labelPlural>重裝傭兵</Vaporeon_Mercenary_Heavy.labelPlural>
+  <!-- male Vaporeon heavy mercenary -->  <Vaporeon_Mercenary_Heavy.labelMale>男性水伊布重裝傭兵</Vaporeon_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Vaporeon_Mercenary_Heavy.labelMalePlural>男性重裝傭兵</Vaporeon_Mercenary_Heavy.labelMalePlural>
+  <!-- female Vaporeon heavy mercenary -->  <Vaporeon_Mercenary_Heavy.labelFemale>女性水伊布重裝傭兵</Vaporeon_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Vaporeon_Mercenary_Heavy.labelFemalePlural>女性重裝傭兵</Vaporeon_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Vaporeon boss -->  <Vaporeon_PirateBoss.label>水伊布海賊團長</Vaporeon_PirateBoss.label>
+  <!-- bosses -->  <Vaporeon_PirateBoss.labelPlural>海賊團長</Vaporeon_PirateBoss.labelPlural>
+  <!-- male Vaporeon boss -->  <Vaporeon_PirateBoss.labelMale>男性水伊布海賊團長</Vaporeon_PirateBoss.labelMale>
+  <!-- male bosses -->  <Vaporeon_PirateBoss.labelMalePlural>男性海賊團長</Vaporeon_PirateBoss.labelMalePlural>
+  <!-- female Vaporeon boss -->  <Vaporeon_PirateBoss.labelFemale>女性水伊布海賊團長</Vaporeon_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Vaporeon_PirateBoss.labelFemalePlural>女性海賊團長</Vaporeon_PirateBoss.labelFemalePlural>
+
+  <!-- Vaporeon elite mercenary -->  <Vaporeon_Mercenary_Elite.label>水伊布精銳傭兵</Vaporeon_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Vaporeon_Mercenary_Elite.labelPlural>精銳傭兵</Vaporeon_Mercenary_Elite.labelPlural>
+  <!-- male Vaporeon elite mercenary -->  <Vaporeon_Mercenary_Elite.labelMale>男性水伊布精銳傭兵</Vaporeon_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Vaporeon_Mercenary_Elite.labelMalePlural>男性精銳傭兵</Vaporeon_Mercenary_Elite.labelMalePlural>
+  <!-- female Vaporeon elite mercenary -->  <Vaporeon_Mercenary_Elite.labelFemale>女性水伊布精銳傭兵</Vaporeon_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Vaporeon_Mercenary_Elite.labelFemalePlural>女性精銳傭兵</Vaporeon_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Vaporeon drifter -->  <Vaporeon_Drifter.label>水伊布漂泊者</Vaporeon_Drifter.label>
+  <!-- Vaporeon drifters -->  <Vaporeon_Drifter.labelPlural>水伊布漂泊者</Vaporeon_Drifter.labelPlural>
+  <!-- male Vaporeon drifter -->  <Vaporeon_Drifter.labelMale>男性水伊布漂泊者</Vaporeon_Drifter.labelMale>
+  <!-- male Vaporeon drifters -->  <Vaporeon_Drifter.labelMalePlural>男性水伊布漂泊者</Vaporeon_Drifter.labelMalePlural>
+  <!-- female Vaporeon drifter -->  <Vaporeon_Drifter.labelFemale>女性水伊布漂泊者</Vaporeon_Drifter.labelFemale>
+  <!-- female Vaporeon drifters -->  <Vaporeon_Drifter.labelFemalePlural>女性水伊布漂泊者</Vaporeon_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Vaporeon scavenger gunner -->  <Vaporeon_Scavenger.label>水伊布掠奪者槍手</Vaporeon_Scavenger.label>
+  <!-- Vaporeon scavenger gunners -->  <Vaporeon_Scavenger.labelPlural>水伊布掠奪者槍手</Vaporeon_Scavenger.labelPlural>
+  <!-- male Vaporeon scavenger gunner -->  <Vaporeon_Scavenger.labelMale>男性水伊布掠奪者槍手</Vaporeon_Scavenger.labelMale>
+  <!-- male Vaporeon scavenger gunners -->  <Vaporeon_Scavenger.labelMalePlural>男性水伊布掠奪者槍手</Vaporeon_Scavenger.labelMalePlural>
+  <!-- female Vaporeon scavenger gunner -->  <Vaporeon_Scavenger.labelFemale>女性水伊布掠奪者槍手</Vaporeon_Scavenger.labelFemale>
+  <!-- female Vaporeon scavenger gunners -->  <Vaporeon_Scavenger.labelFemalePlural>女性水伊布掠奪者槍手</Vaporeon_Scavenger.labelFemalePlural>
+
+  <!-- Vaporeon scavenger thrasher -->  <Vaporeon_Thrasher.label>水伊布掠奪者暴民</Vaporeon_Thrasher.label>
+  <!-- Vaporeon scavenger thrashers -->  <Vaporeon_Thrasher.labelPlural>水伊布掠奪者暴民</Vaporeon_Thrasher.labelPlural>
+  <!-- male Vaporeon scavenger thrasher -->  <Vaporeon_Thrasher.labelMale>男性水伊布掠奪者暴民</Vaporeon_Thrasher.labelMale>
+  <!-- male Vaporeon scavenger thrashers -->  <Vaporeon_Thrasher.labelMalePlural>男性水伊布掠奪者暴民</Vaporeon_Thrasher.labelMalePlural>
+  <!-- female Vaporeon scavenger thrasher -->  <Vaporeon_Thrasher.labelFemale>女性水伊布掠奪者暴民</Vaporeon_Thrasher.labelFemale>
+  <!-- female Vaporeon scavenger thrashers -->  <Vaporeon_Thrasher.labelFemalePlural>女性水伊布掠奪者暴民</Vaporeon_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Vaporeon pirate gunner -->  <Vaporeon_Pirate.label>水伊布海賊槍手</Vaporeon_Pirate.label>
+  <!-- Vaporeon pirate gunners -->  <Vaporeon_Pirate.labelPlural>水伊布海賊槍手</Vaporeon_Pirate.labelPlural>
+  <!-- male Vaporeon pirate gunner -->  <Vaporeon_Pirate.labelMale>男性水伊布海賊槍手</Vaporeon_Pirate.labelMale>
+  <!-- male Vaporeon pirate gunners -->  <Vaporeon_Pirate.labelMalePlural>男性水伊布海賊槍手</Vaporeon_Pirate.labelMalePlural>
+  <!-- female Vaporeon pirate gunner -->  <Vaporeon_Pirate.labelFemale>女性水伊布海賊槍手</Vaporeon_Pirate.labelFemale>
+  <!-- female Vaporeon pirate gunners -->  <Vaporeon_Pirate.labelFemalePlural>女性水伊布海賊槍手</Vaporeon_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Vaporeon villager -->  <Vaporeon_Villager.label>水伊布村民</Vaporeon_Villager.label>
+  <!-- Vaporeon villagers -->  <Vaporeon_Villager.labelPlural>水伊布村民</Vaporeon_Villager.labelPlural>
+  <!-- male Vaporeon villager -->  <Vaporeon_Villager.labelMale>男性水伊布村民</Vaporeon_Villager.labelMale>
+  <!-- male Vaporeon villagers -->  <Vaporeon_Villager.labelMalePlural>男性水伊布村民</Vaporeon_Villager.labelMalePlural>
+  <!-- female Vaporeon villager -->  <Vaporeon_Villager.labelFemale>女性水伊布村民</Vaporeon_Villager.labelFemale>
+  <!-- female Vaporeon villagers -->  <Vaporeon_Villager.labelFemalePlural>女性水伊布村民</Vaporeon_Villager.labelFemalePlural>
+
+  <!-- Vaporeon town guard -->  <Vaporeon_Town_Guard.label>水伊布城鎮衛兵</Vaporeon_Town_Guard.label>
+  <!-- Vaporeon town guards -->  <Vaporeon_Town_Guard.labelPlural>水伊布城鎮衛兵</Vaporeon_Town_Guard.labelPlural>
+  <!-- male Vaporeon town guard -->  <Vaporeon_Town_Guard.labelMale>男性水伊布城鎮衛兵</Vaporeon_Town_Guard.labelMale>
+  <!-- male Vaporeon town guards -->  <Vaporeon_Town_Guard.labelMalePlural>男性水伊布城鎮衛兵</Vaporeon_Town_Guard.labelMalePlural>
+  <!-- female Vaporeon town guard -->  <Vaporeon_Town_Guard.labelFemale>女性水伊布城鎮衛兵</Vaporeon_Town_Guard.labelFemale>
+  <!-- female Vaporeon town guards -->  <Vaporeon_Town_Guard.labelFemalePlural>女性水伊布城鎮衛兵</Vaporeon_Town_Guard.labelFemalePlural>
+
+  <!-- Vaporeon town trader -->  <Vaporeon_Town_Trader.label>水伊布城鎮商人</Vaporeon_Town_Trader.label>
+  <!-- Vaporeon town traders -->  <Vaporeon_Town_Trader.labelPlural>水伊布城鎮商人</Vaporeon_Town_Trader.labelPlural>
+  <!-- male Vaporeon town trader -->  <Vaporeon_Town_Trader.labelMale>男性水伊布城鎮商人</Vaporeon_Town_Trader.labelMale>
+  <!-- male Vaporeon town traders -->  <Vaporeon_Town_Trader.labelMalePlural>男性水伊布城鎮商人</Vaporeon_Town_Trader.labelMalePlural>
+  <!-- female Vaporeon town trader -->  <Vaporeon_Town_Trader.labelFemale>女性水伊布城鎮商人</Vaporeon_Town_Trader.labelFemale>
+  <!-- female Vaporeon town traders -->  <Vaporeon_Town_Trader.labelFemalePlural>女性水伊布城鎮商人</Vaporeon_Town_Trader.labelFemalePlural>
+
+  <!-- Vaporeon town councilman -->  <Vaporeon_Town_Councilman.label>水伊布城鎮議員</Vaporeon_Town_Councilman.label>
+  <!-- town councilmen -->  <Vaporeon_Town_Councilman.labelPlural>城鎮議員</Vaporeon_Town_Councilman.labelPlural>
+  <!-- male Vaporeon town councilman -->  <Vaporeon_Town_Councilman.labelMale>男性水伊布城鎮議員</Vaporeon_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Vaporeon_Town_Councilman.labelMalePlural>男性城鎮議員</Vaporeon_Town_Councilman.labelMalePlural>
+  <!-- female Vaporeon town councilman -->  <Vaporeon_Town_Councilman.labelFemale>女性水伊布城鎮議員</Vaporeon_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Vaporeon_Town_Councilman.labelFemalePlural>女性城鎮議員</Vaporeon_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Vaporeon penitent -->  <Vaporeon_Tribal_Penitent.label>水伊布海賊</Vaporeon_Tribal_Penitent.label>
+  <!-- Vaporeon penitents -->  <Vaporeon_Tribal_Penitent.labelPlural>水伊布海賊</Vaporeon_Tribal_Penitent.labelPlural>
+  <!-- male Vaporeon penitent -->  <Vaporeon_Tribal_Penitent.labelMale>男性水伊布海賊</Vaporeon_Tribal_Penitent.labelMale>
+  <!-- male Vaporeon penitents -->  <Vaporeon_Tribal_Penitent.labelMalePlural>男性水伊布海賊</Vaporeon_Tribal_Penitent.labelMalePlural>
+  <!-- female Vaporeon penitent -->  <Vaporeon_Tribal_Penitent.labelFemale>女性水伊布海賊</Vaporeon_Tribal_Penitent.labelFemale>
+  <!-- female Vaporeon penitents -->  <Vaporeon_Tribal_Penitent.labelFemalePlural>女性水伊布海賊</Vaporeon_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Vaporeon archer -->  <Vaporeon_Tribal_Archer.label>水伊布弓箭手</Vaporeon_Tribal_Archer.label>
+  <!-- Vaporeon archers -->  <Vaporeon_Tribal_Archer.labelPlural>水伊布弓箭手</Vaporeon_Tribal_Archer.labelPlural>
+  <!-- male Vaporeon archer -->  <Vaporeon_Tribal_Archer.labelMale>男性水伊布弓箭手</Vaporeon_Tribal_Archer.labelMale>
+  <!-- male Vaporeon archers -->  <Vaporeon_Tribal_Archer.labelMalePlural>男性水伊布弓箭手</Vaporeon_Tribal_Archer.labelMalePlural>
+  <!-- female Vaporeon archer -->  <Vaporeon_Tribal_Archer.labelFemale>女性水伊布弓箭手</Vaporeon_Tribal_Archer.labelFemale>
+  <!-- female Vaporeon archers -->  <Vaporeon_Tribal_Archer.labelFemalePlural>女性水伊布弓箭手</Vaporeon_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Vaporeon warrior -->  <Vaporeon_Tribal_Warrior.label>水伊布戰士</Vaporeon_Tribal_Warrior.label>
+  <!-- Vaporeon warriors -->  <Vaporeon_Tribal_Warrior.labelPlural>水伊布戰士</Vaporeon_Tribal_Warrior.labelPlural>
+  <!-- male Vaporeon warrior -->  <Vaporeon_Tribal_Warrior.labelMale>男性水伊布戰士</Vaporeon_Tribal_Warrior.labelMale>
+  <!-- male Vaporeon warriors -->  <Vaporeon_Tribal_Warrior.labelMalePlural>男性水伊布戰士</Vaporeon_Tribal_Warrior.labelMalePlural>
+  <!-- female Vaporeon warrior -->  <Vaporeon_Tribal_Warrior.labelFemale>女性水伊布戰士</Vaporeon_Tribal_Warrior.labelFemale>
+  <!-- female Vaporeon warriors -->  <Vaporeon_Tribal_Warrior.labelFemalePlural>女性水伊布戰士</Vaporeon_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Vaporeon hunter -->  <Vaporeon_Tribal_Hunter.label>水伊布獵人</Vaporeon_Tribal_Hunter.label>
+  <!-- Vaporeon hunters -->  <Vaporeon_Tribal_Hunter.labelPlural>水伊布獵人</Vaporeon_Tribal_Hunter.labelPlural>
+  <!-- male Vaporeon hunter -->  <Vaporeon_Tribal_Hunter.labelMale>男性水伊布獵人</Vaporeon_Tribal_Hunter.labelMale>
+  <!-- male Vaporeon hunters -->  <Vaporeon_Tribal_Hunter.labelMalePlural>男性水伊布獵人</Vaporeon_Tribal_Hunter.labelMalePlural>
+  <!-- female Vaporeon hunter -->  <Vaporeon_Tribal_Hunter.labelFemale>女性水伊布獵人</Vaporeon_Tribal_Hunter.labelFemale>
+  <!-- female Vaporeon hunters -->  <Vaporeon_Tribal_Hunter.labelFemalePlural>女性水伊布獵人</Vaporeon_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Vaporeon trader -->  <Vaporeon_Tribal_Trader.label>水伊布商人</Vaporeon_Tribal_Trader.label>
+  <!-- Vaporeon traders -->  <Vaporeon_Tribal_Trader.labelPlural>水伊布商人</Vaporeon_Tribal_Trader.labelPlural>
+  <!-- male Vaporeon trader -->  <Vaporeon_Tribal_Trader.labelMale>男性水伊布商人</Vaporeon_Tribal_Trader.labelMale>
+  <!-- male Vaporeon traders -->  <Vaporeon_Tribal_Trader.labelMalePlural>男性水伊布商人</Vaporeon_Tribal_Trader.labelMalePlural>
+  <!-- female Vaporeon trader -->  <Vaporeon_Tribal_Trader.labelFemale>女性水伊布商人</Vaporeon_Tribal_Trader.labelFemale>
+  <!-- female Vaporeon traders -->  <Vaporeon_Tribal_Trader.labelFemalePlural>女性水伊布商人</Vaporeon_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Vaporeon berserker -->  <Vaporeon_Tribal_Berserker.label>水伊布狂戰士</Vaporeon_Tribal_Berserker.label>
+  <!-- Vaporeon berserkers -->  <Vaporeon_Tribal_Berserker.labelPlural>水伊布狂戰士</Vaporeon_Tribal_Berserker.labelPlural>
+  <!-- male Vaporeon berserker -->  <Vaporeon_Tribal_Berserker.labelMale>男性水伊布狂戰士</Vaporeon_Tribal_Berserker.labelMale>
+  <!-- male Vaporeon berserkers -->  <Vaporeon_Tribal_Berserker.labelMalePlural>男性水伊布狂戰士</Vaporeon_Tribal_Berserker.labelMalePlural>
+  <!-- female Vaporeon berserker -->  <Vaporeon_Tribal_Berserker.labelFemale>女性水伊布狂戰士</Vaporeon_Tribal_Berserker.labelFemale>
+  <!-- female Vaporeon berserkers -->  <Vaporeon_Tribal_Berserker.labelFemalePlural>女性水伊布狂戰士</Vaporeon_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Vaporeon heavy archer -->  <Vaporeon_Tribal_HeavyArcher.label>水伊布重裝弓箭手</Vaporeon_Tribal_HeavyArcher.label>
+  <!-- Vaporeon heavy archers -->  <Vaporeon_Tribal_HeavyArcher.labelPlural>水伊布重裝弓箭手</Vaporeon_Tribal_HeavyArcher.labelPlural>
+  <!-- male Vaporeon heavy archer -->  <Vaporeon_Tribal_HeavyArcher.labelMale>男性水伊布重裝弓箭手</Vaporeon_Tribal_HeavyArcher.labelMale>
+  <!-- male Vaporeon heavy archers -->  <Vaporeon_Tribal_HeavyArcher.labelMalePlural>男性水伊布重裝弓箭手</Vaporeon_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Vaporeon heavy archer -->  <Vaporeon_Tribal_HeavyArcher.labelFemale>女性水伊布重裝弓箭手</Vaporeon_Tribal_HeavyArcher.labelFemale>
+  <!-- female Vaporeon heavy archers -->  <Vaporeon_Tribal_HeavyArcher.labelFemalePlural>女性水伊布重裝弓箭手</Vaporeon_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Vaporeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Vaporeon_Tribal_ChiefMelee.label>水伊布_Tribal_ChiefMelee</Vaporeon_Tribal_ChiefMelee.label>-->
+  <!-- Vaporeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Vaporeon_Tribal_ChiefMelee.labelPlural>水伊布_Tribal_ChiefMele</Vaporeon_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Vaporeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Vaporeon_Tribal_ChiefMelee.labelMale>男性水伊布_Tribal_ChiefMelee</Vaporeon_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Vaporeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Vaporeon_Tribal_ChiefMelee.labelMalePlural>男性水伊布_Tribal_ChiefMele</Vaporeon_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Vaporeon_Tribal_ChiefMelee -->  <!--[Duplicated] <Vaporeon_Tribal_ChiefMelee.labelFemale>女性水伊布_Tribal_ChiefMelee</Vaporeon_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Vaporeon_Tribal_ChiefMelees -->  <!--[Duplicated] <Vaporeon_Tribal_ChiefMelee.labelFemalePlural>女性水伊布_Tribal_ChiefMele</Vaporeon_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Vaporeon berserker chief -->  <Vaporeon_Tribal_ChiefMelee.label>水伊布狂戰士隊長</Vaporeon_Tribal_ChiefMelee.label>
+  <!-- Vaporeon berserker chiefs -->  <Vaporeon_Tribal_ChiefMelee.labelPlural>水伊布狂戰士隊長</Vaporeon_Tribal_ChiefMelee.labelPlural>
+  <!-- male Vaporeon berserker chief -->  <Vaporeon_Tribal_ChiefMelee.labelMale>男性水伊布狂戰士隊長</Vaporeon_Tribal_ChiefMelee.labelMale>
+  <!-- male Vaporeon berserker chiefs -->  <Vaporeon_Tribal_ChiefMelee.labelMalePlural>男性水伊布狂戰士隊長</Vaporeon_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Vaporeon berserker chief -->  <Vaporeon_Tribal_ChiefMelee.labelFemale>女性水伊布狂戰士隊長</Vaporeon_Tribal_ChiefMelee.labelFemale>
+  <!-- female Vaporeon berserker chiefs -->  <Vaporeon_Tribal_ChiefMelee.labelFemalePlural>女性水伊布狂戰士隊長</Vaporeon_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Vaporeon archer chief -->  <Vaporeon_Tribal_ChiefRanged.label>水伊布弓箭手隊長</Vaporeon_Tribal_ChiefRanged.label>
+  <!-- Vaporeon archer chiefs -->  <Vaporeon_Tribal_ChiefRanged.labelPlural>水伊布弓箭手隊長</Vaporeon_Tribal_ChiefRanged.labelPlural>
+  <!-- male Vaporeon archer chief -->  <Vaporeon_Tribal_ChiefRanged.labelMale>男性水伊布弓箭手隊長</Vaporeon_Tribal_ChiefRanged.labelMale>
+  <!-- male Vaporeon archer chiefs -->  <Vaporeon_Tribal_ChiefRanged.labelMalePlural>男性水伊布弓箭手隊長</Vaporeon_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Vaporeon archer chief -->  <Vaporeon_Tribal_ChiefRanged.labelFemale>女性水伊布弓箭手隊長</Vaporeon_Tribal_ChiefRanged.labelFemale>
+  <!-- female Vaporeon archer chiefs -->  <Vaporeon_Tribal_ChiefRanged.labelFemalePlural>女性水伊布弓箭手隊長</Vaporeon_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

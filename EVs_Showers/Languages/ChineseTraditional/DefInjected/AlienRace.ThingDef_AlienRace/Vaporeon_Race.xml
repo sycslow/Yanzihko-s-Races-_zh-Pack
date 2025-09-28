@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vaporeon -->  <Yanz_Vaporeon.label>水伊布</Yanz_Vaporeon.label>
+  <!-- Genetically modified species, closely related to Sylveons. Their origin is barely known, but there's rumors that they come from a group of Sylveons that managed to escape from slavery at colony ship a few hundred years ago. Said ship crashed at aquatic world and survivors had to gene-engineer themselves with barely functioning genepods to survive. Despite its appearence, this species has strong physical strength and are easily able to win a brawl fight against average human. Vaporeons is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Vaporeon.description>與仙子伊布有著密切相關的一種基因改造物種。它們的起源幾乎無法考證了，但有傳言稱它們來自數百年前一艘殖民船上，所逃離奴役的一群仙子伊布。據說該船墜毀於一個水世界中，且當時的倖存者不得不利用那幾乎已經無法運作的基因模組艙，對自己進行基因改造以求在水世界裡生存。儘管它們的外表看似柔弱，但該物種擁有著強大的身體力量，能輕鬆擊敗普通人類的近戰能力。水伊布是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Yanz_Vaporeon.description>
+  <!-- teeth -->  <Yanz_Vaporeon.tools.0.label>牙齒</Yanz_Vaporeon.tools.0.label>
+  <!-- left claws -->  <Yanz_Vaporeon.tools.1.label>左爪</Yanz_Vaporeon.tools.1.label>
+  <!-- right claws -->  <Yanz_Vaporeon.tools.2.label>右爪</Yanz_Vaporeon.tools.2.label>
+  <!-- vaporeon tail -->  <Yanz_Vaporeon.tools.3.label>水伊布尾巴</Yanz_Vaporeon.tools.3.label>
+  <!-- hair --><!--   <Yanz_Vaporeon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Vaporeon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name> -->
+  <!-- skin --><!--   <Yanz_Vaporeon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Vaporeon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
+
+
+</LanguageData>

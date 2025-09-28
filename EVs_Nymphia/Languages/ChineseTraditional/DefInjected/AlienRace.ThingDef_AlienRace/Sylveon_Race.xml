@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sylveon -->  <Yanz_Sylveon.label>仙子伊布</Yanz_Sylveon.label>
+  <!-- Sylveon is a vulpine and lupine hybrid species engineered by maniacal owner of an industrial company in a now ravaged glitterworld to be a cheap working force at all kinds of company's facilities. Sylveon's adorable appearence has no practical purpose and was a purely aesthetic choice. All sylveons sport a telltale ribbonlike appendage set connected to their heads near a bowlike organ allowing them to move their ribbons with extreme precision and preform menial tasks easily while using their hands for specific and higher skill actions. Sylveons also boast a high intellectual ability yet have much weaker physical strength due to it being useless in high tech facilities and conditions of glitterworld. Sylveons are incredible crafters and even good researchers. But their bodies are incredibly weak and any injury of the bows dramatically reduces their productivity. Sylveon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Sylveon.description>仙子伊布是一種由某個現在已經被毀滅的閃耀世界工業公司的瘋狂擁有者，以狐狸種(vulpine)和狼種(lupine)所混合並設計出來的物種，目的是為公司的各種設施提供廉價勞動力。仙子伊布那可愛的外表並沒有任何實際用途，純粹只是出於對美學的選擇。所有的仙子伊布都有一套獨特的絲帶狀附肢，連接於頭部附近的一個蝴蝶結狀器官，這使它們能以極高的精度移動這些絲帶，輕鬆完成瑣碎的工作，同時使用雙手完成更高技能的操作。仙子伊布擁有很高的智力，但身體力量較弱，因為這在高科技設施和閃耀世界的所在條件下並不需要。仙子伊布是極佳的工匠，甚至是優秀的研究者。但它們的身體極為脆弱，任何對蝴蝶結的損傷都會嚴重削弱它們的生產力。仙子伊布是一種先進版本的異種人變體，其基因組經過精密調整，但在非常有限的參數範圍外會變得極不穩定。從技術上來講，它們甚至可以被視為外星物種了。而它們的改造在沒有位於先進的閃耀世界設施，和也沒擁有來源基因組範本的狀態條件之下，是不可能完成的。</Yanz_Sylveon.description>
+  <!-- teeth -->  <Yanz_Sylveon.tools.0.label>牙齒</Yanz_Sylveon.tools.0.label>
+  <!-- left claws -->  <Yanz_Sylveon.tools.1.label>左爪</Yanz_Sylveon.tools.1.label>
+  <!-- right claws -->  <Yanz_Sylveon.tools.2.label>右爪</Yanz_Sylveon.tools.2.label>
+  <!-- hair --><!--   <Yanz_Sylveon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Sylveon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name> -->
+  <!-- skin --><!--   <Yanz_Sylveon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Sylveon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
+
+
+</LanguageData>

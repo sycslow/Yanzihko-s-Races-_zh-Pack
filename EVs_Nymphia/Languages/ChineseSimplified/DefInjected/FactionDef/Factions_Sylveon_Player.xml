@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Sylveon Tribe -->  <PlayerSylveonTribal.label>仙子伊布部落</PlayerSylveonTribal.label>
+  <!-- Sylveon tribe -->  <PlayerSylveonTribal.description>仙子伊布部落</PlayerSylveonTribal.description>
+  <!-- Sylveon -->  <PlayerSylveonTribal.pawnsPlural>仙子伊布部落民</PlayerSylveonTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Sylveon Tribe (No tech) -->  <PlayerSylveonTribalNoTech.label>仙子伊布部落 (无科技)</PlayerSylveonTribalNoTech.label>
+  <!-- Sylveon tribe -->  <PlayerSylveonTribalNoTech.description>仙子伊布部落</PlayerSylveonTribalNoTech.description>
+  <!-- Sylveon -->  <PlayerSylveonTribalNoTech.pawnsPlural>仙子伊布部落民</PlayerSylveonTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Sylveon Colony -->  <PlayerSylveonIndustrial.label>仙子伊布殖民地</PlayerSylveonIndustrial.label>
+  <!-- Sylveon Colony -->  <PlayerSylveonIndustrial.description>仙子伊布殖民地</PlayerSylveonIndustrial.description>
+  <!-- Sylveon -->  <PlayerSylveonIndustrial.pawnsPlural>仙子伊布殖民者</PlayerSylveonIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Sylveon Colony (No tech) -->  <PlayerSylveonIndustrialNoTech.label>仙子伊布殖民地 (无科技)</PlayerSylveonIndustrialNoTech.label>
+  <!-- Sylveon colony -->  <PlayerSylveonIndustrialNoTech.description>仙子伊布殖民地</PlayerSylveonIndustrialNoTech.description>
+  <!-- Sylveon -->  <PlayerSylveonIndustrialNoTech.pawnsPlural>仙子伊布殖民者</PlayerSylveonIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

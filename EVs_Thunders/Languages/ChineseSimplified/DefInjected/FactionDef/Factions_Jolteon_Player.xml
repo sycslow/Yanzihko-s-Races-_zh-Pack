@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Jolteon Tribe -->  <PlayerJolteonTribal.label>雷伊布部落</PlayerJolteonTribal.label>
+  <!-- Jolteon tribe -->  <PlayerJolteonTribal.description>雷伊布部落</PlayerJolteonTribal.description>
+  <!-- Jolteon -->  <PlayerJolteonTribal.pawnsPlural>雷伊布部落民</PlayerJolteonTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Jolteon Tribe (No tech) -->  <PlayerJolteonTribalNoTech.label>雷伊布部落 (无科技)</PlayerJolteonTribalNoTech.label>
+  <!-- Jolteon tribe -->  <PlayerJolteonTribalNoTech.description>雷伊布部落</PlayerJolteonTribalNoTech.description>
+  <!-- Jolteon -->  <PlayerJolteonTribalNoTech.pawnsPlural>雷伊布部落民</PlayerJolteonTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Jolteon Colony -->  <PlayerJolteonIndustrial.label>雷伊布殖民地</PlayerJolteonIndustrial.label>
+  <!-- Jolteon Colony -->  <PlayerJolteonIndustrial.description>雷伊布殖民地</PlayerJolteonIndustrial.description>
+  <!-- Jolteon -->  <PlayerJolteonIndustrial.pawnsPlural>雷伊布</PlayerJolteonIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Jolteon Colony (No tech) -->  <PlayerJolteonIndustrialNoTech.label>雷伊布殖民地 (无科技)</PlayerJolteonIndustrialNoTech.label>
+  <!-- Jolteon colony -->  <PlayerJolteonIndustrialNoTech.description>雷伊布殖民地</PlayerJolteonIndustrialNoTech.description>
+  <!-- Jolteon -->  <PlayerJolteonIndustrialNoTech.pawnsPlural>雷伊布</PlayerJolteonIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

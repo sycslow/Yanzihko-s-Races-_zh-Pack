@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <JolteonTribalPawn.label>部落民</JolteonTribalPawn.label>
+  <!-- members -->  <JolteonTribalPawn.labelPlural>部落民</JolteonTribalPawn.labelPlural>
+  <!-- male member -->  <JolteonTribalPawn.labelMale>男性部落民</JolteonTribalPawn.labelMale>
+  <!-- male members -->  <JolteonTribalPawn.labelMalePlural>男性部落民</JolteonTribalPawn.labelMalePlural>
+  <!-- female member -->  <JolteonTribalPawn.labelFemale>女性部落民</JolteonTribalPawn.labelFemale>
+  <!-- female members -->  <JolteonTribalPawn.labelFemalePlural>女性部落民</JolteonTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <JolteonIndustrialPawn.label>殖民者</JolteonIndustrialPawn.label>
+  <!-- members -->  <JolteonIndustrialPawn.labelPlural>殖民者</JolteonIndustrialPawn.labelPlural>
+  <!-- male member -->  <JolteonIndustrialPawn.labelMale>男性殖民者</JolteonIndustrialPawn.labelMale>
+  <!-- male members -->  <JolteonIndustrialPawn.labelMalePlural>男性殖民者</JolteonIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <JolteonIndustrialPawn.labelFemale>女性殖民者</JolteonIndustrialPawn.labelFemale>
+  <!-- female members -->  <JolteonIndustrialPawn.labelFemalePlural>女性殖民者</JolteonIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>

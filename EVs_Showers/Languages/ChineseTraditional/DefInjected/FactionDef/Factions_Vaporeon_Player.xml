@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Vaporeon Tribe -->  <PlayerVaporeonTribal.label>水伊布部落</PlayerVaporeonTribal.label>
+  <!-- Vaporeon tribe -->  <PlayerVaporeonTribal.description>水伊布部落</PlayerVaporeonTribal.description>
+  <!-- Vaporeon -->  <PlayerVaporeonTribal.pawnsPlural>水伊布部落民</PlayerVaporeonTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Vaporeon Tribe (No tech) -->  <PlayerVaporeonTribalNoTech.label>水伊布部落 (無科技)</PlayerVaporeonTribalNoTech.label>
+  <!-- Vaporeon tribe -->  <PlayerVaporeonTribalNoTech.description>水伊布部落</PlayerVaporeonTribalNoTech.description>
+  <!-- Vaporeon -->  <PlayerVaporeonTribalNoTech.pawnsPlural>水伊布部落民</PlayerVaporeonTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Vaporeon Colony -->  <PlayerVaporeonIndustrial.label>水伊布殖民地</PlayerVaporeonIndustrial.label>
+  <!-- Vaporeon Colony -->  <PlayerVaporeonIndustrial.description>水伊布殖民地</PlayerVaporeonIndustrial.description>
+  <!-- Vaporeon -->  <PlayerVaporeonIndustrial.pawnsPlural>水伊布殖民者</PlayerVaporeonIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Vaporeon Colony (No tech) -->  <PlayerVaporeonIndustrialNoTech.label>水伊布殖民地 (無科技)</PlayerVaporeonIndustrialNoTech.label>
+  <!-- Vaporeon colony -->  <PlayerVaporeonIndustrialNoTech.description>水伊布殖民地</PlayerVaporeonIndustrialNoTech.description>
+  <!-- Vaporeon -->  <PlayerVaporeonIndustrialNoTech.pawnsPlural>水伊布殖民者</PlayerVaporeonIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

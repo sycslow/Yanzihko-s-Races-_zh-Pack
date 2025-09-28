@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- Jolteon space refugee -->  <JolteonSpaceRefugee.label>雷伊布星际难民</JolteonSpaceRefugee.label>
+  <!-- Jolteon space refugees -->  <JolteonSpaceRefugee.labelPlural>雷伊布星际难民</JolteonSpaceRefugee.labelPlural>
+  <!-- male Jolteon space refugee -->  <JolteonSpaceRefugee.labelMale>男性雷伊布星际难民</JolteonSpaceRefugee.labelMale>
+  <!-- male Jolteon space refugees -->  <JolteonSpaceRefugee.labelMalePlural>男性雷伊布星际难民</JolteonSpaceRefugee.labelMalePlural>
+  <!-- female Jolteon space refugee -->  <JolteonSpaceRefugee.labelFemale>女性雷伊布星际难民</JolteonSpaceRefugee.labelFemale>
+  <!-- female Jolteon space refugees -->  <JolteonSpaceRefugee.labelFemalePlural>女性雷伊布星际难民</JolteonSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- Jolteon slave -->  <JolteonSlave.label>雷伊布奴隶</JolteonSlave.label>
+  <!-- Jolteon slaves -->  <JolteonSlave.labelPlural>雷伊布奴隶</JolteonSlave.labelPlural>
+  <!-- male Jolteon slave -->  <JolteonSlave.labelMale>男性雷伊布奴隶</JolteonSlave.labelMale>
+  <!-- male Jolteon slaves -->  <JolteonSlave.labelMalePlural>男性雷伊布奴隶</JolteonSlave.labelMalePlural>
+  <!-- female Jolteon slave -->  <JolteonSlave.labelFemale>女性雷伊布奴隶</JolteonSlave.labelFemale>
+  <!-- female Jolteon slaves -->  <JolteonSlave.labelFemalePlural>女性雷伊布奴隶</JolteonSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- Jolteon -->  <JolteonColonist.label>雷伊布</JolteonColonist.label>
+  <!-- Jolteons -->  <JolteonColonist.labelPlural>雷伊布</JolteonColonist.labelPlural>
+  <!-- male Jolteon -->  <JolteonColonist.labelMale>男性雷伊布</JolteonColonist.labelMale>
+  <!-- male Jolteons -->  <JolteonColonist.labelMalePlural>男性雷伊布</JolteonColonist.labelMalePlural>
+  <!-- female Jolteon -->  <JolteonColonist.labelFemale>女性雷伊布</JolteonColonist.labelFemale>
+  <!-- female Jolteons -->  <JolteonColonist.labelFemalePlural>女性雷伊布</JolteonColonist.labelFemalePlural>
+
+  <!-- Jolteon -->  <JolteonTribesperson.label>雷伊布</JolteonTribesperson.label>
+  <!-- Jolteons -->  <JolteonTribesperson.labelPlural>雷伊布</JolteonTribesperson.labelPlural>
+  <!-- male Jolteon -->  <JolteonTribesperson.labelMale>男性雷伊布</JolteonTribesperson.labelMale>
+  <!-- male Jolteons -->  <JolteonTribesperson.labelMalePlural>男性雷伊布</JolteonTribesperson.labelMalePlural>
+  <!-- female Jolteon -->  <JolteonTribesperson.labelFemale>女性雷伊布</JolteonTribesperson.labelFemale>
+  <!-- female Jolteons -->  <JolteonTribesperson.labelFemalePlural>女性雷伊布</JolteonTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Jolteon grenadier -->  <Jolteon_Grenadier_Destructive.label>雷伊布掷弹兵</Jolteon_Grenadier_Destructive.label>
+  <!-- Jolteon grenadiers -->  <Jolteon_Grenadier_Destructive.labelPlural>雷伊布掷弹兵</Jolteon_Grenadier_Destructive.labelPlural>
+  <!-- male Jolteon grenadier -->  <Jolteon_Grenadier_Destructive.labelMale>男性雷伊布掷弹兵</Jolteon_Grenadier_Destructive.labelMale>
+  <!-- male Jolteon grenadiers -->  <Jolteon_Grenadier_Destructive.labelMalePlural>男性雷伊布掷弹兵</Jolteon_Grenadier_Destructive.labelMalePlural>
+  <!-- female Jolteon grenadier -->  <Jolteon_Grenadier_Destructive.labelFemale>女性雷伊布掷弹兵</Jolteon_Grenadier_Destructive.labelFemale>
+  <!-- female Jolteon grenadiers -->  <Jolteon_Grenadier_Destructive.labelFemalePlural>女性雷伊布掷弹兵</Jolteon_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- Jolteon EMP grenadier -->  <Jolteon_Grenadier_EMP.label>雷伊布 EMP掷弹兵</Jolteon_Grenadier_EMP.label>
+  <!-- Jolteon EMP grenadiers -->  <Jolteon_Grenadier_EMP.labelPlural>雷伊布 EMP掷弹兵</Jolteon_Grenadier_EMP.labelPlural>
+  <!-- male Jolteon EMP grenadier -->  <Jolteon_Grenadier_EMP.labelMale>男性雷伊布 EMP掷弹兵</Jolteon_Grenadier_EMP.labelMale>
+  <!-- male Jolteon EMP grenadiers -->  <Jolteon_Grenadier_EMP.labelMalePlural>男性雷伊布 EMP掷弹兵</Jolteon_Grenadier_EMP.labelMalePlural>
+  <!-- female Jolteon EMP grenadier -->  <Jolteon_Grenadier_EMP.labelFemale>女性雷伊布 EMP掷弹兵</Jolteon_Grenadier_EMP.labelFemale>
+  <!-- female Jolteon EMP grenadiers -->  <Jolteon_Grenadier_EMP.labelFemalePlural>女性雷伊布 EMP掷弹兵</Jolteon_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- Jolteon smoke grenadier -->  <Jolteon_Grenadier_Smoke.label>雷伊布烟雾弹掷弹兵</Jolteon_Grenadier_Smoke.label>
+  <!-- Jolteon smoke grenadiers -->  <Jolteon_Grenadier_Smoke.labelPlural>雷伊布烟雾弹掷弹兵</Jolteon_Grenadier_Smoke.labelPlural>
+  <!-- male Jolteon smoke grenadier -->  <Jolteon_Grenadier_Smoke.labelMale>男性雷伊布烟雾弹掷弹兵</Jolteon_Grenadier_Smoke.labelMale>
+  <!-- male Jolteon smoke grenadiers -->  <Jolteon_Grenadier_Smoke.labelMalePlural>男性雷伊布烟雾弹掷弹兵</Jolteon_Grenadier_Smoke.labelMalePlural>
+  <!-- female Jolteon smoke grenadier -->  <Jolteon_Grenadier_Smoke.labelFemale>女性雷伊布烟雾弹掷弹兵</Jolteon_Grenadier_Smoke.labelFemale>
+  <!-- female Jolteon smoke grenadiers -->  <Jolteon_Grenadier_Smoke.labelFemalePlural>女性雷伊布烟雾弹掷弹兵</Jolteon_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- Jolteon mercenary gunner -->  <Jolteon_Mercenary_Gunner.label>雷伊布枪手佣兵</Jolteon_Mercenary_Gunner.label>
+  <!-- Jolteon mercenary gunners -->  <Jolteon_Mercenary_Gunner.labelPlural>雷伊布枪手佣兵</Jolteon_Mercenary_Gunner.labelPlural>
+  <!-- male Jolteon mercenary gunner -->  <Jolteon_Mercenary_Gunner.labelMale>男性雷伊布枪手佣兵</Jolteon_Mercenary_Gunner.labelMale>
+  <!-- male Jolteon mercenary gunners -->  <Jolteon_Mercenary_Gunner.labelMalePlural>男性雷伊布枪手佣兵</Jolteon_Mercenary_Gunner.labelMalePlural>
+  <!-- female Jolteon mercenary gunner -->  <Jolteon_Mercenary_Gunner.labelFemale>女性雷伊布枪手佣兵</Jolteon_Mercenary_Gunner.labelFemale>
+  <!-- female Jolteon mercenary gunners -->  <Jolteon_Mercenary_Gunner.labelFemalePlural>女性雷伊布枪手佣兵</Jolteon_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- Jolteon mercenary sniper -->  <Jolteon_Mercenary_Sniper.label>雷伊布狙击手佣兵</Jolteon_Mercenary_Sniper.label>
+  <!-- Jolteon mercenary snipers -->  <Jolteon_Mercenary_Sniper.labelPlural>雷伊布狙击手佣兵</Jolteon_Mercenary_Sniper.labelPlural>
+  <!-- male Jolteon mercenary sniper -->  <Jolteon_Mercenary_Sniper.labelMale>男性雷伊布狙击手佣兵</Jolteon_Mercenary_Sniper.labelMale>
+  <!-- male Jolteon mercenary snipers -->  <Jolteon_Mercenary_Sniper.labelMalePlural>男性雷伊布狙击手佣兵</Jolteon_Mercenary_Sniper.labelMalePlural>
+  <!-- female Jolteon mercenary sniper -->  <Jolteon_Mercenary_Sniper.labelFemale>女性雷伊布狙击手佣兵</Jolteon_Mercenary_Sniper.labelFemale>
+  <!-- female Jolteon mercenary snipers -->  <Jolteon_Mercenary_Sniper.labelFemalePlural>女性雷伊布狙击手佣兵</Jolteon_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- Jolteon mercenary slasher -->  <Jolteon_Mercenary_Slasher.label>雷伊布杀手佣兵</Jolteon_Mercenary_Slasher.label>
+  <!-- Jolteon mercenary slashers -->  <Jolteon_Mercenary_Slasher.labelPlural>雷伊布杀手佣兵</Jolteon_Mercenary_Slasher.labelPlural>
+  <!-- male Jolteon mercenary slasher -->  <Jolteon_Mercenary_Slasher.labelMale>男性雷伊布杀手佣兵</Jolteon_Mercenary_Slasher.labelMale>
+  <!-- male Jolteon mercenary slashers -->  <Jolteon_Mercenary_Slasher.labelMalePlural>男性雷伊布杀手佣兵</Jolteon_Mercenary_Slasher.labelMalePlural>
+  <!-- female Jolteon mercenary slasher -->  <Jolteon_Mercenary_Slasher.labelFemale>女性雷伊布杀手佣兵</Jolteon_Mercenary_Slasher.labelFemale>
+  <!-- female Jolteon mercenary slashers -->  <Jolteon_Mercenary_Slasher.labelFemalePlural>女性雷伊布杀手佣兵</Jolteon_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- Jolteon heavy mercenary -->  <Jolteon_Mercenary_Heavy.label>雷伊布重装佣兵</Jolteon_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <Jolteon_Mercenary_Heavy.labelPlural>重装佣兵</Jolteon_Mercenary_Heavy.labelPlural>
+  <!-- male Jolteon heavy mercenary -->  <Jolteon_Mercenary_Heavy.labelMale>男性雷伊布重装佣兵</Jolteon_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <Jolteon_Mercenary_Heavy.labelMalePlural>男性重装佣兵</Jolteon_Mercenary_Heavy.labelMalePlural>
+  <!-- female Jolteon heavy mercenary -->  <Jolteon_Mercenary_Heavy.labelFemale>女性雷伊布重装佣兵</Jolteon_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <Jolteon_Mercenary_Heavy.labelFemalePlural>女性重装佣兵</Jolteon_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- Jolteon boss -->  <Jolteon_PirateBoss.label>雷伊布海贼团长</Jolteon_PirateBoss.label>
+  <!-- bosses -->  <Jolteon_PirateBoss.labelPlural>海贼团长</Jolteon_PirateBoss.labelPlural>
+  <!-- male Jolteon boss -->  <Jolteon_PirateBoss.labelMale>男性雷伊布海贼团长</Jolteon_PirateBoss.labelMale>
+  <!-- male bosses -->  <Jolteon_PirateBoss.labelMalePlural>男性海贼团长</Jolteon_PirateBoss.labelMalePlural>
+  <!-- female Jolteon boss -->  <Jolteon_PirateBoss.labelFemale>女性雷伊布海贼团长</Jolteon_PirateBoss.labelFemale>
+  <!-- female bosses -->  <Jolteon_PirateBoss.labelFemalePlural>女性海贼团长</Jolteon_PirateBoss.labelFemalePlural>
+
+  <!-- Jolteon elite mercenary -->  <Jolteon_Mercenary_Elite.label>雷伊布精锐佣兵</Jolteon_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <Jolteon_Mercenary_Elite.labelPlural>精锐佣兵</Jolteon_Mercenary_Elite.labelPlural>
+  <!-- male Jolteon elite mercenary -->  <Jolteon_Mercenary_Elite.labelMale>男性雷伊布精锐佣兵</Jolteon_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <Jolteon_Mercenary_Elite.labelMalePlural>男性精锐佣兵</Jolteon_Mercenary_Elite.labelMalePlural>
+  <!-- female Jolteon elite mercenary -->  <Jolteon_Mercenary_Elite.labelFemale>女性雷伊布精锐佣兵</Jolteon_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <Jolteon_Mercenary_Elite.labelFemalePlural>女性精锐佣兵</Jolteon_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Jolteon drifter -->  <Jolteon_Drifter.label>雷伊布漂泊者</Jolteon_Drifter.label>
+  <!-- Jolteon drifters -->  <Jolteon_Drifter.labelPlural>雷伊布漂泊者</Jolteon_Drifter.labelPlural>
+  <!-- male Jolteon drifter -->  <Jolteon_Drifter.labelMale>男性雷伊布漂泊者</Jolteon_Drifter.labelMale>
+  <!-- male Jolteon drifters -->  <Jolteon_Drifter.labelMalePlural>男性雷伊布漂泊者</Jolteon_Drifter.labelMalePlural>
+  <!-- female Jolteon drifter -->  <Jolteon_Drifter.labelFemale>女性雷伊布漂泊者</Jolteon_Drifter.labelFemale>
+  <!-- female Jolteon drifters -->  <Jolteon_Drifter.labelFemalePlural>女性雷伊布漂泊者</Jolteon_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- Jolteon scavenger gunner -->  <Jolteon_Scavenger.label>雷伊布掠夺者枪手</Jolteon_Scavenger.label>
+  <!-- Jolteon scavenger gunners -->  <Jolteon_Scavenger.labelPlural>雷伊布掠夺者枪手</Jolteon_Scavenger.labelPlural>
+  <!-- male Jolteon scavenger gunner -->  <Jolteon_Scavenger.labelMale>男性雷伊布掠夺者枪手</Jolteon_Scavenger.labelMale>
+  <!-- male Jolteon scavenger gunners -->  <Jolteon_Scavenger.labelMalePlural>男性雷伊布掠夺者枪手</Jolteon_Scavenger.labelMalePlural>
+  <!-- female Jolteon scavenger gunner -->  <Jolteon_Scavenger.labelFemale>女性雷伊布掠夺者枪手</Jolteon_Scavenger.labelFemale>
+  <!-- female Jolteon scavenger gunners -->  <Jolteon_Scavenger.labelFemalePlural>女性雷伊布掠夺者枪手</Jolteon_Scavenger.labelFemalePlural>
+
+  <!-- Jolteon scavenger thrasher -->  <Jolteon_Thrasher.label>雷伊布掠夺者暴民</Jolteon_Thrasher.label>
+  <!-- Jolteon scavenger thrashers -->  <Jolteon_Thrasher.labelPlural>雷伊布掠夺者暴民</Jolteon_Thrasher.labelPlural>
+  <!-- male Jolteon scavenger thrasher -->  <Jolteon_Thrasher.labelMale>男性雷伊布掠夺者暴民</Jolteon_Thrasher.labelMale>
+  <!-- male Jolteon scavenger thrashers -->  <Jolteon_Thrasher.labelMalePlural>男性雷伊布掠夺者暴民</Jolteon_Thrasher.labelMalePlural>
+  <!-- female Jolteon scavenger thrasher -->  <Jolteon_Thrasher.labelFemale>女性雷伊布掠夺者暴民</Jolteon_Thrasher.labelFemale>
+  <!-- female Jolteon scavenger thrashers -->  <Jolteon_Thrasher.labelFemalePlural>女性雷伊布掠夺者暴民</Jolteon_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Jolteon pirate gunner -->  <Jolteon_Pirate.label>雷伊布海贼枪手</Jolteon_Pirate.label>
+  <!-- Jolteon pirate gunners -->  <Jolteon_Pirate.labelPlural>雷伊布海贼枪手</Jolteon_Pirate.labelPlural>
+  <!-- male Jolteon pirate gunner -->  <Jolteon_Pirate.labelMale>男性雷伊布海贼枪手</Jolteon_Pirate.labelMale>
+  <!-- male Jolteon pirate gunners -->  <Jolteon_Pirate.labelMalePlural>男性雷伊布海贼枪手</Jolteon_Pirate.labelMalePlural>
+  <!-- female Jolteon pirate gunner -->  <Jolteon_Pirate.labelFemale>女性雷伊布海贼枪手</Jolteon_Pirate.labelFemale>
+  <!-- female Jolteon pirate gunners -->  <Jolteon_Pirate.labelFemalePlural>女性雷伊布海贼枪手</Jolteon_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- Jolteon villager -->  <Jolteon_Villager.label>雷伊布村民</Jolteon_Villager.label>
+  <!-- Jolteon villagers -->  <Jolteon_Villager.labelPlural>雷伊布村民</Jolteon_Villager.labelPlural>
+  <!-- male Jolteon villager -->  <Jolteon_Villager.labelMale>男性雷伊布村民</Jolteon_Villager.labelMale>
+  <!-- male Jolteon villagers -->  <Jolteon_Villager.labelMalePlural>男性雷伊布村民</Jolteon_Villager.labelMalePlural>
+  <!-- female Jolteon villager -->  <Jolteon_Villager.labelFemale>女性雷伊布村民</Jolteon_Villager.labelFemale>
+  <!-- female Jolteon villagers -->  <Jolteon_Villager.labelFemalePlural>女性雷伊布村民</Jolteon_Villager.labelFemalePlural>
+
+  <!-- Jolteon town guard -->  <Jolteon_Town_Guard.label>雷伊布城镇卫兵</Jolteon_Town_Guard.label>
+  <!-- Jolteon town guards -->  <Jolteon_Town_Guard.labelPlural>雷伊布城镇卫兵</Jolteon_Town_Guard.labelPlural>
+  <!-- male Jolteon town guard -->  <Jolteon_Town_Guard.labelMale>男性雷伊布城镇卫兵</Jolteon_Town_Guard.labelMale>
+  <!-- male Jolteon town guards -->  <Jolteon_Town_Guard.labelMalePlural>男性雷伊布城镇卫兵</Jolteon_Town_Guard.labelMalePlural>
+  <!-- female Jolteon town guard -->  <Jolteon_Town_Guard.labelFemale>女性雷伊布城镇卫兵</Jolteon_Town_Guard.labelFemale>
+  <!-- female Jolteon town guards -->  <Jolteon_Town_Guard.labelFemalePlural>女性雷伊布城镇卫兵</Jolteon_Town_Guard.labelFemalePlural>
+
+  <!-- Jolteon town trader -->  <Jolteon_Town_Trader.label>雷伊布城镇商人</Jolteon_Town_Trader.label>
+  <!-- Jolteon town traders -->  <Jolteon_Town_Trader.labelPlural>雷伊布城镇商人</Jolteon_Town_Trader.labelPlural>
+  <!-- male Jolteon town trader -->  <Jolteon_Town_Trader.labelMale>男性雷伊布城镇商人</Jolteon_Town_Trader.labelMale>
+  <!-- male Jolteon town traders -->  <Jolteon_Town_Trader.labelMalePlural>男性雷伊布城镇商人</Jolteon_Town_Trader.labelMalePlural>
+  <!-- female Jolteon town trader -->  <Jolteon_Town_Trader.labelFemale>女性雷伊布城镇商人</Jolteon_Town_Trader.labelFemale>
+  <!-- female Jolteon town traders -->  <Jolteon_Town_Trader.labelFemalePlural>女性雷伊布城镇商人</Jolteon_Town_Trader.labelFemalePlural>
+
+  <!-- Jolteon town councilman -->  <Jolteon_Town_Councilman.label>雷伊布城镇议员</Jolteon_Town_Councilman.label>
+  <!-- town councilmen -->  <Jolteon_Town_Councilman.labelPlural>城镇议员</Jolteon_Town_Councilman.labelPlural>
+  <!-- male Jolteon town councilman -->  <Jolteon_Town_Councilman.labelMale>男性雷伊布城镇议员</Jolteon_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <Jolteon_Town_Councilman.labelMalePlural>男性城镇议员</Jolteon_Town_Councilman.labelMalePlural>
+  <!-- female Jolteon town councilman -->  <Jolteon_Town_Councilman.labelFemale>女性雷伊布城镇议员</Jolteon_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <Jolteon_Town_Councilman.labelFemalePlural>女性城镇议员</Jolteon_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- Jolteon penitent -->  <Jolteon_Tribal_Penitent.label>雷伊布海贼</Jolteon_Tribal_Penitent.label>
+  <!-- Jolteon penitents -->  <Jolteon_Tribal_Penitent.labelPlural>雷伊布海贼</Jolteon_Tribal_Penitent.labelPlural>
+  <!-- male Jolteon penitent -->  <Jolteon_Tribal_Penitent.labelMale>男性雷伊布海贼</Jolteon_Tribal_Penitent.labelMale>
+  <!-- male Jolteon penitents -->  <Jolteon_Tribal_Penitent.labelMalePlural>男性雷伊布海贼</Jolteon_Tribal_Penitent.labelMalePlural>
+  <!-- female Jolteon penitent -->  <Jolteon_Tribal_Penitent.labelFemale>女性雷伊布海贼</Jolteon_Tribal_Penitent.labelFemale>
+  <!-- female Jolteon penitents -->  <Jolteon_Tribal_Penitent.labelFemalePlural>女性雷伊布海贼</Jolteon_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- Jolteon archer -->  <Jolteon_Tribal_Archer.label>雷伊布弓箭手</Jolteon_Tribal_Archer.label>
+  <!-- Jolteon archers -->  <Jolteon_Tribal_Archer.labelPlural>雷伊布弓箭手</Jolteon_Tribal_Archer.labelPlural>
+  <!-- male Jolteon archer -->  <Jolteon_Tribal_Archer.labelMale>男性雷伊布弓箭手</Jolteon_Tribal_Archer.labelMale>
+  <!-- male Jolteon archers -->  <Jolteon_Tribal_Archer.labelMalePlural>男性雷伊布弓箭手</Jolteon_Tribal_Archer.labelMalePlural>
+  <!-- female Jolteon archer -->  <Jolteon_Tribal_Archer.labelFemale>女性雷伊布弓箭手</Jolteon_Tribal_Archer.labelFemale>
+  <!-- female Jolteon archers -->  <Jolteon_Tribal_Archer.labelFemalePlural>女性雷伊布弓箭手</Jolteon_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- Jolteon warrior -->  <Jolteon_Tribal_Warrior.label>雷伊布战士</Jolteon_Tribal_Warrior.label>
+  <!-- Jolteon warriors -->  <Jolteon_Tribal_Warrior.labelPlural>雷伊布战士</Jolteon_Tribal_Warrior.labelPlural>
+  <!-- male Jolteon warrior -->  <Jolteon_Tribal_Warrior.labelMale>男性雷伊布战士</Jolteon_Tribal_Warrior.labelMale>
+  <!-- male Jolteon warriors -->  <Jolteon_Tribal_Warrior.labelMalePlural>男性雷伊布战士</Jolteon_Tribal_Warrior.labelMalePlural>
+  <!-- female Jolteon warrior -->  <Jolteon_Tribal_Warrior.labelFemale>女性雷伊布战士</Jolteon_Tribal_Warrior.labelFemale>
+  <!-- female Jolteon warriors -->  <Jolteon_Tribal_Warrior.labelFemalePlural>女性雷伊布战士</Jolteon_Tribal_Warrior.labelFemalePlural>
+
+  <!-- Jolteon hunter -->  <Jolteon_Tribal_Hunter.label>雷伊布猎人</Jolteon_Tribal_Hunter.label>
+  <!-- Jolteon hunters -->  <Jolteon_Tribal_Hunter.labelPlural>雷伊布猎人</Jolteon_Tribal_Hunter.labelPlural>
+  <!-- male Jolteon hunter -->  <Jolteon_Tribal_Hunter.labelMale>男性雷伊布猎人</Jolteon_Tribal_Hunter.labelMale>
+  <!-- male Jolteon hunters -->  <Jolteon_Tribal_Hunter.labelMalePlural>男性雷伊布猎人</Jolteon_Tribal_Hunter.labelMalePlural>
+  <!-- female Jolteon hunter -->  <Jolteon_Tribal_Hunter.labelFemale>女性雷伊布猎人</Jolteon_Tribal_Hunter.labelFemale>
+  <!-- female Jolteon hunters -->  <Jolteon_Tribal_Hunter.labelFemalePlural>女性雷伊布猎人</Jolteon_Tribal_Hunter.labelFemalePlural>
+
+  <!-- Jolteon trader -->  <Jolteon_Tribal_Trader.label>雷伊布商人</Jolteon_Tribal_Trader.label>
+  <!-- Jolteon traders -->  <Jolteon_Tribal_Trader.labelPlural>雷伊布商人</Jolteon_Tribal_Trader.labelPlural>
+  <!-- male Jolteon trader -->  <Jolteon_Tribal_Trader.labelMale>男性雷伊布商人</Jolteon_Tribal_Trader.labelMale>
+  <!-- male Jolteon traders -->  <Jolteon_Tribal_Trader.labelMalePlural>男性雷伊布商人</Jolteon_Tribal_Trader.labelMalePlural>
+  <!-- female Jolteon trader -->  <Jolteon_Tribal_Trader.labelFemale>女性雷伊布商人</Jolteon_Tribal_Trader.labelFemale>
+  <!-- female Jolteon traders -->  <Jolteon_Tribal_Trader.labelFemalePlural>女性雷伊布商人</Jolteon_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- Jolteon berserker -->  <Jolteon_Tribal_Berserker.label>雷伊布狂战士</Jolteon_Tribal_Berserker.label>
+  <!-- Jolteon berserkers -->  <Jolteon_Tribal_Berserker.labelPlural>雷伊布狂战士</Jolteon_Tribal_Berserker.labelPlural>
+  <!-- male Jolteon berserker -->  <Jolteon_Tribal_Berserker.labelMale>男性雷伊布狂战士</Jolteon_Tribal_Berserker.labelMale>
+  <!-- male Jolteon berserkers -->  <Jolteon_Tribal_Berserker.labelMalePlural>男性雷伊布狂战士</Jolteon_Tribal_Berserker.labelMalePlural>
+  <!-- female Jolteon berserker -->  <Jolteon_Tribal_Berserker.labelFemale>女性雷伊布狂战士</Jolteon_Tribal_Berserker.labelFemale>
+  <!-- female Jolteon berserkers -->  <Jolteon_Tribal_Berserker.labelFemalePlural>女性雷伊布狂战士</Jolteon_Tribal_Berserker.labelFemalePlural>
+
+  <!-- Jolteon heavy archer -->  <Jolteon_Tribal_HeavyArcher.label>雷伊布重装弓箭手</Jolteon_Tribal_HeavyArcher.label>
+  <!-- Jolteon heavy archers -->  <Jolteon_Tribal_HeavyArcher.labelPlural>雷伊布重装弓箭手</Jolteon_Tribal_HeavyArcher.labelPlural>
+  <!-- male Jolteon heavy archer -->  <Jolteon_Tribal_HeavyArcher.labelMale>男性雷伊布重装弓箭手</Jolteon_Tribal_HeavyArcher.labelMale>
+  <!-- male Jolteon heavy archers -->  <Jolteon_Tribal_HeavyArcher.labelMalePlural>男性雷伊布重装弓箭手</Jolteon_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female Jolteon heavy archer -->  <Jolteon_Tribal_HeavyArcher.labelFemale>女性雷伊布重装弓箭手</Jolteon_Tribal_HeavyArcher.labelFemale>
+  <!-- female Jolteon heavy archers -->  <Jolteon_Tribal_HeavyArcher.labelFemalePlural>女性雷伊布重装弓箭手</Jolteon_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- Jolteon_Tribal_ChiefMelee -->  <!--[Duplicated] <Jolteon_Tribal_ChiefMelee.label>雷伊布_Tribal_ChiefMelee</Jolteon_Tribal_ChiefMelee.label>-->
+  <!-- Jolteon_Tribal_ChiefMelees -->  <!--[Duplicated] <Jolteon_Tribal_ChiefMelee.labelPlural>雷伊布_Tribal_ChiefMele</Jolteon_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male Jolteon_Tribal_ChiefMelee -->  <!--[Duplicated] <Jolteon_Tribal_ChiefMelee.labelMale>男性雷伊布_Tribal_ChiefMelee</Jolteon_Tribal_ChiefMelee.labelMale>-->
+  <!-- male Jolteon_Tribal_ChiefMelees -->  <!--[Duplicated] <Jolteon_Tribal_ChiefMelee.labelMalePlural>男性雷伊布_Tribal_ChiefMele</Jolteon_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female Jolteon_Tribal_ChiefMelee -->  <!--[Duplicated] <Jolteon_Tribal_ChiefMelee.labelFemale>女性雷伊布_Tribal_ChiefMelee</Jolteon_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female Jolteon_Tribal_ChiefMelees -->  <!--[Duplicated] <Jolteon_Tribal_ChiefMelee.labelFemalePlural>女性雷伊布_Tribal_ChiefMele</Jolteon_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- Jolteon berserker chief -->  <Jolteon_Tribal_ChiefMelee.label>雷伊布狂战士队长</Jolteon_Tribal_ChiefMelee.label>
+  <!-- Jolteon berserker chiefs -->  <Jolteon_Tribal_ChiefMelee.labelPlural>雷伊布狂战士队长</Jolteon_Tribal_ChiefMelee.labelPlural>
+  <!-- male Jolteon berserker chief -->  <Jolteon_Tribal_ChiefMelee.labelMale>男性雷伊布狂战士队长</Jolteon_Tribal_ChiefMelee.labelMale>
+  <!-- male Jolteon berserker chiefs -->  <Jolteon_Tribal_ChiefMelee.labelMalePlural>男性雷伊布狂战士队长</Jolteon_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female Jolteon berserker chief -->  <Jolteon_Tribal_ChiefMelee.labelFemale>女性雷伊布狂战士队长</Jolteon_Tribal_ChiefMelee.labelFemale>
+  <!-- female Jolteon berserker chiefs -->  <Jolteon_Tribal_ChiefMelee.labelFemalePlural>女性雷伊布狂战士队长</Jolteon_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- Jolteon archer chief -->  <Jolteon_Tribal_ChiefRanged.label>雷伊布弓箭手队长</Jolteon_Tribal_ChiefRanged.label>
+  <!-- Jolteon archer chiefs -->  <Jolteon_Tribal_ChiefRanged.labelPlural>雷伊布弓箭手队长</Jolteon_Tribal_ChiefRanged.labelPlural>
+  <!-- male Jolteon archer chief -->  <Jolteon_Tribal_ChiefRanged.labelMale>男性雷伊布弓箭手队长</Jolteon_Tribal_ChiefRanged.labelMale>
+  <!-- male Jolteon archer chiefs -->  <Jolteon_Tribal_ChiefRanged.labelMalePlural>男性雷伊布弓箭手队长</Jolteon_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female Jolteon archer chief -->  <Jolteon_Tribal_ChiefRanged.labelFemale>女性雷伊布弓箭手队长</Jolteon_Tribal_ChiefRanged.labelFemale>
+  <!-- female Jolteon archer chiefs -->  <Jolteon_Tribal_ChiefRanged.labelFemalePlural>女性雷伊布弓箭手队长</Jolteon_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

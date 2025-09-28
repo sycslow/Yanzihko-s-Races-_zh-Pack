@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jolteon -->  <Yanz_Jolteon.label>雷伊布</Yanz_Jolteon.label>
+  <!-- Jolteons were originally developed for military purposes with manipulation of electricity as their primarly focus. After project was scrapped, Jolteons were quickly modified into agile, dexterous servitors for one of the rural glitterworlds. While most of their abilities were disabled, they are still able to utilize electricity to some extent. Jolteon is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->  <Yanz_Jolteon.description>雷伊布最初是为军事用途的目的而开发的，主要是专注於电力操控。在项目计划被取消後，雷伊布就迅速被改造为一种敏捷灵活的仆从，被用于服务在某些偏远的闪耀世界乡村里。虽然它们的大部分能力被停用，但它们仍然能够在一定程度上利用电力。雷伊布是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</Yanz_Jolteon.description>
+  <!-- teeth -->  <Yanz_Jolteon.tools.0.label>牙齿</Yanz_Jolteon.tools.0.label>
+  <!-- left claws -->  <Yanz_Jolteon.tools.1.label>左爪</Yanz_Jolteon.tools.1.label>
+  <!-- right claws -->  <Yanz_Jolteon.tools.2.label>右爪</Yanz_Jolteon.tools.2.label>
+  <!-- hair --><!--   <Yanz_Jolteon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</Yanz_Jolteon.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name> -->
+  <!-- skin --><!--   <Yanz_Jolteon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</Yanz_Jolteon.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name> -->
+
+
+</LanguageData>
