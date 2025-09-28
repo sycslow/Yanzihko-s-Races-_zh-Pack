@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Refugee for refugee events -->
+
+  <!-- BZoroark space refugee -->  <BZoroarkSpaceRefugee.label>黑索罗亚克星际难民</BZoroarkSpaceRefugee.label>
+  <!-- BZoroark space refugees -->  <BZoroarkSpaceRefugee.labelPlural>黑索罗亚克星际难民</BZoroarkSpaceRefugee.labelPlural>
+  <!-- male BZoroark space refugee -->  <BZoroarkSpaceRefugee.labelMale>男性黑索罗亚克星际难民</BZoroarkSpaceRefugee.labelMale>
+  <!-- male BZoroark space refugees -->  <BZoroarkSpaceRefugee.labelMalePlural>男性黑索罗亚克星际难民</BZoroarkSpaceRefugee.labelMalePlural>
+  <!-- female BZoroark space refugee -->  <BZoroarkSpaceRefugee.labelFemale>女性黑索罗亚克星际难民</BZoroarkSpaceRefugee.labelFemale>
+  <!-- female BZoroark space refugees -->  <BZoroarkSpaceRefugee.labelFemalePlural>女性黑索罗亚克星际难民</BZoroarkSpaceRefugee.labelFemalePlural>
+
+
+  <!-- Slave -->
+
+  <!-- BZoroark slave -->  <BZoroarkSlave.label>黑索罗亚克奴隶</BZoroarkSlave.label>
+  <!-- BZoroark slaves -->  <BZoroarkSlave.labelPlural>黑索罗亚克奴隶</BZoroarkSlave.labelPlural>
+  <!-- male BZoroark slave -->  <BZoroarkSlave.labelMale>男性黑索罗亚克奴隶</BZoroarkSlave.labelMale>
+  <!-- male BZoroark slaves -->  <BZoroarkSlave.labelMalePlural>男性黑索罗亚克奴隶</BZoroarkSlave.labelMalePlural>
+  <!-- female BZoroark slave -->  <BZoroarkSlave.labelFemale>女性黑索罗亚克奴隶</BZoroarkSlave.labelFemale>
+  <!-- female BZoroark slaves -->  <BZoroarkSlave.labelFemalePlural>女性黑索罗亚克奴隶</BZoroarkSlave.labelFemalePlural>
+
+
+  <!-- Colonist -->
+
+  <!-- BZoroark -->  <BZoroarkColonist.label>黑索罗亚克</BZoroarkColonist.label>
+  <!-- BZoroarks -->  <BZoroarkColonist.labelPlural>黑索罗亚克</BZoroarkColonist.labelPlural>
+  <!-- male BZoroark -->  <BZoroarkColonist.labelMale>男性黑索罗亚克</BZoroarkColonist.labelMale>
+  <!-- male BZoroarks -->  <BZoroarkColonist.labelMalePlural>男性黑索罗亚克</BZoroarkColonist.labelMalePlural>
+  <!-- female BZoroark -->  <BZoroarkColonist.labelFemale>女性黑索罗亚克</BZoroarkColonist.labelFemale>
+  <!-- female BZoroarks -->  <BZoroarkColonist.labelFemalePlural>女性黑索罗亚克</BZoroarkColonist.labelFemalePlural>
+
+  <!-- BZoroark -->  <BZoroarkTribesperson.label>黑索罗亚克</BZoroarkTribesperson.label>
+  <!-- BZoroarks -->  <BZoroarkTribesperson.labelPlural>黑索罗亚克</BZoroarkTribesperson.labelPlural>
+  <!-- male BZoroark -->  <BZoroarkTribesperson.labelMale>男性黑索罗亚克</BZoroarkTribesperson.labelMale>
+  <!-- male BZoroarks -->  <BZoroarkTribesperson.labelMalePlural>男性黑索罗亚克</BZoroarkTribesperson.labelMalePlural>
+  <!-- female BZoroark -->  <BZoroarkTribesperson.labelFemale>女性黑索罗亚克</BZoroarkTribesperson.labelFemale>
+  <!-- female BZoroarks -->  <BZoroarkTribesperson.labelFemalePlural>女性黑索罗亚克</BZoroarkTribesperson.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- BZoroark grenadier -->  <BZoroark_Grenadier_Destructive.label>黑索罗亚克掷弹兵</BZoroark_Grenadier_Destructive.label>
+  <!-- BZoroark grenadiers -->  <BZoroark_Grenadier_Destructive.labelPlural>黑索罗亚克掷弹兵</BZoroark_Grenadier_Destructive.labelPlural>
+  <!-- male BZoroark grenadier -->  <BZoroark_Grenadier_Destructive.labelMale>男性黑索罗亚克掷弹兵</BZoroark_Grenadier_Destructive.labelMale>
+  <!-- male BZoroark grenadiers -->  <BZoroark_Grenadier_Destructive.labelMalePlural>男性黑索罗亚克掷弹兵</BZoroark_Grenadier_Destructive.labelMalePlural>
+  <!-- female BZoroark grenadier -->  <BZoroark_Grenadier_Destructive.labelFemale>女性黑索罗亚克掷弹兵</BZoroark_Grenadier_Destructive.labelFemale>
+  <!-- female BZoroark grenadiers -->  <BZoroark_Grenadier_Destructive.labelFemalePlural>女性黑索罗亚克掷弹兵</BZoroark_Grenadier_Destructive.labelFemalePlural>
+
+  <!-- BZoroark EMP grenadier -->  <BZoroark_Grenadier_EMP.label>黑索罗亚克 EMP掷弹兵</BZoroark_Grenadier_EMP.label>
+  <!-- BZoroark EMP grenadiers -->  <BZoroark_Grenadier_EMP.labelPlural>黑索罗亚克 EMP掷弹兵</BZoroark_Grenadier_EMP.labelPlural>
+  <!-- male BZoroark EMP grenadier -->  <BZoroark_Grenadier_EMP.labelMale>男性黑索罗亚克 EMP掷弹兵</BZoroark_Grenadier_EMP.labelMale>
+  <!-- male BZoroark EMP grenadiers -->  <BZoroark_Grenadier_EMP.labelMalePlural>男性黑索罗亚克 EMP掷弹兵</BZoroark_Grenadier_EMP.labelMalePlural>
+  <!-- female BZoroark EMP grenadier -->  <BZoroark_Grenadier_EMP.labelFemale>女性黑索罗亚克 EMP掷弹兵</BZoroark_Grenadier_EMP.labelFemale>
+  <!-- female BZoroark EMP grenadiers -->  <BZoroark_Grenadier_EMP.labelFemalePlural>女性黑索罗亚克 EMP掷弹兵</BZoroark_Grenadier_EMP.labelFemalePlural>
+
+
+  <!-- New Smoke Grenadier -->
+
+  <!-- BZoroark smoke grenadier -->  <BZoroark_Grenadier_Smoke.label>黑索罗亚克烟雾弹掷弹兵</BZoroark_Grenadier_Smoke.label>
+  <!-- BZoroark smoke grenadiers -->  <BZoroark_Grenadier_Smoke.labelPlural>黑索罗亚克烟雾弹掷弹兵</BZoroark_Grenadier_Smoke.labelPlural>
+  <!-- male BZoroark smoke grenadier -->  <BZoroark_Grenadier_Smoke.labelMale>男性黑索罗亚克烟雾弹掷弹兵</BZoroark_Grenadier_Smoke.labelMale>
+  <!-- male BZoroark smoke grenadiers -->  <BZoroark_Grenadier_Smoke.labelMalePlural>男性黑索罗亚克烟雾弹掷弹兵</BZoroark_Grenadier_Smoke.labelMalePlural>
+  <!-- female BZoroark smoke grenadier -->  <BZoroark_Grenadier_Smoke.labelFemale>女性黑索罗亚克烟雾弹掷弹兵</BZoroark_Grenadier_Smoke.labelFemale>
+  <!-- female BZoroark smoke grenadiers -->  <BZoroark_Grenadier_Smoke.labelFemalePlural>女性黑索罗亚克烟雾弹掷弹兵</BZoroark_Grenadier_Smoke.labelFemalePlural>
+
+
+  <!-- Mid Tier -->
+
+  <!-- BZoroark mercenary gunner -->  <BZoroark_Mercenary_Gunner.label>黑索罗亚克枪手佣兵</BZoroark_Mercenary_Gunner.label>
+  <!-- BZoroark mercenary gunners -->  <BZoroark_Mercenary_Gunner.labelPlural>黑索罗亚克枪手佣兵</BZoroark_Mercenary_Gunner.labelPlural>
+  <!-- male BZoroark mercenary gunner -->  <BZoroark_Mercenary_Gunner.labelMale>男性黑索罗亚克枪手佣兵</BZoroark_Mercenary_Gunner.labelMale>
+  <!-- male BZoroark mercenary gunners -->  <BZoroark_Mercenary_Gunner.labelMalePlural>男性黑索罗亚克枪手佣兵</BZoroark_Mercenary_Gunner.labelMalePlural>
+  <!-- female BZoroark mercenary gunner -->  <BZoroark_Mercenary_Gunner.labelFemale>女性黑索罗亚克枪手佣兵</BZoroark_Mercenary_Gunner.labelFemale>
+  <!-- female BZoroark mercenary gunners -->  <BZoroark_Mercenary_Gunner.labelFemalePlural>女性黑索罗亚克枪手佣兵</BZoroark_Mercenary_Gunner.labelFemalePlural>
+
+  <!-- BZoroark mercenary sniper -->  <BZoroark_Mercenary_Sniper.label>黑索罗亚克狙击手佣兵</BZoroark_Mercenary_Sniper.label>
+  <!-- BZoroark mercenary snipers -->  <BZoroark_Mercenary_Sniper.labelPlural>黑索罗亚克狙击手佣兵</BZoroark_Mercenary_Sniper.labelPlural>
+  <!-- male BZoroark mercenary sniper -->  <BZoroark_Mercenary_Sniper.labelMale>男性黑索罗亚克狙击手佣兵</BZoroark_Mercenary_Sniper.labelMale>
+  <!-- male BZoroark mercenary snipers -->  <BZoroark_Mercenary_Sniper.labelMalePlural>男性黑索罗亚克狙击手佣兵</BZoroark_Mercenary_Sniper.labelMalePlural>
+  <!-- female BZoroark mercenary sniper -->  <BZoroark_Mercenary_Sniper.labelFemale>女性黑索罗亚克狙击手佣兵</BZoroark_Mercenary_Sniper.labelFemale>
+  <!-- female BZoroark mercenary snipers -->  <BZoroark_Mercenary_Sniper.labelFemalePlural>女性黑索罗亚克狙击手佣兵</BZoroark_Mercenary_Sniper.labelFemalePlural>
+
+  <!-- BZoroark mercenary slasher -->  <BZoroark_Mercenary_Slasher.label>黑索罗亚克杀手佣兵</BZoroark_Mercenary_Slasher.label>
+  <!-- BZoroark mercenary slashers -->  <BZoroark_Mercenary_Slasher.labelPlural>黑索罗亚克杀手佣兵</BZoroark_Mercenary_Slasher.labelPlural>
+  <!-- male BZoroark mercenary slasher -->  <BZoroark_Mercenary_Slasher.labelMale>男性黑索罗亚克杀手佣兵</BZoroark_Mercenary_Slasher.labelMale>
+  <!-- male BZoroark mercenary slashers -->  <BZoroark_Mercenary_Slasher.labelMalePlural>男性黑索罗亚克杀手佣兵</BZoroark_Mercenary_Slasher.labelMalePlural>
+  <!-- female BZoroark mercenary slasher -->  <BZoroark_Mercenary_Slasher.labelFemale>女性黑索罗亚克杀手佣兵</BZoroark_Mercenary_Slasher.labelFemale>
+  <!-- female BZoroark mercenary slashers -->  <BZoroark_Mercenary_Slasher.labelFemalePlural>女性黑索罗亚克杀手佣兵</BZoroark_Mercenary_Slasher.labelFemalePlural>
+
+  <!-- BZoroark heavy mercenary -->  <BZoroark_Mercenary_Heavy.label>黑索罗亚克重装佣兵</BZoroark_Mercenary_Heavy.label>
+  <!-- heavy mercenaries -->  <BZoroark_Mercenary_Heavy.labelPlural>重装佣兵</BZoroark_Mercenary_Heavy.labelPlural>
+  <!-- male BZoroark heavy mercenary -->  <BZoroark_Mercenary_Heavy.labelMale>男性黑索罗亚克重装佣兵</BZoroark_Mercenary_Heavy.labelMale>
+  <!-- male heavy mercenaries -->  <BZoroark_Mercenary_Heavy.labelMalePlural>男性重装佣兵</BZoroark_Mercenary_Heavy.labelMalePlural>
+  <!-- female BZoroark heavy mercenary -->  <BZoroark_Mercenary_Heavy.labelFemale>女性黑索罗亚克重装佣兵</BZoroark_Mercenary_Heavy.labelFemale>
+  <!-- female heavy mercenaries -->  <BZoroark_Mercenary_Heavy.labelFemalePlural>女性重装佣兵</BZoroark_Mercenary_Heavy.labelFemalePlural>
+
+
+  <!-- Elite tier -->
+
+  <!-- BZoroark boss -->  <BZoroark_PirateBoss.label>黑索罗亚克海贼团长</BZoroark_PirateBoss.label>
+  <!-- bosses -->  <BZoroark_PirateBoss.labelPlural>海贼团长</BZoroark_PirateBoss.labelPlural>
+  <!-- male BZoroark boss -->  <BZoroark_PirateBoss.labelMale>男性黑索罗亚克海贼团长</BZoroark_PirateBoss.labelMale>
+  <!-- male bosses -->  <BZoroark_PirateBoss.labelMalePlural>男性海贼团长</BZoroark_PirateBoss.labelMalePlural>
+  <!-- female BZoroark boss -->  <BZoroark_PirateBoss.labelFemale>女性黑索罗亚克海贼团长</BZoroark_PirateBoss.labelFemale>
+  <!-- female bosses -->  <BZoroark_PirateBoss.labelFemalePlural>女性海贼团长</BZoroark_PirateBoss.labelFemalePlural>
+
+  <!-- BZoroark elite mercenary -->  <BZoroark_Mercenary_Elite.label>黑索罗亚克精锐佣兵</BZoroark_Mercenary_Elite.label>
+  <!-- elite mercenaries -->  <BZoroark_Mercenary_Elite.labelPlural>精锐佣兵</BZoroark_Mercenary_Elite.labelPlural>
+  <!-- male BZoroark elite mercenary -->  <BZoroark_Mercenary_Elite.labelMale>男性黑索罗亚克精锐佣兵</BZoroark_Mercenary_Elite.labelMale>
+  <!-- male elite mercenaries -->  <BZoroark_Mercenary_Elite.labelMalePlural>男性精锐佣兵</BZoroark_Mercenary_Elite.labelMalePlural>
+  <!-- female BZoroark elite mercenary -->  <BZoroark_Mercenary_Elite.labelFemale>女性黑索罗亚克精锐佣兵</BZoroark_Mercenary_Elite.labelFemale>
+  <!-- female elite mercenaries -->  <BZoroark_Mercenary_Elite.labelFemalePlural>女性精锐佣兵</BZoroark_Mercenary_Elite.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- BZoroark drifter -->  <BZoroark_Drifter.label>黑索罗亚克漂泊者</BZoroark_Drifter.label>
+  <!-- BZoroark drifters -->  <BZoroark_Drifter.labelPlural>黑索罗亚克漂泊者</BZoroark_Drifter.labelPlural>
+  <!-- male BZoroark drifter -->  <BZoroark_Drifter.labelMale>男性黑索罗亚克漂泊者</BZoroark_Drifter.labelMale>
+  <!-- male BZoroark drifters -->  <BZoroark_Drifter.labelMalePlural>男性黑索罗亚克漂泊者</BZoroark_Drifter.labelMalePlural>
+  <!-- female BZoroark drifter -->  <BZoroark_Drifter.labelFemale>女性黑索罗亚克漂泊者</BZoroark_Drifter.labelFemale>
+  <!-- female BZoroark drifters -->  <BZoroark_Drifter.labelFemalePlural>女性黑索罗亚克漂泊者</BZoroark_Drifter.labelFemalePlural>
+
+
+  <!-- Low tier -->
+
+  <!-- BZoroark scavenger gunner -->  <BZoroark_Scavenger.label>黑索罗亚克掠夺者枪手</BZoroark_Scavenger.label>
+  <!-- BZoroark scavenger gunners -->  <BZoroark_Scavenger.labelPlural>黑索罗亚克掠夺者枪手</BZoroark_Scavenger.labelPlural>
+  <!-- male BZoroark scavenger gunner -->  <BZoroark_Scavenger.labelMale>男性黑索罗亚克掠夺者枪手</BZoroark_Scavenger.labelMale>
+  <!-- male BZoroark scavenger gunners -->  <BZoroark_Scavenger.labelMalePlural>男性黑索罗亚克掠夺者枪手</BZoroark_Scavenger.labelMalePlural>
+  <!-- female BZoroark scavenger gunner -->  <BZoroark_Scavenger.labelFemale>女性黑索罗亚克掠夺者枪手</BZoroark_Scavenger.labelFemale>
+  <!-- female BZoroark scavenger gunners -->  <BZoroark_Scavenger.labelFemalePlural>女性黑索罗亚克掠夺者枪手</BZoroark_Scavenger.labelFemalePlural>
+
+  <!-- BZoroark scavenger thrasher -->  <BZoroark_Thrasher.label>黑索罗亚克掠夺者暴民</BZoroark_Thrasher.label>
+  <!-- BZoroark scavenger thrashers -->  <BZoroark_Thrasher.labelPlural>黑索罗亚克掠夺者暴民</BZoroark_Thrasher.labelPlural>
+  <!-- male BZoroark scavenger thrasher -->  <BZoroark_Thrasher.labelMale>男性黑索罗亚克掠夺者暴民</BZoroark_Thrasher.labelMale>
+  <!-- male BZoroark scavenger thrashers -->  <BZoroark_Thrasher.labelMalePlural>男性黑索罗亚克掠夺者暴民</BZoroark_Thrasher.labelMalePlural>
+  <!-- female BZoroark scavenger thrasher -->  <BZoroark_Thrasher.labelFemale>女性黑索罗亚克掠夺者暴民</BZoroark_Thrasher.labelFemale>
+  <!-- female BZoroark scavenger thrashers -->  <BZoroark_Thrasher.labelFemalePlural>女性黑索罗亚克掠夺者暴民</BZoroark_Thrasher.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- BZoroark pirate gunner -->  <BZoroark_Pirate.label>黑索罗亚克海贼枪手</BZoroark_Pirate.label>
+  <!-- BZoroark pirate gunners -->  <BZoroark_Pirate.labelPlural>黑索罗亚克海贼枪手</BZoroark_Pirate.labelPlural>
+  <!-- male BZoroark pirate gunner -->  <BZoroark_Pirate.labelMale>男性黑索罗亚克海贼枪手</BZoroark_Pirate.labelMale>
+  <!-- male BZoroark pirate gunners -->  <BZoroark_Pirate.labelMalePlural>男性黑索罗亚克海贼枪手</BZoroark_Pirate.labelMalePlural>
+  <!-- female BZoroark pirate gunner -->  <BZoroark_Pirate.labelFemale>女性黑索罗亚克海贼枪手</BZoroark_Pirate.labelFemale>
+  <!-- female BZoroark pirate gunners -->  <BZoroark_Pirate.labelFemalePlural>女性黑索罗亚克海贼枪手</BZoroark_Pirate.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <!-- BZoroark villager -->  <BZoroark_Villager.label>黑索罗亚克村民</BZoroark_Villager.label>
+  <!-- BZoroark villagers -->  <BZoroark_Villager.labelPlural>黑索罗亚克村民</BZoroark_Villager.labelPlural>
+  <!-- male BZoroark villager -->  <BZoroark_Villager.labelMale>男性黑索罗亚克村民</BZoroark_Villager.labelMale>
+  <!-- male BZoroark villagers -->  <BZoroark_Villager.labelMalePlural>男性黑索罗亚克村民</BZoroark_Villager.labelMalePlural>
+  <!-- female BZoroark villager -->  <BZoroark_Villager.labelFemale>女性黑索罗亚克村民</BZoroark_Villager.labelFemale>
+  <!-- female BZoroark villagers -->  <BZoroark_Villager.labelFemalePlural>女性黑索罗亚克村民</BZoroark_Villager.labelFemalePlural>
+
+  <!-- BZoroark town guard -->  <BZoroark_Town_Guard.label>黑索罗亚克城镇卫兵</BZoroark_Town_Guard.label>
+  <!-- BZoroark town guards -->  <BZoroark_Town_Guard.labelPlural>黑索罗亚克城镇卫兵</BZoroark_Town_Guard.labelPlural>
+  <!-- male BZoroark town guard -->  <BZoroark_Town_Guard.labelMale>男性黑索罗亚克城镇卫兵</BZoroark_Town_Guard.labelMale>
+  <!-- male BZoroark town guards -->  <BZoroark_Town_Guard.labelMalePlural>男性黑索罗亚克城镇卫兵</BZoroark_Town_Guard.labelMalePlural>
+  <!-- female BZoroark town guard -->  <BZoroark_Town_Guard.labelFemale>女性黑索罗亚克城镇卫兵</BZoroark_Town_Guard.labelFemale>
+  <!-- female BZoroark town guards -->  <BZoroark_Town_Guard.labelFemalePlural>女性黑索罗亚克城镇卫兵</BZoroark_Town_Guard.labelFemalePlural>
+
+  <!-- BZoroark town trader -->  <BZoroark_Town_Trader.label>黑索罗亚克城镇商人</BZoroark_Town_Trader.label>
+  <!-- BZoroark town traders -->  <BZoroark_Town_Trader.labelPlural>黑索罗亚克城镇商人</BZoroark_Town_Trader.labelPlural>
+  <!-- male BZoroark town trader -->  <BZoroark_Town_Trader.labelMale>男性黑索罗亚克城镇商人</BZoroark_Town_Trader.labelMale>
+  <!-- male BZoroark town traders -->  <BZoroark_Town_Trader.labelMalePlural>男性黑索罗亚克城镇商人</BZoroark_Town_Trader.labelMalePlural>
+  <!-- female BZoroark town trader -->  <BZoroark_Town_Trader.labelFemale>女性黑索罗亚克城镇商人</BZoroark_Town_Trader.labelFemale>
+  <!-- female BZoroark town traders -->  <BZoroark_Town_Trader.labelFemalePlural>女性黑索罗亚克城镇商人</BZoroark_Town_Trader.labelFemalePlural>
+
+  <!-- BZoroark town councilman -->  <BZoroark_Town_Councilman.label>黑索罗亚克城镇议员</BZoroark_Town_Councilman.label>
+  <!-- town councilmen -->  <BZoroark_Town_Councilman.labelPlural>城镇议员</BZoroark_Town_Councilman.labelPlural>
+  <!-- male BZoroark town councilman -->  <BZoroark_Town_Councilman.labelMale>男性黑索罗亚克城镇议员</BZoroark_Town_Councilman.labelMale>
+  <!-- male town councilmen -->  <BZoroark_Town_Councilman.labelMalePlural>男性城镇议员</BZoroark_Town_Councilman.labelMalePlural>
+  <!-- female BZoroark town councilman -->  <BZoroark_Town_Councilman.labelFemale>女性黑索罗亚克城镇议员</BZoroark_Town_Councilman.labelFemale>
+  <!-- female town councilmen -->  <BZoroark_Town_Councilman.labelFemalePlural>女性城镇议员</BZoroark_Town_Councilman.labelFemalePlural>
+
+
+  <!-- Poverty Tier -->
+
+  <!-- BZoroark penitent -->  <BZoroark_Tribal_Penitent.label>黑索罗亚克海贼</BZoroark_Tribal_Penitent.label>
+  <!-- BZoroark penitents -->  <BZoroark_Tribal_Penitent.labelPlural>黑索罗亚克海贼</BZoroark_Tribal_Penitent.labelPlural>
+  <!-- male BZoroark penitent -->  <BZoroark_Tribal_Penitent.labelMale>男性黑索罗亚克海贼</BZoroark_Tribal_Penitent.labelMale>
+  <!-- male BZoroark penitents -->  <BZoroark_Tribal_Penitent.labelMalePlural>男性黑索罗亚克海贼</BZoroark_Tribal_Penitent.labelMalePlural>
+  <!-- female BZoroark penitent -->  <BZoroark_Tribal_Penitent.labelFemale>女性黑索罗亚克海贼</BZoroark_Tribal_Penitent.labelFemale>
+  <!-- female BZoroark penitents -->  <BZoroark_Tribal_Penitent.labelFemalePlural>女性黑索罗亚克海贼</BZoroark_Tribal_Penitent.labelFemalePlural>
+
+
+  <!-- Low Tier -->
+
+  <!-- BZoroark archer -->  <BZoroark_Tribal_Archer.label>黑索罗亚克弓箭手</BZoroark_Tribal_Archer.label>
+  <!-- BZoroark archers -->  <BZoroark_Tribal_Archer.labelPlural>黑索罗亚克弓箭手</BZoroark_Tribal_Archer.labelPlural>
+  <!-- male BZoroark archer -->  <BZoroark_Tribal_Archer.labelMale>男性黑索罗亚克弓箭手</BZoroark_Tribal_Archer.labelMale>
+  <!-- male BZoroark archers -->  <BZoroark_Tribal_Archer.labelMalePlural>男性黑索罗亚克弓箭手</BZoroark_Tribal_Archer.labelMalePlural>
+  <!-- female BZoroark archer -->  <BZoroark_Tribal_Archer.labelFemale>女性黑索罗亚克弓箭手</BZoroark_Tribal_Archer.labelFemale>
+  <!-- female BZoroark archers -->  <BZoroark_Tribal_Archer.labelFemalePlural>女性黑索罗亚克弓箭手</BZoroark_Tribal_Archer.labelFemalePlural>
+
+
+  <!-- Mid tier -->
+
+  <!-- BZoroark warrior -->  <BZoroark_Tribal_Warrior.label>黑索罗亚克战士</BZoroark_Tribal_Warrior.label>
+  <!-- BZoroark warriors -->  <BZoroark_Tribal_Warrior.labelPlural>黑索罗亚克战士</BZoroark_Tribal_Warrior.labelPlural>
+  <!-- male BZoroark warrior -->  <BZoroark_Tribal_Warrior.labelMale>男性黑索罗亚克战士</BZoroark_Tribal_Warrior.labelMale>
+  <!-- male BZoroark warriors -->  <BZoroark_Tribal_Warrior.labelMalePlural>男性黑索罗亚克战士</BZoroark_Tribal_Warrior.labelMalePlural>
+  <!-- female BZoroark warrior -->  <BZoroark_Tribal_Warrior.labelFemale>女性黑索罗亚克战士</BZoroark_Tribal_Warrior.labelFemale>
+  <!-- female BZoroark warriors -->  <BZoroark_Tribal_Warrior.labelFemalePlural>女性黑索罗亚克战士</BZoroark_Tribal_Warrior.labelFemalePlural>
+
+  <!-- BZoroark hunter -->  <BZoroark_Tribal_Hunter.label>黑索罗亚克猎人</BZoroark_Tribal_Hunter.label>
+  <!-- BZoroark hunters -->  <BZoroark_Tribal_Hunter.labelPlural>黑索罗亚克猎人</BZoroark_Tribal_Hunter.labelPlural>
+  <!-- male BZoroark hunter -->  <BZoroark_Tribal_Hunter.labelMale>男性黑索罗亚克猎人</BZoroark_Tribal_Hunter.labelMale>
+  <!-- male BZoroark hunters -->  <BZoroark_Tribal_Hunter.labelMalePlural>男性黑索罗亚克猎人</BZoroark_Tribal_Hunter.labelMalePlural>
+  <!-- female BZoroark hunter -->  <BZoroark_Tribal_Hunter.labelFemale>女性黑索罗亚克猎人</BZoroark_Tribal_Hunter.labelFemale>
+  <!-- female BZoroark hunters -->  <BZoroark_Tribal_Hunter.labelFemalePlural>女性黑索罗亚克猎人</BZoroark_Tribal_Hunter.labelFemalePlural>
+
+  <!-- BZoroark trader -->  <BZoroark_Tribal_Trader.label>黑索罗亚克商人</BZoroark_Tribal_Trader.label>
+  <!-- BZoroark traders -->  <BZoroark_Tribal_Trader.labelPlural>黑索罗亚克商人</BZoroark_Tribal_Trader.labelPlural>
+  <!-- male BZoroark trader -->  <BZoroark_Tribal_Trader.labelMale>男性黑索罗亚克商人</BZoroark_Tribal_Trader.labelMale>
+  <!-- male BZoroark traders -->  <BZoroark_Tribal_Trader.labelMalePlural>男性黑索罗亚克商人</BZoroark_Tribal_Trader.labelMalePlural>
+  <!-- female BZoroark trader -->  <BZoroark_Tribal_Trader.labelFemale>女性黑索罗亚克商人</BZoroark_Tribal_Trader.labelFemale>
+  <!-- female BZoroark traders -->  <BZoroark_Tribal_Trader.labelFemalePlural>女性黑索罗亚克商人</BZoroark_Tribal_Trader.labelFemalePlural>
+
+
+  <!-- High Tier -->
+
+  <!-- BZoroark berserker -->  <BZoroark_Tribal_Berserker.label>黑索罗亚克狂战士</BZoroark_Tribal_Berserker.label>
+  <!-- BZoroark berserkers -->  <BZoroark_Tribal_Berserker.labelPlural>黑索罗亚克狂战士</BZoroark_Tribal_Berserker.labelPlural>
+  <!-- male BZoroark berserker -->  <BZoroark_Tribal_Berserker.labelMale>男性黑索罗亚克狂战士</BZoroark_Tribal_Berserker.labelMale>
+  <!-- male BZoroark berserkers -->  <BZoroark_Tribal_Berserker.labelMalePlural>男性黑索罗亚克狂战士</BZoroark_Tribal_Berserker.labelMalePlural>
+  <!-- female BZoroark berserker -->  <BZoroark_Tribal_Berserker.labelFemale>女性黑索罗亚克狂战士</BZoroark_Tribal_Berserker.labelFemale>
+  <!-- female BZoroark berserkers -->  <BZoroark_Tribal_Berserker.labelFemalePlural>女性黑索罗亚克狂战士</BZoroark_Tribal_Berserker.labelFemalePlural>
+
+  <!-- BZoroark heavy archer -->  <BZoroark_Tribal_HeavyArcher.label>黑索罗亚克重装弓箭手</BZoroark_Tribal_HeavyArcher.label>
+  <!-- BZoroark heavy archers -->  <BZoroark_Tribal_HeavyArcher.labelPlural>黑索罗亚克重装弓箭手</BZoroark_Tribal_HeavyArcher.labelPlural>
+  <!-- male BZoroark heavy archer -->  <BZoroark_Tribal_HeavyArcher.labelMale>男性黑索罗亚克重装弓箭手</BZoroark_Tribal_HeavyArcher.labelMale>
+  <!-- male BZoroark heavy archers -->  <BZoroark_Tribal_HeavyArcher.labelMalePlural>男性黑索罗亚克重装弓箭手</BZoroark_Tribal_HeavyArcher.labelMalePlural>
+  <!-- female BZoroark heavy archer -->  <BZoroark_Tribal_HeavyArcher.labelFemale>女性黑索罗亚克重装弓箭手</BZoroark_Tribal_HeavyArcher.labelFemale>
+  <!-- female BZoroark heavy archers -->  <BZoroark_Tribal_HeavyArcher.labelFemalePlural>女性黑索罗亚克重装弓箭手</BZoroark_Tribal_HeavyArcher.labelFemalePlural>
+
+  <!-- BZoroark_Tribal_ChiefMelee -->  <!--[Duplicated] <BZoroark_Tribal_ChiefMelee.label>黑索罗亚克_Tribal_ChiefMelee</BZoroark_Tribal_ChiefMelee.label>-->
+  <!-- BZoroark_Tribal_ChiefMelees -->  <!--[Duplicated] <BZoroark_Tribal_ChiefMelee.labelPlural>黑索罗亚克_Tribal_ChiefMele</BZoroark_Tribal_ChiefMelee.labelPlural>-->
+  <!-- male BZoroark_Tribal_ChiefMelee -->  <!--[Duplicated] <BZoroark_Tribal_ChiefMelee.labelMale>男性黑索罗亚克_Tribal_ChiefMelee</BZoroark_Tribal_ChiefMelee.labelMale>-->
+  <!-- male BZoroark_Tribal_ChiefMelees -->  <!--[Duplicated] <BZoroark_Tribal_ChiefMelee.labelMalePlural>男性黑索罗亚克_Tribal_ChiefMele</BZoroark_Tribal_ChiefMelee.labelMalePlural>-->
+  <!-- female BZoroark_Tribal_ChiefMelee -->  <!--[Duplicated] <BZoroark_Tribal_ChiefMelee.labelFemale>女性黑索罗亚克_Tribal_ChiefMelee</BZoroark_Tribal_ChiefMelee.labelFemale>-->
+  <!-- female BZoroark_Tribal_ChiefMelees -->  <!--[Duplicated] <BZoroark_Tribal_ChiefMelee.labelFemalePlural>女性黑索罗亚克_Tribal_ChiefMele</BZoroark_Tribal_ChiefMelee.labelFemalePlural>-->
+
+  <!-- BZoroark berserker chief -->  <BZoroark_Tribal_ChiefMelee.label>黑索罗亚克狂战士队长</BZoroark_Tribal_ChiefMelee.label>
+  <!-- BZoroark berserker chiefs -->  <BZoroark_Tribal_ChiefMelee.labelPlural>黑索罗亚克狂战士队长</BZoroark_Tribal_ChiefMelee.labelPlural>
+  <!-- male BZoroark berserker chief -->  <BZoroark_Tribal_ChiefMelee.labelMale>男性黑索罗亚克狂战士队长</BZoroark_Tribal_ChiefMelee.labelMale>
+  <!-- male BZoroark berserker chiefs -->  <BZoroark_Tribal_ChiefMelee.labelMalePlural>男性黑索罗亚克狂战士队长</BZoroark_Tribal_ChiefMelee.labelMalePlural>
+  <!-- female BZoroark berserker chief -->  <BZoroark_Tribal_ChiefMelee.labelFemale>女性黑索罗亚克狂战士队长</BZoroark_Tribal_ChiefMelee.labelFemale>
+  <!-- female BZoroark berserker chiefs -->  <BZoroark_Tribal_ChiefMelee.labelFemalePlural>女性黑索罗亚克狂战士队长</BZoroark_Tribal_ChiefMelee.labelFemalePlural>
+
+  <!-- BZoroark archer chief -->  <BZoroark_Tribal_ChiefRanged.label>黑索罗亚克弓箭手队长</BZoroark_Tribal_ChiefRanged.label>
+  <!-- BZoroark archer chiefs -->  <BZoroark_Tribal_ChiefRanged.labelPlural>黑索罗亚克弓箭手队长</BZoroark_Tribal_ChiefRanged.labelPlural>
+  <!-- male BZoroark archer chief -->  <BZoroark_Tribal_ChiefRanged.labelMale>男性黑索罗亚克弓箭手队长</BZoroark_Tribal_ChiefRanged.labelMale>
+  <!-- male BZoroark archer chiefs -->  <BZoroark_Tribal_ChiefRanged.labelMalePlural>男性黑索罗亚克弓箭手队长</BZoroark_Tribal_ChiefRanged.labelMalePlural>
+  <!-- female BZoroark archer chief -->  <BZoroark_Tribal_ChiefRanged.labelFemale>女性黑索罗亚克弓箭手队长</BZoroark_Tribal_ChiefRanged.labelFemale>
+  <!-- female BZoroark archer chiefs -->  <BZoroark_Tribal_ChiefRanged.labelFemalePlural>女性黑索罗亚克弓箭手队长</BZoroark_Tribal_ChiefRanged.labelFemalePlural>
+
+
+</LanguageData>

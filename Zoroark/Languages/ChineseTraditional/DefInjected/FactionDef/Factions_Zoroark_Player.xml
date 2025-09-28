@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TRIBAL FACTION -->
+
+  <!-- Zoroark Tribe -->  <PlayerZoroarkTribal.label>索羅亞克部落</PlayerZoroarkTribal.label>
+  <!-- Zoroark tribe -->  <PlayerZoroarkTribal.description>索羅亞克部落</PlayerZoroarkTribal.description>
+  <!-- WZoroark -->  <PlayerZoroarkTribal.pawnsPlural>索羅亞克部落民</PlayerZoroarkTribal.pawnsPlural>
+
+
+  <!-- TRIBAL FACTION (NO TECH AT START) -->
+
+  <!-- Zoroark Tribe (No tech) -->  <PlayerZoroarkTribalNoTech.label>索羅亞克部落 (無科技)</PlayerZoroarkTribalNoTech.label>
+  <!-- Zoroark tribe -->  <PlayerZoroarkTribalNoTech.description>索羅亞克部落</PlayerZoroarkTribalNoTech.description>
+  <!-- WZoroark -->  <PlayerZoroarkTribalNoTech.pawnsPlural>索羅亞克部落民</PlayerZoroarkTribalNoTech.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION -->
+
+  <!-- Zoroark Colony -->  <PlayerZoroarkIndustrial.label>索羅亞克殖民地</PlayerZoroarkIndustrial.label>
+  <!-- Zoroark Colony -->  <PlayerZoroarkIndustrial.description>索羅亞克殖民地</PlayerZoroarkIndustrial.description>
+  <!-- WZoroark -->  <PlayerZoroarkIndustrial.pawnsPlural>索羅亞克殖民者
+</PlayerZoroarkIndustrial.pawnsPlural>
+
+
+  <!-- INDUSTRIAL FACTION (NO TECH AT START) -->
+
+  <!-- Zoroark Colony (No tech) -->  <PlayerZoroarkIndustrialNoTech.label>索羅亞克殖民地 (無科技)</PlayerZoroarkIndustrialNoTech.label>
+  <!-- Zoroark colony -->  <PlayerZoroarkIndustrialNoTech.description>索羅亞克殖民地</PlayerZoroarkIndustrialNoTech.description>
+  <!-- WZoroark -->  <PlayerZoroarkIndustrialNoTech.pawnsPlural>索羅亞克殖民者
+</PlayerZoroarkIndustrialNoTech.pawnsPlural>
+
+
+</LanguageData>

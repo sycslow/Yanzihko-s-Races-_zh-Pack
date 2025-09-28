@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.6>
+    <li IfModActive="yanzihko.yzrcm">Yanzihko_RacesCore</li>	<!-- 核心框架 -->
+    <li IfModActive="yanzihko.zip">Zoroark</li>			<!-- 索羅亞 -->
+	<li IfModActive="yanzihko.bdfp">Tairenar_and_Mahoxy</li><!-- 火狐家族+妖冰藍狐 -->
+	<li IfModActive="yanzihko.mmp">Nyaonix</li>			<!-- 妙喵 -->
+	<li IfModActive="yanzihko.gfp">Sirnight</li>		<!-- 沙奈朵 -->
+	<li IfModActive="yanzihko.eevem">EVs_Eievui</li>	<!-- 伊布 -->
+	<li IfModActive="yanzihko.evapm">EVs_Showers</li>	<!-- 水 -->
+	<li IfModActive="yanzihko.ejoltm">EVs_Thunders</li>	<!-- 雷 -->
+	<li IfModActive="yanzihko.eflarm">EVs_Booster</li>	<!-- 火 -->
+	<li IfModActive="yanzihko.eespm">EVs_Eifie</li>		<!-- 太陽 -->
+	<li IfModActive="yanzihko.eumbm">EVs_Bracky</li>	<!-- 月亮 -->
+	<li IfModActive="yanzihko.eleafm">EVs_Leafia</li>	<!-- 葉 -->
+	<li IfModActive="yanzihko.eglacm">EVs_Glacia</li>	<!-- 冰 -->
+	<li IfModActive="yanzihko.esylvm">EVs_Nymphia</li>	<!-- 仙子 -->
+	<li IfModActive="yanzihko.ldw">Ratchet_And_Clank_Lombax</li>	<!-- 隆巴克斯 -->
+	<li IfModActive="yanzihko.VAF">Vulpoids_Adorable_Foxes</li>		<!-- 可愛的狐狸人 -->
+	<li IfModActive="yanzihko.kfls">Kisalfar_and_Fressalfar_Lost_Project</li>	<!-- 失落專案 -->
+	<li IfModActive="yanzihko.ffr">Feles_Felines_of_the_Rim</li>	<!-- 邊緣世界的貓科動物 -->
+  </v1.6>
+  </loadFolders>

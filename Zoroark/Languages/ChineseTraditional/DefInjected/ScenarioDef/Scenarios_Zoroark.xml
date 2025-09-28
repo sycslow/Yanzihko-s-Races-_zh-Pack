@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stranded Ship -->  <ZoroarkScenario1.label>擱淺的船艦 - 困於船上的旅者</ZoroarkScenario1.label>
+  <!-- You've been in a state of cryptosleep for years, lost in rim sectors of known space at glitterworld cargo ship with mere percents of fuel remaining. Nearest star has captured your vessel into its gravitational field and thanks to pure luck, you've stumbled upon habitable rimworld. Ship AI emerged all life forms from cryptosleep, including you and 2 other persons in neighbouring pods. You took everything you could and rushed to the escape pod... -->  <ZoroarkScenario1.description>許多年以來，你漂流在一艘，已經迷失在已知宇宙空間的邊緣星區的，閃耀世界貨船上，維持著冷凍休眠狀態中度過許多年，然而貨船上的燃料幾乎即將要消耗殆盡了。於是最近的一顆恆星便將你們的船捕獲並拉近到它的引力場中，你幸運的靠著純粹的運氣，發現到了一顆宜居的邊緣世界。而貨船上的人工智慧便喚醒了所有冷凍休眠中的生命體，包括你和相鄰休眠艙中的另外兩位。你們便拿起所有能帶上、用上的物資，便匆忙的奔向了逃生艙……</ZoroarkScenario1.description>
+  <!-- Stranded Ship -->  <ZoroarkScenario1.scenario.name>擱淺的船艦 - 困於船上的旅者</ZoroarkScenario1.scenario.name>
+  <!-- Three Zoroark colonists with a small stash of advanced resources. Zoroark are very similiar to Human pawns and do not have major differences. Medium Difficulty. -->  <ZoroarkScenario1.scenario.summary>三名索羅亞克殖民者，擁有少量先進資源。索羅亞克與一般人類非常相似，無明顯差異。此為中等難度的劇本。</ZoroarkScenario1.scenario.summary>
+  <!-- You've been in a state of cryptosleep for years, lost in rim sectors of known space at glitterworld cargo ship with mere percents of fuel remaining. Nearest star has captured your vessel into its gravitational field and thanks to pure luck, you've stumbled upon habitable rimworld. Ship AI emerged all life forms from cryptosleep, including you and 2 other persons in neighbouring pods. You took everything you could and rushed to the escape pod... -->  <ZoroarkScenario1.scenario.description>許多年以來，你漂流在一艘，已經迷失在已知宇宙空間的邊緣星區的，閃耀世界貨船上，維持著冷凍休眠狀態中度過許多年，然而貨船上的燃料幾乎即將要消耗殆盡了。於是最近的一顆恆星便將你們的船捕獲並拉近到它的引力場中，你幸運的靠著純粹的運氣，發現到了一顆宜居的邊緣世界。而貨船上的人工智慧便喚醒了所有冷凍休眠中的生命體，包括你和相鄰休眠艙中的另外兩位。你們便拿起所有能帶上、用上的物資，便匆忙的奔向了逃生艙……</ZoroarkScenario1.scenario.description>
+  <!-- It's a miracle that you've stumbled upon this rimworld. You rush into the escape pod and carefully undock. Computer in the pod shows analysis of the world below you. Breathable atmosphere, presence of life, and habitable environments. Not very promising, it's typical parameters for most rimworlds, but do you really have to ask for more in situaton like this? Initiating atmosphere entry in 3... 2... 1... -->
+    <ZoroarkScenario1.scenario.parts.GameStartDialog.text>能發現到這顆邊緣世界並能夠進行著陸，這簡直真的是個奇蹟。你匆忙的進入逃生艙，小心翼翼地與母船脫離。艙內的電腦上顯示了這下方世界的分析結果：可呼吸的大氣、存在的生命跡象，以及適合居住的環境。雖然這看上去不怎麼吸引人、也不太理想，但這些環境參數對於大多數的邊緣世界來說，都已經是很典型的環境參數了。而且在這種情況下，你真的還能有辦法要求更多嗎？大氣層進入倒數：3…2…1…</ZoroarkScenario1.scenario.parts.GameStartDialog.text>
+	
+	<!--  <ZoroarkScenario1.scenario.parts.12.text>能發現到這顆邊緣世界並能夠進行著陸，這簡直真的是個奇蹟。你匆忙的進入逃生艙，小心翼翼地與母船脫離。艙內的電腦上顯示了這下方世界的分析結果：可呼吸的大氣、存在的生命跡象，以及適合居住的環境。雖然這看上去不怎麼吸引人、也不太理想，但這些環境參數對於大多數的邊緣世界來說，都已經是很典型的環境參數了。而且在這種情況下，你真的還能有辦法要求更多嗎？大氣層進入倒數：3…2…1…</ZoroarkScenario1.scenario.parts.12.text>-->
+
+
+</LanguageData>

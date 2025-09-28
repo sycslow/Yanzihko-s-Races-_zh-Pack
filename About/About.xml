@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Yanzihko's Races _zh-Pack</name>
+  <author>Slow100</author>
+  <supportedVersions>
+	<li>1.6</li>
+  </supportedVersions>
+  <description>
+	重要：由於原模組對整個種族系列做了大型更新，導致此翻譯包合集也為此對整個整體結構進行了大型改動，保險起見目前只專心在新版本上，需要舊版的得另外下載舊版備份。
+  
+  
+  
+除了早期仙子伊布有一位大神翻譯過以外，其餘則是都無人翻譯過，外加後來原作者對自己的系列做了更新與整合，所以本次翻譯包採用合集的方式一次配布，畢竟也是個自己想用但也是無人翻的系列。
+
+一樣也是丟機器與AI進行翻譯，並從中嘗試校閱與腦補，有問題就請見諒了。
+
+同時名稱一樣也丟AI翻譯了。
+
+簡體一樣用ConvertZZ進行繁轉簡，套用下去轉換，所以用語可能會有不同。
+
+  
+只需要裝你有需要的部分就好，除了核心前置必須要裝以外，其他種族的部分則是自由選擇，裝你需要的就好。
+
+但目前尚未翻譯的部分就沒有支援了，所以不包含在內…
+  
+•本翻譯包目前只有翻譯同作者以下的模組，還有尚未翻譯的部分。
+以下有翻譯的種族模組（包含必須的核心框架）：
+Yanzihko's Races - Core Module	※註1
+Gardevoir - Fairy Pokemon
+Zoroark - Illusion Pokemon
+Braixen and Delphox - Fire Pokemon （冰狐 Icephox - Braixen and Delphox Addon 已被合併至此）
+Meowstic - Mystic Pokemon
+Eeveelutions - Eevee Module
+Eeveelutions - Vaporeon Module
+Eeveelutions - Jolteon Module
+Eeveelutions - Flareon Module
+Eeveelutions - Espeon Module
+Eeveelutions - Umbreon Module
+Eeveelutions - Leafeon Module
+Eeveelutions - Glaceon Module 
+Eeveelutions - Sylveon Module
+Lombax - Desert Warriors
+Vulpoids - Adorable Foxes (狐形種，Vulpes換名子了，就順勢更改了)
+Kisalfar and Fressálfar - Lost Project (弗雷薩純靈貓 與 基薩然靈貓，個別為純血腫與適應種)
+Feles - Felines of the Rim (菲利斯貓科，有獵豹、美洲豹、獅子、黑豹和老虎這5個種類)
+
+
+註1：主資料庫，必須的，內有該作者所製作的其他種族MOD資料，但未翻譯的部分因為一些原因還沒有進行翻譯，不過有些文本是用兼用卡的方式描述，所以有順手套用，但其餘部分目前尚待找時間作業。
+
+
+•尚待完成的部分：
+主動技能：目前作者停用中，但有預告說會與基因連動回歸，看到時候會有什麼變化後再動。
+
+
+•相容性：
+理論上，翻譯這邊只要defname和相關物件的引數路徑沒有改變、重複撞名、符合XML和Rimworld的編寫格式、以及HAR那邊等框架類MOD的路徑沒有改過的話，應該是沒有什麼問題的，不過原始模組那邊可能得留意有沒有發生什麼變化、或是模組衝突問題，例如可能得避免相似或相同主題的種族之類的。
+
+另外就是對應模組的packageId如果也沒有變動的話，LoadFolders還是能找的到的。
+
+
+TAG：
+HAR Races Pokemon Pokémon Lombax Eevee Vaporeon Jolteon Flareon Espeon Umbreon Leafeon Glaceon Sylveon Eeveelutions Gardevoir Zoroark Braixen Delphox Meowstic Icephox Vulpes Kisalfar Fressálfar Feles 漢化 中文
+
+  </description>
+  <packageId>yanzihko.races.zh.Slow100</packageId>
+  <modDependencies>
+  	<li>
+		<packageId>erdelf.HumanoidAlienRaces</packageId>
+		<displayName>Humanoid Alien Races 2.0</displayName>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+	</li>
+    <li>
+      <packageId>yanzihko.yzrcm</packageId>
+      <displayName>Yanzihko's Races - Core Module [YZRCM][1.6]</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3005787388</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  
+  <loadAfter>
+	<li>erdelf.HumanoidAlienRaces</li>	<!-- HAR框架 -->
+    <li>yanzihko.yzrcm</li> 	<!-- 核心框架 -->
+	<li>yanzihko.zip</li>		<!-- 索羅亞 -->
+	<li>yanzihko.bdfp</li>		<!-- 火狐+冰狐 -->
+	<li>yanzihko.mmp</li>		<!-- 妙喵 -->
+	<li>yanzihko.gfp</li>		<!-- 沙奈朵 -->
+	<li>yanzihko.eevem</li>		<!-- 伊布 -->
+	<li>yanzihko.evapm</li>		<!-- 水 -->
+	<li>yanzihko.ejoltm</li>	<!-- 雷 -->
+	<li>yanzihko.eflarm</li>	<!-- 火 -->
+	<li>yanzihko.eespm</li>		<!-- 太陽 -->
+	<li>yanzihko.eumbm</li>		<!-- 月亮 -->
+	<li>yanzihko.eleafm</li>	<!-- 葉 -->
+	<li>yanzihko.eglacm</li>	<!-- 冰 -->
+	<li>yanzihko.esylvm</li>	<!-- 仙子 -->
+	<li>yanzihko.ldw</li>		<!-- 拉捷特與克拉克 隆巴克斯 -->
+	<li>yanzihko.vaf</li>		<!-- 可愛狐狸人 -->
+	<li>yanzihko.kfls</li>		<!-- 失落專案 -->
+	<li>yanzihko.ffr</li>		<!-- 邊緣貓科 -->
+  </loadAfter>
+</ModMetaData>

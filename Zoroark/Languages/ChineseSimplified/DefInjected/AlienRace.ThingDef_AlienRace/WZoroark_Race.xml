@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!-- Zoroark -->
+  <WZoroark.label>索罗亚克</WZoroark.label>
+  <!-- Zoroark is a race of adorable genetically engineered foxes with slightly enchanted mental capabilities and agility. Originally designed by conglomerate of megacorporations in their home system as an advertisment tool for products, and as entertainers for selected few. These creatures became highly popular among elites in all neighouring systems. This particular subspecies of Zoroark is white in color. Zoroark is an advanced variation of xenohumans with a precisely tuned genome that becomes highly unstable outside of very short range of acceptable parameters. Technically they even can be considered an alien species. Their modification is impossible outside of advanced Glitterworld facilities and without source Genome templates. -->
+  <WZoroark.description>索罗亚克是一种基因工程改造的可爱狐狸种族，拥有稍微增强的心智能力和敏捷性。最初由其母星系的跨国大企业联合设计，作为产品广告工具以及为少数人提供的娱乐物种。这些生物在所有邻近星系的精英中都非常受欢迎。而这只特殊的索罗亚克亚种是呈现白色的毛色。索罗亚克是一种先进版本的异种人变体，其基因组经过精密调整，但在非常有限的参数范围外会变得极不稳定。从技术上来讲，它们甚至可以被视为外星物种了。而它们的改造在没有位于先进的闪耀世界设施，和也没拥有来源基因组范本的状态条件之下，是不可能完成的。</WZoroark.description>
+  <!-- teeth -->
+  <WZoroark.tools.0.label>牙齿</WZoroark.tools.0.label>
+  <!-- left claws -->
+  <WZoroark.tools.1.label>左爪</WZoroark.tools.1.label>
+  <!-- right claws -->
+  <WZoroark.tools.2.label>右爪</WZoroark.tools.2.label>
+    <!-- These are using for skin function. DO NOT translate them. -->
+  <!--
+  <WZoroark.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>hair</WZoroark.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <WZoroark.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>skin</WZoroark.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  -->
+
+</LanguageData>

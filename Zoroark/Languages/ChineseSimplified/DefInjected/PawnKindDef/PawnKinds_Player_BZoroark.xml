@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- member -->  <BZoroarkTribalPawn.label>部落民</BZoroarkTribalPawn.label>
+  <!-- members -->  <BZoroarkTribalPawn.labelPlural>部落民</BZoroarkTribalPawn.labelPlural>
+  <!-- male member -->  <BZoroarkTribalPawn.labelMale>男性部落民</BZoroarkTribalPawn.labelMale>
+  <!-- male members -->  <BZoroarkTribalPawn.labelMalePlural>男性部落民</BZoroarkTribalPawn.labelMalePlural>
+  <!-- female member -->  <BZoroarkTribalPawn.labelFemale>女性部落民</BZoroarkTribalPawn.labelFemale>
+  <!-- female members -->  <BZoroarkTribalPawn.labelFemalePlural>女性部落民</BZoroarkTribalPawn.labelFemalePlural>
+
+  <!-- member -->  <BZoroarkIndustrialPawn.label>殖民者</BZoroarkIndustrialPawn.label>
+  <!-- members -->  <BZoroarkIndustrialPawn.labelPlural>殖民者</BZoroarkIndustrialPawn.labelPlural>
+  <!-- male member -->  <BZoroarkIndustrialPawn.labelMale>男性殖民者</BZoroarkIndustrialPawn.labelMale>
+  <!-- male members -->  <BZoroarkIndustrialPawn.labelMalePlural>男性殖民者</BZoroarkIndustrialPawn.labelMalePlural>
+  <!-- female member -->  <BZoroarkIndustrialPawn.labelFemale>女性殖民者</BZoroarkIndustrialPawn.labelFemale>
+  <!-- female members -->  <BZoroarkIndustrialPawn.labelFemalePlural>女性殖民者</BZoroarkIndustrialPawn.labelFemalePlural>
+
+
+</LanguageData>
