@@ -2,241 +2,243 @@
 <LanguageData>
   
   <!-- EN: Growing up on a Glitterworld, {PAWN_nameDef} enjoyed unparalleled comfort and technology, which gave {PAWN_objective} a well-rounded education in basic skills. -->
-  <YZRCM_000_Childbackstory.description>TODO</YZRCM_000_Childbackstory.description>
+  <YZRCM_000_Childbackstory.description>{PAWN_nameDef}在闪耀世界长大，享受着无与伦比的舒适与科技，这赋予了{PAWN_objective}在基础的技能方面获得了全面教育。</YZRCM_000_Childbackstory.description>
   <!-- EN: Glitterworld Childhood -->
   <YZRCM_000_Childbackstory.title>闪耀世界儿童</YZRCM_000_Childbackstory.title>
   <!-- EN: Glitterworld Citizen -->
   <YZRCM_000_Childbackstory.titleShort>闪耀世界公民</YZRCM_000_Childbackstory.titleShort>
   
   <!-- EN: Born aboard a cramped orbital habitat, {PAWN_nameDef} learned zero-G maintenance and hydroponics before arithmetic. -->
-  <YZRCM_001_Childbackstory.description>TODO</YZRCM_001_Childbackstory.description>
+  <YZRCM_001_Childbackstory.description>{PAWN_nameDef}出生於拥挤的轨道栖居地，{PAWN_objective}在学会算术之前，就先学会了零重力维护与水耕法。</YZRCM_001_Childbackstory.description>
   <!-- EN: Spaceborn Childhood -->
   <YZRCM_001_Childbackstory.title>太空出生的儿童</YZRCM_001_Childbackstory.title>
   <!-- EN: Spaceborn -->
   <YZRCM_001_Childbackstory.titleShort>太空出生者</YZRCM_001_Childbackstory.titleShort>
   
   <!-- EN: During orbital habitat kindergarten, {PAWN_nameDef} became mesmerized by real-time holograms of nebulas. {PAWN_pronoun} spent recess tracing star formations with {PAWN_possessive} fingers while classmates played gravity-tag. -->
-  <YZRCM_002_Childbackstory.description>TODO</YZRCM_002_Childbackstory.description>
+  <YZRCM_002_Childbackstory.description>{PAWN_nameDef}在位于轨道凄息地的幼儿园期间，{PAWN_pronoun}被星云的即时全息影象给深深底着迷了。当同学们在下课时间玩着重力鬼抓人时，{PAWN_pronoun}总在用休息时间用小手指描绘着星辰轮廓的型状。</YZRCM_002_Childbackstory.description>
   <!-- EN: Stellar Cartography -->
-  <YZRCM_002_Childbackstory.title>TODO</YZRCM_002_Childbackstory.title>
+  <YZRCM_002_Childbackstory.title>星辰制图学家</YZRCM_002_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_002_Childbackstory.titleShort>TODO</YZRCM_002_Childbackstory.titleShort>
+  <YZRCM_002_Childbackstory.titleShort>闪耀儿童</YZRCM_002_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} found discarded data-slugs containing pre-glitterworld archives when playing at an abandoned junkyard in underground levels. The struggle to restore orginal hardware and to decrypt primitive file formats became {PAWN_possessive} secret obsession; {PAWN_pronoun} cherished these 'broken' stories more than perfect holographic histories. -->
-  <YZRCM_003_Childbackstory.description>TODO</YZRCM_003_Childbackstory.description>
+  <YZRCM_003_Childbackstory.description>{PAWN_nameDef}在地下层的一处荒废的废墟间玩耍时，{PAWN_pronoun}偶然发现了一些被废弃的数据匣，里面还残存着过去前闪耀世界时代的文件数据。在努力尝试修复着古老的硬件设备、和解密古老文件格式的那些艰难过程，也逐渐成为{PAWN_possessive}秘密癖好；相比於那些完美无瑕的全息历史，{PAWN_pronoun}更珍爱这些“支离破碎”的故事。</YZRCM_003_Childbackstory.description>
   <!-- EN: Lost History Puzzles -->
-  <YZRCM_003_Childbackstory.title>TODO</YZRCM_003_Childbackstory.title>
+  <YZRCM_003_Childbackstory.title>失落历史拼图解题家</YZRCM_003_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_003_Childbackstory.titleShort>TODO</YZRCM_003_Childbackstory.titleShort>
+  <YZRCM_003_Childbackstory.titleShort>闪耀儿童</YZRCM_003_Childbackstory.titleShort>
   
   <!-- EN: Tending a classroom aquaponic garden, {PAWN_nameDef} learned to negotiate between quarrelful species—the voracious moon-carps and shy glow-snails. {PAWN_possessive} patience for biological compromise surprised even the tutor AI. -->
-  <YZRCM_004_Childbackstory.description>TODO</YZRCM_004_Childbackstory.description>
+  <YZRCM_004_Childbackstory.description>{PAWN_nameDef}在照料教室的水耕养殖花园时，{PAWN_pronoun}学会了在贪婪的月亮鲤和羞怯的荧光蜗牛，两个相互争斗的物种之间进行协调。{PAWN_pronoun}在生物调解方面的耐心甚至让指导{PAWN_pronoun}的人工智能导师都感到惊讶。</YZRCM_004_Childbackstory.description>
   <!-- EN: Ecosystem Balancing -->
-  <YZRCM_004_Childbackstory.title>TODO</YZRCM_004_Childbackstory.title>
+  <YZRCM_004_Childbackstory.title>生态系平衡学家</YZRCM_004_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_004_Childbackstory.titleShort>TODO</YZRCM_004_Childbackstory.titleShort>
+  <YZRCM_004_Childbackstory.titleShort>闪耀儿童</YZRCM_004_Childbackstory.titleShort>
   
   <!-- EN: In anti-grav gym class, {PAWN_nameDef}’s unusual dexterity allowed impossible aerial spins. While others struggled with basic levitation, {PAWN_pronoun} pioneered zero-G dance moves that looked like liquid starlight. -->
-  <YZRCM_005_Childbackstory.description>TODO</YZRCM_005_Childbackstory.description>
+  <YZRCM_005_Childbackstory.description>
+{PAWN_nameDef}在反重力的体操课上，{PAWN_pronoun}凭借着异常伶敏的身手让{PAWN_objective}完成了那不可思议的空中翻转。当其他人还在挣扎於最基本的漂浮时，{PAWN_pronoun}已率先跳出了凌驾於重力的舞步，闪耀如同流动的星光。</YZRCM_005_Childbackstory.description>
   <!-- EN: Gravity-Defying Dance -->
-  <YZRCM_005_Childbackstory.title>TODO</YZRCM_005_Childbackstory.title>
+  <YZRCM_005_Childbackstory.title>反重力舞者</YZRCM_005_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_005_Childbackstory.titleShort>TODO</YZRCM_005_Childbackstory.titleShort>
+  <YZRCM_005_Childbackstory.titleShort>闪耀儿童</YZRCM_005_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} have turned {PAWN_possessive} fur into a solar energy capacitor, using a special mix of glittertech chemicals {PAWN_pronoun} stole from {PAWN_possessive} parents. Unfortunately, {PAWN_possessive} invention have proved to catch fur on fire under direct sunglight, giving {PAWN_possessive} poor parents an unique opportunity to practice using a fire extinguisher... -->
-  <YZRCM_006_Childbackstory.description>TODO</YZRCM_006_Childbackstory.description>
+  <YZRCM_006_Childbackstory.description>{PAWN_nameDef}曾将{PAWN_possessive}毛皮改造成太阳能电容器，{PAWN_pronoun}使用了一种从{PAWN_pronoun}父母那里偷来的，一种特殊性质的闪耀科技化学混合物。然而不幸的是，这项发明在太阳光的直射下会让{PAWN_possessive}毛皮起火燃烧，而这也给了{PAWN_pronoun}那可怜的父母获得了练习使用灭火器的独特机会……</YZRCM_006_Childbackstory.description>
   <!-- EN: Photon Harvesting -->
-  <YZRCM_006_Childbackstory.title>TODO</YZRCM_006_Childbackstory.title>
+  <YZRCM_006_Childbackstory.title>光子采集者</YZRCM_006_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_006_Childbackstory.titleShort>TODO</YZRCM_006_Childbackstory.titleShort>
+  <YZRCM_006_Childbackstory.titleShort>闪耀儿童</YZRCM_006_Childbackstory.titleShort>
   
   <!-- EN: During city tours, {PAWN_nameDef} sensed how buildings 'felt' —glass spires radiating calm, alloy plazas humming with ambition. {PAWN_pronoun} began sketching structures that changed texture with occupants' moods, baffling pragmatic tutors. -->
-  <YZRCM_007_Childbackstory.description>TODO</YZRCM_007_Childbackstory.description>
+  <YZRCM_007_Childbackstory.description>{PAWN_nameDef}在导览城市期间，{PAWN_pronoun}能感受到建筑的“氛围”——从玻璃尖塔散发出的平静、跟合金广场上那嗡嗡作响着的雄心壮志。{PAWN_pronoun}开始绘制了会随居住者心情改变纹理的结构草图，这令务实的导师们感到困惑不已。</YZRCM_007_Childbackstory.description>
   <!-- EN: Emotional Architecture -->
-  <YZRCM_007_Childbackstory.title>TODO</YZRCM_007_Childbackstory.title>
+  <YZRCM_007_Childbackstory.title>情感建筑师</YZRCM_007_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_007_Childbackstory.titleShort>TODO</YZRCM_007_Childbackstory.titleShort>
+  <YZRCM_007_Childbackstory.titleShort>闪耀儿童</YZRCM_007_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef}’s unnatural color intuition made {PAWN_objective} spent hours blending impossible hues in holographic looms, creating palettes that made ordinary glittergold seem dull. -->
-  <YZRCM_008_Childbackstory.description>TODO</YZRCM_008_Childbackstory.description>
+  <YZRCM_008_Childbackstory.description>{PAWN_nameDef}那不寻常的色彩直觉让{PAWN_objective}花费了数小时在全息编织器中混合出了不可能的色调，{PAWN_pronoun}创造出了令普通的闪耀黄金色都会显得暗淡无光的调色板。</YZRCM_008_Childbackstory.description>
   <!-- EN: Precision Color-Weaving -->
-  <YZRCM_008_Childbackstory.title>TODO</YZRCM_008_Childbackstory.title>
+  <YZRCM_008_Childbackstory.title>精密色彩编织者</YZRCM_008_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_008_Childbackstory.titleShort>TODO</YZRCM_008_Childbackstory.titleShort>
+  <YZRCM_008_Childbackstory.titleShort>闪耀儿童</YZRCM_008_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} became obsessed with thermodynamics and entropy studies after {PAWN_possessive} parents gifted {PAWN_objective} a pair of thermoentropic googles. Soon {PAWN_pronoun} was 'reading' stories in residual thermal signatures—where a robot sat, how long a friend lingered at a window and so on... -->
-  <YZRCM_009_Childbackstory.description>TODO</YZRCM_009_Childbackstory.description>
+  <YZRCM_009_Childbackstory.description>{PAWN_nameDef}在{PAWN_possessive}父母送给{PAWN_objective}一副智能型热熵成像眼镜後，{PAWN_nameDef}开始便痴迷于热力学和熵的研究。很快的，{PAWN_pronoun}便开始在残留的热成像信号中“阅读”故事——不论是机器人坐过的地方，还是朋友在窗边逗留了多久等等…</YZRCM_009_Childbackstory.description>
   <!-- EN: Thermal Story Mapping -->
-  <YZRCM_009_Childbackstory.title>TODO</YZRCM_009_Childbackstory.title>
+  <YZRCM_009_Childbackstory.title>热能故事测绘者</YZRCM_009_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_009_Childbackstory.titleShort>TODO</YZRCM_009_Childbackstory.titleShort>
+  <YZRCM_009_Childbackstory.titleShort>闪耀儿童</YZRCM_009_Childbackstory.titleShort>
   
   <!-- EN: While classmates manipulated complex force fields, {PAWN_nameDef} became fascinated by soap bubbles in a retro-playzone. {PAWN_pronoun} documented their fragile quantum-interference patterns, proving simple things could still hold mysteries. -->
-  <YZRCM_010_Childbackstory.description>TODO</YZRCM_010_Childbackstory.description>
+  <YZRCM_010_Childbackstory.description>在复古游乐区里，当同学们还操纵复杂的力场时，{PAWN_nameDef}却对游乐区里的肥皂泡泡着迷。{PAWN_pronoun}记录了它们脆弱的量子干涉图案，证明简单的事物也仍然可以蕴含着奥秘。</YZRCM_010_Childbackstory.description>
   <!-- EN: Bubble Physics -->
-  <YZRCM_010_Childbackstory.title>TODO</YZRCM_010_Childbackstory.title>
+  <YZRCM_010_Childbackstory.title>泡泡物理学家</YZRCM_010_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_010_Childbackstory.titleShort>TODO</YZRCM_010_Childbackstory.titleShort>
+  <YZRCM_010_Childbackstory.titleShort>闪耀儿童</YZRCM_010_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} cultivated organic data-storing crystals that grew when 'fed' meaningful experiences. {PAWN_possessive} happiest memories made them glow amber; {PAWN_possessive} sadness grew delicate frost-patterns—a private emotional diary. -->
-  <YZRCM_011_Childbackstory.description>TODO</YZRCM_011_Childbackstory.description>
+  <YZRCM_011_Childbackstory.description>{PAWN_nameDef}培育了能在“喂食”有意义的人生经验时，会保存数据并会以此生长的有机晶体。{PAWN_possessive}最快乐的回忆会让它们发出琥珀色的光芒；而{PAWN_possessive}悲伤记忆则会长出精致的霜花纹路——这成了一份私人的情感日记。</YZRCM_011_Childbackstory.description>
   <!-- EN: Memory Crystal Gardening -->
-  <YZRCM_011_Childbackstory.title>TODO</YZRCM_011_Childbackstory.title>
+  <YZRCM_011_Childbackstory.title>记忆水晶园艺园丁</YZRCM_011_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_011_Childbackstory.titleShort>TODO</YZRCM_011_Childbackstory.titleShort>
+  <YZRCM_011_Childbackstory.titleShort>闪耀儿童</YZRCM_011_Childbackstory.titleShort>
   
   <!-- EN: With {PAWN_possessive} keen nose, {PAWN_nameDef} could navigate the arcology blindfolded by tracing air-scents: ozone near robotics labs, vanilla near creches. {PAWN_pronoun} made local scent-maps that delighted sensory artists. One of artists was a sommelier, who even offered {PAWN_nameDef} a job at his reustarant. -->
-  <YZRCM_012_Childbackstory.description>TODO</YZRCM_012_Childbackstory.description>
+  <YZRCM_012_Childbackstory.description>凭借敏锐的嗅觉，{PAWN_nameDef}能蒙眼通过追踪空气中的气味，在拱形生态城中导航：象是机器人实验室附近飘散的臭氧气味，还是育婴室附近芬芳的香草气味。{PAWN_pronoun}也还绘制了当地的气味地图，而这令感官艺术家们也感到欣喜若狂。其中一位艺术家还是一位品酒师，他甚至还邀请了{PAWN_nameDef}到他的餐厅里工作。</YZRCM_012_Childbackstory.description>
   <!-- EN: Scent-Based Navigation -->
-  <YZRCM_012_Childbackstory.title>TODO</YZRCM_012_Childbackstory.title>
+  <YZRCM_012_Childbackstory.title>气味领航员</YZRCM_012_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_012_Childbackstory.titleShort>TODO</YZRCM_012_Childbackstory.titleShort>
+  <YZRCM_012_Childbackstory.titleShort>闪耀儿童</YZRCM_012_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} found resonance in 'outdated' pursuits. {PAWN_pronoun} taught {PAWN_possessive} cleaner drone Morse code, then co-opted delivery bots to send tap-messages across the city—a hidden language in plain sight. -->
-  <YZRCM_013_Childbackstory.description>TODO</YZRCM_013_Childbackstory.description>
+  <YZRCM_013_Childbackstory.description>{PAWN_nameDef}对“过时”的技艺生成共鸣。{PAWN_pronoun}教会了{PAWN_possessive}清洁无人机使用摩斯密码，并用送货无人机向全城发送节点信号——这是一种在众目之下所使用的隐藏语言。</YZRCM_013_Childbackstory.description>
   <!-- EN: Ancient Communication -->
-  <YZRCM_013_Childbackstory.title>TODO</YZRCM_013_Childbackstory.title>
+  <YZRCM_013_Childbackstory.title>远古通信员</YZRCM_013_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_013_Childbackstory.titleShort>TODO</YZRCM_013_Childbackstory.titleShort>
+  <YZRCM_013_Childbackstory.titleShort>闪耀儿童</YZRCM_013_Childbackstory.titleShort>
   
   <!-- EN: Using discarded atmospheric regulators, {PAWN_nameDef} built miniature weather domes in {PAWN_possessive} closet. Peers marveled at tiny snowstorms over model cities or fog-forests where bonsai trees dripped with engineered dew. -->
-  <YZRCM_014_Childbackstory.description>TODO</YZRCM_014_Childbackstory.description>
+  <YZRCM_014_Childbackstory.description>{PAWN_nameDef}利用废弃的大气调节器，在{PAWN_possessive}衣柜里打造了一座微型天气穹顶。同伴们对模型城市上空的迷你风雪或盆景树滴着人工露珠的雾林感到惊叹。</YZRCM_014_Childbackstory.description>
   <!-- EN: Microclimate Creation -->
-  <YZRCM_014_Childbackstory.title>TODO</YZRCM_014_Childbackstory.title>
+  <YZRCM_014_Childbackstory.title>微型气候打造者</YZRCM_014_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_014_Childbackstory.titleShort>TODO</YZRCM_014_Childbackstory.titleShort>
+  <YZRCM_014_Childbackstory.titleShort>闪耀儿童</YZRCM_014_Childbackstory.titleShort>
   
   <!-- EN: In a world of holograms, {PAWN_nameDef} cherished physical puzzles-self-rearranging GLEGO alloy cubes or crystal labyrinths. The tactile 'click' of solutions satisfying {PAWN_objective} more than any virtual achievement. -->
-  <YZRCM_015_Childbackstory.description>TODO</YZRCM_015_Childbackstory.description>
+  <YZRCM_015_Childbackstory.description>在一个充满全息投影图的世界里，珍爱实体拼图——能自我重新重组排列的GLEGO合金立方体或水晶迷宫。那种成功解开的触觉“咔嗒声”比任何虚拟成就更令{PAWN_objective}带来满足。
+</YZRCM_015_Childbackstory.description>
   <!-- EN: Analog Puzzlecraft -->
-  <YZRCM_015_Childbackstory.title>TODO</YZRCM_015_Childbackstory.title>
+  <YZRCM_015_Childbackstory.title>仿真拼图工艺爱好者</YZRCM_015_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_015_Childbackstory.titleShort>TODO</YZRCM_015_Childbackstory.titleShort>
+  <YZRCM_015_Childbackstory.titleShort>闪耀儿童</YZRCM_015_Childbackstory.titleShort>
   
   <!-- EN: When maintenance drones synchronized cleaning patterns in {PAWN_nameDef}'s arcology spire, {PAWN_pronoun} started directing them with improvised light-signals. Soon 47 drones were performing shimmering ballets in the atrium - much to the city AI's exasperated admiration. -->
-  <YZRCM_016_Childbackstory.description>TODO</YZRCM_016_Childbackstory.description>
+  <YZRCM_016_Childbackstory.description>当{PAWN_nameDef}的生态城尖塔里的维护无人机在同步清扫时，{PAWN_pronoun}会开始用临时的光信号指挥它们。很快的，47架无人机会在大厅里表演着闪铄的芭蕾舞——这让管理城市的人工智能感到又爱又头痛。</YZRCM_016_Childbackstory.description>
   <!-- EN: Drone Symphony Conductor -->
-  <YZRCM_016_Childbackstory.title>TODO</YZRCM_016_Childbackstory.title>
+  <YZRCM_016_Childbackstory.title>无人机交响乐指挥家</YZRCM_016_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_016_Childbackstory.titleShort>TODO</YZRCM_016_Childbackstory.titleShort>
+  <YZRCM_016_Childbackstory.titleShort>闪耀儿童</YZRCM_016_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} discovered {PAWN_possessive} emotion-altered pheromones for some reason could subtly shift local climate controls systems. Sadness summoned gentle rains over {PAWN_possessive} school garden; joy triggered miniature rainbows. Tutors called this little harmless mutation a disaster for self-adjusting Glitterworld systems dependent on biometric data... Classmates called it magic. -->
-  <YZRCM_017_Childbackstory.description>TODO</YZRCM_017_Childbackstory.description>
+  <YZRCM_017_Childbackstory.description>由于某种原因，{PAWN_nameDef}发现到自己的情绪会改变自己的费洛蒙，而且还能微妙地影响当地的气候控制系统。悲伤会让{PAWN_possessive}学校花园下起温柔的细雨；喜悦则会触发微型彩虹。导师们称这种无害的小突变，是对依赖于生物辨识数据，所进行自适应气候调节的闪耀世界系统来说，是一场灾难……而同学们则将其称之为魔法。</YZRCM_017_Childbackstory.description>
   <!-- EN: Neural Weather Painter -->
-  <YZRCM_017_Childbackstory.title>TODO</YZRCM_017_Childbackstory.title>
+  <YZRCM_017_Childbackstory.title>神经的天气画家</YZRCM_017_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_017_Childbackstory.titleShort>TODO</YZRCM_017_Childbackstory.titleShort>
+  <YZRCM_017_Childbackstory.titleShort>闪耀儿童</YZRCM_017_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} never knew {PAWN_possessive} biological parents - {PAWN_pronoun} was decanted among 137 gene-siblings in a population-crèche. Their pod-group shared educational dreams via neural-links, forging bonds deeper than blood while mastering communal hydroponic duties. -->
-  <YZRCM_018_Childbackstory.description>TODO</YZRCM_018_Childbackstory.description>
+  <YZRCM_018_Childbackstory.description>{PAWN_nameDef}从未见过{PAWN_possessive}亲生父母——{PAWN_pronoun}在一个收养了137名基因同胞的生育托育中心中被培养出来。他们的团体通过神经链接共享教育梦境，在掌握共用水耕职责的同时，也创建了比血缘更深的羁拌。</YZRCM_018_Childbackstory.description>
   <!-- EN: Crèche-Grown Gene-Line -->
-  <YZRCM_018_Childbackstory.title>TODO</YZRCM_018_Childbackstory.title>
+  <YZRCM_018_Childbackstory.title>托育中心培育的基因系谱</YZRCM_018_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_018_Childbackstory.titleShort>TODO</YZRCM_018_Childbackstory.titleShort>
+  <YZRCM_018_Childbackstory.titleShort>闪耀儿童</YZRCM_018_Childbackstory.titleShort>
   
   <!-- EN: Amidst self-repairing tech, {PAWN_nameDef} obsessed over 'broken' 21st-century gadgets in the museum's discard pile. {PAWN_pronoun} spent months reassembling a primitive combustion engine, marveling at its chaotic noise and leaking oils - glorious imperfections forbidden in {PAWN_possessive} polished world. -->
-  <YZRCM_019_Childbackstory.description>TODO</YZRCM_019_Childbackstory.description>
+  <YZRCM_019_Childbackstory.description>在自我修复技术盛行的世界里，{PAWN_nameDef}对博物馆当中的废弃堆里那些“残破”的21世纪古董着迷，也在弃置堆当中找到一台原始的内燃机。{PAWN_pronoun}花了数个月时间重新组装它，并赞叹它那混乱的噪音声响与机油渗漏的状态——这在{PAWN_possessive}那个完美抛光的世界里，将这些被禁止的不完美品视为光荣的东西。</YZRCM_019_Childbackstory.description>
   <!-- EN: Retro Mechanics -->
-  <YZRCM_019_Childbackstory.title>TODO</YZRCM_019_Childbackstory.title>
+  <YZRCM_019_Childbackstory.title>复古机械师</YZRCM_019_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_019_Childbackstory.titleShort>TODO</YZRCM_019_Childbackstory.titleShort>
+  <YZRCM_019_Childbackstory.titleShort>闪耀儿童</YZRCM_019_Childbackstory.titleShort>
   
   <!-- EN: Raised by a rotating roster of caregiver-specialists, {PAWN_nameDef} absorbed fractions of 12 professions before age 10. The nano-architect taught {PAWN_objective} crystal-growth; the dreamweaver guided {PAWN_objective} meditation. Yet no one stayed long enough to teach {PAWN_objective} what 'family' meant beyond efficiency. -->
-  <YZRCM_020_Childbackstory.description>TODO</YZRCM_020_Childbackstory.description>
+  <YZRCM_020_Childbackstory.description>{PAWN_nameDef}被一群专家们轮换照护抚养，在十岁前吸收了十二种职业的部分知识。奈米建筑师教会{PAWN_objective}晶体生长；梦境编织者引导{PAWN_objective}冥想。然而没有人长久停留在{PAWN_pronoun}身边，也没有人教会{PAWN_objective}“家庭”的意义，除了效率以外的其他意义。</YZRCM_020_Childbackstory.description>
   <!-- EN: Mentorship Network Child -->
-  <YZRCM_020_Childbackstory.title>TODO</YZRCM_020_Childbackstory.title>
+  <YZRCM_020_Childbackstory.title>导师网络体系下成长的儿童</YZRCM_020_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_020_Childbackstory.titleShort>TODO</YZRCM_020_Childbackstory.titleShort>
+  <YZRCM_020_Childbackstory.titleShort>闪耀儿童</YZRCM_020_Childbackstory.titleShort>
   
   <!-- EN: While peers flew in anti-grav gyms, {PAWN_nameDef} mapped friction. {PAWN_pronoun} cataloged every textured tile in the arcology - where polished marble made {PAWN_possessive} paws slide, or gridded alloy offered perfect traction. {PAWN_possessive} tactile atlas won {PAWN_objective} an award at glitterschool science fair. -->
-  <YZRCM_021_Childbackstory.description>TODO</YZRCM_021_Childbackstory.description>
+  <YZRCM_021_Childbackstory.description>当同伴们在反重力体育馆里飞翔时，{PAWN_nameDef}则在绘制摩擦力地图。{PAWN_pronoun}记录了生态城里的每一块纹理瓷砖——抛光大理石让{PAWN_possessive}脚滑动，而网格合金则提供了完美的牵引力。{PAWN_possessive}触感地图在闪耀学校的科学展览上，还为{PAWN_objective}赢得了奖项。</YZRCM_021_Childbackstory.description>
   <!-- EN: Gravity-Floor Cartographer -->
-  <YZRCM_021_Childbackstory.title>TODO</YZRCM_021_Childbackstory.title>
+  <YZRCM_021_Childbackstory.title>重力地板制图师</YZRCM_021_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_021_Childbackstory.titleShort>TODO</YZRCM_021_Childbackstory.titleShort>
+  <YZRCM_021_Childbackstory.titleShort>闪耀儿童</YZRCM_021_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} genetically modified glow-moss to pulse in narrative rhythms. Fairy tales unfolded across {PAWN_possessive} bedroom walls each night: villainous voids of darkness battling heroic constellations. Sleep-cycle monitors constantly scolded {PAWN_objective} for 'overstimulation. -->
-  <YZRCM_022_Childbackstory.description>TODO</YZRCM_022_Childbackstory.description>
+  <YZRCM_022_Childbackstory.description>{PAWN_nameDef}基因改造出了，会随着叙事节奏而耀动的发光苔藓。每晚，童话故事便在{PAWN_possessive}卧室墙面上展开：邪恶的黑暗虚空与英勇星座的战斗。睡眠周期监视器总是不断斥责{PAWN_objective}的“过度刺激”。</YZRCM_022_Childbackstory.description>
   <!-- EN: Bio-Luminescent Storyteller -->
-  <YZRCM_022_Childbackstory.title>TODO</YZRCM_022_Childbackstory.title>
+  <YZRCM_022_Childbackstory.title>发光生物叙事者</YZRCM_022_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_022_Childbackstory.titleShort>TODO</YZRCM_022_Childbackstory.titleShort>
+  <YZRCM_022_Childbackstory.titleShort>闪耀儿童</YZRCM_022_Childbackstory.titleShort>
   
   <!-- EN: Decanted into a shared nutrient vat with 23 cohort-siblings, {PAWN_nameDef} understood scarcity young. Their crèche competed for educational stim-patches and affection-algorithms. {PAWN_pronoun} learned early to calculate emotional investments like resource allocations. -->
-  <YZRCM_023_Childbackstory.description>TODO</YZRCM_023_Childbackstory.description>
+  <YZRCM_023_Childbackstory.description>{PAWN_nameDef}自出生起便与23名同胞一同被倾注於共用的营养槽中培育而成，{PAWN_pronoun}从小就便体会了资源匮乏的滋味。他们的育儿中心需为了争夺教育刺激贴片与情感算法而彼此竞争。{PAWN_pronoun}也因此在年幼时就学会，必须将情感投资像资源分配般精密计算。 </YZRCM_023_Childbackstory.description>
   <!-- EN: Communal Nutrient Vat Child -->
-  <YZRCM_023_Childbackstory.title>TODO</YZRCM_023_Childbackstory.title>
+  <YZRCM_023_Childbackstory.title>共用营养槽的儿童</YZRCM_023_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_023_Childbackstory.titleShort>TODO</YZRCM_023_Childbackstory.titleShort>
+  <YZRCM_023_Childbackstory.titleShort>闪耀儿童</YZRCM_023_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} scavenged forgotten sonic-frequencies - the hum of obsolete reactors or chir of vintage comm-gear. {PAWN_pronoun} composed symphonies from these 'lost sounds,' annoying acoustics engineers but delighting historians who'd never heard analog static as music. -->
-  <YZRCM_024_Childbackstory.description>TODO</YZRCM_024_Childbackstory.description>
+  <YZRCM_024_Childbackstory.description>{PAWN_nameDef}搜寻那些被遗忘的声波频率──废弃反应炉的低鸣声、老式通信器材的叽喳声。{PAWN_pronoun}将这些“失落之声”拼贴起来作成交响乐，这让声学工程师感到恼火，但却让历史学家们感到欣喜若狂，因为他们从未听过把类比杂讯与静电声做成可以听的音乐。</YZRCM_024_Childbackstory.description>
   <!-- EN: Sonic Archaeologist -->
-  <YZRCM_024_Childbackstory.title>TODO</YZRCM_024_Childbackstory.title>
+  <YZRCM_024_Childbackstory.title>声波考古学家</YZRCM_024_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_024_Childbackstory.titleShort>TODO</YZRCM_024_Childbackstory.titleShort>
+  <YZRCM_024_Childbackstory.titleShort>闪耀儿童</YZRCM_024_Childbackstory.titleShort>
   
   <!-- EN: When {PAWN_nameDef}'s mood-reactive fur pigments emerged after a cosmetic procedure, {PAWN_pronoun} learned to 'paint' by controlling emotions. Calm blues swept across {PAWN_possessive} shoulders; excited ripples of gold danced down {PAWN_possessive} spine. Bio-aesthetics tutors begged {PAWN_objective} to stop 'wasting talent on ephemeral canvases.' -->
-  <YZRCM_025_Childbackstory.description>TODO</YZRCM_025_Childbackstory.description>
+  <YZRCM_025_Childbackstory.description>在一次整形後，{PAWN_nameDef}的皮毛出现了情绪反应色素，{PAWN_pronoun}因而学会透过控制情绪来“作画”。平静时蓝色流过{PAWN_possessive}肩头；兴奋时金色波纹沿着{PAWN_possessive}脊背舞动。生物美学导师们苦求{PAWN_objective}别再把“天赋浪费在短暂的画布上”了。</YZRCM_025_Childbackstory.description>
   <!-- EN: Prismatic Fur Artist -->
-  <YZRCM_025_Childbackstory.title>TODO</YZRCM_025_Childbackstory.title>
+  <YZRCM_025_Childbackstory.title>彩光毛皮艺术家</YZRCM_025_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_025_Childbackstory.titleShort>TODO</YZRCM_025_Childbackstory.titleShort>
+  <YZRCM_025_Childbackstory.titleShort>闪耀儿童</YZRCM_025_Childbackstory.titleShort>
   
   <!-- EN: As Birth Cohort Gamma-7, {PAWN_nameDef} was engineered for adaptability. Raised in a sterile crèche with calculated affection-drip feeds, {PAWN_pronoun} bonded most with the sanitation drone that polished {PAWN_possessive} sleeping pod - the only consistent presence in {PAWN_possessive} optimized upbringing. -->
-  <YZRCM_026_Childbackstory.description>TODO</YZRCM_026_Childbackstory.description>
+  <YZRCM_026_Childbackstory.description>作为出生群组伽玛-7，{PAWN_nameDef} 被设计成高度适应极强的个体。{PAWN_pronoun}在托育中心成长，接受经过计算的情感滴注；在这种被最佳化的养育过程中，{PAWN_pronoun}与定时清洁{PAWN_possessive}休眠舱的清洁机器人创建了最深的情感链接——那是唯一始终如一的存在。 </YZRCM_026_Childbackstory.description>
   <!-- EN: Optimized Uplift Pupil -->
-  <YZRCM_026_Childbackstory.title>TODO</YZRCM_026_Childbackstory.title>
+  <YZRCM_026_Childbackstory.title>最佳化培育学童</YZRCM_026_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_026_Childbackstory.titleShort>TODO</YZRCM_026_Childbackstory.titleShort>
+  <YZRCM_026_Childbackstory.titleShort>闪耀儿童</YZRCM_026_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} noticed how light-gaps between structures created phantom buildings at sunset. {PAWN_pronoun} hijacked local AI of {PAWN_possessive} village to preserve these 'shadow-towers' by adjusting a small climate control system a few kilometers above. The refusal fueled {PAWN_possessive} obsession with temporary beauty. -->
-  <YZRCM_027_Childbackstory.description>TODO</YZRCM_027_Childbackstory.description>
+  <YZRCM_027_Childbackstory.description>{PAWN_nameDef}注意到建筑间的光影缝细在日落时会投射出幻影般的建物轮廓。{PAWN_pronoun}骇入当地村落的AI，操控数公里外上方一台小型气候控制系统来保留这些“影子塔”。当{PAWN_pronoun}被官方拒绝后，反而加深了{PAWN_pronoun}对这些短暂之美的执念。</YZRCM_027_Childbackstory.description>
   <!-- EN: Shadow Architecture -->
-  <YZRCM_027_Childbackstory.title>TODO</YZRCM_027_Childbackstory.title>
+  <YZRCM_027_Childbackstory.title>影子建筑师</YZRCM_027_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_027_Childbackstory.titleShort>TODO</YZRCM_027_Childbackstory.titleShort>
+  <YZRCM_027_Childbackstory.titleShort>闪耀儿童</YZRCM_027_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef}'s gene-tailored larynx could mimic companion-bioids' chirps and trills. While others commanded pets with implants, {PAWN_pronoun} conversed for hours with fox-like constructs about nonsense and dreams - developing a private language logistics AIs couldn't parse. -->
-  <YZRCM_028_Childbackstory.description>TODO</YZRCM_028_Childbackstory.description>
+  <YZRCM_028_Childbackstory.description>{PAWN_nameDef}的基因订制喉部能模仿伴侣生物体的啁啾声、鸣叫和颤音。当别人得靠植入物才能指挥宠物时，{PAWN_pronoun}却可以和类狐狸生物体聊天聊上长达数小时，不论是在胡说八道讲屁话、还是在聊梦想——逐渐形成一套连物流人工智能 都无法解析的私密语言。</YZRCM_028_Childbackstory.description>
   <!-- EN: Symbiotic Pet Communicator -->
-  <YZRCM_028_Childbackstory.title>TODO</YZRCM_028_Childbackstory.title>
+  <YZRCM_028_Childbackstory.title>共生宠物会话者</YZRCM_028_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_028_Childbackstory.titleShort>TODO</YZRCM_028_Childbackstory.titleShort>
+  <YZRCM_028_Childbackstory.titleShort>闪耀儿童</YZRCM_028_Childbackstory.titleShort>
   
   <!-- EN: As a deliberately parentless 'Lineage Ambassador,' {PAWN_nameDef} represented {PAWN_possessive} gene-template in cultural exchanges. {PAWN_pronoun} learned diplomacy through holographic avatars while real playdates were replaced by cross-template compatibility assessments. -->
-  <YZRCM_029_Childbackstory.description>TODO</YZRCM_029_Childbackstory.description>
+  <YZRCM_029_Childbackstory.description>作为刻意无血亲的“系谱大使”，{PAWN_nameDef}在文化交流中代表{PAWN_possessive}基因范本。{PAWN_pronoun}透过全息化身学习外交之道，而现实中的玩伴则被跨范本兼容性评估所取代。</YZRCM_029_Childbackstory.description>
   <!-- EN: Gene-Lineage Ambassador -->
-  <YZRCM_029_Childbackstory.title>TODO</YZRCM_029_Childbackstory.title>
+  <YZRCM_029_Childbackstory.title>基因系谱大使</YZRCM_029_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_029_Childbackstory.titleShort>TODO</YZRCM_029_Childbackstory.titleShort>
+  <YZRCM_029_Childbackstory.titleShort>闪耀儿童</YZRCM_029_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} observed cleaner-microbes like civilizations. {PAWN_pronoun} charted their 'wars' over dust-canyons and 'treaties' near nutrient spills. Tutors dismissed it as imagination until {PAWN_pronoun} accurately predicted cleaning-bot failures via microbe migration patterns. -->
-  <YZRCM_030_Childbackstory.description>TODO</YZRCM_030_Childbackstory.description>
+  <YZRCM_030_Childbackstory.description>{PAWN_nameDef}把清洁型微生物当成文明来观察。{PAWN_pronoun}绘制出它们在灰尘峡谷上的“战争”与在营养溢出物附近的“条约”图。导师们起初把它当成幻想，直到{PAWN_pronoun}透过微生物的迁移模式精准预测了清洁机器人的故障。</YZRCM_030_Childbackstory.description>
   <!-- EN: Micro-Fauna Sociologist -->
-  <YZRCM_030_Childbackstory.title>TODO</YZRCM_030_Childbackstory.title>
+  <YZRCM_030_Childbackstory.title>微生物社会学家</YZRCM_030_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_030_Childbackstory.titleShort>TODO</YZRCM_030_Childbackstory.titleShort>
+  <YZRCM_030_Childbackstory.titleShort>闪耀儿童</YZRCM_030_Childbackstory.titleShort>
   
   <!-- EN: During free-fall gymnastics, {PAWN_nameDef} composed haiku about weightlessness. Each verse matched the duration of null-G intervals - 17 syllables precisely filling 9.3 seconds of float-time. Classmates floated in silence to hear {PAWN_possessive} ephemeral performances. -->
-  <YZRCM_031_Childbackstory.description>TODO</YZRCM_031_Childbackstory.description>
+  <YZRCM_031_Childbackstory.description>在自由落体体操中，{PAWN_nameDef}创作了关于无重的俳句。每首诗与无重力间隔的时长恰好都对应了17个音节，并精准地匹配9.3秒的漂浮时间。同学们静静漂浮着，聆听{PAWN_possessive}那些转瞬即逝的演出。</YZRCM_031_Childbackstory.description>
   <!-- EN: Gravitational Poet -->
-  <YZRCM_031_Childbackstory.title>TODO</YZRCM_031_Childbackstory.title>
+  <YZRCM_031_Childbackstory.title>重力诗人</YZRCM_031_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_031_Childbackstory.titleShort>TODO</YZRCM_031_Childbackstory.titleShort>
+  <YZRCM_031_Childbackstory.titleShort>闪耀儿童</YZRCM_031_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} licked condensation from arcology windows, discerning seasonal shifts in artificial rains. {PAWN_pronoun} later recreated 'spring-mist flavor' using nutrient synthesizers, baffling culinary AIs with {PAWN_possessive} meteorological palate. -->
-  <YZRCM_032_Childbackstory.description>TODO</YZRCM_032_Childbackstory.description>
+  <YZRCM_032_Childbackstory.description>{PAWN_nameDef}舔食着生态城方舟窗上的凝结水，以分辨人工降雨的季节性变化。{PAWN_pronoun}后来用营养膏合成器重现了“春雾风味”，凭借着{PAWN_possessive}气象味觉，反而让负责烹饪的人工智能感到困惑。</YZRCM_032_Childbackstory.description>
   <!-- EN: Atmospheric Taste Chef -->
-  <YZRCM_032_Childbackstory.title>TODO</YZRCM_032_Childbackstory.title>
+  <YZRCM_032_Childbackstory.title>大气风味主厨</YZRCM_032_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_032_Childbackstory.titleShort>TODO</YZRCM_032_Childbackstory.titleShort>
+  <YZRCM_032_Childbackstory.titleShort>闪耀儿童</YZRCM_032_Childbackstory.titleShort>
   
   <!-- EN: When neural entertainment implants leaked corporate jingles into {PAWN_nameDef}'s dreams, {PAWN_pronoun} organized a crèche-wide 'dream-strike.' Children collectively imagined shield-dragons to block advertisements - accidentally creating a persistent mythic creature in local dream-lore. -->
-  <YZRCM_033_Childbackstory.description>TODO</YZRCM_033_Childbackstory.description>
+  <YZRCM_033_Childbackstory.description>当神经娱乐植入物把企业广告歌渗入到{PAWN_nameDef}的梦境时，{PAWN_pronoun}组织了一场全育儿中心范围的“梦境罢工”。孩子们集体想像出阻挡广告的护盾龙——结果不小心在当地的梦境传说中创造出了一个历久不衰的神话生物。</YZRCM_033_Childbackstory.description>
   <!-- EN: Dream Pollution Activist -->
-  <YZRCM_033_Childbackstory.title>TODO</YZRCM_033_Childbackstory.title>
+  <YZRCM_033_Childbackstory.title>梦境污染反抗者</YZRCM_033_Childbackstory.title>
   <!-- EN: Glitterchild -->
-  <YZRCM_033_Childbackstory.titleShort>TODO</YZRCM_033_Childbackstory.titleShort>
+  <YZRCM_033_Childbackstory.titleShort>闪耀儿童</YZRCM_033_Childbackstory.titleShort>
   
 </LanguageData>
