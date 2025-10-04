@@ -11,7 +11,7 @@
   <!-- EN: Born aboard a cramped orbital habitat, {PAWN_nameDef} learned zero-G maintenance and hydroponics before arithmetic. -->
   <YZRCM_001_Childbackstory.description>{PAWN_nameDef}出生於擁擠的軌道棲居地，{PAWN_objective}在學會算術之前，就先學會了零重力維護與水耕法。</YZRCM_001_Childbackstory.description>
   <!-- EN: Spaceborn Childhood -->
-  <YZRCM_001_Childbackstory.title>太空出生的兒童</YZRCM_001_Childbackstory.title>
+  <YZRCM_001_Childbackstory.title>太空出生兒童</YZRCM_001_Childbackstory.title>
   <!-- EN: Spaceborn -->
   <YZRCM_001_Childbackstory.titleShort>太空出生者</YZRCM_001_Childbackstory.titleShort>
   
@@ -125,14 +125,14 @@
   <!-- EN: {PAWN_nameDef} discovered {PAWN_possessive} emotion-altered pheromones for some reason could subtly shift local climate controls systems. Sadness summoned gentle rains over {PAWN_possessive} school garden; joy triggered miniature rainbows. Tutors called this little harmless mutation a disaster for self-adjusting Glitterworld systems dependent on biometric data... Classmates called it magic. -->
   <YZRCM_017_Childbackstory.description>由於某種原因，{PAWN_nameDef}發現到自己的情緒會改變自己的費洛蒙，而且還能微妙地影響當地的氣候控制系統。悲傷會讓{PAWN_possessive}學校花園下起溫柔的細雨；喜悅則會觸發微型彩虹。導師們稱這種無害的小突變，是對依賴於生物辨識資料，所進行自適應氣候調節的閃耀世界系統來說，是一場災難……而同學們則將其稱之為魔法。</YZRCM_017_Childbackstory.description>
   <!-- EN: Neural Weather Painter -->
-  <YZRCM_017_Childbackstory.title>神經的天氣畫家</YZRCM_017_Childbackstory.title>
+  <YZRCM_017_Childbackstory.title>神經天氣畫家</YZRCM_017_Childbackstory.title>
   <!-- EN: Glitterchild -->
   <YZRCM_017_Childbackstory.titleShort>閃耀兒童</YZRCM_017_Childbackstory.titleShort>
   
   <!-- EN: {PAWN_nameDef} never knew {PAWN_possessive} biological parents - {PAWN_pronoun} was decanted among 137 gene-siblings in a population-crèche. Their pod-group shared educational dreams via neural-links, forging bonds deeper than blood while mastering communal hydroponic duties. -->
   <YZRCM_018_Childbackstory.description>{PAWN_nameDef}從未見過{PAWN_possessive}親生父母——{PAWN_pronoun}在一個收養了137名基因同胞的生育托育中心中被培養出來。他們的團體通過神經連結共享教育夢境，在掌握共用水耕職責的同時，也建立了比血緣更深的羈絆。</YZRCM_018_Childbackstory.description>
   <!-- EN: Crèche-Grown Gene-Line -->
-  <YZRCM_018_Childbackstory.title>托育中心培育的基因系譜</YZRCM_018_Childbackstory.title>
+  <YZRCM_018_Childbackstory.title>托育中心基因培育系譜</YZRCM_018_Childbackstory.title>
   <!-- EN: Glitterchild -->
   <YZRCM_018_Childbackstory.titleShort>閃耀兒童</YZRCM_018_Childbackstory.titleShort>
   
@@ -146,7 +146,7 @@
   <!-- EN: Raised by a rotating roster of caregiver-specialists, {PAWN_nameDef} absorbed fractions of 12 professions before age 10. The nano-architect taught {PAWN_objective} crystal-growth; the dreamweaver guided {PAWN_objective} meditation. Yet no one stayed long enough to teach {PAWN_objective} what 'family' meant beyond efficiency. -->
   <YZRCM_020_Childbackstory.description>{PAWN_nameDef}被一群專家們輪換照護撫養，在十歲前吸收了十二種職業的部分知識。奈米建築師教會{PAWN_objective}晶體生長；夢境編織者引導{PAWN_objective}冥想。然而沒有人長久停留在{PAWN_pronoun}身邊，也沒有人教會{PAWN_objective}「家庭」的意義，除了效率以外的其他意義。</YZRCM_020_Childbackstory.description>
   <!-- EN: Mentorship Network Child -->
-  <YZRCM_020_Childbackstory.title>導師網絡體系下成長的兒童</YZRCM_020_Childbackstory.title>
+  <YZRCM_020_Childbackstory.title>導師網絡成長兒童</YZRCM_020_Childbackstory.title>
   <!-- EN: Glitterchild -->
   <YZRCM_020_Childbackstory.titleShort>閃耀兒童</YZRCM_020_Childbackstory.titleShort>
   
@@ -167,7 +167,7 @@
   <!-- EN: Decanted into a shared nutrient vat with 23 cohort-siblings, {PAWN_nameDef} understood scarcity young. Their crèche competed for educational stim-patches and affection-algorithms. {PAWN_pronoun} learned early to calculate emotional investments like resource allocations. -->
   <YZRCM_023_Childbackstory.description>{PAWN_nameDef}自出生起便與23名同胞一同被傾注於共用的營養槽中培育而成，{PAWN_pronoun}從小就便體會了資源匱乏的滋味。他們的育兒中心需為了爭奪教育刺激貼片與情感演算法而彼此競爭。{PAWN_pronoun}也因此在年幼時就學會，必須將情感投資像資源分配般精密計算。 </YZRCM_023_Childbackstory.description>
   <!-- EN: Communal Nutrient Vat Child -->
-  <YZRCM_023_Childbackstory.title>共用營養槽的兒童</YZRCM_023_Childbackstory.title>
+  <YZRCM_023_Childbackstory.title>營養槽共用兒童</YZRCM_023_Childbackstory.title>
   <!-- EN: Glitterchild -->
   <YZRCM_023_Childbackstory.titleShort>閃耀兒童</YZRCM_023_Childbackstory.titleShort>
   
